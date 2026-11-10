@@ -1,6 +1,6 @@
-# Leonida Guide content
+# Codex content
 
-This repo holds `content.json`, the file the Leonida Guide app downloads for its news, walkthroughs, cheats, guides and checklists.
+This repo holds `content.json`, the file the Codex app downloads for its news, walkthroughs, cheats, guides and checklists.
 
 **To publish an update:** edit `content.json`, raise `version` by 1, and merge. The app picks it up the next time players open it or pull to refresh.
 

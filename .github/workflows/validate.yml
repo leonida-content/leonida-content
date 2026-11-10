@@ -22,3 +22,12 @@ jobs:
           else
             python3 scripts/validate.py content.json
           fi
+
+  refresh-cdn:
+    # After a change lands on main, tell the jsDelivr CDN to drop its cached copy right away.
+    needs: validate
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge jsDelivr cache
+        run: curl -fsS "https://purge.jsdelivr.net/gh/leonida-content/leonida-content@main/content.json" || true
