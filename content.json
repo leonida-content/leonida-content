@@ -1,0 +1,143 @@
+{
+  "version": 2,
+  "releaseDay": "2026-11-19",
+  "platforms": [
+    "PlayStation 5",
+    "Xbox Series X|S"
+  ],
+  "news": [
+    {
+      "id": "n-release-date",
+      "title": "Launch set for November 19, 2026",
+      "summary": "The publisher moved launch from May 26 to November 19, 2026, saying the team needed more time to finish the game.",
+      "date": "2025-11-06",
+      "status": "official",
+      "sourceURL": "https://www.rockstargames.com/VI"
+    },
+    {
+      "id": "n-trailer-2",
+      "title": "Trailer 2 released",
+      "summary": "The second trailer gave a longer look at both leads, more of the state of Leonida, and the game's tone.",
+      "date": "2025-05-06",
+      "status": "official",
+      "sourceURL": "https://www.rockstargames.com/VI"
+    },
+    {
+      "id": "n-first-date",
+      "title": "First release date announced",
+      "summary": "A launch date of May 26, 2026 was announced. It was later pushed back to November.",
+      "date": "2025-05-02",
+      "status": "official",
+      "sourceURL": "https://www.rockstargames.com/VI"
+    },
+    {
+      "id": "n-trailer-1",
+      "title": "Trailer 1 revealed",
+      "summary": "The first trailer introduced Lucia and the Vice City setting inside the fictional state of Leonida.",
+      "date": "2023-12-05",
+      "status": "official",
+      "sourceURL": "https://www.rockstargames.com/VI"
+    }
+  ],
+  "guides": [
+    {
+      "id": "g-launch-prep",
+      "title": "Launch Day Prep",
+      "subtitle": "Get your console ready so you're playing the minute it unlocks.",
+      "icon": "bolt.fill",
+      "body": "## Before launch\n- **Free up storage.** Big open-world games need a lot of space, and patches add more. Clear room well before launch day.\n- **Update your console.** Install system updates now so they don't hold you up at midnight.\n- **Turn on automatic downloads.** On PlayStation, enable Rest Mode downloads. On Xbox, use Energy Saving or Sleep with updates on.\n- **Pre-load if you bought digital.** If pre-loading is offered, start it as soon as it opens.\n## On launch night\n- **Expect a day-one patch.** Leave time for it to download before you play.\n- **Use a wired connection** if you can. It is usually faster and steadier than Wi-Fi.\n- **Check the official site** for the exact unlock time in your region.",
+      "section": "general",
+      "category": "Getting Started"
+    },
+    {
+      "id": "g-what-we-know",
+      "title": "What We Know So Far",
+      "subtitle": "The confirmed basics, with no rumors mixed in.",
+      "icon": "checkmark.seal.fill",
+      "body": "## The basics\n- **Release:** November 19, 2026\n- **Platforms:** PlayStation 5 and Xbox Series X|S at launch\n- **Setting:** Vice City and the surrounding state of Leonida, a fictional take on Florida\n- **Leads:** Lucia and Jason, shown together in the trailers\n## Not confirmed yet\nAnything not listed above should be treated as unconfirmed. In the Home tab, rumors are always labeled RUMOR.",
+      "section": "general",
+      "category": "Getting Started"
+    },
+    {
+      "id": "g-how-to-use",
+      "title": "How to Use This App",
+      "subtitle": "Countdown, timeline, guides and your personal tracker.",
+      "icon": "sparkles",
+      "body": "## Home\nA live countdown, a launch-day reminder you can switch on, and a timeline of announcements. Each item is labeled **Official**, **Rumor** or **Community**.\n## Guides\nNew guides are added after launch, with no app update needed. Pull down on any screen to refresh.\n## Tracker\nTap items to check them off. Your progress is saved on your phone.\n## Widget\nAdd the Launch Countdown widget to your Home Screen to see the days left at a glance.",
+      "section": "general",
+      "category": "Getting Started"
+    }
+  ],
+  "checklists": [
+    {
+      "id": "c-launch-prep",
+      "title": "Launch Prep",
+      "icon": "bolt.fill",
+      "items": [
+        {
+          "id": "lp-1",
+          "title": "Decide on edition and platform"
+        },
+        {
+          "id": "lp-2",
+          "title": "Buy or pre-order the game"
+        },
+        {
+          "id": "lp-3",
+          "title": "Free up console storage",
+          "detail": "Leave extra room for the day-one patch."
+        },
+        {
+          "id": "lp-4",
+          "title": "Install the latest system update"
+        },
+        {
+          "id": "lp-5",
+          "title": "Turn on automatic downloads in rest mode"
+        },
+        {
+          "id": "lp-6",
+          "title": "Start the pre-load",
+          "detail": "Digital copies only, once pre-load opens."
+        },
+        {
+          "id": "lp-7",
+          "title": "Charge your controllers"
+        },
+        {
+          "id": "lp-8",
+          "title": "Clear your schedule for launch night"
+        }
+      ]
+    },
+    {
+      "id": "c-first-session",
+      "title": "First Session Setup",
+      "icon": "gamecontroller.fill",
+      "items": [
+        {
+          "id": "fs-1",
+          "title": "Calibrate brightness and HDR"
+        },
+        {
+          "id": "fs-2",
+          "title": "Set up subtitles and accessibility options"
+        },
+        {
+          "id": "fs-3",
+          "title": "Adjust camera and aim sensitivity"
+        },
+        {
+          "id": "fs-4",
+          "title": "Review the control layout"
+        },
+        {
+          "id": "fs-5",
+          "title": "Check audio mix and voice chat settings"
+        }
+      ]
+    }
+  ],
+  "cheats": [],
+  "missions": []
+}

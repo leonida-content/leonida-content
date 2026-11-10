@@ -1,0 +1,24 @@
+name: Check content
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Get the live version to compare against
+        if: github.event_name == 'pull_request'
+        run: git show origin/${{ github.base_ref }}:content.json > /tmp/live.json || echo '{}' > /tmp/live.json
+      - name: Validate content.json
+        run: |
+          if [ -f /tmp/live.json ]; then
+            python3 scripts/validate.py content.json --base /tmp/live.json
+          else
+            python3 scripts/validate.py content.json
+          fi
