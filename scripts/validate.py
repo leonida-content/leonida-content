@@ -1,10 +1,28 @@
 """Checks content.json before it goes live. Run: python3 scripts/validate.py [content.json] [--base old.json]"""
-import json, sys
+import json, re, sys
 
 PS = {"CROSS", "CIRCLE", "SQUARE", "TRIANGLE", "X", "L1", "L2", "R1", "R2", "L3", "R3", "OPTIONS", "TOUCHPAD"}
 XBOX = {"A", "B", "X", "Y", "LB", "LT", "RB", "RT", "LS", "RS", "MENU", "VIEW"}
 DIRS = {"UP", "DOWN", "LEFT", "RIGHT"}
 errors = []
+
+# Only these sites may be linked from content. Add a site here (in a reviewed change) to allow it.
+TRUSTED_SITES = {
+    "rockstargames.com", "take2games.com", "playstation.com", "xbox.com",
+    "ign.com", "gamespot.com", "polygon.com", "eurogamer.net", "pcgamer.com",
+    "kotaku.com", "gamesradar.com", "theverge.com",
+    "codex-content.pages.dev",
+}
+URL_RE = re.compile(r"https?://[^\s)\]\"'>]+", re.I)
+
+def check_links(text, where):
+    for url in URL_RE.findall(text or ""):
+        if not url.lower().startswith("https://"):
+            err(f"{where}: link must use https: {url}")
+            continue
+        host = url[8:].split("/")[0].split(":")[0].lower()
+        if not any(host == site or host.endswith("." + site) for site in TRUSTED_SITES):
+            err(f"{where}: link to an untrusted site ({host}). Allowed: {', '.join(sorted(TRUSTED_SITES))}")
 
 def err(msg): errors.append(msg)
 
@@ -88,6 +106,16 @@ if base:
             print(f"⚠️  Note: these ids were removed or renamed, so players lose progress on them: {sorted(removed)}")
     except (OSError, json.JSONDecodeError):
         pass
+
+# Scan every text field in the file for links, wherever they appear.
+def walk(node, where):
+    if isinstance(node, dict):
+        for k, v in node.items(): walk(v, f"{where}.{k}")
+    elif isinstance(node, list):
+        for i, v in enumerate(node): walk(v, f"{where}[{i}]")
+    elif isinstance(node, str):
+        check_links(node, where)
+walk(data, "content")
 
 if errors:
     print(f"❌ {len(errors)} problem(s) in {path}:")

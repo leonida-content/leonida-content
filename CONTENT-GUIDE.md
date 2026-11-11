@@ -4,6 +4,8 @@ All content lives in **one file**: `content.json` in your GitHub repo. Edit it, 
 
 Before saving, paste the file into jsonlint.com to check it. If the file has a mistake, the app keeps showing the last good version, so a typo won't crash it, but your update won't appear either.
 
+**Links:** content can only link to trusted sites (Rockstar, PlayStation, Xbox, IGN, GameSpot, Polygon, Eurogamer, PC Gamer, Kotaku, GamesRadar, The Verge) over https. The safety check rejects anything else, so even a hacked update can't send players to a scam site. To trust a new site, add it to `TRUSTED_SITES` in `scripts/validate.py`.
+
 **Rule #1: only publish what you've verified.** Being the most accurate app is worth more than being 10 minutes faster. Mark anything unconfirmed as a `rumor` in news, and leave `verified: false` on cheats until you've tested them.
 
 ---
