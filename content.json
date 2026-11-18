@@ -1,11 +1,27 @@
 {
-  "version": 2,
+  "version": 3,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
     "Xbox Series X|S"
   ],
   "news": [
+    {
+      "id": "news-preload-live",
+      "title": "Pre-load is live for pre-orders",
+      "summary": "Digital pre-orders can now pre-load the game: it started November 10 at midnight local time on PS5 and 12 a.m. GMT on Xbox Series X|S. Rockstar says you'll need up to 212 GB of free space, depending on your console.",
+      "date": "2026-11-10",
+      "status": "official",
+      "sourceURL": "https://support.rockstargames.com/articles/7nPqOA2uCbpEQHXx7KVrYd/grand-theft-auto-vi-pre-load-faq"
+    },
+    {
+      "id": "news-launch-trailer",
+      "title": "Launch trailer released",
+      "summary": "Rockstar released the final trailer before launch. It was captured on PS5 and debuts \"Flower in a Hurricane\" by Justice, which will appear on the official soundtrack.",
+      "date": "2026-10-15",
+      "status": "official",
+      "sourceURL": "https://www.rockstargames.com/newswire/article/517572321a549a/watch-the-grand-theft-auto-vi-launch-trailer"
+    },
     {
       "id": "n-release-date",
       "title": "Launch set for November 19, 2026",
