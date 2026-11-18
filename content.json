@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -139,5 +139,35 @@
     }
   ],
   "cheats": [],
-  "missions": []
+  "missions": [
+    {
+      "id": "story-gone-fishing",
+      "mode": "story",
+      "chapter": "Chapter 1",
+      "order": 2,
+      "title": "Gone Fishing",
+      "giver": "Cal",
+      "summary": "Jason's first mission: a boat run with Cal to pick up a drug drop turns into a rescue when Donnie gets grabbed.",
+      "steps": [
+        "Drive the boat after Donnie's plane.",
+        "Slow down beside each floating package so Cal can hook it. There are three.",
+        "Use the binoculars to watch the deal at the docks.",
+        "Go ashore and search the camp for Donnie. Sneak up behind guards for **silent knockouts**.",
+        "Free Donnie in the shack and win the fight with the big guard.",
+        "Pick up the Zombix, then get to the seaplane.",
+        "Fly to Brian's Marina. Hold **L2 / LT** to slow down and land on the water, then head to the dock.",
+        "Drive Cal home, then drive to Jason's house."
+      ],
+      "objectives": [
+        "Optional: grab Brian's cash from the trailer on the way to the plane. It's easy to miss."
+      ],
+      "tips": [
+        "Expect someone to jump out at you inside the cash trailer.",
+        "Stealth earns Professional reputation. Shooting limbs instead of killing helps your reputation too.",
+        "Zombix heals you. Keep some on you.",
+        "Press **L3 + R3** to use Focus."
+      ],
+      "rewards": "Jason's house in Key Lento"
+    }
+  ]
 }
