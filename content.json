@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -139,5 +139,31 @@
     }
   ],
   "cheats": [],
-  "missions": []
+  "missions": [
+    {
+      "id": "story-unwanted-attention",
+      "mode": "story",
+      "chapter": "Chapter 1",
+      "order": 6,
+      "title": "Unwanted Attention",
+      "giver": "Cal",
+      "summary": "Cal sends Jason to pull a red Imponte Phoenix out of the Hamlet police impound and get it to a garage without the cops tracing it.",
+      "steps": [
+        "Meet Cal on the north side of Key Lento and ride with him to Hamlet. He adds a **police scanner** app to your phone.",
+        "Climb the impound fence instead of breaking it, then crouch and use the containers to reach the red Phoenix.",
+        "Get in the tow truck and unhook the Phoenix, then get in the Phoenix.",
+        "Roll up to the main gate and wait for it to open.",
+        "Floor it and lose the police.",
+        "Respray the Phoenix at the Pay 'n' Spray in Hamlet.",
+        "Park it in the marked garage and grab the **$150** inside.",
+        "Spend the cash on new clothes at the gun store next door and change to shake off the heat."
+      ],
+      "tips": [
+        "Stay sneaky in the impound. Breaking the fence or knocking out guards puts the police on alert.",
+        "Police remember your car and clothes. A respray or a change of outfit helps you get away clean.",
+        "After the mission, wait for the heat to die down. Cal texts you about the payment once it does."
+      ],
+      "rewards": "$150 and the police scanner app"
+    }
+  ]
 }
