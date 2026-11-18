@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -138,6 +138,291 @@
       ]
     }
   ],
-  "cheats": [],
-  "missions": []
+  "cheats": [
+    {
+      "id": "cheat-money-1",
+      "name": "$250,000",
+      "effect": "Adds $250,000 to your cash.",
+      "category": "Player",
+      "playstation": [
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "UP",
+        "LEFT",
+        "DOWN",
+        "RIGHT"
+      ],
+      "xbox": [
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "UP",
+        "LEFT",
+        "DOWN",
+        "RIGHT"
+      ],
+      "disablesAchievements": true,
+      "notes": "Story mode. Cheats unlock only after you finish the main story, and some also need an extra in-game challenge first. To enter one, press Up on the D-pad to open the phone, hold L1 (LB on Xbox) and press R1 (RB), then enter the arrows. While a cheat is on you can't save the game."
+    },
+    {
+      "id": "cheat-player-heat-1",
+      "name": "Raise Heat Level",
+      "effect": "Raises your heat level across the map.",
+      "category": "Player",
+      "playstation": [
+        "LEFT",
+        "DOWN",
+        "RIGHT",
+        "DOWN",
+        "UP",
+        "DOWN",
+        "UP"
+      ],
+      "xbox": [
+        "LEFT",
+        "DOWN",
+        "RIGHT",
+        "DOWN",
+        "UP",
+        "DOWN",
+        "UP"
+      ],
+      "disablesAchievements": true,
+      "notes": "Story mode. Cheats unlock only after you finish the main story, and some also need an extra in-game challenge first. To enter one, press Up on the D-pad to open the phone, hold L1 (LB on Xbox) and press R1 (RB), then enter the arrows. While a cheat is on you can't save the game."
+    },
+    {
+      "id": "cheat-player-focus-1",
+      "name": "Unlimited Focus",
+      "effect": "Your focus meter never drains.",
+      "category": "Player",
+      "playstation": [
+        "DOWN",
+        "UP",
+        "UP",
+        "DOWN",
+        "UP",
+        "DOWN",
+        "UP",
+        "DOWN",
+        "UP",
+        "RIGHT"
+      ],
+      "xbox": [
+        "DOWN",
+        "UP",
+        "UP",
+        "DOWN",
+        "UP",
+        "DOWN",
+        "UP",
+        "DOWN",
+        "UP",
+        "RIGHT"
+      ],
+      "disablesAchievements": true,
+      "notes": "Story mode. Cheats unlock only after you finish the main story, and some also need an extra in-game challenge first. To enter one, press Up on the D-pad to open the phone, hold L1 (LB on Xbox) and press R1 (RB), then enter the arrows. While a cheat is on you can't save the game."
+    },
+    {
+      "id": "cheat-combat-attackforce-1",
+      "name": "Attack Force",
+      "effect": "Shots and melee hits knock targets flying.",
+      "category": "Combat",
+      "playstation": [
+        "DOWN",
+        "UP",
+        "LEFT",
+        "LEFT",
+        "RIGHT",
+        "DOWN",
+        "DOWN",
+        "UP",
+        "DOWN"
+      ],
+      "xbox": [
+        "DOWN",
+        "UP",
+        "LEFT",
+        "LEFT",
+        "RIGHT",
+        "DOWN",
+        "DOWN",
+        "UP",
+        "DOWN"
+      ],
+      "disablesAchievements": true,
+      "notes": "Story mode. Cheats unlock only after you finish the main story, and some also need an extra in-game challenge first. To enter one, press Up on the D-pad to open the phone, hold L1 (LB on Xbox) and press R1 (RB), then enter the arrows. While a cheat is on you can't save the game."
+    },
+    {
+      "id": "cheat-combat-balls-1",
+      "name": "Exploding Balls",
+      "effect": "Sports balls explode when they hit something.",
+      "category": "Combat",
+      "playstation": [
+        "DOWN",
+        "UP",
+        "LEFT",
+        "LEFT",
+        "RIGHT",
+        "DOWN",
+        "DOWN",
+        "UP",
+        "RIGHT"
+      ],
+      "xbox": [
+        "DOWN",
+        "UP",
+        "LEFT",
+        "LEFT",
+        "RIGHT",
+        "DOWN",
+        "DOWN",
+        "UP",
+        "RIGHT"
+      ],
+      "disablesAchievements": true,
+      "notes": "Story mode. Cheats unlock only after you finish the main story, and some also need an extra in-game challenge first. To enter one, press Up on the D-pad to open the phone, hold L1 (LB on Xbox) and press R1 (RB), then enter the arrows. While a cheat is on you can't save the game."
+    },
+    {
+      "id": "cheat-vehicle-boomazoom-1",
+      "name": "Spawn Maibatsu Boomazoom",
+      "effect": "Spawns a Maibatsu Boomazoom.",
+      "category": "Vehicles",
+      "playstation": [
+        "LEFT",
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "LEFT",
+        "UP",
+        "LEFT"
+      ],
+      "xbox": [
+        "LEFT",
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "LEFT",
+        "UP",
+        "LEFT"
+      ],
+      "disablesAchievements": true,
+      "notes": "Story mode. Cheats unlock only after you finish the main story, and some also need an extra in-game challenge first. To enter one, press Up on the D-pad to open the phone, hold L1 (LB on Xbox) and press R1 (RB), then enter the arrows. While a cheat is on you can't save the game."
+    },
+    {
+      "id": "cheat-vehicle-bulldozer-1",
+      "name": "Spawn HVY Bulldozer",
+      "effect": "Spawns an HVY Bulldozer.",
+      "category": "Vehicles",
+      "playstation": [
+        "LEFT",
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "RIGHT",
+        "RIGHT",
+        "DOWN"
+      ],
+      "xbox": [
+        "LEFT",
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "RIGHT",
+        "RIGHT",
+        "DOWN"
+      ],
+      "disablesAchievements": true,
+      "notes": "Story mode. Cheats unlock only after you finish the main story, and some also need an extra in-game challenge first. To enter one, press Up on the D-pad to open the phone, hold L1 (LB on Xbox) and press R1 (RB), then enter the arrows. While a cheat is on you can't save the game."
+    },
+    {
+      "id": "cheat-world-weather-1",
+      "name": "Cycle Weather",
+      "effect": "Switches to the next weather type each time you enter it.",
+      "category": "World",
+      "playstation": [
+        "DOWN",
+        "RIGHT",
+        "UP",
+        "DOWN",
+        "RIGHT",
+        "UP",
+        "RIGHT"
+      ],
+      "xbox": [
+        "DOWN",
+        "RIGHT",
+        "UP",
+        "DOWN",
+        "RIGHT",
+        "UP",
+        "RIGHT"
+      ],
+      "disablesAchievements": true,
+      "notes": "Story mode. Cheats unlock only after you finish the main story, and some also need an extra in-game challenge first. To enter one, press Up on the D-pad to open the phone, hold L1 (LB on Xbox) and press R1 (RB), then enter the arrows. While a cheat is on you can't save the game."
+    },
+    {
+      "id": "cheat-filter-dollhouse-1",
+      "name": "Dollhouse filter",
+      "effect": "Screen filter with vivid colors and a narrower picture.",
+      "category": "Filters",
+      "playstation": [
+        "DOWN",
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "RIGHT",
+        "UP",
+        "LEFT",
+        "LEFT",
+        "DOWN",
+        "RIGHT"
+      ],
+      "xbox": [
+        "DOWN",
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "RIGHT",
+        "UP",
+        "LEFT",
+        "LEFT",
+        "DOWN",
+        "RIGHT"
+      ],
+      "disablesAchievements": true,
+      "notes": "Story mode. Cheats unlock only after you finish the main story, and some also need an extra in-game challenge first. To enter one, press Up on the D-pad to open the phone, hold L1 (LB on Xbox) and press R1 (RB), then enter the arrows. While a cheat is on you can't save the game."
+    }
+  ],
+  "missions": [
+    {
+      "id": "story-prologue",
+      "mode": "story",
+      "chapter": "Chapter 1",
+      "order": 1,
+      "title": "Prologue",
+      "giver": "Lucia Caminos",
+      "summary": "Lucia's story opens behind bars, then flashes back to the robbery that put her there.",
+      "steps": [
+        "Talk to your cellmate. Hold **L2 / LT** to pick a dialogue option.",
+        "Follow the guard down the hall to the office.",
+        "In the flashback, aim at the cashier and threaten them.",
+        "Grab the cash, then hit the on-screen prompt when a customer tackles you.",
+        "Run from the police over the rooftops and through the garage.",
+        "Make your way back to the coffee shop to wrap up the mission."
+      ],
+      "objectives": [],
+      "tips": [
+        "This is a tutorial mission: it teaches dialogue choices, aiming, and climbing (jump to vault ledges).",
+        "There are no bonus objectives here, so just play it through."
+      ],
+      "rewards": "None"
+    }
+  ]
 }
