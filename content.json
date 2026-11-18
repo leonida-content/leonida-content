@@ -1,11 +1,27 @@
 {
-  "version": 2,
+  "version": 3,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
     "Xbox Series X|S"
   ],
   "news": [
+    {
+      "id": "news-unlock-time",
+      "title": "Unlocks at midnight local time on Nov 19",
+      "summary": "Rockstar's support page says the game releases at midnight local time on November 19 in all regions, on both PS5 and Xbox Series X|S. Pre-load first so you can start playing right away.",
+      "date": "2026-11-03",
+      "status": "official",
+      "sourceURL": "https://support.rockstargames.com/articles/29jV3Cv2cCgvwM1XgtMO5o/grand-theft-auto-vi-regional-pre-load-and-release-times-on-playstation-5-and-xbox-series-x-or-s"
+    },
+    {
+      "id": "news-ps5-system-update",
+      "title": "PS5 system update required before you play",
+      "summary": "PlayStation Support says a new PS5 system software update is required to play GTA VI, so install it before midnight on November 19. A game update (version 01.002.001, about 602 MB on PS5) is also rolling out; Rockstar hasn't posted patch notes.",
+      "date": "2026-11-17",
+      "status": "community",
+      "sourceURL": "https://kotaku.com/ps5-gets-last-minute-software-update-thats-required-to-play-gta-6-2000757868"
+    },
     {
       "id": "n-release-date",
       "title": "Launch set for November 19, 2026",
