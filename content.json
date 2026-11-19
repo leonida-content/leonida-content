@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -139,5 +139,56 @@
     }
   ],
   "cheats": [],
-  "missions": []
+  "missions": [
+    {
+      "id": "story-island-dreams",
+      "mode": "story",
+      "chapter": "Chapter 1",
+      "order": 9,
+      "title": "Island Dreams",
+      "giver": "Kenton",
+      "summary": "Kenton, who runs a beach dive shop, offers Jason the use of his boat and scuba gear in exchange for guiding a group of tourists on a wreck dive.",
+      "steps": [
+        "Meet Kenton at his Island Dreams shop by the beach.",
+        "Take the boat out to the marked spot offshore.",
+        "Put on the scuba gear at the back of the boat and dive in.",
+        "Lead the tourists through the underwater trench to the shipwreck.",
+        "Equip the **metal detector** from the weapon wheel and sweep the search area until it turns green.",
+        "Collect the treasure on the seabed.",
+        "Free the stuck diver at the wreck.",
+        "Deal with the **shark** on the way back using the harpoon gun.",
+        "Swim back up to the boat to finish."
+      ],
+      "objectives": [],
+      "tips": [
+        "Keep an eye on the oxygen bar in the top-left corner.",
+        "Click **L3 / LS** to swim faster underwater.",
+        "The shark goes down quicker if you stay close, since harpoon shots drop off over distance.",
+        "You can return to wrecks later to look for more treasure, and Kenton's boat and gear stay available to you."
+      ],
+      "rewards": "Access to Kenton's shop, boat and diving gear"
+    },
+    {
+      "id": "story-feng-shui",
+      "mode": "story",
+      "chapter": "Chapter 1",
+      "order": 10,
+      "title": "Feng Shui",
+      "giver": "Cal",
+      "summary": "A low-key mission at Jason's house: Cal helps rearrange the living room, then the two unwind with some video games.",
+      "steps": [
+        "After Island Dreams, wait for the text and head to Jason's house in Key Lento.",
+        "Go inside to start the mission, then sit on the couch.",
+        "Move the TV, coffee table, couch and chair to where Cal suggests.",
+        "Play **Tenebrae Lux** with Cal until it ends.",
+        "Play **Street Trash III** until it ends."
+      ],
+      "objectives": [],
+      "tips": [
+        "It doesn't matter whether you accept the coffee table spot or keep moving it; the result is the same.",
+        "Neither video game can be won, so don't stress about your score. They end on their own."
+      ],
+      "rewards": "Story progress"
+    }
+  ]
 }
