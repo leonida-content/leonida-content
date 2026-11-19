@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -1902,13 +1902,19 @@
       "order": 39,
       "title": "South Leonida Real Estate",
       "giver": "Mia",
-      "summary": "Lucia has a run-in with the M7 gang.",
-      "steps": [],
+      "summary": "Mia has been grabbed by the M7 gang, and Lucia has to get her back. Mia talks her way out by offering to find the gang's boss a new headquarters, but his lieutenant Viper has other plans.",
+      "steps": [
+        "Track down Mia's kidnappers.",
+        "Follow the kidnappers' car **without being seen**.",
+        "Go along with Mia's pitch and tour the properties with the M7 boss.",
+        "When Viper turns on his boss, fight back and **defeat Viper**.",
+        "Leave with Mia once the gang lets you both go."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "This mission is played as Lucia only."
       ],
-      "rewards": null
+      "rewards": "A cash commission from Mia"
     },
     {
       "id": "story-tyrone",
@@ -2081,13 +2087,17 @@
       "order": 48,
       "title": "Credit Check",
       "giver": "Raul",
-      "summary": "Raul invites Jason and Lucia to his base and puts them to work.",
-      "steps": [],
-      "objectives": [],
-      "tips": [
-        "Full step-by-step walkthrough coming soon."
+      "summary": "Raul brings Jason and Lucia to his base and introduces his crew: Felipe the driver, Karim the tech expert and Andrea on comms and disguises. As a warm-up for something bigger, he sends them to rob three small bank branches.",
+      "steps": [
+        "Drive to Raul's base and meet his crew.",
+        "Head to the first bank branch and rob it.",
+        "Rob the second branch.",
+        "Rob the third branch.",
+        "Escape the police after each job and lose your wanted level."
       ],
-      "rewards": null
+      "objectives": [],
+      "tips": [],
+      "rewards": "Cash from the three bank jobs"
     },
     {
       "id": "story-steal-the-zorrusso",
@@ -2117,13 +2127,18 @@
       "order": 50,
       "title": "Sinfrontera National Bank",
       "giver": "Raul",
-      "summary": "Jason and Lucia start planning a heist on the cartel's bank.",
-      "steps": [],
+      "summary": "Raul reveals the real target: Sinfrontera National Bank, where a cartel washes its money. Jason and Lucia case the place before the heist planning begins.",
+      "steps": [
+        "Drive to Sinfrontera National Bank.",
+        "Go inside and scope out the lobby as Lucia.",
+        "Spot every security feature in the bank.",
+        "Meet Raul and Andrea to go over what you found."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "Raul gives you a new lead afterwards: track down a bank security expert."
       ],
-      "rewards": null
+      "rewards": "Unlocks the next Cartel Heist setup mission"
     },
     {
       "id": "story-security-expert",
@@ -2177,13 +2192,19 @@
       "order": 53,
       "title": "Company Property",
       "giver": "Brian",
-      "summary": "Jason and Lucia help Brian with a weapons shipment.",
-      "steps": [],
+      "summary": "Brian sets up a weapons shipment for Raul's heist through his smuggler contact, Pilot Pete. The drop at the airfield goes wrong when the law shows up.",
+      "steps": [
+        "Meet Brian at the airfield.",
+        "Help Brian and Pete unload the shipment.",
+        "Get away when the police and IAA agents raid the airfield.",
+        "Escape the airfield with Pete.",
+        "Protect Brian's truck until the cargo is safe."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "The weapons from this job are used later in the Cartel Heist."
       ],
-      "rewards": null
+      "rewards": "Weapons cargo for the Cartel Heist"
     },
     {
       "id": "story-the-missing-link",
@@ -2192,11 +2213,18 @@
       "order": 54,
       "title": "The Missing Link",
       "giver": "Andrea",
-      "summary": "Lucia meets Andrea and ends up at a cockfight looking for answers.",
-      "steps": [],
+      "summary": "Andrea and Lucia go undercover to meet Monty, a senior cartel enforcer, at a rough underground event in Watson Bay. When the plan falls apart they bring him back to Vice City for questioning.",
+      "steps": [
+        "Meet Andrea.",
+        "Go with Andrea to the meeting with Monty in Watson Bay.",
+        "Play along when Monty takes you to his photo room.",
+        "Fight your way out when the plan goes wrong.",
+        "Escape with Monty and drive him back to Vice City.",
+        "Help Raul's crew question Monty."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "This mission is played as Lucia only."
       ],
       "rewards": null
     },
@@ -2250,12 +2278,17 @@
       "order": 57,
       "title": "Bricked Up",
       "giver": "Boobie",
-      "summary": "Jason and Lucia do a job for Boobie.",
-      "steps": [],
-      "objectives": [],
-      "tips": [
-        "Full step-by-step walkthrough coming soon."
+      "summary": "Jason and Lucia find Boobie making himself at home in their apartment. He reminds them that living there means working for him, and sends them on a pickup that ends in a police raid.",
+      "steps": [
+        "Return to the apartment and talk to Boobie.",
+        "Drive to the pickup location.",
+        "Collect the bag Boobie is owed.",
+        "Survive the police raid on the building.",
+        "Find a way out of the building and escape.",
+        "Lose the police."
       ],
+      "objectives": [],
+      "tips": [],
       "rewards": null
     },
     {
