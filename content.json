@@ -1,11 +1,82 @@
 {
-  "version": 2,
+  "version": 3,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
     "Xbox Series X|S"
   ],
   "news": [
+    {
+      "id": "news-now-available",
+      "title": "GTA VI is out now",
+      "summary": "Take-Two confirmed the game is available today on PS5 and Xbox Series X|S, sold through the PlayStation Store, Microsoft Store, Rockstar Games Store and retailers. It is rated M for Mature.",
+      "date": "2026-11-19",
+      "status": "official",
+      "sourceURL": "https://www.take2games.com/ir/news/rockstar-games-announces-grand-theft-auto-vi-now-available"
+    },
+    {
+      "id": "news-soundtrack-album",
+      "title": "Official soundtrack album released",
+      "summary": "A companion album with 34 original tracks is out on major streaming services from launch, with vinyl and CD editions also available.",
+      "date": "2026-11-19",
+      "status": "official",
+      "sourceURL": "https://www.take2games.com/ir/news/rockstar-games-announces-grand-theft-auto-vi-now-available"
+    },
+    {
+      "id": "news-17m-sold",
+      "title": "Over 17 million copies sold",
+      "summary": "Launch-day reports put GTA VI past 17 million copies sold. Rockstar has not published official sales yet.",
+      "date": "2026-11-19",
+      "status": "community",
+      "sourceURL": "https://kotaku.com/live-updates-on-gta-6-the-biggest-launch-in-gaming-history-2000758030"
+    },
+    {
+      "id": "news-online-not-yet",
+      "title": "No GTA 6 Online at launch",
+      "summary": "GTA VI launched as single-player only. Bloomberg reports multiplayer is expected around late 2027, but Rockstar has not announced it.",
+      "date": "2026-11-19",
+      "status": "rumor"
+    },
+    {
+      "id": "news-metacritic-99",
+      "title": "GTA VI scores 99 on Metacritic",
+      "summary": "Reviews landed the day before launch. GTA VI hit 99 on Metacritic, Rockstar's highest-rated game ever.",
+      "date": "2026-11-18",
+      "status": "community",
+      "sourceURL": "https://kotaku.com/live-updates-on-gta-6-the-biggest-launch-in-gaming-history-2000758030"
+    },
+    {
+      "id": "news-ps5-system-update",
+      "title": "PS5 system update required before you play",
+      "summary": "PlayStation Support says a new PS5 system software update is required to play GTA VI, so install it before midnight on November 19. A game update (version 01.002.001, about 602 MB on PS5) is also rolling out; Rockstar hasn't posted patch notes.",
+      "date": "2026-11-17",
+      "status": "community",
+      "sourceURL": "https://kotaku.com/ps5-gets-last-minute-software-update-thats-required-to-play-gta-6-2000757868"
+    },
+    {
+      "id": "news-preload-live",
+      "title": "Pre-load is live for pre-orders",
+      "summary": "Digital pre-orders can now pre-load the game: it started November 10 at midnight local time on PS5 and 12 a.m. GMT on Xbox Series X|S. Rockstar says you'll need up to 212 GB of free space, depending on your console.",
+      "date": "2026-11-10",
+      "status": "official",
+      "sourceURL": "https://support.rockstargames.com/articles/7nPqOA2uCbpEQHXx7KVrYd/grand-theft-auto-vi-pre-load-faq"
+    },
+    {
+      "id": "news-unlock-time",
+      "title": "Unlocks at midnight local time on Nov 19",
+      "summary": "Rockstar's support page says the game releases at midnight local time on November 19 in all regions, on both PS5 and Xbox Series X|S. Pre-load first so you can start playing right away.",
+      "date": "2026-11-03",
+      "status": "official",
+      "sourceURL": "https://support.rockstargames.com/articles/29jV3Cv2cCgvwM1XgtMO5o/grand-theft-auto-vi-regional-pre-load-and-release-times-on-playstation-5-and-xbox-series-x-or-s"
+    },
+    {
+      "id": "news-launch-trailer",
+      "title": "Launch trailer released",
+      "summary": "Rockstar released the final trailer before launch. It was captured on PS5 and debuts \"Flower in a Hurricane\" by Justice, which will appear on the official soundtrack.",
+      "date": "2026-10-15",
+      "status": "official",
+      "sourceURL": "https://www.rockstargames.com/newswire/article/517572321a549a/watch-the-grand-theft-auto-vi-launch-trailer"
+    },
     {
       "id": "n-release-date",
       "title": "Launch set for November 19, 2026",
@@ -41,20 +112,11 @@
   ],
   "guides": [
     {
-      "id": "g-launch-prep",
-      "title": "Launch Day Prep",
-      "subtitle": "Get your console ready so you're playing the minute it unlocks.",
-      "icon": "bolt.fill",
-      "body": "## Before launch\n- **Free up storage.** Big open-world games need a lot of space, and patches add more. Clear room well before launch day.\n- **Update your console.** Install system updates now so they don't hold you up at midnight.\n- **Turn on automatic downloads.** On PlayStation, enable Rest Mode downloads. On Xbox, use Energy Saving or Sleep with updates on.\n- **Pre-load if you bought digital.** If pre-loading is offered, start it as soon as it opens.\n## On launch night\n- **Expect a day-one patch.** Leave time for it to download before you play.\n- **Use a wired connection** if you can. It is usually faster and steadier than Wi-Fi.\n- **Check the official site** for the exact unlock time in your region.",
-      "section": "general",
-      "category": "Getting Started"
-    },
-    {
       "id": "g-what-we-know",
-      "title": "What We Know So Far",
-      "subtitle": "The confirmed basics, with no rumors mixed in.",
-      "icon": "checkmark.seal.fill",
-      "body": "## The basics\n- **Release:** November 19, 2026\n- **Platforms:** PlayStation 5 and Xbox Series X|S at launch\n- **Setting:** Vice City and the surrounding state of Leonida, a fictional take on Florida\n- **Leads:** Lucia and Jason, shown together in the trailers\n## Not confirmed yet\nAnything not listed above should be treated as unconfirmed. In the Home tab, rumors are always labeled RUMOR.",
+      "title": "GTA 6 at a Glance",
+      "subtitle": "The facts now that the game is out",
+      "icon": "info.circle.fill",
+      "body": "## The basics\n- **Out now:** November 19, 2026 on **PS5** and **Xbox Series X|S**. There's no PC version yet.\n- **Setting:** The state of Leonida, including Vice City, Key Lento and the swamps.\n- **You play as:** Jason and Lucia, and you switch between them.\n- **Story:** 5 chapters with roughly 90+ main missions, plus many side jobs.\n- **Reviews:** 99 on Metacritic at launch, Rockstar's highest-rated game.\n\n## What's not in at launch\n- **GTA Online.** This is a single-player release. Rockstar hasn't announced an online mode or a date. See the Online tab.\n\n## Performance\n- PS5 Pro runs it best. Base PS5 and Series X target 30fps. Series S runs at a lower resolution.\n\n[Kotaku launch coverage](https://kotaku.com/live-updates-on-gta-6-the-biggest-launch-in-gaming-history-2000758030)",
       "section": "general",
       "category": "Getting Started"
     },
@@ -66,9 +128,149 @@
       "body": "## Home\nA live countdown, a launch-day reminder you can switch on, and a timeline of announcements. Each item is labeled **Official**, **Rumor** or **Community**.\n## Guides\nNew guides are added after launch, with no app update needed. Pull down on any screen to refresh.\n## Tracker\nTap items to check them off. Your progress is saved on your phone.\n## Widget\nAdd the Launch Countdown widget to your Home Screen to see the days left at a glance.",
       "section": "general",
       "category": "Getting Started"
+    },
+    {
+      "id": "guide-repair-jasons-house",
+      "section": "story",
+      "category": "Side Activities",
+      "title": "Fixing Up Jason's House",
+      "subtitle": "An early optional task that makes a good first impression on Lucia.",
+      "icon": "hammer.fill",
+      "tags": [
+        "Chapter 1",
+        "Optional"
+      ],
+      "spoiler": false,
+      "body": "## When it appears\nAfter Lucia calls Jason to say she's being released, you can patch up his place before you pick her up. It's optional, but she notices the work when she arrives and it helps your relationship with her.\n## The repairs\nEach job shows a paintbrush icon nearby. Walk up and interact to do it. Any order works.\n- **Roof:** climb the ladder beside the front door and fix the tarp-covered patch on top.\n- **Steps:** head down to the driveway where the car is parked and use the pile of planks at the bottom of the stairs.\n- **Bedroom wall:** inside, board up the open wall in Jason's bedroom, then use the paint buckets to finish it.\n- **Railing:** out on the deck by the workout gear, fix the broken railing.\n## Tip\nDo these while you wait for the call to pick Lucia up, along with the other optional errands for her return. They all count toward a better start with her."
+    },
+    {
+      "id": "guide-beginner-tips",
+      "section": "general",
+      "category": "Getting Started",
+      "title": "Beginner Tips",
+      "subtitle": "12 things to know in your first hours",
+      "icon": "lightbulb.fill",
+      "tags": [
+        "Beginner",
+        "No spoilers"
+      ],
+      "spoiler": false,
+      "body": "## Settings worth changing\n- **Struggling with fights?** Settings → Gameplay → turn on **Accessible Combat** (you take less damage) and **Reduced Vehicle Damage**. Neither one changes the story or blocks trophies.\n- **Miss GTA 5's controls?** Settings → Control Scheme → **Classic**.\n- **Dark or washed-out picture?** It's usually HDR. On PS5: Settings → Screen and Video → Video Output → turn HDR off and see if it looks better.\n\n## Protect your money\n- Cash in your pocket is **lost if you die or get busted**. Deposit it at an ATM with the **BuckMe** app (unlocks in Chapter 1).\n- **Family Savings** money can't be withdrawn, but it can't be lost either, and it carries you through the end of Chapter 1.\n\n## Getting around\n- **Next mission:** open the map and use the index to list story missions, then set a waypoint.\n- **Quick waypoint:** hold **Down** on the D-pad to see nearby shops and missions, then press **R3** on one.\n- **Fast travel:** the **RydeMe** app books a ride. Hold Triangle/Y during it to skip the trip for a small fee.\n- **Get your car back:** the **Scooter Bros** app delivers your car to you.\n\n## Cars\n- Lockpicking or hotwiring? Move the sticks to find the **pink sweet spot** to finish faster.\n- To **keep a car for good**, register it at a **Pay 'N' Spray**. You can also sell stolen cars there (daily limit).\n- Specialist tuning is only at mod shops with a **blue wrench** icon.\n\n## Play style\n- Grab enemies from behind (R2/RT) to knock them out, or aim for arms and legs. Killing everyone makes your **criminal profile** more violent.\n- Check the phone's **Reminders** tab. It collects messages from people waiting on you."
+    },
+    {
+      "id": "guide-money-early",
+      "section": "story",
+      "category": "Money",
+      "title": "Making Money Early",
+      "subtitle": "Best cash methods in Chapters 1 and 2",
+      "icon": "dollarsign.circle.fill",
+      "tags": [
+        "Money",
+        "Chapter 1",
+        "Chapter 2"
+      ],
+      "spoiler": false,
+      "body": "## Chapter 1\n- **Sell drugs to Donnie or Brian.** After *Clean Up After Donnie*, you can sell narcotics at Donnie's trailer. Donnie also sends you package locations to pick up.\n- **Hit illegal operations.** Clear out a gang spot, open the back-room safe and take the narcotics. A good first one is the **Exotic Animals Front** in Key Lento, through the hole in the wall behind the **Three Sheets Liquor** store (its safe needs no code). The Kingfisher spots in the northwest swamps work too.\n- **Steal and sell cars** at any **Pay 'N' Spray**. There's a daily limit that resets every 24 in-game hours.\n- **Treasure diving for Kenton.** He gives you a boat and a scanner. It's slow, and he pays only after he sells what you find.\n\n## Chapter 2\n- Befriend **Moses** to sell cars to him with **no daily limit**.\n- Store and jewelry robberies open up as the story moves along.\n\n## Don't lose it\n- **Deposit your cash** with BuckMe. Pocket money is lost when you die, get busted, or reach the end of Chapter 1.\n- **Put at least $5,000 in Family Savings** before the end of Chapter 1. See the guide *Before the End of Chapter 1*."
+    },
+    {
+      "id": "guide-before-chapter1-ends",
+      "section": "story",
+      "category": "Tips",
+      "title": "Before the End of Chapter 1",
+      "subtitle": "Do this before 'Recalibration' or you'll lose cash and your house",
+      "icon": "exclamationmark.triangle.fill",
+      "tags": [
+        "Important",
+        "Chapter 1"
+      ],
+      "spoiler": false,
+      "body": "## The point of no return\nLate in Chapter 1, a chain of missions starts (around **Recalibration** and **Tourist Trap**) that runs straight through to Chapter 2 **with no free roam**.\n\n## What you lose\n- **All the cash you're carrying.**\n- **Jason's house in Key Lento**, permanently.\n- Key Lento side activities (Kenton's treasure diving, fishing with Cal, the Kingfisher hideouts) until later in the story.\n\n## Do this first\n- **Make a manual save in a new slot** and don't overwrite it.\n- **Move your cash into Family Savings** with BuckMe. Guides recommend at least **$5,000**.\n- Finish any Key Lento side stuff you care about.\n- Grab Lucia's clothes and gifts if you want them (the optional tasks before *Coming Home*)."
+    },
+    {
+      "id": "guide-100-percent",
+      "section": "story",
+      "category": "Completion",
+      "title": "100% Completion Overview",
+      "subtitle": "What counts and how much of each",
+      "icon": "checkmark.seal.fill",
+      "tags": [
+        "Completion",
+        "Collectibles"
+      ],
+      "spoiler": false,
+      "body": "## Good news first\nNothing for 100% is permanently missable. You can finish everything in free roam after the story.\n\n## Main requirements\n- Finish the story, plus **100 optional tasks**\n- **39** Gang Operations · **22** Bank Jobs · **7** Payday Loans · **8** Vaults\n- **15 of 18** Collectible Card Sets · **15 of 18** Meditation Spots\n- **100 of 125** Cocaine Flamingos destroyed\n- **33** Underwater Discoveries · **30 of 34** Magazines, Books and Comics\n- **100** WAiNK landmark scans · **70 of 79** Styles discovered\n- **42** Shooting Range gold medals · **42** Drone Time Trials\n- **300 of 397** Stunts · **70 of 80** Challenges\n- Scan **200** base-model vehicles · study **100** animals · collect **50** standard weapons\n\n## Tips\n- **Scan cars and study animals as you go** during the story. It saves hours later.\n- Meditation Spots count for **Jason and Lucia separately**, so do each one with both.\n- Real Cocaine Flamingos have a **black-and-white beak**. The yellow-beak ones are decoration.\n- Buy the **$5 waiver** at shooting ranges before you try the challenges.\n- Do **Challenges last** and pick the easiest ones left.\n\nCounts come from early community guides and may shift a little as players confirm them."
+    },
+    {
+      "id": "guide-mission-list",
+      "section": "story",
+      "category": "Story",
+      "title": "Full Mission List",
+      "subtitle": "Every main mission by chapter",
+      "icon": "list.number",
+      "tags": [
+        "Story",
+        "Spoilers"
+      ],
+      "spoiler": true,
+      "body": "Spoiler warning: mission names give away story beats.\n\n## Chapter 1 (22 missions)\n- 1. Prologue\n- 2. Gone Fishing\n- 3. Gear Up\n- 4. Just a Scratch\n- 5. Lab Fees\n- 6. Unwanted Attention\n- 7. Pipework\n- 8. Hey Arnold!\n- 9. Island Dreams\n- 10. Feng Shui\n- 11. Coming Home\n- 12. Buck Me\n- 13. Clean Up After Donnie\n- 14. Down to Earth\n- 15. Clear Skies\n- 16. Day Release\n- 17. Swamped\n- 18. Don Gone\n- 19. Recalibration\n- 20. Tourist Trap\n- 21. Home Sweet Home\n- 22. Discharge Time\n\n## Chapter 2 (13 missions)\n- 1. What's in the Bag?\n- 2. Ambulance Chaser\n- 3. Just Moved In\n- 4. Girls' Trip\n- 5. Moses\n- 6. Daily Driver\n- 7. Slam Dunk\n- 8. Breakfast Run\n- 9. Coffee Break\n- 10. Afternoon Delight\n- 11. Thrillbillies\n- 12. Twist Wrist, Smash, Grab\n- 13. Checking Out\n\n## Chapter 3 (26 missions)\n- 1. Welcome to Vice City\n- 2. Dealer's Choice\n- 3. Meet the Heders\n- 4. Dubious Provenance\n- 5. Mami Knows Best\n- 6. South Leonida Real Estate\n- 7. Tyrone\n- 8. Here, Kitty Kitty\n- 9. Kitty Litter Labs\n- 10. Car Service\n- 11. Top Billing\n- 12. Boobie Time\n- 13. First Impressions\n- 14. Crosstown Traffic\n- 15. Credit Check\n- 16. Steal the Zorrusso for Randy\n- 17. Sinfrontera National Bank\n- 18. Security Expert\n- 19. Ride or Die\n- 20. Company Property\n- 21. The Missing Link\n- 22. Safe Word\n- 23. Cooties\n- 24. Bricked Up\n- 25. Hidden Charges\n- 26. The Cartel Heist\n\n## Chapter 4 (25 missions)\n- 1. Ocean Beach\n- 2. Another Life\n- 3. Company Cars\n- 4. Lawyer Up\n- 5. Party Hard\n- 6. Heavy Lifting\n- 7. Photo/Shoot\n- 8. Making Gainz\n- 9. Watch It\n- 10. Cash Injections\n- 11. Amateur Hour\n- 12. Dirty Work\n- 13. Too Much Baggage\n- 14. Adventures in Babysitting\n- 15. Fresh Evidence\n- 16. Power Play\n- 17. Child's Play\n- 18. Headliners\n- 19. Close Surveillance\n- 20. Delivery Method\n- 21. Team Building\n- 22. Fully Catered\n- 23. VCIA Takedown\n- 24. Sunset\n- 25. Starting from Zero\n\n## Chapter 5 (7 missions)\n- 1. Bird in the Hand\n- 2. Taking Liberties\n- 3. VC Baby\n- 4. Doggie Bag\n- 5. Operation Savage Glory\n- 6. Protective Custody\n- 7. The End of the Road\n\nWalkthroughs for Chapter 1 are in the Story tab. More chapters are added as they're written. Guides list a few optional missions in different spots, so your game may order some slightly differently."
+    },
+    {
+      "id": "guide-online-status",
+      "section": "online",
+      "category": "Status",
+      "title": "Is There GTA 6 Online?",
+      "subtitle": "Not yet. Here is what we know.",
+      "icon": "globe.americas.fill",
+      "tags": [
+        "Online"
+      ],
+      "spoiler": false,
+      "body": "## Right now\nGTA 6 launched as a **single-player game**. There's no online mode, and Rockstar hasn't announced one or given a date.\n\n## What's been reported\n- Bloomberg has reported that multiplayer is expected around **late 2027**, about a year after launch. Rockstar hasn't confirmed this, so treat it as a **rumor**.\n- Take-Two has said it's too early to talk about how an online mode would be sold.\n\n## What happens here\nThe moment Rockstar announces GTA 6 Online, this tab fills up with heists, contact missions, businesses and money guides. Turn on new-content alerts so you don't miss it."
     }
   ],
   "checklists": [
+    {
+      "id": "c-before-ch1-end",
+      "title": "Before Chapter 1 Ends",
+      "icon": "exclamationmark.triangle.fill",
+      "items": [
+        {
+          "id": "ch1-save-slot",
+          "title": "Make a manual save in a new slot",
+          "detail": "Do this before 'Recalibration' and don't overwrite it"
+        },
+        {
+          "id": "ch1-family-savings",
+          "title": "Put $5,000+ in Family Savings",
+          "detail": "BuckMe app. Pocket cash is lost at the end of Chapter 1"
+        },
+        {
+          "id": "ch1-fix-house",
+          "title": "Fix up Jason's house",
+          "detail": "Optional repairs before 'Coming Home'. Lucia notices"
+        },
+        {
+          "id": "ch1-lucia-gifts",
+          "title": "Get Lucia's clothes, flowers and necklace",
+          "detail": "Optional tasks before 'Coming Home'"
+        },
+        {
+          "id": "ch1-38-revolver",
+          "title": "Grab the .38 from Donnie's trunk",
+          "detail": "In 'Don Gone', before you destroy the car"
+        },
+        {
+          "id": "ch1-kenton",
+          "title": "Do Kenton's treasure diving",
+          "detail": "Not available again until later in the story"
+        },
+        {
+          "id": "ch1-scan",
+          "title": "Scan cars and study animals as you go",
+          "detail": "Counts toward 100% and saves time later"
+        }
+      ]
+    },
     {
       "id": "c-launch-prep",
       "title": "Launch Prep",
@@ -136,8 +338,1190 @@
           "title": "Check audio mix and voice chat settings"
         }
       ]
+    },
+    {
+      "id": "c-100-percent",
+      "title": "100% Completion",
+      "icon": "checkmark.seal.fill",
+      "items": [
+        {
+          "id": "hp-story",
+          "title": "Finish the story"
+        },
+        {
+          "id": "hp-tasks",
+          "title": "100 optional tasks"
+        },
+        {
+          "id": "hp-gangops",
+          "title": "39 Gang Operations"
+        },
+        {
+          "id": "hp-bankjobs",
+          "title": "22 Bank Jobs"
+        },
+        {
+          "id": "hp-payday",
+          "title": "7 Payday Loans"
+        },
+        {
+          "id": "hp-vaults",
+          "title": "8 Vaults hit"
+        },
+        {
+          "id": "hp-cards",
+          "title": "15 of 18 Collectible Card Sets"
+        },
+        {
+          "id": "hp-meditation",
+          "title": "15 of 18 Meditation Spots",
+          "detail": "Each spot counts for Jason and Lucia separately"
+        },
+        {
+          "id": "hp-flamingos",
+          "title": "100 of 125 Cocaine Flamingos",
+          "detail": "Black-and-white beak = the real ones"
+        },
+        {
+          "id": "hp-underwater",
+          "title": "33 Underwater Discoveries"
+        },
+        {
+          "id": "hp-reading",
+          "title": "30 of 34 Magazines, Books and Comics"
+        },
+        {
+          "id": "hp-wainK",
+          "title": "100 WAiNK landmark scans"
+        },
+        {
+          "id": "hp-styles",
+          "title": "70 of 79 Styles"
+        },
+        {
+          "id": "hp-ranges",
+          "title": "42 Shooting Range gold medals",
+          "detail": "Buy the $5 waiver first"
+        },
+        {
+          "id": "hp-drones",
+          "title": "42 Drone Time Trials"
+        },
+        {
+          "id": "hp-stunts",
+          "title": "300 of 397 Stunts"
+        },
+        {
+          "id": "hp-challenges",
+          "title": "70 of 80 Challenges",
+          "detail": "Save these for last"
+        },
+        {
+          "id": "hp-vehicles",
+          "title": "Scan 200 base-model vehicles"
+        },
+        {
+          "id": "hp-animals",
+          "title": "Study 100 animals"
+        },
+        {
+          "id": "hp-weapons",
+          "title": "50 standard-issue weapons"
+        }
+      ]
     }
   ],
-  "cheats": [],
-  "missions": []
+  "cheats": [
+    {
+      "id": "cheat-money-1",
+      "name": "$250,000",
+      "effect": "Adds $250,000 to your cash.",
+      "category": "Player",
+      "playstation": [
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "UP",
+        "LEFT",
+        "DOWN",
+        "RIGHT"
+      ],
+      "xbox": [
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "UP",
+        "LEFT",
+        "DOWN",
+        "RIGHT"
+      ],
+      "disablesAchievements": true,
+      "notes": "Unlock: Finish the story. Story mode only. Cheats unlock after you finish the main story (Progress menu → Cheats), and each one has its own unlock too. To enter: press Up on the D-pad to open the phone, hold L1 (LB) and press R1 (RB), then enter the arrows. Cheats turn off trophies/achievements and saving until you quit, so save first. Your existing save isn't affected."
+    },
+    {
+      "id": "cheat-player-armor-1",
+      "name": "Body Armor",
+      "effect": "Gives you body armor.",
+      "category": "Player",
+      "playstation": [
+        "DOWN",
+        "UP",
+        "LEFT",
+        "UP",
+        "UP",
+        "UP",
+        "UP",
+        "UP",
+        "DOWN",
+        "DOWN"
+      ],
+      "xbox": [
+        "DOWN",
+        "UP",
+        "LEFT",
+        "UP",
+        "UP",
+        "UP",
+        "UP",
+        "UP",
+        "DOWN",
+        "DOWN"
+      ],
+      "disablesAchievements": true,
+      "notes": "Unlock: Complete 100 workouts. Story mode only. Cheats unlock after you finish the main story (Progress menu → Cheats), and each one has its own unlock too. To enter: press Up on the D-pad to open the phone, hold L1 (LB) and press R1 (RB), then enter the arrows. Cheats turn off trophies/achievements and saving until you quit, so save first. Your existing save isn't affected."
+    },
+    {
+      "id": "cheat-player-heat-1",
+      "name": "Raise Heat Level",
+      "effect": "Raises your heat level across the map.",
+      "category": "Player",
+      "playstation": [
+        "LEFT",
+        "DOWN",
+        "RIGHT",
+        "DOWN",
+        "UP",
+        "DOWN",
+        "UP"
+      ],
+      "xbox": [
+        "LEFT",
+        "DOWN",
+        "RIGHT",
+        "DOWN",
+        "UP",
+        "DOWN",
+        "UP"
+      ],
+      "disablesAchievements": true,
+      "notes": "Unlock: Lose a 3-star wanted level 25 times. Story mode only. Cheats unlock after you finish the main story (Progress menu → Cheats), and each one has its own unlock too. To enter: press Up on the D-pad to open the phone, hold L1 (LB) and press R1 (RB), then enter the arrows. Cheats turn off trophies/achievements and saving until you quit, so save first. Your existing save isn't affected."
+    },
+    {
+      "id": "cheat-player-wanted-1",
+      "name": "Raise Wanted Level",
+      "effect": "Raises your wanted level.",
+      "category": "Player",
+      "playstation": [
+        "LEFT",
+        "DOWN",
+        "RIGHT",
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "UP"
+      ],
+      "xbox": [
+        "LEFT",
+        "DOWN",
+        "RIGHT",
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "UP"
+      ],
+      "disablesAchievements": true,
+      "notes": "Unlock: Lose a 3-star wanted level 50 times. Story mode only. Cheats unlock after you finish the main story (Progress menu → Cheats), and each one has its own unlock too. To enter: press Up on the D-pad to open the phone, hold L1 (LB) and press R1 (RB), then enter the arrows. Cheats turn off trophies/achievements and saving until you quit, so save first. Your existing save isn't affected."
+    },
+    {
+      "id": "cheat-player-focus-1",
+      "name": "Unlimited Focus",
+      "effect": "Your focus meter never drains.",
+      "category": "Player",
+      "playstation": [
+        "DOWN",
+        "UP",
+        "UP",
+        "DOWN",
+        "UP",
+        "DOWN",
+        "UP",
+        "DOWN",
+        "UP",
+        "RIGHT"
+      ],
+      "xbox": [
+        "DOWN",
+        "UP",
+        "UP",
+        "DOWN",
+        "UP",
+        "DOWN",
+        "UP",
+        "DOWN",
+        "UP",
+        "RIGHT"
+      ],
+      "disablesAchievements": true,
+      "notes": "Unlock: Finish the story. Story mode only. Cheats unlock after you finish the main story (Progress menu → Cheats), and each one has its own unlock too. To enter: press Up on the D-pad to open the phone, hold L1 (LB) and press R1 (RB), then enter the arrows. Cheats turn off trophies/achievements and saving until you quit, so save first. Your existing save isn't affected."
+    },
+    {
+      "id": "cheat-combat-attackforce-1",
+      "name": "Attack Force",
+      "effect": "Shots and melee hits knock targets flying.",
+      "category": "Combat",
+      "playstation": [
+        "DOWN",
+        "UP",
+        "LEFT",
+        "LEFT",
+        "RIGHT",
+        "DOWN",
+        "DOWN",
+        "UP",
+        "DOWN"
+      ],
+      "xbox": [
+        "DOWN",
+        "UP",
+        "LEFT",
+        "LEFT",
+        "RIGHT",
+        "DOWN",
+        "DOWN",
+        "UP",
+        "DOWN"
+      ],
+      "disablesAchievements": true,
+      "notes": "Unlock: Finish the story. Story mode only. Cheats unlock after you finish the main story (Progress menu → Cheats), and each one has its own unlock too. To enter: press Up on the D-pad to open the phone, hold L1 (LB) and press R1 (RB), then enter the arrows. Cheats turn off trophies/achievements and saving until you quit, so save first. Your existing save isn't affected."
+    },
+    {
+      "id": "cheat-combat-balls-1",
+      "name": "Exploding Balls",
+      "effect": "Sports balls explode when they hit something.",
+      "category": "Combat",
+      "playstation": [
+        "DOWN",
+        "UP",
+        "LEFT",
+        "LEFT",
+        "RIGHT",
+        "DOWN",
+        "DOWN",
+        "UP",
+        "RIGHT"
+      ],
+      "xbox": [
+        "DOWN",
+        "UP",
+        "LEFT",
+        "LEFT",
+        "RIGHT",
+        "DOWN",
+        "DOWN",
+        "UP",
+        "RIGHT"
+      ],
+      "disablesAchievements": true,
+      "notes": "Unlock: Hit 20 enemies with explosive damage. Story mode only. Cheats unlock after you finish the main story (Progress menu → Cheats), and each one has its own unlock too. To enter: press Up on the D-pad to open the phone, hold L1 (LB) and press R1 (RB), then enter the arrows. Cheats turn off trophies/achievements and saving until you quit, so save first. Your existing save isn't affected."
+    },
+    {
+      "id": "cheat-combat-infammo-1",
+      "name": "Infinite Ammo",
+      "effect": "Your ammo never runs out.",
+      "category": "Combat",
+      "playstation": [
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "LEFT",
+        "UP",
+        "DOWN",
+        "DOWN",
+        "DOWN"
+      ],
+      "xbox": [
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "LEFT",
+        "UP",
+        "DOWN",
+        "DOWN",
+        "DOWN"
+      ],
+      "disablesAchievements": true,
+      "notes": "Unlock: Win 25 silver (or better) shooting range medals. Story mode only. Cheats unlock after you finish the main story (Progress menu → Cheats), and each one has its own unlock too. To enter: press Up on the D-pad to open the phone, hold L1 (LB) and press R1 (RB), then enter the arrows. Cheats turn off trophies/achievements and saving until you quit, so save first. Your existing save isn't affected."
+    },
+    {
+      "id": "cheat-combat-maxammo-1",
+      "name": "Max Ammo",
+      "effect": "Fills the ammo for every weapon you carry.",
+      "category": "Combat",
+      "playstation": [
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "LEFT",
+        "UP",
+        "UP",
+        "DOWN",
+        "LEFT"
+      ],
+      "xbox": [
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "LEFT",
+        "UP",
+        "UP",
+        "DOWN",
+        "LEFT"
+      ],
+      "disablesAchievements": true,
+      "notes": "Unlock: Win 25 bronze (or better) shooting range medals. Story mode only. Cheats unlock after you finish the main story (Progress menu → Cheats), and each one has its own unlock too. To enter: press Up on the D-pad to open the phone, hold L1 (LB) and press R1 (RB), then enter the arrows. Cheats turn off trophies/achievements and saving until you quit, so save first. Your existing save isn't affected."
+    },
+    {
+      "id": "cheat-combat-noreload-1",
+      "name": "No Reload",
+      "effect": "Infinite ammo and you never need to reload.",
+      "category": "Combat",
+      "playstation": [
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "LEFT",
+        "UP",
+        "DOWN",
+        "DOWN",
+        "UP"
+      ],
+      "xbox": [
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "LEFT",
+        "UP",
+        "DOWN",
+        "DOWN",
+        "UP"
+      ],
+      "disablesAchievements": true,
+      "notes": "Unlock: Win 25 gold shooting range medals. Story mode only. Cheats unlock after you finish the main story (Progress menu → Cheats), and each one has its own unlock too. To enter: press Up on the D-pad to open the phone, hold L1 (LB) and press R1 (RB), then enter the arrows. Cheats turn off trophies/achievements and saving until you quit, so save first. Your existing save isn't affected."
+    },
+    {
+      "id": "cheat-combat-vehicleforce-1",
+      "name": "Vehicle Force",
+      "effect": "Anything you hit with a vehicle gets launched.",
+      "category": "Combat",
+      "playstation": [
+        "DOWN",
+        "UP",
+        "LEFT",
+        "LEFT",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "UP",
+        "DOWN"
+      ],
+      "xbox": [
+        "DOWN",
+        "UP",
+        "LEFT",
+        "LEFT",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "UP",
+        "DOWN"
+      ],
+      "disablesAchievements": true,
+      "notes": "Unlock: Kill 25 enemies with a vehicle. Story mode only. Cheats unlock after you finish the main story (Progress menu → Cheats), and each one has its own unlock too. To enter: press Up on the D-pad to open the phone, hold L1 (LB) and press R1 (RB), then enter the arrows. Cheats turn off trophies/achievements and saving until you quit, so save first. Your existing save isn't affected."
+    },
+    {
+      "id": "cheat-vehicle-bulldozer-1",
+      "name": "Spawn HVY Bulldozer",
+      "effect": "Spawns an HVY Bulldozer.",
+      "category": "Vehicles",
+      "playstation": [
+        "LEFT",
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "RIGHT",
+        "RIGHT",
+        "DOWN"
+      ],
+      "xbox": [
+        "LEFT",
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "RIGHT",
+        "RIGHT",
+        "DOWN"
+      ],
+      "disablesAchievements": true,
+      "notes": "Unlock: Discover the HVY Bulldozer in the Progress menu. Story mode only. Cheats unlock after you finish the main story (Progress menu → Cheats), and each one has its own unlock too. To enter: press Up on the D-pad to open the phone, hold L1 (LB) and press R1 (RB), then enter the arrows. Cheats turn off trophies/achievements and saving until you quit, so save first. Your existing save isn't affected."
+    },
+    {
+      "id": "cheat-vehicle-pumper-1",
+      "name": "Spawn MTL Pumper",
+      "effect": "Spawns an MTL Pumper fire truck.",
+      "category": "Vehicles",
+      "playstation": [
+        "LEFT",
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "RIGHT",
+        "RIGHT",
+        "UP"
+      ],
+      "xbox": [
+        "LEFT",
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "RIGHT",
+        "RIGHT",
+        "UP"
+      ],
+      "disablesAchievements": true,
+      "notes": "Unlock: Discover the MTL Pumper in the Progress menu. Story mode only. Cheats unlock after you finish the main story (Progress menu → Cheats), and each one has its own unlock too. To enter: press Up on the D-pad to open the phone, hold L1 (LB) and press R1 (RB), then enter the arrows. Cheats turn off trophies/achievements and saving until you quit, so save first. Your existing save isn't affected."
+    },
+    {
+      "id": "cheat-vehicle-boomazoom-1",
+      "name": "Spawn Maibatsu Boomazoom",
+      "effect": "Spawns a Maibatsu Boomazoom.",
+      "category": "Vehicles",
+      "playstation": [
+        "LEFT",
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "LEFT",
+        "UP",
+        "LEFT"
+      ],
+      "xbox": [
+        "LEFT",
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "LEFT",
+        "UP",
+        "LEFT"
+      ],
+      "disablesAchievements": true,
+      "notes": "Unlock: Complete 5 Shopping challenges. Story mode only. Cheats unlock after you finish the main story (Progress menu → Cheats), and each one has its own unlock too. To enter: press Up on the D-pad to open the phone, hold L1 (LB) and press R1 (RB), then enter the arrows. Cheats turn off trophies/achievements and saving until you quit, so save first. Your existing save isn't affected."
+    },
+    {
+      "id": "cheat-world-weather-1",
+      "name": "Cycle Weather",
+      "effect": "Switches to the next weather type each time you enter it.",
+      "category": "World",
+      "playstation": [
+        "DOWN",
+        "RIGHT",
+        "UP",
+        "DOWN",
+        "RIGHT",
+        "UP",
+        "RIGHT"
+      ],
+      "xbox": [
+        "DOWN",
+        "RIGHT",
+        "UP",
+        "DOWN",
+        "RIGHT",
+        "UP",
+        "RIGHT"
+      ],
+      "disablesAchievements": true,
+      "notes": "Unlock: Finish the story. Story mode only. Cheats unlock after you finish the main story (Progress menu → Cheats), and each one has its own unlock too. To enter: press Up on the D-pad to open the phone, hold L1 (LB) and press R1 (RB), then enter the arrows. Cheats turn off trophies/achievements and saving until you quit, so save first. Your existing save isn't affected."
+    },
+    {
+      "id": "cheat-filter-cataclysm-1",
+      "name": "Cataclysm filter",
+      "effect": "Adds a murky, smoky screen filter.",
+      "category": "Screen Filters",
+      "playstation": [
+        "DOWN",
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "RIGHT",
+        "UP",
+        "LEFT",
+        "LEFT",
+        "RIGHT",
+        "RIGHT"
+      ],
+      "xbox": [
+        "DOWN",
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "RIGHT",
+        "UP",
+        "LEFT",
+        "LEFT",
+        "RIGHT",
+        "RIGHT"
+      ],
+      "disablesAchievements": true,
+      "notes": "Unlock: Discover Martha's Vamos in the Progress menu. Story mode only. Cheats unlock after you finish the main story (Progress menu → Cheats), and each one has its own unlock too. To enter: press Up on the D-pad to open the phone, hold L1 (LB) and press R1 (RB), then enter the arrows. Cheats turn off trophies/achievements and saving until you quit, so save first. Your existing save isn't affected."
+    },
+    {
+      "id": "cheat-filter-dollhouse-1",
+      "name": "Dollhouse filter",
+      "effect": "Screen filter with vivid colors and a narrower picture.",
+      "category": "Screen Filters",
+      "playstation": [
+        "DOWN",
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "RIGHT",
+        "UP",
+        "LEFT",
+        "LEFT",
+        "DOWN",
+        "RIGHT"
+      ],
+      "xbox": [
+        "DOWN",
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "RIGHT",
+        "UP",
+        "LEFT",
+        "LEFT",
+        "DOWN",
+        "RIGHT"
+      ],
+      "disablesAchievements": true,
+      "notes": "Unlock: Spend 8 hours with your partner. Story mode only. Cheats unlock after you finish the main story (Progress menu → Cheats), and each one has its own unlock too. To enter: press Up on the D-pad to open the phone, hold L1 (LB) and press R1 (RB), then enter the arrows. Cheats turn off trophies/achievements and saving until you quit, so save first. Your existing save isn't affected."
+    },
+    {
+      "id": "cheat-filter-fadedglory-1",
+      "name": "Faded Glory filter",
+      "effect": "Adds the Faded Glory screen filter.",
+      "category": "Screen Filters",
+      "playstation": [
+        "DOWN",
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "RIGHT",
+        "UP",
+        "LEFT",
+        "LEFT",
+        "LEFT",
+        "RIGHT"
+      ],
+      "xbox": [
+        "DOWN",
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "RIGHT",
+        "UP",
+        "LEFT",
+        "LEFT",
+        "LEFT",
+        "RIGHT"
+      ],
+      "disablesAchievements": true,
+      "notes": "Unlock: Rob 50 stores with your partner. Story mode only. Cheats unlock after you finish the main story (Progress menu → Cheats), and each one has its own unlock too. To enter: press Up on the D-pad to open the phone, hold L1 (LB) and press R1 (RB), then enter the arrows. Cheats turn off trophies/achievements and saving until you quit, so save first. Your existing save isn't affected."
+    }
+  ],
+  "missions": [
+    {
+      "id": "story-prologue",
+      "mode": "story",
+      "chapter": "Chapter 1",
+      "order": 1,
+      "title": "Prologue",
+      "giver": "Lucia Caminos",
+      "summary": "Lucia's story opens behind bars, then flashes back to the robbery that put her there.",
+      "steps": [
+        "Talk to your cellmate. Hold **L2 / LT** to pick a dialogue option.",
+        "Follow the guard down the hall to the office.",
+        "In the flashback, aim at the cashier and threaten them.",
+        "Grab the cash, then hit the on-screen prompt when a customer tackles you.",
+        "Run from the police over the rooftops and through the garage.",
+        "Make your way back to the coffee shop to wrap up the mission."
+      ],
+      "objectives": [],
+      "tips": [
+        "This is a tutorial mission: it teaches dialogue choices, aiming, and climbing (jump to vault ledges).",
+        "There are no bonus objectives here, so just play it through."
+      ],
+      "rewards": "None"
+    },
+    {
+      "id": "story-gone-fishing",
+      "mode": "story",
+      "chapter": "Chapter 1",
+      "order": 2,
+      "title": "Gone Fishing",
+      "giver": "Cal",
+      "summary": "Jason's first mission: a boat run with Cal to pick up a drug drop turns into a rescue when Donnie gets grabbed.",
+      "steps": [
+        "Drive the boat after Donnie's plane.",
+        "Slow down beside each floating package so Cal can hook it. There are three.",
+        "Use the binoculars to watch the deal at the docks.",
+        "Go ashore and search the camp for Donnie. Sneak up behind guards for **silent knockouts**.",
+        "Free Donnie in the shack and win the fight with the big guard.",
+        "Pick up the Zombix, then get to the seaplane.",
+        "Fly to Brian's Marina. Hold **L2 / LT** to slow down and land on the water, then head to the dock.",
+        "Drive Cal home, then drive to Jason's house."
+      ],
+      "objectives": [
+        "Optional: grab Brian's cash from the trailer on the way to the plane. It's easy to miss."
+      ],
+      "tips": [
+        "Expect someone to jump out at you inside the cash trailer.",
+        "Stealth earns Professional reputation. Shooting limbs instead of killing helps your reputation too.",
+        "Zombix heals you. Keep some on you.",
+        "Press **L3 + R3** to use Focus."
+      ],
+      "rewards": "Jason's house in Key Lento"
+    },
+    {
+      "id": "story-gear-up",
+      "mode": "story",
+      "chapter": "Chapter 1",
+      "order": 3,
+      "title": "Gear Up",
+      "giver": "Jason",
+      "summary": "Jason heads to the local gun shop to pick up a long gun from Andrew, and runs into trouble on the way out.",
+      "steps": [
+        "Check the mailbox outside Jason's house. Mission pay lands there, so grab any cash waiting for you.",
+        "Set a waypoint to the gun shop near Jason's house and drive there.",
+        "Talk to **Andrew** at the counter.",
+        "Open the shop menu and buy a **longarm**. You can pick the shotgun or the tactical rifle.",
+        "Leave the shop. Three **Kingfishers** jump you outside.",
+        "Take down all three.",
+        "Call **Donnie** to warn him about the Kingfishers."
+      ],
+      "tips": [
+        "Fight the Kingfishers with your fists. Gunfire draws police attention fast.",
+        "Which longarm you buy doesn't change the mission. If you have cash left, spend it on a weapon mod.",
+        "Keep checking the mailbox at Jason's house. You don't have a bank account yet, so payments arrive there."
+      ],
+      "rewards": "A shotgun or tactical rifle of your choice"
+    },
+    {
+      "id": "story-just-a-scratch",
+      "mode": "story",
+      "chapter": "Chapter 1",
+      "order": 4,
+      "title": "Just a Scratch",
+      "giver": "Jason",
+      "summary": "Jason takes his beat-up Ganado to Joey at Coastal Auto Care for a free repair and paint job.",
+      "steps": [
+        "Drive Jason's Ganado to **Coastal Auto Care** near his house.",
+        "Talk to **Joey** outside the garage.",
+        "Pull the car into the garage once the door opens.",
+        "In the repair menu, choose the **full engine** repair. It's free.",
+        "Go to Cosmetics, then Respray, and pick any color. The respray is free too, and the mission ends."
+      ],
+      "tips": [
+        "You keep this car for the rest of Chapter 1 but it gets replaced later, so don't sink much money into upgrades.",
+        "A respray is a quick way to shake police who know your car. Remember this shop when you have heat on you."
+      ],
+      "rewards": "Free engine repair and respray"
+    },
+    {
+      "id": "story-lab-fees",
+      "mode": "story",
+      "chapter": "Chapter 1",
+      "order": 5,
+      "title": "Lab Fees",
+      "giver": "Brian",
+      "summary": "Brian sends Jason to collect overdue rent from a shop tenant in Key Lento who has no intention of paying.",
+      "steps": [
+        "Drive to the marker at the small shop tucked behind the surf shop in Key Lento.",
+        "Ask the clerk behind the counter for Brian's rent.",
+        "When he refuses, lean on him until he backs down.",
+        "Open the back room with keypad code **0420**.",
+        "Grab the acid from the back room.",
+        "Call Brian to find out where to drop it.",
+        "Drive to Brian's lockup in the southern Keys, enter code **7700** and stash the acid inside."
+      ],
+      "objectives": [],
+      "tips": [
+        "Remember code 7700. Brian's lockup is also where you can offload drugs you find later for cash."
+      ],
+      "rewards": "Access to Brian's lockup"
+    },
+    {
+      "id": "story-unwanted-attention",
+      "mode": "story",
+      "chapter": "Chapter 1",
+      "order": 6,
+      "title": "Unwanted Attention",
+      "giver": "Cal",
+      "summary": "Cal sends Jason to pull a red Imponte Phoenix out of the Hamlet police impound and get it to a garage without the cops tracing it.",
+      "steps": [
+        "Meet Cal on the north side of Key Lento and ride with him to Hamlet. He adds a **police scanner** app to your phone.",
+        "Climb the impound fence instead of breaking it, then crouch and use the containers to reach the red Phoenix.",
+        "Get in the tow truck and unhook the Phoenix, then get in the Phoenix.",
+        "Roll up to the main gate and wait for it to open.",
+        "Floor it and lose the police.",
+        "Respray the Phoenix at the Pay 'n' Spray in Hamlet.",
+        "Park it in the marked garage and grab the **$150** inside.",
+        "Spend the cash on new clothes at the gun store next door and change to shake off the heat."
+      ],
+      "tips": [
+        "Stay sneaky in the impound. Breaking the fence or knocking out guards puts the police on alert.",
+        "Police remember your car and clothes. A respray or a change of outfit helps you get away clean.",
+        "After the mission, wait for the heat to die down. Cal texts you about the payment once it does."
+      ],
+      "rewards": "$150 and the police scanner app"
+    },
+    {
+      "id": "story-pipework",
+      "mode": "story",
+      "chapter": "Chapter 1",
+      "order": 7,
+      "title": "Pipework",
+      "giver": "Mandy",
+      "summary": "Jason stops by to collect a tenant's rent, but she won't hand it over until he fixes her blocked sink.",
+      "steps": [
+        "Drive to Mandy's house and talk to her out front.",
+        "Follow her inside.",
+        "Grab the plunger from the bathroom.",
+        "Go to the blocked sink and plunge it with **R3 / RS**.",
+        "Use the wrench on the pipe under the sink to finish clearing it.",
+        "Head out once the job is done."
+      ],
+      "objectives": [],
+      "tips": [
+        "Plunger first, wrench second: the wrench step only comes up once the sink has been plunged."
+      ],
+      "rewards": "Mandy's rent"
+    },
+    {
+      "id": "story-hey-arnold",
+      "mode": "story",
+      "chapter": "Chapter 1",
+      "order": 8,
+      "title": "Hey Arnold!",
+      "giver": "Brian",
+      "summary": "Brian's broker Arnold has gone quiet, so Jason and Cal ride along with Brian to track him down in Maroon Key.",
+      "steps": [
+        "Meet Brian at the pool bar in southern Key Lento.",
+        "Get in the driver's seat of Brian's truck.",
+        "Drive to the nearby liquor store and pick up Cal.",
+        "Head south to the search area near the Radar Station in Maroon Key and take the first left to find Arnold.",
+        "When the meeting goes wrong, chase Arnold's car and fight off the men on motorcycles.",
+        "Keep after him across the broken bridge; the jumps there trigger automatically.",
+        "Follow Arnold on foot once he ditches the car and corner him at the docks.",
+        "Decide whether to **kill** or **spare** Arnold.",
+        "If you fired a gun, leave the area before the police show up."
+      ],
+      "objectives": [],
+      "tips": [
+        "Aim from the truck with **L1 / LB**, fire with **R1 / RB**, and click **L3 + R3** together to slow time for easier shots.",
+        "Shooting out a tire on Arnold's car can end the car chase early.",
+        "The kill-or-spare choice doesn't change how the mission ends, but it can count toward Jason's criminal profile."
+      ],
+      "rewards": "Story progress"
+    },
+    {
+      "id": "story-island-dreams",
+      "mode": "story",
+      "chapter": "Chapter 1",
+      "order": 9,
+      "title": "Island Dreams",
+      "giver": "Kenton",
+      "summary": "Kenton, who runs a beach dive shop, offers Jason the use of his boat and scuba gear in exchange for guiding a group of tourists on a wreck dive.",
+      "steps": [
+        "Meet Kenton at his Island Dreams shop by the beach.",
+        "Take the boat out to the marked spot offshore.",
+        "Put on the scuba gear at the back of the boat and dive in.",
+        "Lead the tourists through the underwater trench to the shipwreck.",
+        "Equip the **metal detector** from the weapon wheel and sweep the search area until it turns green.",
+        "Collect the treasure on the seabed.",
+        "Free the stuck diver at the wreck.",
+        "Deal with the **shark** on the way back using the harpoon gun.",
+        "Swim back up to the boat to finish."
+      ],
+      "objectives": [],
+      "tips": [
+        "Keep an eye on the oxygen bar in the top-left corner.",
+        "Click **L3 / LS** to swim faster underwater.",
+        "The shark goes down quicker if you stay close, since harpoon shots drop off over distance.",
+        "You can return to wrecks later to look for more treasure, and Kenton's boat and gear stay available to you."
+      ],
+      "rewards": "Access to Kenton's shop, boat and diving gear"
+    },
+    {
+      "id": "story-feng-shui",
+      "mode": "story",
+      "chapter": "Chapter 1",
+      "order": 10,
+      "title": "Feng Shui",
+      "giver": "Cal",
+      "summary": "A low-key mission at Jason's house: Cal helps rearrange the living room, then the two unwind with some video games.",
+      "steps": [
+        "After Island Dreams, wait for the text and head to Jason's house in Key Lento.",
+        "Go inside to start the mission, then sit on the couch.",
+        "Move the TV, coffee table, couch and chair to where Cal suggests.",
+        "Play **Tenebrae Lux** with Cal until it ends.",
+        "Play **Street Trash III** until it ends."
+      ],
+      "objectives": [],
+      "tips": [
+        "It doesn't matter whether you accept the coffee table spot or keep moving it; the result is the same.",
+        "Neither video game can be won, so don't stress about your score. They end on their own."
+      ],
+      "rewards": "Story progress"
+    },
+    {
+      "id": "story-coming-home",
+      "mode": "story",
+      "chapter": "Chapter 1",
+      "order": 11,
+      "title": "Coming Home",
+      "giver": "Lucia",
+      "summary": "Lucia is finally released, and Jason picks her up and takes her out to celebrate with friends. The night doesn't stay calm for long.",
+      "steps": [
+        "Optional: run errands for Lucia's return, like picking up her clothes, a gift and flowers, and getting a haircut.",
+        "When Lucia calls, drive to the prison and check in with the guard at reception.",
+        "Meet Lucia outside and get in the car together.",
+        "Drive to **The Rusty Anchor** bar and head inside.",
+        "Order drinks, then find Lucia and talk to her.",
+        "Mingle with your friends at the bar.",
+        "Dance with Lucia if you want to.",
+        "Play a game of pool with Mattia.",
+        "Take the confrontation outside and win the fistfight.",
+        "Run from the police with Lucia to finish."
+      ],
+      "objectives": [],
+      "tips": [
+        "The pre-mission errands and the house repairs are optional, but they give Jason and Lucia's relationship a better start.",
+        "Accepting the dance gives a small relationship boost.",
+        "In the fight, block when your opponent starts winding up, then hit back."
+      ],
+      "rewards": "Story progress"
+    },
+    {
+      "id": "story-buck-me",
+      "mode": "story",
+      "chapter": "Chapter 1",
+      "order": 12,
+      "title": "Buck Me",
+      "giver": "Lucia",
+      "summary": "Jason tries to open a bank account and ends up with the BuckMe app instead.",
+      "steps": [
+        "After Lucia calls, drive to the **Fleeca** bank in Key Lento.",
+        "Ask the teller about opening an account.",
+        "Talk to the manager and follow him into his office.",
+        "Watch the cutscene back at home.",
+        "Open your phone and launch the **BuckMe** app.",
+        "From the checking account, move the $100 welcome deposit into **Family Savings**."
+      ],
+      "objectives": [],
+      "tips": [
+        "Money in Family Savings can't be withdrawn, but you also can't lose it.",
+        "You can deposit cash at ATMs through BuckMe, which protects it if you die.",
+        "Reaching savings goals unlocks discounts and raises your checking limit."
+      ],
+      "rewards": "Unlocks the BuckMe banking app",
+      "spoiler": false
+    },
+    {
+      "id": "story-clean-up-after-donnie",
+      "order": 13,
+      "title": "Clean Up After Donnie",
+      "giver": "Donnie",
+      "summary": "One of Donnie's drug drops went missing in the swamp. Track it down, take it back from the Kingfishers and bring it to his trailer.",
+      "steps": [
+        "Drive to the search area by the river in the Hamlet swamps.",
+        "Ask the fisherman on the dock, then **inspect the spot** where the package was.",
+        "Take the boat parked nearby downriver to the **Kingfisher shack**.",
+        "Take out the Kingfishers and grab the package from inside the shack.",
+        "Fight off the Kingfishers who come after you by boat.",
+        "Bring the package back to **Donnie's trailer** in Key Lento and drop it in his container out back."
+      ],
+      "objectives": [],
+      "tips": [
+        "Clear the Kingfishers fast: the boat gives you very little cover.",
+        "Look for a sniper rifle in the shack. It makes the boat fight much easier.",
+        "After this mission you can sell drugs to Donnie at his trailer, one of the best early ways to make money."
+      ],
+      "rewards": "About $600, paid later by mail (check Jason's mailbox). Unlocks selling to Donnie.",
+      "mode": "story",
+      "chapter": "Chapter 1"
+    },
+    {
+      "id": "story-down-to-earth",
+      "order": 14,
+      "title": "Down to Earth",
+      "giver": "Brian",
+      "summary": "A boat-cleaning favor for Brian turns into a seaplane smuggling run with Lucia, and you have to beat her parole officer home.",
+      "steps": [
+        "Meet Brian at his marina.",
+        "Pressure-wash the boat until all the grime is gone.",
+        "Board the seaplane with Lucia and fly to the marked pickup in the northwest.",
+        "Land on the water near the boat and pick up the package.",
+        "Deal with the smugglers when the deal goes bad.",
+        "Fly to each drop point and land on the water (Lucia handles the drops).",
+        "Fly back, land near the dock and hurry home: Lucia's **parole officer** is on the way.",
+        "Hide the drugs in the **washing machine** under the house.",
+        "Join Lucia while she talks to the parole officer."
+      ],
+      "objectives": [],
+      "tips": [
+        "Ease onto the water slowly. Hitting it too hard destroys the plane and fails the mission.",
+        "If you land a little short, you can taxi across the water to the marker.",
+        "Shooting enemies in the arms and legs instead of killing them keeps your criminal profile less violent.",
+        "After the cutscene Lucia shows you how to **meditate**, which unlocks the first Meditation Spot collectible."
+      ],
+      "rewards": "Unlocks Meditation Spots",
+      "mode": "story",
+      "chapter": "Chapter 1"
+    },
+    {
+      "id": "story-clear-skies",
+      "order": 15,
+      "title": "Clear Skies",
+      "giver": "Donnie",
+      "summary": "Fly with Donnie to escort a drug plane. The handoff turns into an ambush by a biker gang and you have to get Donnie out alive.",
+      "steps": [
+        "Meet Donnie at his seaplane, then find **Brian at the bar** up the street.",
+        "Take off from the water and fly to the intercept point out over the ocean.",
+        "Find **Pilot Pete** and fly right above his plane to escort him to the swamp airstrip.",
+        "Fly to the second airstrip and land carefully.",
+        "Head to the deal on foot. When it's ambushed, take out the bikers.",
+        "Clear the buildings along the strip and **free Donnie**.",
+        "Cover Donnie while he gets to the plane.",
+        "Grab a bike and chase down Donnie's plane at the meeting point.",
+        "Back at home, help Lucia build the coffee table."
+      ],
+      "objectives": [],
+      "tips": [
+        "Destroying the plane on landing is an instant fail. Take it slow.",
+        "Flying directly above Pete's plane keeps you off radar.",
+        "If Donnie goes down you restart from the checkpoint, so prioritize enemies shooting at him.",
+        "The coffee table scene at the end is sometimes listed as its own mission, \"Building a Life.\""
+      ],
+      "rewards": "None",
+      "mode": "story",
+      "chapter": "Chapter 1"
+    },
+    {
+      "id": "story-day-release",
+      "order": 16,
+      "title": "Day Release",
+      "giver": "Mattia",
+      "summary": "Lucia gets a night off from her ankle monitor and Mattia takes everyone out: a yacht party, a jetski race, a supercar chase and a club in Vice City.",
+      "steps": [
+        "Meet the group at **The Rusty Anchor** bar.",
+        "Take the speedboat out to Mattia's **yacht**.",
+        "Race Mattia on jetskis back to the yacht.",
+        "As Lucia, shoot the champagne bottles out of the air in slow motion.",
+        "Pick a **dress** for Lucia, then find Mattia on the lowest deck.",
+        "Follow Mattia's supercar through Vice City.",
+        "Follow him into the **club** and join him in VIP, then dance with Jason.",
+        "Get out of the hotel over the balcony (jump into the pool) to escape security.",
+        "You wake up back in Key Lento as Jason."
+      ],
+      "objectives": [
+        "Ride the jetski together with Jason (relationship boost)",
+        "Hit the dance prompts at the club (relationship boost)"
+      ],
+      "tips": [
+        "The jetski race result doesn't matter, so don't stress it.",
+        "If you wreck the car in the chase, reset it to fully repair it. The only way to fail the chase is destroying it.",
+        "The dress you choose is unlocked for Lucia permanently. It's the earliest free outfit in the game."
+      ],
+      "rewards": "A free outfit for Lucia",
+      "mode": "story",
+      "chapter": "Chapter 1"
+    },
+    {
+      "id": "story-swamped",
+      "order": 17,
+      "title": "Swamped",
+      "giver": "Brian",
+      "summary": "Brian takes you to the Kingfisher camp to settle things. It goes badly, and the Kingfishers grab Lori.",
+      "steps": [
+        "Meet Brian at the marina and ride with him to the **Kingfisher camp** in the northwest swamps.",
+        "Follow Brian into the camp.",
+        "When it turns violent, fight your way out with Brian.",
+        "Take the **helicopter** and go after the Kingfishers who have Lori.",
+        "Shoot from the helicopter to take out her captors without hitting Lori.",
+        "Finish the chase by boat: pull right alongside Lori's boat and jump across.",
+        "Win the struggle to end the mission."
+      ],
+      "objectives": [],
+      "tips": [
+        "Watch your aim around Lori. Hitting her fails the mission.",
+        "When the game prompts you, blow up the Kingfishers' truck to take out a lot of them at once.",
+        "Get very close to Lori's boat or the jump won't trigger.",
+        "Back home, tell Lucia about Brian's plans for a small relationship boost."
+      ],
+      "rewards": "None",
+      "mode": "story",
+      "chapter": "Chapter 1"
+    },
+    {
+      "id": "story-don-gone",
+      "order": 18,
+      "title": "Don Gone",
+      "giver": "Brian",
+      "summary": "Make it look like Donnie packed up and left town: clear out his trailer, then get rid of his car.",
+      "steps": [
+        "Go to **Donnie's trailer** and take down his flag.",
+        "Pack up the marked items: his bag, the photo, his clothes, the flight schedule, the map on the fridge and his ID.",
+        "Leave the trailer and deal with the men from the bar (fight or run for the car).",
+        "Load the stuff into Donnie's car and drive out of Key Lento.",
+        "Find a quiet spot and **destroy the car** (gas can in the trunk, or shoot the engine).",
+        "Leave the area and call Brian."
+      ],
+      "objectives": [],
+      "tips": [
+        "**Missable:** open the trunk before you destroy the car to grab a unique **.38 revolver**.",
+        "Hold L3 + R3 inside the trailer to highlight the items you need.",
+        "How you destroy the car doesn't matter."
+      ],
+      "rewards": "Unique .38 revolver (if you open the trunk first)",
+      "mode": "story",
+      "chapter": "Chapter 1"
+    },
+    {
+      "id": "story-recalibration",
+      "order": 19,
+      "title": "Recalibration",
+      "giver": "Lucia",
+      "summary": "Cal is taking things hard. Lucia sends Jason to cheer him up with beer, a fishing trip and a cookout.",
+      "steps": [
+        "Buy a **six-pack** at the marked liquor store.",
+        "Drive to Cal's house and talk to him out back by the water.",
+        "Take the boat out to the fishing spot.",
+        "Catch the fish: cast, wait for a bite, then push the stick against the fish and reel it in.",
+        "Head back to Cal's dock and **grill** the fish, flipping them before they burn.",
+        "Serve the food, then go after Lucia when she leaves.",
+        "Drive Lucia home."
+      ],
+      "objectives": [],
+      "tips": [
+        "Before you start: make a manual save in a NEW slot and move your cash into Family Savings (BuckMe). Cash you're carrying is lost, you lose Jason's Key Lento house, and there's no free roam again until Chapter 2.",
+        "Use the right stick to attract fish before you wait for a bite."
+      ],
+      "rewards": "None",
+      "mode": "story",
+      "chapter": "Chapter 1"
+    },
+    {
+      "id": "story-tourist-trap",
+      "order": 20,
+      "title": "Tourist Trap",
+      "giver": "Mattia",
+      "summary": "Mattia's 'easy' job, grabbing a bag from a locker, is a setup. The police are waiting, and Jason gets badly hurt.",
+      "steps": [
+        "Go to the **Visitor Center** and get the bag from the lockers.",
+        "Head back toward the car. You'll be arrested.",
+        "When the interrogation goes wrong, switch to **Lucia** and fight back.",
+        "Fight your way out of the building, picking up weapons as you go.",
+        "Get Jason to the dock while covering him.",
+        "Shoot the explosive canisters on the incoming vehicles.",
+        "Escape by boat into open water and head to Cal's."
+      ],
+      "objectives": [],
+      "tips": [
+        "Before you start: make a manual save in a NEW slot and move your cash into Family Savings (BuckMe). Cash you're carrying is lost, you lose Jason's Key Lento house, and there's no free roam again until Chapter 2.",
+        "Stay close to Jason. If he dies the mission fails.",
+        "Use Focus Mode (L3 + R3) to spot explosives, which glow red.",
+        "Police you kill here are part of the story and don't count against your criminal profile."
+      ],
+      "rewards": "None",
+      "mode": "story",
+      "chapter": "Chapter 1"
+    },
+    {
+      "id": "story-home-sweet-home",
+      "order": 21,
+      "title": "Home Sweet Home",
+      "giver": "Lucia",
+      "summary": "Lucia goes back for Jason's things, but robbers hit the house and it goes up in flames. Then she has to slip past a police search.",
+      "steps": [
+        "Enter Jason's house and fight off the two robbers.",
+        "Get out the front door before the house **explodes**.",
+        "Stay crouched in the dark and avoid the police.",
+        "Reach the main road through Key Lento.",
+        "Steal a car (or stay on foot) and get out of the search area."
+      ],
+      "objectives": [],
+      "tips": [
+        "Don't go for the cash in the house. There isn't time.",
+        "Crouching in the dark keeps you hidden. A car is the fastest way out."
+      ],
+      "rewards": "None",
+      "mode": "story",
+      "chapter": "Chapter 1"
+    },
+    {
+      "id": "story-discharge-time",
+      "order": 22,
+      "title": "Discharge Time",
+      "giver": "Lucia",
+      "summary": "The Chapter 1 finale. Gunmen find Jason at the hospital and Lucia has to get him out, wheelchair and all.",
+      "steps": [
+        "As Lucia, go to the second floor and find Jason's room.",
+        "As Jason in the wheelchair, shoot the attackers while Lucia pushes you out.",
+        "Clear the ambulance bay while Lucia goes for a vehicle.",
+        "When you're knocked down, crawl to the gun.",
+        "Ride in the back of the **ambulance** and shoot the cars chasing you.",
+        "Make it out to finish Chapter 1."
+      ],
+      "objectives": [],
+      "tips": [
+        "Use Focus Mode in the hospital: enemies come in big groups.",
+        "Shoot tires and engines on the chase cars to cause pileups that clear the road.",
+        "If you get lost, ask the hospital receptionist where Jason is."
+      ],
+      "rewards": "Starts Chapter 2",
+      "mode": "story",
+      "chapter": "Chapter 1"
+    }
+  ]
 }
