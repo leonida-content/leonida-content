@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -138,6 +138,79 @@
       ]
     }
   ],
-  "cheats": [],
-  "missions": []
+  "cheats": [
+    {
+      "id": "cheat-player-wanted-1",
+      "name": "Raise Wanted Level",
+      "effect": "Raises your wanted level.",
+      "category": "Player",
+      "playstation": [
+        "LEFT",
+        "DOWN",
+        "RIGHT",
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "UP"
+      ],
+      "xbox": [
+        "LEFT",
+        "DOWN",
+        "RIGHT",
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "UP"
+      ],
+      "disablesAchievements": true,
+      "notes": "Unlock: escape a 3-star wanted level 50 times. Story mode. Cheats unlock only after you finish the main story, and this one also needs the in-game challenge listed here. To enter one, press Up on the D-pad to open the phone, hold L1 (LB on Xbox) and press R1 (RB), then enter the arrows. While a cheat is on you can't save the game."
+    }
+  ],
+  "missions": [
+    {
+      "id": "story-lab-fees",
+      "mode": "story",
+      "chapter": "Chapter 1",
+      "order": 5,
+      "title": "Lab Fees",
+      "giver": "Brian",
+      "summary": "Brian sends Jason to collect overdue rent from a shop tenant in Key Lento who has no intention of paying.",
+      "steps": [
+        "Drive to the marker at the small shop tucked behind the surf shop in Key Lento.",
+        "Ask the clerk behind the counter for Brian's rent.",
+        "When he refuses, lean on him until he backs down.",
+        "Open the back room with keypad code **0420**.",
+        "Grab the acid from the back room.",
+        "Call Brian to find out where to drop it.",
+        "Drive to Brian's lockup in the southern Keys, enter code **7700** and stash the acid inside."
+      ],
+      "objectives": [],
+      "tips": [
+        "Remember code 7700. Brian's lockup is also where you can offload drugs you find later for cash."
+      ],
+      "rewards": "Access to Brian's lockup"
+    },
+    {
+      "id": "story-pipework",
+      "mode": "story",
+      "chapter": "Chapter 1",
+      "order": 7,
+      "title": "Pipework",
+      "giver": "Mandy",
+      "summary": "Jason stops by to collect a tenant's rent, but she won't hand it over until he fixes her blocked sink.",
+      "steps": [
+        "Drive to Mandy's house and talk to her out front.",
+        "Follow her inside.",
+        "Grab the plunger from the bathroom.",
+        "Go to the blocked sink and plunge it with **R3 / RS**.",
+        "Use the wrench on the pipe under the sink to finish clearing it.",
+        "Head out once the job is done."
+      ],
+      "objectives": [],
+      "tips": [
+        "Plunger first, wrench second: the wrench step only comes up once the sink has been plunged."
+      ],
+      "rewards": "Mandy's rent"
+    }
+  ]
 }
