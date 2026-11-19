@@ -1,11 +1,27 @@
 {
-  "version": 2,
+  "version": 3,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
     "Xbox Series X|S"
   ],
   "news": [
+    {
+      "id": "news-now-available",
+      "title": "GTA VI is out now",
+      "summary": "Take-Two confirmed the game is available today on PS5 and Xbox Series X|S, sold through the PlayStation Store, Microsoft Store, Rockstar Games Store and retailers. It is rated M for Mature.",
+      "date": "2026-11-19",
+      "status": "official",
+      "sourceURL": "https://www.take2games.com/ir/news/rockstar-games-announces-grand-theft-auto-vi-now-available"
+    },
+    {
+      "id": "news-soundtrack-album",
+      "title": "Official soundtrack album released",
+      "summary": "A companion album with 34 original tracks is out on major streaming services from launch, with vinyl and CD editions also available.",
+      "date": "2026-11-19",
+      "status": "official",
+      "sourceURL": "https://www.take2games.com/ir/news/rockstar-games-announces-grand-theft-auto-vi-now-available"
+    },
     {
       "id": "n-release-date",
       "title": "Launch set for November 19, 2026",
@@ -66,6 +82,20 @@
       "body": "## Home\nA live countdown, a launch-day reminder you can switch on, and a timeline of announcements. Each item is labeled **Official**, **Rumor** or **Community**.\n## Guides\nNew guides are added after launch, with no app update needed. Pull down on any screen to refresh.\n## Tracker\nTap items to check them off. Your progress is saved on your phone.\n## Widget\nAdd the Launch Countdown widget to your Home Screen to see the days left at a glance.",
       "section": "general",
       "category": "Getting Started"
+    },
+    {
+      "id": "guide-repair-jasons-house",
+      "section": "story",
+      "category": "Side Activities",
+      "title": "Fixing Up Jason's House",
+      "subtitle": "An early optional task that makes a good first impression on Lucia.",
+      "icon": "hammer.fill",
+      "tags": [
+        "Chapter 1",
+        "Optional"
+      ],
+      "spoiler": false,
+      "body": "## When it appears\nAfter Lucia calls Jason to say she's being released, you can patch up his place before you pick her up. It's optional, but she notices the work when she arrives and it helps your relationship with her.\n## The repairs\nEach job shows a paintbrush icon nearby. Walk up and interact to do it. Any order works.\n- **Roof:** climb the ladder beside the front door and fix the tarp-covered patch on top.\n- **Steps:** head down to the driveway where the car is parked and use the pile of planks at the bottom of the stairs.\n- **Bedroom wall:** inside, board up the open wall in Jason's bedroom, then use the paint buckets to finish it.\n- **Railing:** out on the deck by the workout gear, fix the broken railing.\n## Tip\nDo these while you wait for the call to pick Lucia up, along with the other optional errands for her return. They all count toward a better start with her."
     }
   ],
   "checklists": [
@@ -139,5 +169,59 @@
     }
   ],
   "cheats": [],
-  "missions": []
+  "missions": [
+    {
+      "id": "story-coming-home",
+      "mode": "story",
+      "chapter": "Chapter 1",
+      "order": 11,
+      "title": "Coming Home",
+      "giver": "Lucia",
+      "summary": "Lucia is finally released, and Jason picks her up and takes her out to celebrate with friends. The night doesn't stay calm for long.",
+      "steps": [
+        "Optional: run errands for Lucia's return, like picking up her clothes, a gift and flowers, and getting a haircut.",
+        "When Lucia calls, drive to the prison and check in with the guard at reception.",
+        "Meet Lucia outside and get in the car together.",
+        "Drive to **The Rusty Anchor** bar and head inside.",
+        "Order drinks, then find Lucia and talk to her.",
+        "Mingle with your friends at the bar.",
+        "Dance with Lucia if you want to.",
+        "Play a game of pool with Mattia.",
+        "Take the confrontation outside and win the fistfight.",
+        "Run from the police with Lucia to finish."
+      ],
+      "objectives": [],
+      "tips": [
+        "The pre-mission errands and the house repairs are optional, but they give Jason and Lucia's relationship a better start.",
+        "Accepting the dance gives a small relationship boost.",
+        "In the fight, block when your opponent starts winding up, then hit back."
+      ],
+      "rewards": "Story progress"
+    },
+    {
+      "id": "story-buck-me",
+      "mode": "story",
+      "chapter": "Chapter 1",
+      "order": 12,
+      "title": "Buck Me",
+      "giver": "Lucia",
+      "summary": "Jason tries to open a bank account and ends up with the BuckMe app instead.",
+      "steps": [
+        "After Lucia calls, drive to the **Fleeca** bank in Key Lento.",
+        "Ask the teller about opening an account.",
+        "Talk to the manager and follow him into his office.",
+        "Watch the cutscene back at home.",
+        "Open your phone and launch the **BuckMe** app.",
+        "From the checking account, move the $100 welcome deposit into **Family Savings**."
+      ],
+      "objectives": [],
+      "tips": [
+        "Money in Family Savings can't be withdrawn, but you also can't lose it.",
+        "You can deposit cash at ATMs through BuckMe, which protects it if you die.",
+        "Reaching savings goals unlocks discounts and raises your checking limit."
+      ],
+      "rewards": "Unlocks the BuckMe banking app",
+      "spoiler": false
+    }
+  ]
 }
