@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -139,5 +139,33 @@
     }
   ],
   "cheats": [],
-  "missions": []
+  "missions": [
+    {
+      "id": "story-hey-arnold",
+      "mode": "story",
+      "chapter": "Chapter 1",
+      "order": 8,
+      "title": "Hey Arnold!",
+      "giver": "Brian",
+      "summary": "Brian's broker Arnold has gone quiet, so Jason and Cal ride along with Brian to track him down in Maroon Key.",
+      "steps": [
+        "Meet Brian at the pool bar in southern Key Lento.",
+        "Get in the driver's seat of Brian's truck.",
+        "Drive to the nearby liquor store and pick up Cal.",
+        "Head south to the search area near the Radar Station in Maroon Key and take the first left to find Arnold.",
+        "When the meeting goes wrong, chase Arnold's car and fight off the men on motorcycles.",
+        "Keep after him across the broken bridge; the jumps there trigger automatically.",
+        "Follow Arnold on foot once he ditches the car and corner him at the docks.",
+        "Decide whether to **kill** or **spare** Arnold.",
+        "If you fired a gun, leave the area before the police show up."
+      ],
+      "objectives": [],
+      "tips": [
+        "Aim from the truck with **L1 / LB**, fire with **R1 / RB**, and click **L3 + R3** together to slow time for easier shots.",
+        "Shooting out a tire on Arnold's car can end the car chase early.",
+        "The kill-or-spare choice doesn't change how the mission ends, but it can count toward Jason's criminal profile."
+      ],
+      "rewards": "Story progress"
+    }
+  ]
 }
