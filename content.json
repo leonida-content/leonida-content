@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -138,6 +138,303 @@
       ]
     }
   ],
-  "cheats": [],
-  "missions": []
+  "cheats": [
+    {
+      "id": "cheat-player-armor-1",
+      "name": "Body Armor",
+      "effect": "Gives you body armor.",
+      "category": "Player",
+      "playstation": [
+        "DOWN",
+        "UP",
+        "LEFT",
+        "UP",
+        "UP",
+        "UP",
+        "UP",
+        "UP",
+        "DOWN",
+        "DOWN"
+      ],
+      "xbox": [
+        "DOWN",
+        "UP",
+        "LEFT",
+        "UP",
+        "UP",
+        "UP",
+        "UP",
+        "UP",
+        "DOWN",
+        "DOWN"
+      ],
+      "disablesAchievements": true,
+      "notes": "Unlock: complete 100 workouts. Story mode. Cheats unlock only after you finish the main story, and this one also needs the in-game challenge listed here. To enter one, press Up on the D-pad to open the phone, hold L1 (LB on Xbox) and press R1 (RB), then enter the arrows. While a cheat is on you can't save the game."
+    },
+    {
+      "id": "cheat-combat-maxammo-1",
+      "name": "Max Ammo",
+      "effect": "Fills the ammo for every weapon you carry.",
+      "category": "Combat",
+      "playstation": [
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "LEFT",
+        "UP",
+        "UP",
+        "DOWN",
+        "LEFT"
+      ],
+      "xbox": [
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "LEFT",
+        "UP",
+        "UP",
+        "DOWN",
+        "LEFT"
+      ],
+      "disablesAchievements": true,
+      "notes": "Unlock: earn 25 bronze medals or better at shooting ranges. Story mode. Cheats unlock only after you finish the main story, and this one also needs the in-game challenge listed here. To enter one, press Up on the D-pad to open the phone, hold L1 (LB on Xbox) and press R1 (RB), then enter the arrows. While a cheat is on you can't save the game."
+    },
+    {
+      "id": "cheat-combat-infammo-1",
+      "name": "Infinite Ammo",
+      "effect": "Your ammo never runs out.",
+      "category": "Combat",
+      "playstation": [
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "LEFT",
+        "UP",
+        "DOWN",
+        "DOWN",
+        "DOWN"
+      ],
+      "xbox": [
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "LEFT",
+        "UP",
+        "DOWN",
+        "DOWN",
+        "DOWN"
+      ],
+      "disablesAchievements": true,
+      "notes": "Unlock: earn 25 silver medals or better at shooting ranges. Story mode. Cheats unlock only after you finish the main story, and this one also needs the in-game challenge listed here. To enter one, press Up on the D-pad to open the phone, hold L1 (LB on Xbox) and press R1 (RB), then enter the arrows. While a cheat is on you can't save the game."
+    },
+    {
+      "id": "cheat-combat-noreload-1",
+      "name": "No Reload",
+      "effect": "Infinite ammo and you never need to reload.",
+      "category": "Combat",
+      "playstation": [
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "LEFT",
+        "UP",
+        "DOWN",
+        "DOWN",
+        "UP"
+      ],
+      "xbox": [
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "LEFT",
+        "UP",
+        "DOWN",
+        "DOWN",
+        "UP"
+      ],
+      "disablesAchievements": true,
+      "notes": "Unlock: earn 25 gold medals at shooting ranges. Story mode. Cheats unlock only after you finish the main story, and this one also needs the in-game challenge listed here. To enter one, press Up on the D-pad to open the phone, hold L1 (LB on Xbox) and press R1 (RB), then enter the arrows. While a cheat is on you can't save the game."
+    },
+    {
+      "id": "cheat-combat-vehicleforce-1",
+      "name": "Vehicle Force",
+      "effect": "Anything you hit with a vehicle gets launched.",
+      "category": "Combat",
+      "playstation": [
+        "DOWN",
+        "UP",
+        "LEFT",
+        "LEFT",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "UP",
+        "DOWN"
+      ],
+      "xbox": [
+        "DOWN",
+        "UP",
+        "LEFT",
+        "LEFT",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "UP",
+        "DOWN"
+      ],
+      "disablesAchievements": true,
+      "notes": "Unlock: kill 25 enemies with a vehicle. Story mode. Cheats unlock only after you finish the main story, and this one also needs the in-game challenge listed here. To enter one, press Up on the D-pad to open the phone, hold L1 (LB on Xbox) and press R1 (RB), then enter the arrows. While a cheat is on you can't save the game."
+    },
+    {
+      "id": "cheat-vehicle-pumper-1",
+      "name": "Spawn MTL Pumper",
+      "effect": "Spawns an MTL Pumper fire truck.",
+      "category": "Vehicles",
+      "playstation": [
+        "LEFT",
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "RIGHT",
+        "RIGHT",
+        "UP"
+      ],
+      "xbox": [
+        "LEFT",
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "RIGHT",
+        "RIGHT",
+        "UP"
+      ],
+      "disablesAchievements": true,
+      "notes": "Unlock: discover the MTL Pumper in the Progress menu. Story mode. Cheats unlock only after you finish the main story, and this one also needs the in-game challenge listed here. To enter one, press Up on the D-pad to open the phone, hold L1 (LB on Xbox) and press R1 (RB), then enter the arrows. While a cheat is on you can't save the game."
+    },
+    {
+      "id": "cheat-filter-cataclysm-1",
+      "name": "Cataclysm filter",
+      "effect": "Adds a murky, smoky screen filter.",
+      "category": "Screen Filters",
+      "playstation": [
+        "DOWN",
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "RIGHT",
+        "UP",
+        "LEFT",
+        "LEFT",
+        "RIGHT",
+        "RIGHT"
+      ],
+      "xbox": [
+        "DOWN",
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "RIGHT",
+        "UP",
+        "LEFT",
+        "LEFT",
+        "RIGHT",
+        "RIGHT"
+      ],
+      "disablesAchievements": true,
+      "notes": "Unlock: discover Martha's Vamos in the Progress menu. Story mode. Cheats unlock only after you finish the main story, and this one also needs the in-game challenge listed here. To enter one, press Up on the D-pad to open the phone, hold L1 (LB on Xbox) and press R1 (RB), then enter the arrows. While a cheat is on you can't save the game."
+    },
+    {
+      "id": "cheat-filter-fadedglory-1",
+      "name": "Faded Glory filter",
+      "effect": "Adds the Faded Glory screen filter.",
+      "category": "Screen Filters",
+      "playstation": [
+        "DOWN",
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "RIGHT",
+        "UP",
+        "LEFT",
+        "LEFT",
+        "LEFT",
+        "RIGHT"
+      ],
+      "xbox": [
+        "DOWN",
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "RIGHT",
+        "UP",
+        "LEFT",
+        "LEFT",
+        "LEFT",
+        "RIGHT"
+      ],
+      "disablesAchievements": true,
+      "notes": "Unlock: rob 50 stores with your partner. Story mode. Cheats unlock only after you finish the main story, and this one also needs the in-game challenge listed here. To enter one, press Up on the D-pad to open the phone, hold L1 (LB on Xbox) and press R1 (RB), then enter the arrows. While a cheat is on you can't save the game."
+    }
+  ],
+  "missions": [
+    {
+      "id": "story-gear-up",
+      "mode": "story",
+      "chapter": "Chapter 1",
+      "order": 3,
+      "title": "Gear Up",
+      "giver": "Jason",
+      "summary": "Jason heads to the local gun shop to pick up a long gun from Andrew, and runs into trouble on the way out.",
+      "steps": [
+        "Check the mailbox outside Jason's house. Mission pay lands there, so grab any cash waiting for you.",
+        "Set a waypoint to the gun shop near Jason's house and drive there.",
+        "Talk to **Andrew** at the counter.",
+        "Open the shop menu and buy a **longarm**. You can pick the shotgun or the tactical rifle.",
+        "Leave the shop. Three **Kingfishers** jump you outside.",
+        "Take down all three.",
+        "Call **Donnie** to warn him about the Kingfishers."
+      ],
+      "tips": [
+        "Fight the Kingfishers with your fists. Gunfire draws police attention fast.",
+        "Which longarm you buy doesn't change the mission. If you have cash left, spend it on a weapon mod.",
+        "Keep checking the mailbox at Jason's house. You don't have a bank account yet, so payments arrive there."
+      ],
+      "rewards": "A shotgun or tactical rifle of your choice"
+    },
+    {
+      "id": "story-just-a-scratch",
+      "mode": "story",
+      "chapter": "Chapter 1",
+      "order": 4,
+      "title": "Just a Scratch",
+      "giver": "Jason",
+      "summary": "Jason takes his beat-up Ganado to Joey at Coastal Auto Care for a free repair and paint job.",
+      "steps": [
+        "Drive Jason's Ganado to **Coastal Auto Care** near his house.",
+        "Talk to **Joey** outside the garage.",
+        "Pull the car into the garage once the door opens.",
+        "In the repair menu, choose the **full engine** repair. It's free.",
+        "Go to Cosmetics, then Respray, and pick any color. The respray is free too, and the mission ends."
+      ],
+      "tips": [
+        "You keep this car for the rest of Chapter 1 but it gets replaced later, so don't sink much money into upgrades.",
+        "A respray is a quick way to shake police who know your car. Remember this shop when you have heat on you."
+      ],
+      "rewards": "Free engine repair and respray"
+    }
+  ]
 }
