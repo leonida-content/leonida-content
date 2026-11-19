@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -2298,14 +2298,19 @@
       "order": 58,
       "title": "Hidden Charges",
       "giver": "Raul",
-      "summary": "Final prep before the heist.",
-      "steps": [],
+      "summary": "The last prep job before the Sinfrontera bank heist. Jason and Lucia plant explosives on cell towers around Vice City so the police are slowed down and the bank's emergency calls get cut on the day.",
+      "steps": [
+        "Meet the crew in the planning room.",
+        "Head to the first marked cell tower.",
+        "Plant the explosives at the tower **without being spotted**.",
+        "Move on to the second tower and rig it the same way.",
+        "Rig the third and final tower."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon.",
         "Destroying all three cell towers gives you just under 11 minutes on the heist timer."
       ],
-      "rewards": null
+      "rewards": "Unlocks The Cartel Heist"
     },
     {
       "id": "story-the-cartel-heist",
@@ -2486,11 +2491,18 @@
       "order": 67,
       "title": "Making Gainz",
       "giver": "Raul",
-      "summary": "Lucia starts a gym job tied to Raul's next plan.",
-      "steps": [],
+      "summary": "Raul's next plan sends Lucia to Ajax Gym to get close to Nate, a bodybuilder in Kordell's crew. She trains alongside him until he lets her into Kordell's private Trauma Floor.",
+      "steps": [
+        "As Lucia, meet Raul to hear his plan.",
+        "Go to Ajax Gym and find Nate.",
+        "Get Nate's attention and work out alongside him.",
+        "Complete the workout montage.",
+        "Follow Nate to see Kordell's Trauma Floor.",
+        "Leave the gym."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "This is a Lucia-only mission."
       ],
       "rewards": null
     },
@@ -2516,13 +2528,16 @@
       "order": 69,
       "title": "Cash Injections",
       "giver": "Nate",
-      "summary": "Lucia keeps working with Nate and the heist contacts.",
-      "steps": [],
-      "objectives": [],
-      "tips": [
-        "Full step-by-step walkthrough coming soon."
+      "summary": "Lucia backs Nate on a scheme to sell Synthol on Ocean Beach. In return, Nate promises to put in a good word for her with Kordell.",
+      "steps": [
+        "As Lucia, meet up with Nate.",
+        "Head down to Ocean Beach with him.",
+        "Help Nate sell Synthol to people on the beach.",
+        "Finish the deal and wrap up with Nate."
       ],
-      "rewards": null
+      "objectives": [],
+      "tips": [],
+      "rewards": "Nate agrees to vouch for Lucia with Kordell"
     },
     {
       "id": "story-amateur-hour",
@@ -2530,14 +2545,17 @@
       "chapter": "Chapter 4",
       "order": 70,
       "title": "Amateur Hour",
-      "giver": null,
-      "summary": "Lucia and Cisco confront a director.",
-      "steps": [],
-      "objectives": [],
-      "tips": [
-        "Full step-by-step walkthrough coming soon."
+      "giver": "Cisco",
+      "summary": "Cisco asks Lucia to help him confront a film director who owes him money. She goes along with it to win Cisco's trust inside Kordell's crew.",
+      "steps": [
+        "As Lucia, finish your workout at the gym.",
+        "Talk to Cisco and agree to help him.",
+        "Go with Cisco to find the director.",
+        "Confront the director about the money he owes Cisco."
       ],
-      "rewards": null
+      "objectives": [],
+      "tips": [],
+      "rewards": "Cisco's trust"
     },
     {
       "id": "story-dirty-work",
