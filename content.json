@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -2154,11 +2154,19 @@
       "order": 52,
       "title": "Ride or Die",
       "giver": "Dre'Quan",
-      "summary": "Jason helps Dre'Quan with a problem involving a rival named DWNPLY.",
-      "steps": [],
+      "summary": "Dre'Quan needs a pair of hyped sneakers to get close to rival DWNPLY, and the plan ends with his car.",
+      "steps": [
+        "Go upstairs at the sneaker drop and find someone carrying the **gold shoe bag**.",
+        "Haggle or intimidate them for the shoes, or grab a bag while the line is distracted.",
+        "Follow Dre'Quan to **DWNPLY** and have him sign the shoes.",
+        "Take his keys and steal his car, with DWNPLY still on the hood.",
+        "Drive out of the garage and get away."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "Once someone refuses you, that option's gone, so pick carefully.",
+        "If you fail a step, Dre'Quan has a backup plan, so you don't restart.",
+        "Stash anything illegal before you go home. The apartment can trigger the next mission."
       ],
       "rewards": null
     },
@@ -2297,14 +2305,20 @@
       "chapter": "Chapter 4",
       "order": 60,
       "title": "Ocean Beach",
-      "giver": null,
-      "summary": "Jason and Lucia set up their new base in Vice City.",
-      "steps": [],
+      "giver": "Valentina",
+      "summary": "Jason and Lucia trade the Bayside apartment for a five-star hotel on Ocean Beach.",
+      "steps": [
+        "Pack up at the Bayside apartment.",
+        "Text Valentina and drive to **the Y** hotel.",
+        "Leave the car with the valet and meet Valentina in the lobby.",
+        "Check in to **room 701** and meet the concierge, Santino."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "Room 701 is your new base.",
+        "You get **BuckMe Premium** accounts here."
       ],
-      "rewards": null
+      "rewards": "Room 701 safehouse"
     },
     {
       "id": "story-another-life",
@@ -2313,13 +2327,18 @@
       "order": 61,
       "title": "Another Life",
       "giver": null,
-      "summary": "Lucia's personal story picks up.",
-      "steps": [],
+      "summary": "A flashback to Lucia's past, before the story began.",
+      "steps": [
+        "Wait on hold with the power company.",
+        "Look after the baby while you wait.",
+        "Wake up on the hotel balcony the next morning."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "Nothing in this mission can be failed.",
+        "Afterward you're free to use the hotel pool and cabana."
       ],
-      "rewards": null
+      "rewards": "None"
     },
     {
       "id": "story-company-cars",
@@ -2327,14 +2346,19 @@
       "chapter": "Chapter 4",
       "order": 62,
       "title": "Company Cars",
-      "giver": "Concierge",
-      "summary": "Meet the concierge and get vehicles for the jobs ahead.",
-      "steps": [],
+      "giver": "Santino",
+      "summary": "The hotel comes with perks, including a free car each.",
+      "steps": [
+        "Ask Santino at the front desk about the hotel's services.",
+        "Drive to **Status Auto Imports** in Bayside and ask for Rob.",
+        "Each of you picks a car to keep.",
+        "Race each other back to the hotel."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "The free cars only come up once Santino lists the services."
       ],
-      "rewards": null
+      "rewards": "A free car each for Jason and Lucia"
     },
     {
       "id": "story-lawyer-up",
@@ -2342,12 +2366,17 @@
       "chapter": "Chapter 4",
       "order": 63,
       "title": "Lawyer Up",
-      "giver": "Abe Gonzalez",
-      "summary": "Meet lawyer Abe Gonzalez.",
-      "steps": [],
+      "giver": "Valentina",
+      "summary": "Jason and Lucia go to lawyer Abe Gonzalez for help. His fix costs more than they have.",
+      "steps": [
+        "Drive to Gonzalez's office.",
+        "Get past the receptionist by saying you're friends of **Valentina**.",
+        "Meet Gonzalez and hear about the Mega Mundo job.",
+        "Grab the hard drive from your storage unit."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "The receptionist won't let you up without the Valentina line."
       ],
       "rewards": null
     },
@@ -2357,12 +2386,17 @@
       "chapter": "Chapter 4",
       "order": 64,
       "title": "Party Hard",
-      "giver": null,
-      "summary": "Work personal security at a celebrity party.",
-      "steps": [],
+      "giver": "Valentina",
+      "summary": "Jason and Lucia pose as security for Andrés de Leon at a Mega Mundo party, and it gets out of hand.",
+      "steps": [
+        "Meet Andrés as his security detail.",
+        "Go along with his detours (like the juice bar) but keep him moving.",
+        "Get him to the **Mega Mundo** building for the speeches.",
+        "Find him hiding in a 24th-floor conference room."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "The job is keeping Andrés happy, so roll with his detours."
       ],
       "rewards": null
     },
@@ -2373,13 +2407,21 @@
       "order": 65,
       "title": "Heavy Lifting",
       "giver": "Raul",
-      "summary": "Jason and Lucia handle a delivery.",
-      "steps": [],
+      "summary": "You bring Raul the hard drive, then spy on a rival crew at the Ajax Gym and learn they're planning something at the airport.",
+      "steps": [
+        "Get the hard drive from storage and take it to **Raul's houseboat**.",
+        "Sail the houseboat south to **Ajax Gym**.",
+        "As Lucia, take the tour, change into gym clothes and search **Raina's** bag.",
+        "Finish the treadmill and leg-press sections.",
+        "Trap **Nate** in a tanning bed, search his bag and read his messages.",
+        "That night, tail the bodybuilders to the **Grand Majestic** and follow them up to the roof."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "While tailing, keep the arrow above them **white**. Yellow means you're too close.",
+        "Alternate the button prompts steadily on the treadmill."
       ],
-      "rewards": null
+      "rewards": "None"
     },
     {
       "id": "story-photo-shoot",
@@ -2388,13 +2430,21 @@
       "order": 66,
       "title": "Photo/Shoot",
       "giver": "Dre'Quan",
-      "summary": "Join Dre'Quan for a promo shoot.",
-      "steps": [],
+      "summary": "A helicopter photo shoot for the Dimez turns into a rescue when Dre'Quan gets grabbed.",
+      "steps": [
+        "Follow Dre'Quan up to the roof in Tequesta.",
+        "As Lucia, photograph the Dimez from the helicopter.",
+        "As Jason, fly the helicopter and follow Dre'Quan's car.",
+        "When the car goes into a building, switch to Lucia on the bike and keep up.",
+        "Shoot back at the cars that join the chase.",
+        "Fight your way to Dre'Quan under the highway and clear the alley."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "You can't shoot the car during the bike chase, so just follow it.",
+        "Clear every enemy in the alley or the mission won't end."
       ],
-      "rewards": null
+      "rewards": "$6,000 and two unique W-10 SMGs"
     },
     {
       "id": "story-making-gainz",
@@ -2632,6 +2682,7 @@
       "steps": [],
       "objectives": [],
       "tips": [
+        "Finishing it earns the **Hi-Jacked** trophy.",
         "Finish all the prep missions first.",
         "Make a manual save before this mission. Story missions can't be replayed.",
         "Full step-by-step walkthrough coming soon."
@@ -2770,6 +2821,7 @@
       "steps": [],
       "objectives": [],
       "tips": [
+        "Finishing it earns the **You Gotta Know When to Get Off** trophy.",
         "**Save in a new slot first.** Your choices decide the ending, and you'll want to go back and see the other one.",
         "Finish anything that needs both Jason and Lucia before you start.",
         "Full step-by-step walkthrough coming soon."
