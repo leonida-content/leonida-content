@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -2893,11 +2893,18 @@
       "order": 86,
       "title": "Taking Liberties",
       "giver": "Giorgio",
-      "summary": "At his spa, Giorgio offers Jason and Lucia presidential pardons in return for their help. A mob enforcer then interrupts with an ultimatum: Giorgio gets one last chance if he intercepts and destroys a rival drug shipment.",
-      "steps": [],
+      "summary": "A short, story-focused mission. Jason and Lucia meet Giorgio at his spa, where he offers them presidential pardons in return for their help, before a mob enforcer interrupts with an ultimatum: Giorgio gets one last chance.",
+      "steps": [
+        "Head to Giorgio's building and find him in the **spa**.",
+        "Talk with Giorgio, who offers Jason and Lucia **presidential pardons** in exchange for their help.",
+        "Stay for the meeting when an unexpected visitor from the mob interrupts.",
+        "Listen to the ultimatum: Giorgio gets **one last chance** to make things right.",
+        "The mission ends once the meeting wraps up."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "This one is mostly a story scene, so there's no combat to prepare for.",
+        "Make a **manual save** before each Chapter 5 mission, since the finale missions come quickly from here."
       ],
       "rewards": null
     },
