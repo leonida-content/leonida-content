@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -2781,11 +2781,18 @@
       "order": 81,
       "title": "Fully Catered",
       "giver": null,
-      "summary": "Steal the catering truck the airport job needs.",
-      "steps": [],
+      "summary": "Jason and Lucia steal an airport catering truck for the VCIA Takedown heist. It's the last vehicle prep before the airport job.",
+      "steps": [
+        "Head to the marker with Jason and Lucia.",
+        "Find the airport catering truck the crew needs.",
+        "Steal the truck without wrecking it.",
+        "Drive it to the drop-off point marked on the map.",
+        "Park the truck and leave the area to finish the prep."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "Part of the VCIA Takedown setup chain.",
+        "Drive carefully on the way back so the truck isn't too damaged for the heist."
       ],
       "rewards": null
     },
@@ -2796,14 +2803,20 @@
       "order": 82,
       "title": "VCIA Takedown",
       "giver": null,
-      "summary": "The big airport heist.",
-      "steps": [],
+      "summary": "The airport heist at Vice City International. Raul's crew turns on Kordell's crew and goes after the haul, and things get messy fast.",
+      "steps": [
+        "Meet up with the crew to start the heist.",
+        "Head to Vice City International Airport.",
+        "Follow Raul's plan to intercept Kordell's crew and their haul.",
+        "Fight your way through when the plan turns violent.",
+        "Make your escape with the money.",
+        "Get away from the airport and lie low."
+      ],
       "objectives": [],
       "tips": [
         "Finishing it earns the **Hi-Jacked** trophy.",
         "Finish all the prep missions first.",
-        "Make a manual save before this mission. Story missions can't be replayed.",
-        "Full step-by-step walkthrough coming soon."
+        "Make a manual save before this mission. Story missions can't be replayed."
       ],
       "rewards": null
     },
@@ -2814,11 +2827,17 @@
       "order": 83,
       "title": "Sunset",
       "giver": null,
-      "summary": "Jason and Lucia deal with the aftermath of the heist.",
-      "steps": [],
+      "summary": "Jason and Lucia go looking for Raul after the heist. They learn Valentina has sold him out and reach him at his houseboat too late.",
+      "steps": [
+        "Go to the Y Hotel and stop by the front desk.",
+        "Pick up the message left for you.",
+        "Follow it to Raul's houseboat.",
+        "Watch Raul's final scene and learn about Valentina's betrayal.",
+        "Leave the houseboat and get clear of the area."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "This is a heavy story mission with very little combat until the end."
       ],
       "rewards": null
     },
@@ -2829,12 +2848,19 @@
       "order": 84,
       "title": "Starting from Zero",
       "giver": null,
-      "summary": "The end of Chapter 4.",
-      "steps": [],
+      "summary": "With the police after them and their bank accounts frozen, Jason and Lucia grab what they have left: the hard drive and the statue. The chapter ends with them meeting shipping magnate Giorgio Gallo.",
+      "steps": [
+        "Lie low and stay away from the police.",
+        "Collect the hard drive.",
+        "Go to the storage spot and retrieve the statue.",
+        "Follow the message to the meeting.",
+        "Meet Giorgio Gallo to end Chapter 4."
+      ],
       "objectives": [],
       "tips": [
         "**Point of no return:** save manually before this one. The story branches toward more than one ending.",
-        "Full step-by-step walkthrough coming soon."
+        "Finishing it unlocks the **Top of the World, Ma** trophy.",
+        "Make another manual save once Chapter 5 starts."
       ],
       "rewards": null
     },
@@ -2844,12 +2870,19 @@
       "chapter": "Chapter 5",
       "order": 85,
       "title": "Bird in the Hand",
-      "giver": null,
-      "summary": "Steal the vehicle for the next operation.",
-      "steps": [],
+      "giver": "Giorgio",
+      "summary": "Giorgio Gallo explains how the hard drive was used to blackmail Senator Camila Fuentes, then brings Jason and Lucia in on his next job. They scope out the Coast Guard headquarters and steal a helicopter.",
+      "steps": [
+        "Go to Giorgio's penthouse and hear his plan.",
+        "Meet the crew Giorgio has brought in.",
+        "Head out and scope out the Coast Guard headquarters.",
+        "Go to Mile Zero Air Station.",
+        "Steal the helicopter and fly it away."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "First mission of Chapter 5.",
+        "Vinny joins the story here."
       ],
       "rewards": null
     },
