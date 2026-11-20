@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -2923,11 +2923,20 @@
       "order": 88,
       "title": "Doggie Bag",
       "giver": "Vinny",
-      "summary": "Playing as Lucia, you team up with Vinny to steal Rocco, the Coast Guard's top sniffer dog, so the crew can find the rival shipment.",
-      "steps": [],
+      "summary": "Playing as Lucia, you team up with Vinny to steal Rocco, the Coast Guard's top sniffer dog. The plan is to get the Coast Guard searching a cruise ship at the port, grab Rocco during the search and get away by air.",
+      "steps": [
+        "Meet up with Vinny as Lucia.",
+        "Head to the port with Vinny.",
+        "Get the Coast Guard to search the cruise ship docked there.",
+        "Slip onto the cruise ship while the search is underway.",
+        "Find Rocco and take him.",
+        "Get Rocco to the helicopter with Vinny.",
+        "Fly away to escape."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "Grabbing Rocco doesn't end the mission. You still have to reach the helicopter and get away.",
+        "Rocco's nose is the crew's way to find the rival shipment in the next missions."
       ],
       "rewards": null
     },
