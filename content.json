@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -2892,8 +2892,8 @@
       "chapter": "Chapter 5",
       "order": 86,
       "title": "Taking Liberties",
-      "giver": null,
-      "summary": "Jason and Lucia plan their next move.",
+      "giver": "Giorgio",
+      "summary": "At his spa, Giorgio offers Jason and Lucia presidential pardons in return for their help. A mob enforcer then interrupts with an ultimatum: Giorgio gets one last chance if he intercepts and destroys a rival drug shipment.",
       "steps": [],
       "objectives": [],
       "tips": [
@@ -2908,7 +2908,7 @@
       "order": 87,
       "title": "VC Baby",
       "giver": "Mattia",
-      "summary": "Answer a call for help.",
+      "summary": "Kat goes into labor at Giorgio's penthouse, and Mattia calls on Jason and Lucia for help.",
       "steps": [],
       "objectives": [],
       "tips": [
@@ -2923,7 +2923,7 @@
       "order": 88,
       "title": "Doggie Bag",
       "giver": "Vinny",
-      "summary": "Track down some contraband.",
+      "summary": "Playing as Lucia, you team up with Vinny to steal Rocco, the Coast Guard's top sniffer dog, so the crew can find the rival shipment.",
       "steps": [],
       "objectives": [],
       "tips": [
@@ -2938,7 +2938,7 @@
       "order": 89,
       "title": "Operation Savage Glory",
       "giver": null,
-      "summary": "Recover a shipment.",
+      "summary": "Jason and Lucia join Giorgio's crew to destroy the rival shipment and take back Giorgio's seized cargo. Afterwards, Giorgio pulls strings to get the police search for the couple called off.",
       "steps": [],
       "objectives": [],
       "tips": [
@@ -2953,7 +2953,7 @@
       "order": 90,
       "title": "Protective Custody",
       "giver": "Abe",
-      "summary": "The last jobs before the finale.",
+      "summary": "After a meeting with Abe, Giorgio double-crosses the couple and they end up held separately. Prosecutor Danica Howard tells them she needs Giorgio's drive, and both have to survive attacks from corrupt police.",
       "steps": [],
       "objectives": [],
       "tips": [
@@ -2968,7 +2968,7 @@
       "order": 91,
       "title": "The End of the Road",
       "giver": null,
-      "summary": "The final mission of the story.",
+      "summary": "Jason and Lucia make a final push into Giorgio's penthouse to get the drive back.",
       "steps": [],
       "objectives": [],
       "tips": [
