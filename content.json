@@ -1,5 +1,5 @@
 {
-  "version": 19,
+  "version": 20,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -111,6 +111,21 @@
     }
   ],
   "guides": [
+    {
+      "id": "guide-do-these-first",
+      "section": "general",
+      "category": "Getting Started",
+      "title": "Do These First",
+      "subtitle": "Easy money and gear in Key Lento before the story moves on",
+      "icon": "star.circle.fill",
+      "tags": [
+        "Beginner",
+        "Money",
+        "Chapter 1"
+      ],
+      "spoiler": false,
+      "body": "Track these in **More → Tracker → Do These First**.\n\n## 1. Bank your cash\nOpen the **BuckMe** app and deposit at an ATM. Cash in your pocket is lost if you die or get busted, and it's also lost at the end of Chapter 1.\n\n## 2. The parrot's hidden cash\n- Do **Shirley's rum errand**. She lives next to Jason's house and wants a bottle from **Three Sheets Liquor**.\n- While you're in the store you'll hear birds out back. Go around the side and hop the fence.\n- Deal with the guards (5–6 of them), then talk to the **parrot** until it mentions the **generator**.\n- Pry open the low **air vent** behind the generator for about **$1,400**. There's also a safe in the back room.\n\n## 3. Search for the Skunk Ape\n- Read **Kirk's flyer** at **Skeeter's bar in Hamlet** to add him to your phone, then call him.\n- It **only works at night**. Sleep in your bed to skip ahead.\n- Pays **$1,000**. Other posts say it pays $30K plus a car. That's wrong.\n\n## 4. A silenced rifle\nRob the **Kingfishers compound** in Wetman Bay. Come in by boat near the docks, clear the guards, and open the case on the desk in the waterfront building. The **W-22** has a **built-in suppressor**, so you can take people out without alerting the whole camp.\n\n## 5. Free stamina training\nThere's a **punching bag under Jason's house**. Workouts raise your stamina, and you don't need the $600 gym membership. Match the pink dial to score 90+.\n\n## 6. Scan everything\nClick **both sticks** for Focus mode, and scan animals and cars as you drive around. Both count toward 100% and save hours later.\n\n## 7. Cocaine flamingos\nShoot the pink flamingos with a **black-and-white beak** (the yellow-beak ones are just decoration). Each one drops a package you can **sell to a fence**. They also count toward 100%.\n\n## 8. When Chapter 2 starts: Sunrise RV Park\nNorthwest of Key Lento on Cottonmouth Lake. There are **three safes** (office, dock building and an RV bathroom), and a unique **Kingfishers Akulus revolver** on the bed in the orange-and-white RV."
+    },
     {
       "id": "g-what-we-know",
       "title": "GTA 6 at a Glance",
@@ -243,6 +258,53 @@
     }
   ],
   "checklists": [
+    {
+      "id": "c-do-these-first",
+      "title": "Do These First",
+      "icon": "star.circle.fill",
+      "items": [
+        {
+          "id": "dtf-bank-cash",
+          "title": "Bank your cash with BuckMe",
+          "detail": "Cash you're carrying is lost when you die or get busted"
+        },
+        {
+          "id": "dtf-parrot-vent",
+          "title": "Find the cash behind Three Sheets Liquor",
+          "detail": "After Shirley's rum errand: talk to the parrot out back, then check the vent by the generator"
+        },
+        {
+          "id": "dtf-skunk-ape",
+          "title": "Hunt the Skunk Ape with Kirk",
+          "detail": "Flyer at Skeeter's bar in Hamlet. Call Kirk, then go at night ($1,000)"
+        },
+        {
+          "id": "dtf-w22",
+          "title": "Grab the silenced W-22 rifle",
+          "detail": "Kingfishers compound in Wetman Bay. Come in by boat"
+        },
+        {
+          "id": "dtf-punching-bag",
+          "title": "Train stamina for free",
+          "detail": "Punching bag under Jason's house. No gym membership needed"
+        },
+        {
+          "id": "dtf-focus-scan",
+          "title": "Scan animals and cars as you go",
+          "detail": "Focus mode: click both sticks (L3 + R3)"
+        },
+        {
+          "id": "dtf-flamingos",
+          "title": "Shoot cocaine flamingos",
+          "detail": "Black-and-white beak = real. Sell what drops to a fence"
+        },
+        {
+          "id": "dtf-sunrise-rv",
+          "title": "Rob Sunrise RV Park (Chapter 2)",
+          "detail": "Three safes, plus a unique revolver on the bed in the orange-and-white RV"
+        }
+      ]
+    },
     {
       "id": "c-before-ch1-end",
       "title": "Before Chapter 1 Ends",
