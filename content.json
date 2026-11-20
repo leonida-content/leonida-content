@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -2962,11 +2962,17 @@
       "order": 90,
       "title": "Protective Custody",
       "giver": "Abe",
-      "summary": "After a meeting with Abe, Giorgio double-crosses the couple and they end up held separately. Prosecutor Danica Howard tells them she needs Giorgio's drive, and both have to survive attacks from corrupt police.",
-      "steps": [],
+      "summary": "After a meeting with Abe, Giorgio double-crosses Jason and Lucia and they are taken into custody separately. Prosecutor Danica Howard wants Giorgio's hard drive, and both of them have to fight off corrupt officers before facing Mendez.",
+      "steps": [
+        "Go to the meeting with Abe.",
+        "Giorgio turns on you, and Jason and Lucia end up held in separate places.",
+        "Listen to prosecutor Danica Howard: she needs Giorgio's hard drive.",
+        "Survive the attacks from corrupt officers as both Jason and Lucia.",
+        "Confront Mendez to finish the mission."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "Make a manual save in a fresh slot when this one ends. The next mission is the finale, and it decides your ending."
       ],
       "rewards": null
     },
@@ -2977,14 +2983,20 @@
       "order": 91,
       "title": "The End of the Road",
       "giver": null,
-      "summary": "Jason and Lucia make a final push into Giorgio's penthouse to get the drive back.",
-      "steps": [],
+      "summary": "Jason and Lucia storm Giorgio's tower to take back the hard drive, then try to get away with the police closing in. The mission ends with the game's final choice.",
+      "steps": [
+        "Assault Giorgio's tower and get into the penthouse.",
+        "Recover the hard drive.",
+        "Fight your way back out of the building with the drive.",
+        "Drive toward Cal's place, where a boat is waiting.",
+        "When the police get tipped off, change course and head for the airfield.",
+        "At the police roadblock on the bridge, make the final choice: **Swim for it** or **No Surrender**."
+      ],
       "objectives": [],
       "tips": [
         "Finishing it earns the **You Gotta Know When to Get Off** trophy.",
-        "**Save in a new slot first.** Your choices decide the ending, and you'll want to go back and see the other one.",
-        "Finish anything that needs both Jason and Lucia before you start.",
-        "Full step-by-step walkthrough coming soon."
+        "**Save in a new slot first.** The bridge choice decides the ending, and you'll want to go back and see the other one.",
+        "Finish anything that needs both Jason and Lucia before you start."
       ],
       "rewards": null
     }
