@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -2652,11 +2652,18 @@
       "order": 75,
       "title": "Power Play",
       "giver": "Kordell",
-      "summary": "Gather intel for the airport job.",
-      "steps": [],
+      "summary": "Help out Kordell's crew and gather some intel. This is one of the setup missions for the VCIA Takedown.",
+      "steps": [
+        "Go to the marker to meet up with Kordell's crew.",
+        "Find out what intel the crew needs.",
+        "Travel to the area where the intel can be gathered.",
+        "Collect the intel.",
+        "Leave the area once you have it."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "Part of the VCIA Takedown setup chain.",
+        "Story missions can't be replayed from the menu, so finish objectives the first time."
       ],
       "rewards": null
     },
@@ -2667,11 +2674,18 @@
       "order": 76,
       "title": "Child's Play",
       "giver": null,
-      "summary": "Rescue Rafa from his kidnappers.",
-      "steps": [],
+      "summary": "Jason and Lucia team up to help out an acquaintance.",
+      "steps": [
+        "Go to the marker to start the mission with Jason and Lucia.",
+        "Find out what the acquaintance needs help with.",
+        "Head to the marked location together.",
+        "Deal with the trouble you find there.",
+        "Wrap things up with your acquaintance."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "Right after this mission, keep an eye out for the optional call \"This Is a Free Call From…\". It's time-sensitive and can be missed.",
+        "You can switch between Jason and Lucia by holding Right on the D-Pad."
       ],
       "rewards": null
     },
@@ -2682,11 +2696,16 @@
       "order": 77,
       "title": "Headliners",
       "giver": null,
-      "summary": "Help run a launch party with a Real Dimez show.",
-      "steps": [],
+      "summary": "The Dimez perform at VYB, and Jason and Lucia help make the launch party a success.",
+      "steps": [
+        "Head to VYB nightclub for the launch party.",
+        "Help get things ready before the show.",
+        "Keep the party running while the Dimez perform.",
+        "Handle any problems that come up during the night."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "Both Jason and Lucia are playable here. Hold Right on the D-Pad to switch."
       ],
       "rewards": null
     },
@@ -2697,11 +2716,18 @@
       "order": 78,
       "title": "Close Surveillance",
       "giver": null,
-      "summary": "Jason uses a spy drone to watch targets.",
-      "steps": [],
+      "summary": "Jason uses a spy drone to keep an eye on a group of bodybuilders. This is a VCIA Takedown setup mission.",
+      "steps": [
+        "As Jason, go to the marker to start the mission.",
+        "Launch the spy drone.",
+        "Fly the drone to where the bodybuilders are.",
+        "Keep them under watch and gather what you can.",
+        "Finish the surveillance and leave the area."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "This is a Jason-only mission.",
+        "Part of the VCIA Takedown setup chain."
       ],
       "rewards": null
     },
@@ -2712,11 +2738,18 @@
       "order": 79,
       "title": "Delivery Method",
       "giver": "Andrea",
-      "summary": "Jason goes undercover for the heist.",
-      "steps": [],
+      "summary": "Jason goes undercover to help Andrea. This is a VCIA Takedown setup mission.",
+      "steps": [
+        "As Jason, go to the marker to meet Andrea.",
+        "Get into your undercover role.",
+        "Head to the location Andrea needs you at.",
+        "Do the job without blowing your cover.",
+        "Leave the area and check in with Andrea."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "This is a Jason-only mission.",
+        "Part of the VCIA Takedown setup chain."
       ],
       "rewards": null
     },
@@ -2727,11 +2760,17 @@
       "order": 80,
       "title": "Team Building",
       "giver": "Kordell",
-      "summary": "Lucia works with Kordell's crew.",
-      "steps": [],
+      "summary": "Lucia meets Kordell and has to prove herself to his crew. This is a VCIA Takedown setup mission.",
+      "steps": [
+        "As Lucia, go to the marker to meet Kordell.",
+        "Listen to what Kordell wants from you.",
+        "Complete the task he sets to prove yourself.",
+        "Return to Kordell once the job is done."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "This is a Lucia-only mission.",
+        "Part of the VCIA Takedown setup chain."
       ],
       "rewards": null
     },
