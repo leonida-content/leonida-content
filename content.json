@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -2946,14 +2946,21 @@
       "chapter": "Chapter 5",
       "order": 89,
       "title": "Operation Savage Glory",
-      "giver": null,
-      "summary": "Jason and Lucia join Giorgio's crew to destroy the rival shipment and take back Giorgio's seized cargo. Afterwards, Giorgio pulls strings to get the police search for the couple called off.",
-      "steps": [],
+      "giver": "Giorgio",
+      "summary": "Jason and Lucia team up with Giorgio's crew to wipe out the rival shipment and then take back Giorgio's seized cargo from the Coast Guard. Afterwards, Giorgio pulls strings to get the police search for the couple called off.",
+      "steps": [
+        "Meet up with Giorgio's crew to start the operation.",
+        "Track down the rival shipment.",
+        "Destroy the rival cargo.",
+        "Head to the Coast Guard headquarters.",
+        "Recover Giorgio's seized cargo for his crew."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "Finishing it unlocks the **Snow Storm** trophy.",
+        "Afterwards Giorgio sends Jason and Lucia to meet Abe, which leads into Protective Custody."
       ],
-      "rewards": null
+      "rewards": "Snow Storm trophy"
     },
     {
       "id": "story-protective-custody",
