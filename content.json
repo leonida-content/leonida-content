@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -505,6 +505,39 @@
       ],
       "disablesAchievements": true,
       "notes": "Unlock: Complete 100 workouts. Story mode only. Cheats unlock after you finish the main story (Progress menu → Cheats), and each one has its own unlock too. To enter: press Up on the D-pad to open the phone, hold L1 (LB) and press R1 (RB), then enter the arrows. Cheats turn off trophies/achievements and saving until you quit, so save first. Your existing save isn't affected."
+    },
+    {
+      "id": "cheat-player-drunk-1",
+      "name": "Drunk",
+      "effect": "Makes you (and your partner, if nearby) instantly drunk.",
+      "category": "Player",
+      "playstation": [
+        "UP",
+        "LEFT",
+        "RIGHT",
+        "UP",
+        "UP",
+        "LEFT",
+        "RIGHT",
+        "UP",
+        "LEFT",
+        "RIGHT"
+      ],
+      "xbox": [
+        "UP",
+        "LEFT",
+        "RIGHT",
+        "UP",
+        "UP",
+        "LEFT",
+        "RIGHT",
+        "UP",
+        "LEFT",
+        "RIGHT"
+      ],
+      "disablesAchievements": true,
+      "notes": "Unlock: Spend $2,500 in total on alcohol. Story mode only. Cheats unlock after you finish the main story (Progress menu → Cheats), and each one has its own unlock too. To enter: press Up on the D-pad to open the phone, hold L1 (LB) and press R1 (RB), then enter the arrows. Cheats turn off trophies/achievements and saving until you quit, so save first. Your existing save isn't affected.",
+      "verified": false
     },
     {
       "id": "cheat-player-heat-1",
