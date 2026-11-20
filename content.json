@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -2915,11 +2915,18 @@
       "order": 87,
       "title": "VC Baby",
       "giver": "Mattia",
-      "summary": "Kat goes into labor at Giorgio's penthouse, and Mattia calls on Jason and Lucia for help.",
-      "steps": [],
+      "summary": "Back at Giorgio's penthouse, Kat suddenly goes into labor. Mattia turns to Jason and Lucia for help, and it's up to you to answer.",
+      "steps": [
+        "Head to Giorgio's penthouse and **talk to Mattia**.",
+        "Stay with the group as Kat goes into labor.",
+        "**Follow Mattia** when the prompt appears.",
+        "Listen as Mattia asks Jason and Lucia for help.",
+        "Respond to his request and complete the objectives that follow to finish the mission."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "Make a **manual save** before starting. Chapter 5 missions come quickly from here.",
+        "Finish this and Doggie Bag to move on to **Operation Savage Glory**."
       ],
       "rewards": null
     },
