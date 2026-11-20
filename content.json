@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -2513,11 +2513,16 @@
       "order": 68,
       "title": "Watch It",
       "giver": "Dre'Quan",
-      "summary": "A job involving a nightclub owner.",
-      "steps": [],
+      "summary": "Jason teams up with Dre'Quan to meet the owner of VYB, a Vice City nightclub, and hear what he needs.",
+      "steps": [
+        "As Jason, go to the marker to meet Dre'Quan.",
+        "Ride with Dre'Quan to meet the owner of the VYB nightclub.",
+        "Listen to what the club owner needs from you.",
+        "Follow the on-screen objectives until the meeting wraps up and you leave the area."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "This is a Jason-only mission."
       ],
       "rewards": null
     },
@@ -2564,11 +2569,17 @@
       "order": 71,
       "title": "Dirty Work",
       "giver": "Raina",
-      "summary": "A job for Raina while the airport heist comes together.",
-      "steps": [],
+      "summary": "Jason and Lucia work together to deal with Raina, a member of Kordell's crew, as part of the setup for the airport heist.",
+      "steps": [
+        "Meet up and go over the plan for dealing with Raina.",
+        "Play your part as Jason when the mission switches to him.",
+        "Play your part as Lucia when the mission switches to her.",
+        "Finish the plan to make new inroads with Kordell's crew."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "You play as both Jason and Lucia in this mission.",
+        "This is one of the setup missions for the VCIA Takedown heist."
       ],
       "rewards": null
     },
@@ -2579,11 +2590,18 @@
       "order": 72,
       "title": "Too Much Baggage",
       "giver": null,
-      "summary": "Jason scouts the airport undercover as a baggage handler.",
-      "steps": [],
+      "summary": "Jason goes undercover at the airport as a baggage handler to scope it out for the VCIA Takedown heist.",
+      "steps": [
+        "As Jason, head to the airport for your first shift.",
+        "Start work undercover as a baggage handler.",
+        "Handle the baggage jobs you're given.",
+        "Scope out the airport while you work.",
+        "Finish the shift and leave the airport."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "This is a Jason-only mission.",
+        "This is one of the setup missions for the VCIA Takedown heist."
       ],
       "rewards": null
     },
@@ -2594,11 +2612,16 @@
       "order": 73,
       "title": "Adventures in Babysitting",
       "giver": "Andrés",
-      "summary": "Work security for Andrés at a nightclub.",
-      "steps": [],
+      "summary": "Jason takes a job working nightclub security for Andrés.",
+      "steps": [
+        "As Jason, meet up with Andrés.",
+        "Go with Andrés to the nightclub.",
+        "Stay close to Andrés and keep him safe while he's at the club.",
+        "Follow the on-screen objectives until Andrés is safe."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "This is a Jason-only mission."
       ],
       "rewards": null
     },
@@ -2609,11 +2632,16 @@
       "order": 74,
       "title": "Fresh Evidence",
       "giver": "Dre'Quan",
-      "summary": "Help steal blackmail material for Dre'Quan.",
-      "steps": [],
+      "summary": "Jason and Dre'Quan team up to steal a stash of blackmail material.",
+      "steps": [
+        "As Jason, go to the marker to meet Dre'Quan.",
+        "Head with Dre'Quan to where the material is kept.",
+        "Get inside and find the blackmail material.",
+        "Steal the material and get away."
+      ],
       "objectives": [],
       "tips": [
-        "Full step-by-step walkthrough coming soon."
+        "This is a Jason-only mission."
       ],
       "rewards": null
     },
