@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -4735,6 +4735,416 @@
       "facts": [],
       "tags": [],
       "spoiler": false
+    },
+    {
+      "id": "db-places-med-smooth-sand",
+      "section": "places",
+      "category": "Meditation spot",
+      "name": "Meditation: Smooth Sand",
+      "subtitle": "Sandbar off the west coast of Capri",
+      "body": "Meditate here with **both** Jason and Lucia. Each one counts separately.",
+      "region": "Capri, Kelly County",
+      "facts": [
+        {
+          "label": "Available",
+          "value": "After Coffee Break (Chapter 2)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-med-swamp",
+      "section": "places",
+      "category": "Meditation spot",
+      "name": "Meditation: Swamp",
+      "subtitle": "Wooden dock by the lookout tower",
+      "body": "Meditate here with **both** Jason and Lucia. Each one counts separately.",
+      "region": "Buckskin Swamp, Kelly County",
+      "facts": [
+        {
+          "label": "Available",
+          "value": "After Coffee Break (Chapter 2)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-med-worn-stone",
+      "section": "places",
+      "category": "Meditation spot",
+      "name": "Meditation: Worn Stone",
+      "subtitle": "Emerald River bank",
+      "body": "Meditate here with **both** Jason and Lucia. Each one counts separately.",
+      "region": "Camp Moonflower, Kelly County",
+      "facts": [
+        {
+          "label": "Available",
+          "value": "After Coffee Break (Chapter 2)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-med-red-rocks",
+      "section": "places",
+      "category": "Meditation spot",
+      "name": "Meditation: Red Rocks",
+      "subtitle": "By the rail and highway crossing",
+      "body": "Meditate here with **both** Jason and Lucia. Each one counts separately.",
+      "region": "Manifest Canyon, Kelly County",
+      "facts": [
+        {
+          "label": "Available",
+          "value": "After Coffee Break (Chapter 2)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-med-water-wheel",
+      "section": "places",
+      "category": "Meditation spot",
+      "name": "Meditation: Water Wheel",
+      "subtitle": "Waterwheel at a ruined paper mill",
+      "body": "Meditate here with **both** Jason and Lucia. Each one counts separately.",
+      "region": "Moreau, Lummox County",
+      "facts": [
+        {
+          "label": "Available",
+          "value": "After Coffee Break (Chapter 2)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-med-jutting-cliff",
+      "section": "places",
+      "category": "Meditation spot",
+      "name": "Meditation: Jutting Cliff",
+      "subtitle": "Tower overlooking the mine",
+      "body": "Meditate here with **both** Jason and Lucia. Each one counts separately.",
+      "region": "Mount Kalaga National Park, Lummox County",
+      "facts": [
+        {
+          "label": "Available",
+          "value": "After Coffee Break (Chapter 2)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-med-waterfall",
+      "section": "places",
+      "category": "Meditation spot",
+      "name": "Meditation: Waterfall",
+      "subtitle": "Overlooking the waterfall",
+      "body": "Meditate here with **both** Jason and Lucia. Each one counts separately.",
+      "region": "Northwest of Lake Tallaloko, Lummox County",
+      "facts": [
+        {
+          "label": "Available",
+          "value": "After Coffee Break (Chapter 2)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-med-seaside",
+      "section": "places",
+      "category": "Meditation spot",
+      "name": "Meditation: Seaside",
+      "subtitle": "Rocky outcrop on the beach",
+      "body": "Meditate here with **both** Jason and Lucia. Each one counts separately.",
+      "region": "East of Waning Sands, Leonard County",
+      "facts": [
+        {
+          "label": "Available",
+          "value": "After Coffee Break (Chapter 2)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-med-summit",
+      "section": "places",
+      "category": "Meditation spot",
+      "name": "Meditation: Mount Kalaga Summit",
+      "subtitle": "Stone circle on the peak. Appears after the others",
+      "body": "The last meditation. It only appears after you've done the others.",
+      "region": "Mount Kalaga, Lummox County",
+      "facts": [
+        {
+          "label": "Unlock",
+          "value": "Finish the other meditations"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-brians-marina",
+      "section": "places",
+      "category": "Marina",
+      "name": "Brian's Marina",
+      "subtitle": "Brian's boat business",
+      "body": "Several Chapter 1 missions start here, like *Down to Earth* and *Swamped*.",
+      "region": "Key Lento",
+      "facts": [],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-thorp-adventures",
+      "section": "places",
+      "category": "Landmark",
+      "name": "Thorp Adventures",
+      "subtitle": "Kirk's Skunk Ape meeting spot",
+      "body": "Meet Kirk here at night for the first Skunk Ape hunt.",
+      "region": "Pelican Valley, Mariana County",
+      "facts": [],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-capri-antiques",
+      "section": "places",
+      "category": "Shop",
+      "name": "Capri Antique Store",
+      "subtitle": "Where Dubious Provenance starts",
+      "body": "Take the statue from the stolen bag here.",
+      "region": "Capri, Kelly County",
+      "facts": [],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-imperial-plaza",
+      "section": "places",
+      "category": "Landmark",
+      "name": "Imperial Plaza",
+      "subtitle": "Tyrone's spot in Dealer's Choice",
+      "body": "Buy product from Tyrone here in *Dealer's Choice*.",
+      "region": "La Perle, Vice City",
+      "facts": [],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-status-auto",
+      "section": "places",
+      "category": "Car dealer",
+      "name": "Status Auto Imports",
+      "subtitle": "Free cars in Company Cars",
+      "body": "Each of you picks a free car here in Chapter 4.",
+      "region": "Bayside, Vice City",
+      "facts": [],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-peacock-estates",
+      "section": "places",
+      "category": "Landmark",
+      "name": "Gil's Mansion",
+      "subtitle": "The practice safe heist",
+      "body": "You steal the practice safe from here in *Safe Word*.",
+      "region": "Peacock Estates, Vice City",
+      "facts": [],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-big-mikes",
+      "section": "places",
+      "category": "Club",
+      "name": "Big Mike's Club",
+      "subtitle": "Collection stop in Boobie Time",
+      "body": "Boobie's last pickup in *Boobie Time*.",
+      "region": "Salton, Vice City",
+      "facts": [],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-hit-n-run",
+      "section": "places",
+      "category": "Activity hub",
+      "name": "Hit 'n' Run VC",
+      "subtitle": "Street racing crew",
+      "body": "Join a street race here to start Yago's side missions.",
+      "region": "Salton, Vice City",
+      "facts": [
+        {
+          "label": "Available",
+          "value": "Chapter 3"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-ocean-beach",
+      "section": "places",
+      "category": "Neighborhood",
+      "name": "Ocean Beach",
+      "subtitle": "Home of the Y hotel",
+      "body": "Jason and Lucia move into the Y in Chapter 4.",
+      "region": "Ocean Beach, Vice Beach",
+      "facts": [],
+      "tags": [],
+      "spoiler": false
+    }
+  ],
+  "mapRegions": [
+    {
+      "id": "lummox",
+      "name": "Lummox County",
+      "subtitle": "Mount Kalaga, Moreau, Lake Tallaloko, Millport",
+      "x": 0.06,
+      "y": 0.03,
+      "w": 0.88,
+      "h": 0.19,
+      "color": "#7BC67E",
+      "aliases": [
+        "Lummox",
+        "Mount Kalaga",
+        "Kalaga",
+        "Moreau",
+        "Tallaloko",
+        "Millport",
+        "Bonanza",
+        "Grayson",
+        "Hyde Island"
+      ]
+    },
+    {
+      "id": "kelly",
+      "name": "Kelly County",
+      "subtitle": "Port Gellhorn, Capri, Manifest Canyon, Buckskin Swamp",
+      "x": 0.03,
+      "y": 0.24,
+      "w": 0.4,
+      "h": 0.31,
+      "color": "#E8A33D",
+      "aliases": [
+        "Kelly County",
+        "Port Gellhorn",
+        "Capri",
+        "Manifest Canyon",
+        "Buckskin",
+        "Camp Moonflower",
+        "Emerald River",
+        "Wild Hog",
+        "Draper",
+        "Frogswater"
+      ]
+    },
+    {
+      "id": "leonard",
+      "name": "Leonard County",
+      "subtitle": "Ambrosia, Belville, Waning Sands",
+      "x": 0.46,
+      "y": 0.24,
+      "w": 0.51,
+      "h": 0.31,
+      "color": "#C58AF9",
+      "aliases": [
+        "Leonard",
+        "Ambrosia",
+        "Belville",
+        "Waning Sands",
+        "Vinewood Beach",
+        "Sundown Airfield"
+      ]
+    },
+    {
+      "id": "mariana",
+      "name": "Mariana County",
+      "subtitle": "Grassrivers, Hamlet, Pelican Valley",
+      "x": 0.07,
+      "y": 0.57,
+      "w": 0.44,
+      "h": 0.21,
+      "color": "#3FB68B",
+      "aliases": [
+        "Mariana",
+        "Grassrivers",
+        "Hamlet",
+        "Pelican Valley",
+        "Wetman Bay",
+        "Cottonmouth",
+        "Watson Bay",
+        "Bobcat Key"
+      ]
+    },
+    {
+      "id": "vicebeach",
+      "name": "Vice Beach",
+      "subtitle": "Ocean Beach, Washington Beach and the bay islands",
+      "x": 0.83,
+      "y": 0.57,
+      "w": 0.14,
+      "h": 0.21,
+      "color": "#52E0F2",
+      "aliases": [
+        "Vice Beach",
+        "Ocean Beach",
+        "Washington Beach",
+        "Starfish Island",
+        "Vespucci Island"
+      ]
+    },
+    {
+      "id": "vicecity",
+      "name": "Vice City",
+      "subtitle": "Downtown, Little Cuba, Crosstown, Bayside, Salton",
+      "x": 0.54,
+      "y": 0.57,
+      "w": 0.27,
+      "h": 0.21,
+      "color": "#FF5CA3",
+      "aliases": [
+        "Vice City",
+        "Vice-Dale",
+        "Downtown",
+        "Little Cuba",
+        "Crosstown",
+        "Bayside",
+        "Salton",
+        "La Perle",
+        "Stockyard",
+        "Rockridge",
+        "Tequesta",
+        "Peacock",
+        "Southside",
+        "Balsero"
+      ]
+    },
+    {
+      "id": "keys",
+      "name": "Leonida Keys",
+      "subtitle": "Key Lento and the island chain to Southwind",
+      "x": 0.18,
+      "y": 0.81,
+      "w": 0.64,
+      "h": 0.13,
+      "color": "#FFB86B",
+      "aliases": [
+        "Key Lento",
+        "Leonida Keys",
+        "Southwind",
+        "Maroon Key",
+        "Goose Key",
+        "Corsair Key"
+      ]
     }
   ]
 }
