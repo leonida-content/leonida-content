@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 33,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -2246,7 +2246,8 @@
         "Stay right behind the open container until the Jump prompt appears.",
         "Raul's lockup location only comes through once you've lost the police."
       ],
-      "rewards": "Raul becomes a contact"
+      "rewards": "Raul becomes a contact",
+      "character": "Either"
     },
     {
       "id": "story-dubious-provenance",
@@ -2331,7 +2332,8 @@
       ],
       "objectives": [],
       "tips": [],
-      "rewards": null
+      "rewards": null,
+      "character": "Jason"
     },
     {
       "id": "story-here-kitty-kitty",
@@ -2547,7 +2549,8 @@
       "tips": [
         "Raul gives you a new lead afterwards: track down a bank security expert."
       ],
-      "rewards": "Unlocks the next Cartel Heist setup mission"
+      "rewards": "Unlocks the next Cartel Heist setup mission",
+      "character": "Either"
     },
     {
       "id": "story-security-expert",
@@ -2569,7 +2572,8 @@
         "Stay right behind Jason so the guards don't spot you.",
         "Get away quickly once Nicole is in the trunk."
       ],
-      "rewards": "None"
+      "rewards": "None",
+      "character": "Either"
     },
     {
       "id": "story-ride-or-die",
@@ -2916,7 +2920,8 @@
       "tips": [
         "This is a Lucia-only mission."
       ],
-      "rewards": null
+      "rewards": null,
+      "character": "Lucia"
     },
     {
       "id": "story-watch-it",
@@ -2936,7 +2941,8 @@
       "tips": [
         "This is a Jason-only mission."
       ],
-      "rewards": null
+      "rewards": null,
+      "character": "Jason"
     },
     {
       "id": "story-cash-injections",
@@ -2954,7 +2960,8 @@
       ],
       "objectives": [],
       "tips": [],
-      "rewards": "Nate agrees to vouch for Lucia with Kordell"
+      "rewards": "Nate agrees to vouch for Lucia with Kordell",
+      "character": "Lucia"
     },
     {
       "id": "story-amateur-hour",
@@ -2972,7 +2979,8 @@
       ],
       "objectives": [],
       "tips": [],
-      "rewards": "Cisco's trust"
+      "rewards": "Cisco's trust",
+      "character": "Lucia"
     },
     {
       "id": "story-dirty-work",
@@ -5590,6 +5598,503 @@
         {
           "label": "Genre",
           "value": "1980s"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-vapid-ganado",
+      "section": "vehicles",
+      "category": "Pickup",
+      "name": "Vapid Ganado",
+      "subtitle": "Jason's personal pickup truck",
+      "body": "A long-bed, 70s-style pickup that serves as Jason's own ride from the start of the story. Ultimate Edition owners get an extra set of mods for it.",
+      "facts": [
+        {
+          "label": "Owner",
+          "value": "Jason (starting personal vehicle)"
+        },
+        {
+          "label": "Body",
+          "value": "Pickup"
+        },
+        {
+          "label": "Ultimate Edition",
+          "value": "Exclusive mod kit"
+        }
+      ],
+      "tags": [
+        "Jason"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-pay-n-spray",
+      "section": "places",
+      "category": "Vehicle service",
+      "name": "Pay 'n' Spray",
+      "subtitle": "Make stolen cars your own",
+      "body": "Pay 'n' Spray garages let you register a stolen car so you can keep it as a personal vehicle. Cars fitted with trackers are only accepted once the story with Randy moves along.",
+      "facts": [
+        {
+          "label": "What it does",
+          "value": "Registers stolen cars as personal vehicles"
+        },
+        {
+          "label": "Standard trackers",
+          "value": "Accepted after you meet Randy in Chapter 3"
+        },
+        {
+          "label": "Advanced trackers",
+          "value": "Accepted after more progress with Randy"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-ammu-nation",
+      "section": "places",
+      "category": "Gun store",
+      "name": "Ammu-Nation",
+      "subtitle": "Leonida's network of gun shops",
+      "body": "Ammu-Nation runs 24 gun stores across the state, most of them under their own local names (Phil's Ammu-Nation is the only one with the brand in its name). Stop in for guns, ammo, body armor and parachutes.",
+      "facts": [
+        {
+          "label": "Locations",
+          "value": "24"
+        },
+        {
+          "label": "Sells",
+          "value": "Weapons, ammo, body armor, parachutes"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-gellhorn-outfitters",
+      "section": "places",
+      "category": "Gun store",
+      "name": "Gellhorn Outfitters",
+      "subtitle": "Port Gellhorn's gun store",
+      "body": "An Ammu-Nation branch serving Port Gellhorn and the surrounding county.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Ammu-Nation gun store"
+        },
+        {
+          "label": "Where to find",
+          "value": "Port Gellhorn, Kelly County"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Port Gellhorn"
+    },
+    {
+      "id": "db-places-slinger",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Slinger",
+      "subtitle": "Vice City's go-to streetwear chain",
+      "body": "Casual and street clothes. With six branches it's the easiest clothing chain to find, and every branch stocks the same range.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Casual & street"
+        },
+        {
+          "label": "Where to find",
+          "value": "Southside, Peacock Bay, Tequesta, Downtown, Decor District, Ocean Beach"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-places-this-that",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "This / That",
+      "subtitle": "Casual wear on the coast",
+      "body": "A casual and streetwear shop with branches in Vice City and up the coast.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Casual & street"
+        },
+        {
+          "label": "Where to find",
+          "value": "Decor District, Ocean Beach (2), Waning Sands"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-mid",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Mid",
+      "subtitle": "Laid-back casual clothing",
+      "body": "A smaller casual clothing chain.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Casual & street"
+        },
+        {
+          "label": "Where to find",
+          "value": "Ocean Beach (2), Waning Sands"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-alpha-sports",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Alpha Sports",
+      "subtitle": "The main sportswear chain",
+      "body": "Athletic and sports clothing, with most branches clustered around Ocean Beach.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Sportswear"
+        },
+        {
+          "label": "Where to find",
+          "value": "Downtown, Ocean Beach (4), Waning Sands"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-endzone",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Endzone",
+      "subtitle": "Sportswear in Vice City",
+      "body": "A second sportswear option, mostly near the beaches.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Sportswear"
+        },
+        {
+          "label": "Where to find",
+          "value": "Downtown, Ocean Beach (2), Washington Beach"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-places-nola",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Nola",
+      "subtitle": "Formalwear boutique",
+      "body": "Dress up here when a job calls for something smarter than a T-shirt.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Formal"
+        },
+        {
+          "label": "Where to find",
+          "value": "Capri, Peacock Bay, Ocean Beach (2), Decor District"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-ferruccio-tucci",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Ferruccio Tucci",
+      "subtitle": "High-end designer formalwear",
+      "body": "The upscale choice for suits and designer outfits.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Formal"
+        },
+        {
+          "label": "Where to find",
+          "value": "Capri, Ocean Beach (2), Decor District, Waning Sands"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-bargain-world",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Bargain World",
+      "subtitle": "Budget clothes in Port Gellhorn",
+      "body": "A thrift store for cheap outfits outside the city.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Thrift"
+        },
+        {
+          "label": "Where to find",
+          "value": "Port Gellhorn, Kelly County"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Port Gellhorn"
+    },
+    {
+      "id": "db-places-nifty-threads-island-wear",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Nifty Threads Island Wear",
+      "subtitle": "Thrift store down in the Keys",
+      "body": "A thrift clothing shop in Mariana County.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Thrift"
+        },
+        {
+          "label": "Where to find",
+          "value": "Mariana County"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Mariana County"
+    },
+    {
+      "id": "db-activities-hunting",
+      "section": "activities",
+      "category": "Activity",
+      "name": "Hunting",
+      "subtitle": "Optional hunts with Jason's friend Bret",
+      "body": "Jason can take up hunting through a contact of his. The hunts are optional, but they count toward 100% completion. The first target is a deer.",
+      "facts": [
+        {
+          "label": "Character",
+          "value": "Jason only"
+        },
+        {
+          "label": "Required for 100%",
+          "value": "Yes"
+        },
+        {
+          "label": "First hunt",
+          "value": "Whitetail deer"
+        }
+      ],
+      "tags": [
+        "Jason"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-whitetail-deer",
+      "section": "wildlife",
+      "category": "Mammal",
+      "name": "Whitetail Deer",
+      "subtitle": "Common game animal",
+      "body": "Deer roam the wooded parts of Leonida and are the first animal you hunt with Bret.",
+      "facts": [
+        {
+          "label": "Huntable",
+          "value": "Yes"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-american-alligator",
+      "section": "wildlife",
+      "category": "Reptile",
+      "name": "American Alligator",
+      "subtitle": "Swamp resident",
+      "body": "Gators live in Leonida's swamps and wetlands. Keep your distance near the water's edge.",
+      "facts": [
+        {
+          "label": "Habitat",
+          "value": "Swamps and wetlands"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-radio-flash-fm",
+      "section": "radio",
+      "category": "Pop",
+      "name": "Flash FM",
+      "subtitle": "Pop and dance hits",
+      "body": "A pop station.",
+      "facts": [
+        {
+          "label": "Genre",
+          "value": "Pop"
+        },
+        {
+          "label": "Hosts",
+          "value": "Robyn and Alex Consani"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-radio-cocoteo-fm",
+      "section": "radio",
+      "category": "Latin",
+      "name": "Cocoteo FM",
+      "subtitle": "Modern Latin and reggaeton",
+      "body": "Current Latin music.",
+      "facts": [
+        {
+          "label": "Genre",
+          "value": "Modern Latin / reggaeton"
+        },
+        {
+          "label": "Hosts",
+          "value": "Bad Bunny and RaiNao"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-radio-afrobank-fm",
+      "section": "radio",
+      "category": "African",
+      "name": "AfroBank FM",
+      "subtitle": "Afrobeats to amapiano",
+      "body": "African music from classics to modern amapiano.",
+      "facts": [
+        {
+          "label": "Genre",
+          "value": "African / amapiano"
+        },
+        {
+          "label": "Hosts",
+          "value": "Burna Boy and Palms Trax"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-radio-dirty-south-classics",
+      "section": "radio",
+      "category": "Hip-hop",
+      "name": "Dirty South Classics",
+      "subtitle": "Southern rap throwbacks",
+      "body": "Classic rap from the American South.",
+      "facts": [
+        {
+          "label": "Genre",
+          "value": "Southern rap"
+        },
+        {
+          "label": "Hosts",
+          "value": "Trick Daddy and Trina"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-radio-back-country-radio",
+      "section": "radio",
+      "category": "Country",
+      "name": "Back Country Radio",
+      "subtitle": "Country music",
+      "body": "Country tunes, with reports from Mud Dog Mike out on the road.",
+      "facts": [
+        {
+          "label": "Genre",
+          "value": "Country"
+        },
+        {
+          "label": "Roving reporter",
+          "value": "Mud Dog Mike"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-radio-vcrr",
+      "section": "radio",
+      "category": "Hip-hop",
+      "name": "VCRR",
+      "subtitle": "Hip-hop station",
+      "body": "Hip-hop for cruising the city.",
+      "facts": [
+        {
+          "label": "Genre",
+          "value": "Hip-hop"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-radio-v-rock",
+      "section": "radio",
+      "category": "Rock",
+      "name": "V-Rock",
+      "subtitle": "Rock station",
+      "body": "Rock music.",
+      "facts": [
+        {
+          "label": "Genre",
+          "value": "Rock"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-radio-radio-on-u",
+      "section": "radio",
+      "category": "Reggae",
+      "name": "Radio On-U",
+      "subtitle": "Reggae station",
+      "body": "Reggae and dub.",
+      "facts": [
+        {
+          "label": "Genre",
+          "value": "Reggae"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-radio-symphony-fm",
+      "section": "radio",
+      "category": "Classical",
+      "name": "Symphony FM",
+      "subtitle": "Classical music",
+      "body": "Orchestral and classical pieces.",
+      "facts": [
+        {
+          "label": "Genre",
+          "value": "Classical"
         }
       ],
       "tags": [],
