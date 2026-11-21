@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 34,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -2529,7 +2529,8 @@
         "An **advanced tracker** can tell the police where you are. Driving fast helps shake it.",
         "Plan your escape route before you take the car."
       ],
-      "rewards": "Unlocks the **Key Cloner** on your phone"
+      "rewards": "Unlocks the **Key Cloner** on your phone",
+      "character": "Either"
     },
     {
       "id": "story-sinfrontera-national-bank",
@@ -2664,7 +2665,8 @@
         "Avoid hitting people with the dragging safe or your profile goes Psycho.",
         "When drilling, keep the gauge steady and don't let the light turn red."
       ],
-      "rewards": "Gil's .50 pistol and $1,500"
+      "rewards": "Gil's .50 pistol and $1,500",
+      "character": "Either"
     },
     {
       "id": "story-cooties",
@@ -2705,7 +2707,8 @@
       ],
       "objectives": [],
       "tips": [],
-      "rewards": null
+      "rewards": null,
+      "character": "Either"
     },
     {
       "id": "story-hidden-charges",
@@ -2726,7 +2729,8 @@
       "tips": [
         "Destroying all three cell towers gives you just under 11 minutes on the heist timer."
       ],
-      "rewards": "Unlocks The Cartel Heist"
+      "rewards": "Unlocks The Cartel Heist",
+      "character": "Either"
     },
     {
       "id": "story-the-cartel-heist",
@@ -2751,7 +2755,8 @@
         "Shoot guns out of enemies' hands to keep a Professional rating.",
         "Bill stacks are worth the most, so grab them before loose cash."
       ],
-      "rewards": "$120,000 and the Break the Bank trophy"
+      "rewards": "$120,000 and the Break the Bank trophy",
+      "character": "Either"
     },
     {
       "id": "story-ocean-beach",
@@ -2772,7 +2777,8 @@
         "Room 701 is your new base.",
         "You get **BuckMe Premium** accounts here."
       ],
-      "rewards": "Room 701 safehouse"
+      "rewards": "Room 701 safehouse",
+      "character": "Either"
     },
     {
       "id": "story-another-life",
@@ -2792,7 +2798,8 @@
         "Nothing in this mission can be failed.",
         "Afterward you're free to use the hotel pool and cabana."
       ],
-      "rewards": "None"
+      "rewards": "None",
+      "character": "Lucia"
     },
     {
       "id": "story-company-cars",
@@ -2812,7 +2819,8 @@
       "tips": [
         "The free cars only come up once Santino lists the services."
       ],
-      "rewards": "A free car each for Jason and Lucia"
+      "rewards": "A free car each for Jason and Lucia",
+      "character": "Either"
     },
     {
       "id": "story-lawyer-up",
@@ -2832,7 +2840,8 @@
       "tips": [
         "The receptionist won't let you up without the Valentina line."
       ],
-      "rewards": null
+      "rewards": null,
+      "character": "Either"
     },
     {
       "id": "story-party-hard",
@@ -2852,7 +2861,8 @@
       "tips": [
         "The job is keeping Andrés happy, so roll with his detours."
       ],
-      "rewards": null
+      "rewards": null,
+      "character": "Either"
     },
     {
       "id": "story-heavy-lifting",
@@ -2875,7 +2885,8 @@
         "While tailing, keep the arrow above them **white**. Yellow means you're too close.",
         "Alternate the button prompts steadily on the treadmill."
       ],
-      "rewards": "None"
+      "rewards": "None",
+      "character": "Either"
     },
     {
       "id": "story-photo-shoot",
@@ -2898,7 +2909,8 @@
         "You can't shoot the car during the bike chase, so just follow it.",
         "Clear every enemy in the alley or the mission won't end."
       ],
-      "rewards": "$6,000 and two unique W-10 SMGs"
+      "rewards": "$6,000 and two unique W-10 SMGs",
+      "character": "Either"
     },
     {
       "id": "story-making-gainz",
@@ -3001,7 +3013,8 @@
         "You play as both Jason and Lucia in this mission.",
         "This is one of the setup missions for the VCIA Takedown heist."
       ],
-      "rewards": null
+      "rewards": null,
+      "character": "Either"
     },
     {
       "id": "story-too-much-baggage",
@@ -3023,7 +3036,8 @@
         "This is a Jason-only mission.",
         "This is one of the setup missions for the VCIA Takedown heist."
       ],
-      "rewards": null
+      "rewards": null,
+      "character": "Jason"
     },
     {
       "id": "story-adventures-in-babysitting",
@@ -3043,7 +3057,8 @@
       "tips": [
         "This is a Jason-only mission."
       ],
-      "rewards": null
+      "rewards": null,
+      "character": "Jason"
     },
     {
       "id": "story-fresh-evidence",
@@ -3063,7 +3078,8 @@
       "tips": [
         "This is a Jason-only mission."
       ],
-      "rewards": null
+      "rewards": null,
+      "character": "Jason"
     },
     {
       "id": "story-power-play",
@@ -3107,7 +3123,8 @@
         "Right after this mission, keep an eye out for the optional call \"This Is a Free Call From…\". It's time-sensitive and can be missed.",
         "You can switch between Jason and Lucia by holding Right on the D-Pad."
       ],
-      "rewards": null
+      "rewards": null,
+      "character": "Either"
     },
     {
       "id": "story-headliners",
@@ -3149,7 +3166,8 @@
         "This is a Jason-only mission.",
         "Part of the VCIA Takedown setup chain."
       ],
-      "rewards": null
+      "rewards": null,
+      "character": "Jason"
     },
     {
       "id": "story-delivery-method",
@@ -3171,7 +3189,8 @@
         "This is a Jason-only mission.",
         "Part of the VCIA Takedown setup chain."
       ],
-      "rewards": null
+      "rewards": null,
+      "character": "Jason"
     },
     {
       "id": "story-team-building",
@@ -3192,7 +3211,8 @@
         "This is a Lucia-only mission.",
         "Part of the VCIA Takedown setup chain."
       ],
-      "rewards": null
+      "rewards": null,
+      "character": "Lucia"
     },
     {
       "id": "story-fully-catered",
@@ -6095,6 +6115,514 @@
         {
           "label": "Genre",
           "value": "Classical"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-penumbra-ff-97",
+      "section": "vehicles",
+      "category": "Tuner",
+      "name": "Penumbra FF '97",
+      "subtitle": "Hidden movie-tribute tuner on Vespucci Island",
+      "body": "A green tuner locked away in a house garage, styled as a nod to a famous street-racing movie car. Get into the garage, then open the car with a Slim Jim or by breaking the window.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "Locked house garage on Vespucci Island"
+        },
+        {
+          "label": "How to get",
+          "value": "Break into the garage, then use a Slim Jim or smash the window"
+        }
+      ],
+      "tags": [
+        "Easter egg"
+      ],
+      "spoiler": false,
+      "region": "Vespucci Island"
+    },
+    {
+      "id": "db-vehicles-hauners-rhino",
+      "section": "vehicles",
+      "category": "Military",
+      "name": "Hauners Rhino",
+      "subtitle": "Tank you can steal from Mile Zero",
+      "body": "A military tank parked inside Mile Zero Air Station. Get in through the gate or by using the stunt jump on the southeast side. Taking it pops the *Challenging Tank* trophy.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "Mile Zero Air Station, Mariana County"
+        },
+        {
+          "label": "Wanted level",
+          "value": "3 stars when you take it"
+        },
+        {
+          "label": "Trophy",
+          "value": "Challenging Tank (Bronze)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Mariana County"
+    },
+    {
+      "id": "db-vehicles-p-996-lazer",
+      "section": "vehicles",
+      "category": "Military",
+      "name": "P-996 Lazer",
+      "subtitle": "Fighter jet at Mile Zero Air Station",
+      "body": "A fighter jet sitting on the military airfield. Most players get in by storming or ramming the main gate. Expect a heavy police and military response.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "Mile Zero Air Station, Mariana County"
+        },
+        {
+          "label": "How to get in",
+          "value": "Through the main gate"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Mariana County"
+    },
+    {
+      "id": "db-vehicles-64-mamba-gt",
+      "section": "vehicles",
+      "category": "Classic",
+      "name": "'64 Mamba GT",
+      "subtitle": "Restored through Wyman's car collection",
+      "body": "One of the classics you restore for Wyman's Classic Car Collection.",
+      "facts": [
+        {
+          "label": "Unlock",
+          "value": "Wyman's Classic Car Collection"
+        },
+        {
+          "label": "Edition",
+          "value": "Ultimate Edition"
+        }
+      ],
+      "tags": [
+        "Ultimate Edition"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-70-riata",
+      "section": "vehicles",
+      "category": "Classic",
+      "name": "'70 Riata",
+      "subtitle": "Classic off-roader from Wyman's collection",
+      "body": "A vintage off-roader from the same Wyman restoration set.",
+      "facts": [
+        {
+          "label": "Unlock",
+          "value": "Wyman's Classic Car Collection"
+        },
+        {
+          "label": "Edition",
+          "value": "Ultimate Edition"
+        }
+      ],
+      "tags": [
+        "Ultimate Edition"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-67-transgressor",
+      "section": "vehicles",
+      "category": "Classic",
+      "name": "'67 Transgressor",
+      "subtitle": "Classic from Wyman's collection",
+      "body": "Another vintage car from the Wyman restoration set.",
+      "facts": [
+        {
+          "label": "Unlock",
+          "value": "Wyman's Classic Car Collection"
+        },
+        {
+          "label": "Edition",
+          "value": "Ultimate Edition"
+        }
+      ],
+      "tags": [
+        "Ultimate Edition"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-hillinger-boomer",
+      "section": "weapons",
+      "category": "Launchers",
+      "name": "Hillinger Boomer",
+      "subtitle": "Compact grenade launcher",
+      "body": "A small 40mm grenade launcher sold at the bigger Ammu-Nation stores, such as Big Shots in Hamlet.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$12,000"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Expanded Ammu-Nation stores (e.g. Big Shots, Hamlet)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-deever-tech-glr40",
+      "section": "weapons",
+      "category": "Launchers",
+      "name": "Deever Tech GLR40",
+      "subtitle": "Grenade launcher",
+      "body": "A grenade launcher stocked only at the expanded Ammu-Nation stores.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$15,500"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Expanded Ammu-Nation stores"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-hauners-h-at",
+      "section": "weapons",
+      "category": "Launchers",
+      "name": "Hauners H-AT",
+      "subtitle": "Rocket launcher",
+      "body": "The game's rocket launcher, sold at the expanded Ammu-Nation stores.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$16,000"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Expanded Ammu-Nation stores"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-shrewsbury-sm-69",
+      "section": "weapons",
+      "category": "Sniper Rifles",
+      "name": "Shrewsbury SM-69",
+      "subtitle": "Hunting sniper rifle",
+      "body": "The standard store version of the SM-69 hunting rifle. Several special variants also exist.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$1,850"
+        },
+        {
+          "label": "Type",
+          "value": "Hunting rifle"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-fortune-son-laird-350",
+      "section": "weapons",
+      "category": "Sniper Rifles",
+      "name": "Fortune & Son Laird 350",
+      "subtitle": "Cheap sporting rifle",
+      "body": "An entry-level sporting rifle and the cheapest sniper option in stores.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$950"
+        },
+        {
+          "label": "Type",
+          "value": "Sporting rifle"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-fairview-ff-sr",
+      "section": "weapons",
+      "category": "Sniper Rifles",
+      "name": "Fairview FF-SR",
+      "subtitle": "Sniper rifle",
+      "body": "A sniper rifle sold at Ammu-Nation.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$2,950"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-shrewsbury-sms-01",
+      "section": "weapons",
+      "category": "Sniper Rifles",
+      "name": "Shrewsbury SMS-01",
+      "subtitle": "Advanced sniper rifle",
+      "body": "An advanced sniper rifle that unlocks through Bret Vogel's hunting quests.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$2,150"
+        },
+        {
+          "label": "Unlock",
+          "value": "After Bret's 9th hunting quest"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-duke-556",
+      "section": "weapons",
+      "category": "Assault Rifles",
+      "name": "Duke 556",
+      "subtitle": "Assault rifle at Chuck's Tackle & Shot",
+      "body": "A carbine-style assault rifle. Chuck's Tackle & Shot sells it once you have a bank account.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$1,450"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Chuck's Tackle & Shot (needs a bank account)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-shrewsbury-hobo",
+      "section": "weapons",
+      "category": "Shotguns",
+      "name": "Shrewsbury Hobo",
+      "subtitle": "Sawed-off double-barrel shotgun",
+      "body": "A short double-barrel shotgun. Chuck's Tackle & Shot sells it once you have a bank account.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$1,325"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Chuck's Tackle & Shot (needs a bank account)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-gutterball-moreland-850",
+      "section": "weapons",
+      "category": "Unique",
+      "name": "Gutterball Moreland 850",
+      "subtitle": "Unique shotgun from a bowling alley",
+      "body": "Grab it from the pool table in the northeast corner of the bowling alley during the optional mission *Hit Kingpin Bowling*.",
+      "facts": [
+        {
+          "label": "Where to get",
+          "value": "Pool table, northeast corner of the bowling alley"
+        },
+        {
+          "label": "Mission",
+          "value": "Hit Kingpin Bowling (Chapter 2, optional)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Port Gellhorn"
+    },
+    {
+      "id": "db-weapons-assassin-nipper-38",
+      "section": "weapons",
+      "category": "Unique",
+      "name": "Scorpio Assassin Nipper .38",
+      "subtitle": "Unique pistol on a wrecked spy boat",
+      "body": "Hidden in a hatch in the floor of a shipwrecked spy boat out in the Keys.",
+      "facts": [
+        {
+          "label": "Where to get",
+          "value": "Floor hatch on a shipwrecked boat"
+        },
+        {
+          "label": "Area",
+          "value": "Permit Keys"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Permit Keys"
+    },
+    {
+      "id": "db-weapons-the-silver-1992",
+      "section": "weapons",
+      "category": "Unique",
+      "name": "The Silver 1992",
+      "subtitle": "Special heavy pistol",
+      "body": "A special version of the heavy pistol sold at Ammu-Nation.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$2,210"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Ammu-Nation (Big Shots, Hamlet)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-wild-boar",
+      "section": "wildlife",
+      "category": "Mammals",
+      "name": "Wild Boar",
+      "subtitle": "Aggressive forest animal",
+      "body": "Boars live in wooded areas and will charge at you, so keep your distance.",
+      "facts": [
+        {
+          "label": "Habitat",
+          "value": "Forests and brush"
+        },
+        {
+          "label": "Behavior",
+          "value": "Aggressive"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-american-black-bear",
+      "section": "wildlife",
+      "category": "Mammals",
+      "name": "American Black Bear",
+      "subtitle": "Large forest mammal",
+      "body": "Black bears roam the wild forests away from the city.",
+      "facts": [
+        {
+          "label": "Habitat",
+          "value": "Forests"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-skunk-ape",
+      "section": "activities",
+      "category": "Mysteries",
+      "name": "Skunk Ape",
+      "subtitle": "Leonida's Bigfoot",
+      "body": "A cryptid you can spot on the road south of Hamlet, near Cottonmouth Lake, feeding on an animal carcass. It runs off into the swamp. Kirk, a cryptid expert, follows it up with a quest.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "Road south of Hamlet, near Cottonmouth Lake"
+        },
+        {
+          "label": "Quest giver",
+          "value": "Kirk"
+        }
+      ],
+      "tags": [
+        "Easter egg"
+      ],
+      "spoiler": false,
+      "region": "Hamlet"
+    },
+    {
+      "id": "db-activities-illegal-gang-operations",
+      "section": "activities",
+      "category": "Robberies",
+      "name": "Illegal Gang Operations",
+      "subtitle": "39 gang hideouts to rob",
+      "body": "Rob gang-run operations for safe cash, drugs to sell to fences, and collectibles.\n- Kingfishers: 3\n- Kolts & Associates: 5\n- M7: 2\n- La Polilla Negra: 2\n- Final Chapter: 4\n- San4San: 5\n- PTT Youngin$: 2\n- Guardia Brothers: 3\n- Other criminals: 13",
+      "facts": [
+        {
+          "label": "Total",
+          "value": "39 operations across 9 groups"
+        },
+        {
+          "label": "Rewards",
+          "value": "Cash, goods to sell, collectibles"
+        },
+        {
+          "label": "Note",
+          "value": "The Ultimate Edition's extra PTT robbery doesn't count toward 100%"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-collectibles-waink-scans",
+      "section": "collectibles",
+      "category": "Scans",
+      "name": "WAiNK Scans",
+      "subtitle": "Scan sights with the WAiNK app",
+      "body": "Use the WAiNK phone app to scan landmarks, curiosities, sculptures and No Flusher tags around Leonida.",
+      "facts": [
+        {
+          "label": "Sets",
+          "value": "Landmarks (31), Curiosities (35), Sculptures (23), No Flusher tags"
+        },
+        {
+          "label": "Trophy",
+          "value": "You WAiNKer! (scan 100)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-collectibles-ahol-street-art",
+      "section": "collectibles",
+      "category": "Street Art",
+      "name": "Ahol Street Art",
+      "subtitle": "Graffiti pieces to find",
+      "body": "Street art pieces by the artist Ahol, spread across the map.",
+      "facts": [
+        {
+          "label": "Total",
+          "value": "112"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-collectibles-1010-murals",
+      "section": "collectibles",
+      "category": "Street Art",
+      "name": "1010 Murals",
+      "subtitle": "Five large murals",
+      "body": "Large murals tagged 1010 hidden around Leonida.",
+      "facts": [
+        {
+          "label": "Total",
+          "value": "5"
         }
       ],
       "tags": [],
