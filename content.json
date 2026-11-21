@@ -1,5 +1,5 @@
 {
-  "version": 31,
+  "version": 32,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -1961,7 +1961,8 @@
         "Picking an item up pays for it. You don't need to talk to the clerk.",
         "Turn on item markers in the UI settings to spot the items faster."
       ],
-      "rewards": "Relationship boost"
+      "rewards": "Relationship boost",
+      "character": "Lucia"
     },
     {
       "id": "story-girls-trip",
@@ -2104,7 +2105,8 @@
         "Each stop has about a one-minute timer, so grab the cash and go.",
         "At the shotgun store, crouch behind the shelves and let your partner cover you."
       ],
-      "rewards": "Cash from the robberies"
+      "rewards": "Cash from the robberies",
+      "character": "Lucia"
     },
     {
       "id": "story-coffee-break",
@@ -2267,7 +2269,8 @@
         "You must **trust Halifax** at the motel to unlock the last part.",
         "Shooting or sparing him doesn't affect completion."
       ],
-      "rewards": "A Crowex watch, about $2,500 in jewelry and cash, and the '32 Hustler car"
+      "rewards": "A Crowex watch, about $2,500 in jewelry and cash, and the '32 Hustler car",
+      "character": "Either"
     },
     {
       "id": "story-mami-knows-best",
@@ -2350,7 +2353,8 @@
         "There's no way to save Charles.",
         "The garage camp only shows up after you call Tyrone about the receipt."
       ],
-      "rewards": "Tyrone's lead on the kitty litter maker"
+      "rewards": "Tyrone's lead on the kitty litter maker",
+      "character": "Jason"
     },
     {
       "id": "story-car-service",
@@ -2394,7 +2398,8 @@
         "You don't need to catch Roxy. The chase ends once she crosses the tracks.",
         "The power box is on the street, not in the house."
       ],
-      "rewards": "None"
+      "rewards": "None",
+      "character": "Either"
     },
     {
       "id": "story-boobie-time",
@@ -2416,7 +2421,8 @@
         "Jason only. If the mission marker doesn't show, switch to Jason.",
         "If the bag sinks, get off at the marker and dive for it."
       ],
-      "rewards": "Yasmani becomes a fence for hot goods"
+      "rewards": "Yasmani becomes a fence for hot goods",
+      "character": "Jason"
     },
     {
       "id": "story-first-impressions",
@@ -2434,7 +2440,8 @@
       ],
       "objectives": [],
       "tips": [],
-      "rewards": "Raul offers the next job"
+      "rewards": "Raul offers the next job",
+      "character": "Either"
     },
     {
       "id": "story-caught-slipping",
@@ -2456,7 +2463,8 @@
         "Use Focus Mode (L3 + R3) to hit their legs.",
         "It starts on its own when you go back to the Bayside apartment after Boobie Time and First Impressions."
       ],
-      "rewards": "None"
+      "rewards": "None",
+      "character": "Either"
     },
     {
       "id": "story-crosstown-traffic",
@@ -2477,7 +2485,8 @@
         "If Lucia misses the train, grab a scooter and catch it at the next stop.",
         "Pull the brake before the train reaches the gang on the tracks."
       ],
-      "rewards": null
+      "rewards": null,
+      "character": "Either"
     },
     {
       "id": "story-credit-check",
@@ -2496,7 +2505,8 @@
       ],
       "objectives": [],
       "tips": [],
-      "rewards": "Cash from the three bank jobs"
+      "rewards": "Cash from the three bank jobs",
+      "character": "Either"
     },
     {
       "id": "story-steal-the-zorrusso",
@@ -2582,7 +2592,8 @@
         "If you fail a step, Dre'Quan has a backup plan, so you don't restart.",
         "Stash anything illegal before you go home. The apartment can trigger the next mission."
       ],
-      "rewards": null
+      "rewards": null,
+      "character": "Jason"
     },
     {
       "id": "story-company-property",
@@ -2603,7 +2614,8 @@
       "tips": [
         "The weapons from this job are used later in the Cartel Heist."
       ],
-      "rewards": "Weapons cargo for the Cartel Heist"
+      "rewards": "Weapons cargo for the Cartel Heist",
+      "character": "Either"
     },
     {
       "id": "story-the-missing-link",
@@ -2625,7 +2637,8 @@
       "tips": [
         "This mission is played as Lucia only."
       ],
-      "rewards": null
+      "rewards": null,
+      "character": "Either"
     },
     {
       "id": "story-safe-word",
@@ -4999,6 +5012,586 @@
       "body": "Jason and Lucia move into the Y in Chapter 4.",
       "region": "Ocean Beach, Vice Beach",
       "facts": [],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-95-grotti-cheetah",
+      "section": "vehicles",
+      "category": "Super",
+      "name": "'95 Grotti Cheetah",
+      "subtitle": "Ultimate Edition supercar from the mid-90s",
+      "body": "A bonus supercar for Ultimate Edition owners, tucked away in a luxury tower's underground garage.",
+      "facts": [
+        {
+          "label": "Edition",
+          "value": "Ultimate Edition"
+        },
+        {
+          "label": "Unlock",
+          "value": "Chapter 5"
+        },
+        {
+          "label": "Where to find",
+          "value": "Underground garage at Pegassi Residences"
+        }
+      ],
+      "tags": [
+        "Ultimate Edition"
+      ],
+      "spoiler": false,
+      "region": "Tequesta Retreat, Vice City"
+    },
+    {
+      "id": "db-vehicles-67-vapid-dominator-buggy",
+      "section": "vehicles",
+      "category": "Off-road",
+      "name": "'67 Vapid Dominator Buggy",
+      "subtitle": "Classic muscle car turned dune buggy",
+      "body": "An Ultimate Edition bonus linked to Wyman and the Mud Club dirt-track story.",
+      "facts": [
+        {
+          "label": "Edition",
+          "value": "Ultimate Edition"
+        },
+        {
+          "label": "Unlock",
+          "value": "Chapter 2, after the Mud Club dirt-track race with Wyman"
+        },
+        {
+          "label": "Where to find",
+          "value": "Garage in Grassrivers"
+        }
+      ],
+      "tags": [
+        "Ultimate Edition"
+      ],
+      "spoiler": false,
+      "region": "Grassrivers, Mariana County"
+    },
+    {
+      "id": "db-vehicles-55-vapid-stanier",
+      "section": "vehicles",
+      "category": "Classic",
+      "name": "'55 Vapid Stanier",
+      "subtitle": "1950s cruiser from the Vintage Vice City Pack",
+      "body": "A pre-order bonus car that shows up parked in Ocean Beach once you reach Chapter 3.",
+      "facts": [
+        {
+          "label": "Unlock",
+          "value": "Chapter 3"
+        },
+        {
+          "label": "Where to find",
+          "value": "Parked roadside in Ocean Beach"
+        },
+        {
+          "label": "Source",
+          "value": "Vintage Vice City Pack (pre-order bonus)"
+        }
+      ],
+      "tags": [
+        "Pre-order"
+      ],
+      "spoiler": false,
+      "region": "Ocean Beach, Vice City"
+    },
+    {
+      "id": "db-vehicles-shitzu-squalo",
+      "section": "vehicles",
+      "category": "Boat",
+      "name": "Shitzu Squalo",
+      "subtitle": "Ultimate Edition speedboat",
+      "body": "A fast bonus speedboat you'll find moored in Washington Beach.",
+      "facts": [
+        {
+          "label": "Edition",
+          "value": "Ultimate Edition"
+        },
+        {
+          "label": "Unlock",
+          "value": "Chapter 4"
+        },
+        {
+          "label": "Where to find",
+          "value": "Dock in Washington Beach"
+        }
+      ],
+      "tags": [
+        "Ultimate Edition"
+      ],
+      "spoiler": false,
+      "region": "Washington Beach, Vice City"
+    },
+    {
+      "id": "db-vehicles-dinka-enduro",
+      "section": "vehicles",
+      "category": "Motorcycle",
+      "name": "Dinka Enduro",
+      "subtitle": "Dirt bike waiting at Jason's house",
+      "body": "Ultimate Edition owners get this off-road bike as a safehouse vehicle from the start.",
+      "facts": [
+        {
+          "label": "Edition",
+          "value": "Ultimate Edition"
+        },
+        {
+          "label": "Unlock",
+          "value": "Chapter 1"
+        },
+        {
+          "label": "Where to find",
+          "value": "Jason's house"
+        }
+      ],
+      "tags": [
+        "Ultimate Edition"
+      ],
+      "spoiler": false,
+      "region": "Key Lento"
+    },
+    {
+      "id": "db-vehicles-crest-kayak",
+      "section": "vehicles",
+      "category": "Boat",
+      "name": "Crest Kayak",
+      "subtitle": "Paddle kayak at Jason's house",
+      "body": "A quiet way to explore the Keys' waterways, given as an Ultimate Edition safehouse vehicle.",
+      "facts": [
+        {
+          "label": "Edition",
+          "value": "Ultimate Edition"
+        },
+        {
+          "label": "Unlock",
+          "value": "Chapter 1"
+        },
+        {
+          "label": "Where to find",
+          "value": "Jason's house"
+        }
+      ],
+      "tags": [
+        "Ultimate Edition"
+      ],
+      "spoiler": false,
+      "region": "Key Lento"
+    },
+    {
+      "id": "db-vehicles-bravado-gauntlet-hellfire",
+      "section": "vehicles",
+      "category": "Muscle",
+      "name": "Bravado Gauntlet Hellfire",
+      "subtitle": "Muscle car on Randy's Wish List",
+      "body": "Sits in a gang-held junkyard. Bring the Key Cloner to take it.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "Gang junkyard off Galerina Street, east of Boone Speedway"
+        },
+        {
+          "label": "How to get",
+          "value": "Steal it with the Key Cloner"
+        },
+        {
+          "label": "List",
+          "value": "Randy's Wish List"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Hamlet"
+    },
+    {
+      "id": "db-vehicles-moses-sultan",
+      "section": "vehicles",
+      "category": "Sports",
+      "name": "Moses' Sultan",
+      "subtitle": "Moses's own unique Sultan",
+      "body": "A one-of-a-kind Sultan that Moses hands over to Lucia at his shop.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "Moses's Garage, Port Gellhorn"
+        },
+        {
+          "label": "How to get",
+          "value": "Reward from Moses's side jobs"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Port Gellhorn"
+    },
+    {
+      "id": "db-vehicles-declasse-yosemite-1500",
+      "section": "vehicles",
+      "category": "Truck",
+      "name": "Declasse Yosemite 1500",
+      "subtitle": "Pickup on Moses's steal list",
+      "body": "One of the cars Moses asks you to steal and deliver.",
+      "facts": [
+        {
+          "label": "List",
+          "value": "Steal Vehicles for Moses"
+        },
+        {
+          "label": "Where to find",
+          "value": "Port Gellhorn"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Port Gellhorn"
+    },
+    {
+      "id": "db-vehicles-western-nightblade",
+      "section": "vehicles",
+      "category": "Motorcycle",
+      "name": "Western Nightblade",
+      "subtitle": "Cruiser bike, the toughest steal for Moses",
+      "body": "It's parked inside gang territory, so expect a fight when you take it.",
+      "facts": [
+        {
+          "label": "List",
+          "value": "Steal Vehicles for Moses"
+        },
+        {
+          "label": "Where to find",
+          "value": "Ambrosia"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Ambrosia"
+    },
+    {
+      "id": "db-weapons-hawk-little-morgan-revolver",
+      "section": "weapons",
+      "category": "Revolver",
+      "name": "Hawk & Little Morgan Revolver",
+      "subtitle": "Ultimate Edition revolver for both leads",
+      "body": "Jason and Lucia each get one. Collect it at any Ammu-Nation.",
+      "facts": [
+        {
+          "label": "Edition",
+          "value": "Ultimate Edition"
+        },
+        {
+          "label": "Unlock",
+          "value": "Chapter 2"
+        },
+        {
+          "label": "Where to get",
+          "value": "Any Ammu-Nation"
+        }
+      ],
+      "tags": [
+        "Ultimate Edition"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-girardi-es9-jason-s-variant",
+      "section": "weapons",
+      "category": "Pistol",
+      "name": "Girardi ES9 (Jason's variant)",
+      "subtitle": "Jason's personal ES9 pistol",
+      "body": "A custom version of the ES9 for Jason, found in the Ammu-Nation weapon locker.",
+      "facts": [
+        {
+          "label": "Edition",
+          "value": "Ultimate Edition"
+        },
+        {
+          "label": "Unlock",
+          "value": "Chapter 1"
+        },
+        {
+          "label": "Where to get",
+          "value": "Ammu-Nation weapon locker"
+        }
+      ],
+      "tags": [
+        "Ultimate Edition"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-klose-k17-lucia-s-variant",
+      "section": "weapons",
+      "category": "Pistol",
+      "name": "Klose K17 (Lucia's variant)",
+      "subtitle": "Lucia's personal K17 pistol",
+      "body": "A custom version of the K17 for Lucia, found in the Ammu-Nation weapon locker.",
+      "facts": [
+        {
+          "label": "Edition",
+          "value": "Ultimate Edition"
+        },
+        {
+          "label": "Unlock",
+          "value": "Chapter 2"
+        },
+        {
+          "label": "Where to get",
+          "value": "Ammu-Nation weapon locker"
+        }
+      ],
+      "tags": [
+        "Ultimate Edition"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-fairview-ff-50",
+      "section": "weapons",
+      "category": "Sniper rifle",
+      "name": "Fairview FF-50",
+      "subtitle": "Top-tier heavy sniper rifle",
+      "body": "Only the bigger, expanded gun stores stock it.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$3,975"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Expanded Ammu-Nation stores"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-ptt-youngin-compound",
+      "section": "places",
+      "category": "Gang hideout",
+      "name": "PTT Youngin$ Compound",
+      "subtitle": "Gang hideout you can rob",
+      "body": "An Ultimate Edition robbery spot that opens up once you've been to Southside.",
+      "facts": [
+        {
+          "label": "Edition",
+          "value": "Ultimate Edition"
+        },
+        {
+          "label": "Unlock",
+          "value": "After visiting Southside in Chapter 3"
+        },
+        {
+          "label": "Type",
+          "value": "Robbery"
+        }
+      ],
+      "tags": [
+        "Ultimate Edition"
+      ],
+      "spoiler": false,
+      "region": "Southside, Vice City"
+    },
+    {
+      "id": "db-places-stock-305",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Stock 305",
+      "subtitle": "Streetwear shop",
+      "body": "Sells exclusive outfits for Jason and Lucia in the Ultimate Edition.",
+      "facts": [
+        {
+          "label": "Edition",
+          "value": "Ultimate Edition"
+        },
+        {
+          "label": "Unlock",
+          "value": "Chapter 1"
+        }
+      ],
+      "tags": [
+        "Ultimate Edition"
+      ],
+      "spoiler": false,
+      "region": "Stockyard, Vice City"
+    },
+    {
+      "id": "db-places-electric-fang-tattoo",
+      "section": "places",
+      "category": "Tattoo parlor",
+      "name": "Electric Fang Tattoo",
+      "subtitle": "Tattoo shop in Stockyard",
+      "body": "An extra tattoo parlor for Ultimate Edition owners.",
+      "facts": [
+        {
+          "label": "Edition",
+          "value": "Ultimate Edition"
+        },
+        {
+          "label": "Unlock",
+          "value": "Chapter 1"
+        }
+      ],
+      "tags": [
+        "Ultimate Edition"
+      ],
+      "spoiler": false,
+      "region": "Stockyard, Vice City"
+    },
+    {
+      "id": "db-places-one-eyed-willie-s-auto-shop",
+      "section": "places",
+      "category": "Garage",
+      "name": "One-Eyed Willie's Auto Shop",
+      "subtitle": "Off-road mod garage",
+      "body": "Upgrade trucks and off-roaders here.",
+      "facts": [
+        {
+          "label": "Edition",
+          "value": "Ultimate Edition"
+        },
+        {
+          "label": "Unlock",
+          "value": "Chapter 1"
+        }
+      ],
+      "tags": [
+        "Ultimate Edition"
+      ],
+      "spoiler": false,
+      "region": "Lake Leonida"
+    },
+    {
+      "id": "db-places-coastal-auto-care",
+      "section": "places",
+      "category": "Garage",
+      "name": "Coastal Auto Care",
+      "subtitle": "Key Lento garage",
+      "body": "Fit the Ganado Retro Build kit to Jason's truck here.",
+      "facts": [
+        {
+          "label": "What's there",
+          "value": "Ganado Retro Build kit (Ultimate Edition)"
+        },
+        {
+          "label": "Unlock",
+          "value": "Chapter 1"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Key Lento"
+    },
+    {
+      "id": "db-activities-wyman-s-classic-car-collection",
+      "section": "activities",
+      "category": "Side job",
+      "name": "Wyman's Classic Car Collection",
+      "subtitle": "Find parts so Wyman can rebuild classics",
+      "body": "Hunt down the parts for Wyman's old cars. You keep each car once he's rebuilt it.",
+      "facts": [
+        {
+          "label": "Edition",
+          "value": "Ultimate Edition"
+        },
+        {
+          "label": "Start",
+          "value": "Chapter 2, when Wyman texts you"
+        },
+        {
+          "label": "Cars",
+          "value": "'67 Transgressor, '70 Riata, '64 Mamba GT, Reynolds Kit Car, '72 Deviant"
+        },
+        {
+          "label": "Reward",
+          "value": "Keep each rebuilt car"
+        }
+      ],
+      "tags": [
+        "Ultimate Edition"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-steal-vehicles-for-moses",
+      "section": "activities",
+      "category": "Side job",
+      "name": "Steal Vehicles for Moses",
+      "subtitle": "Steal cars to order for Moses",
+      "body": "Moses gives you a list of cars to steal and bring to his shop.",
+      "facts": [
+        {
+          "label": "Cars",
+          "value": "Declasse Yosemite 1500, Karin Futo, Annis Hellion, BF Bandito, Declasse Vamos, Western Nightblade"
+        },
+        {
+          "label": "Deliver to",
+          "value": "Moses's Garage, Port Gellhorn"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Kelly County"
+    },
+    {
+      "id": "db-radio-the-chamber-106-6",
+      "section": "radio",
+      "category": "Metal",
+      "name": "The Chamber 106.6",
+      "subtitle": "Heavy metal station",
+      "body": "Loud guitars for chases.",
+      "facts": [
+        {
+          "label": "Genre",
+          "value": "Metal"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-radio-gloriana-blues-radio",
+      "section": "radio",
+      "category": "Blues",
+      "name": "Gloriana Blues Radio",
+      "subtitle": "Blues station",
+      "body": "Laid-back blues for the long drives.",
+      "facts": [
+        {
+          "label": "Genre",
+          "value": "Blues"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-radio-radio-la-ola",
+      "section": "radio",
+      "category": "Latin",
+      "name": "Radio La Ola",
+      "subtitle": "Classic salsa station",
+      "body": "Classic salsa all day.",
+      "facts": [
+        {
+          "label": "Genre",
+          "value": "Salsa"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-radio-vice-city-fm",
+      "section": "radio",
+      "category": "80s",
+      "name": "Vice City FM",
+      "subtitle": "80s throwback station",
+      "body": "Pop and new wave from the 1980s.",
+      "facts": [
+        {
+          "label": "Genre",
+          "value": "1980s"
+        }
+      ],
       "tags": [],
       "spoiler": false
     }
