@@ -1,5 +1,5 @@
 {
-  "version": 28,
+  "version": 29,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -3757,6 +3757,984 @@
         "Doesn't count toward Strangers & Freaks."
       ],
       "rewards": "Party invite"
+    }
+  ],
+  "database": [
+    {
+      "id": "db-characters-jason",
+      "section": "characters",
+      "category": "Protagonist",
+      "name": "Jason Duval",
+      "subtitle": "One of the two playable leads",
+      "body": "Jason lives in Key Lento at the start of the story and works odd jobs for Brian before teaming up with Lucia.",
+      "facts": [
+        {
+          "label": "Playable",
+          "value": "Yes"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-characters-lucia",
+      "section": "characters",
+      "category": "Protagonist",
+      "name": "Lucia Caminos",
+      "subtitle": "One of the two playable leads",
+      "body": "Lucia starts the story fresh out of prison and on parole. From Chapter 2 you can switch between her and Jason at any time.",
+      "facts": [
+        {
+          "label": "Playable",
+          "value": "Yes"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-characters-cal",
+      "section": "characters",
+      "category": "Ally",
+      "name": "Cal Hampton",
+      "subtitle": "Jason's friend in Key Lento",
+      "body": "Cal gives Jason his first missions and later invites him fishing.",
+      "facts": [
+        {
+          "label": "First seen",
+          "value": "Gone Fishing"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Key Lento"
+    },
+    {
+      "id": "db-characters-brian",
+      "section": "characters",
+      "category": "Contact",
+      "name": "Brian Heder",
+      "subtitle": "Runs a marina in Key Lento",
+      "body": "Brian gives Jason several Chapter 1 jobs, from boat cleaning to smuggling runs.",
+      "facts": [
+        {
+          "label": "First seen",
+          "value": "Gone Fishing"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Key Lento"
+    },
+    {
+      "id": "db-characters-boobie",
+      "section": "characters",
+      "category": "Contact",
+      "name": "Boobie Ike",
+      "subtitle": "Runs the Jack of Hearts club in Vice City",
+      "body": "Boobie lends Jason and Lucia an apartment in Bayside and sends Jason on collection runs.",
+      "facts": [
+        {
+          "label": "First seen",
+          "value": "Welcome to Vice City"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-characters-drequan",
+      "section": "characters",
+      "category": "Contact",
+      "name": "Dre'Quan Priest",
+      "subtitle": "Manages the rap group the Real Dimez",
+      "body": "Jason's friend in Vice City. Several Chapter 3 and 4 missions revolve around his music business.",
+      "facts": [
+        {
+          "label": "First seen",
+          "value": "Welcome to Vice City"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-characters-raul",
+      "section": "characters",
+      "category": "Contact",
+      "name": "Raul Bautista",
+      "subtitle": "Heist planner",
+      "body": "Raul brings Jason and Lucia into bigger jobs, building up to the Chapter 3 bank heist.",
+      "facts": [
+        {
+          "label": "First seen",
+          "value": "Meet the Heders"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-characters-moses",
+      "section": "characters",
+      "category": "Contact",
+      "name": "Moses",
+      "subtitle": "Mechanic in Port Gellhorn",
+      "body": "Moses sets Lucia up with a car and buys untracked cars with no daily limit.",
+      "facts": [
+        {
+          "label": "First seen",
+          "value": "Moses (Chapter 2)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Port Gellhorn"
+    },
+    {
+      "id": "db-characters-yasmani",
+      "section": "characters",
+      "category": "Fence",
+      "name": "Yasmani",
+      "subtitle": "Buys hot goods in Vice City",
+      "body": "Yasmani fences jewelry and sets up ATM, Payday Loans and security-van jobs.",
+      "facts": [
+        {
+          "label": "First seen",
+          "value": "Boobie Time"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-characters-randy",
+      "section": "characters",
+      "category": "Contact",
+      "name": "Randy",
+      "subtitle": "Buys high-end cars",
+      "body": "Randy runs Leonida Auto World and pays $30,000+ for cars on his Wish List.",
+      "facts": [
+        {
+          "label": "First seen",
+          "value": "Car Service"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-weapons-w22",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Kingfishers W-22",
+      "subtitle": "Rifle with a built-in suppressor",
+      "body": "In the case on the desk in the waterfront building at the Kingfishers compound. Clear the guards first.",
+      "facts": [
+        {
+          "label": "Suppressor",
+          "value": "Built-in"
+        },
+        {
+          "label": "Available",
+          "value": "Chapter 1"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Wetman Bay"
+    },
+    {
+      "id": "db-weapons-donnie-38",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Donnie's .38 Revolver",
+      "subtitle": "Missable trunk find",
+      "body": "In the trunk of Donnie's car during *Don Gone*. Open the trunk **before** you destroy the car.",
+      "facts": [
+        {
+          "label": "Missable",
+          "value": "Yes"
+        },
+        {
+          "label": "Mission",
+          "value": "Don Gone"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Key Lento"
+    },
+    {
+      "id": "db-weapons-akulus",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Kingfishers Akulus Revolver",
+      "subtitle": "Unique revolver at Sunrise RV Park",
+      "body": "On the bed in the orange-and-white RV at Sunrise RV Park.",
+      "facts": [
+        {
+          "label": "Available",
+          "value": "Chapter 2"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Cottonmouth Lake"
+    },
+    {
+      "id": "db-weapons-sm69",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Killtelligence SM-69",
+      "subtitle": "Reward from Bret Vogel's hunting jobs",
+      "body": "Finish Bret Vogel's hunting jobs as Jason.",
+      "facts": [
+        {
+          "label": "Character",
+          "value": "Jason"
+        },
+        {
+          "label": "Available",
+          "value": "Chapter 2"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Lummox County"
+    },
+    {
+      "id": "db-weapons-gil-50",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Gil's .50 Pistol",
+      "subtitle": "Reward from Safe Word",
+      "body": "You get it during the Chapter 3 mission *Safe Word*.",
+      "facts": [
+        {
+          "label": "Mission",
+          "value": "Safe Word"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Peacock Estates"
+    },
+    {
+      "id": "db-weapons-w10",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "W-10 SMGs",
+      "subtitle": "Pair of unique SMGs",
+      "body": "Reward from the Chapter 4 mission *Photo/Shoot*.",
+      "facts": [
+        {
+          "label": "Mission",
+          "value": "Photo/Shoot"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-bat",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Unique Bat",
+      "subtitle": "Reward from Cooties",
+      "body": "Reward from the Chapter 3 mission *Cooties*.",
+      "facts": [
+        {
+          "label": "Mission",
+          "value": "Cooties"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-slim-jim",
+      "section": "weapons",
+      "category": "Tool",
+      "name": "Slim Jim",
+      "subtitle": "Opens locked car doors",
+      "body": "Moses gives it to you in the Chapter 2 mission *Moses*.",
+      "facts": [
+        {
+          "label": "Mission",
+          "value": "Moses"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-key-cloner",
+      "section": "weapons",
+      "category": "Tool",
+      "name": "Key Cloner",
+      "subtitle": "Phone app for stealing high-end cars",
+      "body": "Unlocked in *Steal the Zorrusso for Randy*. You need it for Randy's Wish List.",
+      "facts": [
+        {
+          "label": "Mission",
+          "value": "Steal the Zorrusso for Randy"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-snap-gun",
+      "section": "weapons",
+      "category": "Tool",
+      "name": "Snap Gun",
+      "subtitle": "Lock-picking tool",
+      "body": "Yasmani gives it to you when his robbery jobs open up in Chapter 3.",
+      "facts": [
+        {
+          "label": "Given by",
+          "value": "Yasmani"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-canis-crawler",
+      "section": "vehicles",
+      "category": "Off-road",
+      "name": "'82 Canis Crawler",
+      "subtitle": "Delivered to Moses in Daily Driver",
+      "body": "Bring the white one back undamaged in *Daily Driver* for a $500 bonus.",
+      "facts": [
+        {
+          "label": "Mission",
+          "value": "Daily Driver"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-grotti-zorrusso",
+      "section": "vehicles",
+      "category": "Super",
+      "name": "Grotti Zorrusso",
+      "subtitle": "Heavily secured supercar",
+      "body": "Randy's target in *Steal the Zorrusso for Randy*, parked at Vice Beach. It has an advanced tracker.",
+      "facts": [
+        {
+          "label": "Mission",
+          "value": "Steal the Zorrusso for Randy"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Vice Beach"
+    },
+    {
+      "id": "db-vehicles-schafter-v12",
+      "section": "vehicles",
+      "category": "Sedan",
+      "name": "Schafter V12",
+      "subtitle": "Stolen from a chop shop in Car Service",
+      "body": "Delivered to Randy at Leonida Auto World.",
+      "facts": [
+        {
+          "label": "Mission",
+          "value": "Car Service"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-hustler-32",
+      "section": "vehicles",
+      "category": "Classic",
+      "name": "'32 Hustler",
+      "subtitle": "Reward from Dubious Provenance",
+      "body": "You get it when you finish the last part of *Dubious Provenance*.",
+      "facts": [
+        {
+          "label": "Mission",
+          "value": "Dubious Provenance"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-boomazoom",
+      "section": "vehicles",
+      "category": "Cheat vehicle",
+      "name": "Maibatsu Boomazoom",
+      "subtitle": "Spawn with a cheat",
+      "body": "Unlock the cheat by finishing 5 Shopping challenges. See the Cheats tab for the code.",
+      "facts": [
+        {
+          "label": "Unlock",
+          "value": "5 Shopping challenges"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-mtl-pumper",
+      "section": "vehicles",
+      "category": "Cheat vehicle",
+      "name": "MTL Pumper",
+      "subtitle": "Spawn with a cheat",
+      "body": "Discover it in the Progress menu to unlock the cheat.",
+      "facts": [
+        {
+          "label": "Unlock",
+          "value": "Progress menu"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-hvy-bulldozer",
+      "section": "vehicles",
+      "category": "Cheat vehicle",
+      "name": "HVY Bulldozer",
+      "subtitle": "Spawn with a cheat",
+      "body": "Discover it in the Progress menu to unlock the cheat.",
+      "facts": [
+        {
+          "label": "Unlock",
+          "value": "Progress menu"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-seashark",
+      "section": "vehicles",
+      "category": "Watercraft",
+      "name": "Seashark",
+      "subtitle": "Jetski",
+      "body": "You ride one in *Day Release* and *Boobie Time*.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Jetski"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-three-sheets",
+      "section": "places",
+      "category": "Shop",
+      "name": "Three Sheets Liquor",
+      "subtitle": "Liquor store with hidden cash out back",
+      "body": "After Shirley's rum errand, talk to the parrot out back and check the vent by the generator for about $1,300.",
+      "facts": [
+        {
+          "label": "Loot",
+          "value": "About $1,300"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Key Lento"
+    },
+    {
+      "id": "db-places-skeeters",
+      "section": "places",
+      "category": "Bar",
+      "name": "Skeeter's Bar",
+      "subtitle": "Kirk's Skunk Ape flyer",
+      "body": "Read the flyer to start Kirk's Skunk Ape side missions.",
+      "facts": [],
+      "tags": [],
+      "spoiler": false,
+      "region": "Hamlet"
+    },
+    {
+      "id": "db-places-kingfishers-compound",
+      "section": "places",
+      "category": "Gang hideout",
+      "name": "Kingfishers Compound",
+      "subtitle": "Swamp camp with the silenced W-22",
+      "body": "Come in by boat near the docks. Clearing it pays well early on.",
+      "facts": [
+        {
+          "label": "Gang",
+          "value": "Kingfishers"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Wetman Bay"
+    },
+    {
+      "id": "db-places-sunrise-rv",
+      "section": "places",
+      "category": "Robbery spot",
+      "name": "Sunrise RV Park",
+      "subtitle": "Three safes and a unique revolver",
+      "body": "Safes in the office, the dock building and an RV bathroom. The Akulus revolver is on the bed in the orange-and-white RV.",
+      "facts": [
+        {
+          "label": "Available",
+          "value": "Chapter 2"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Cottonmouth Lake"
+    },
+    {
+      "id": "db-places-mud-club",
+      "section": "places",
+      "category": "Activity hub",
+      "name": "Thrillbilly Mud Club",
+      "subtitle": "Billy's dirt bike crew",
+      "body": "Start Billy's side missions here after *Coffee Break*.",
+      "facts": [
+        {
+          "label": "Available",
+          "value": "Chapter 2"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Kelly County"
+    },
+    {
+      "id": "db-places-delights",
+      "section": "places",
+      "category": "Club",
+      "name": "Delights",
+      "subtitle": "Strip club in Port Gellhorn",
+      "body": "The *Afternoon Delight* robbery happens here (safe code 2008). Play pool before Chapter 2 ends.",
+      "facts": [
+        {
+          "label": "Missable",
+          "value": "Pool, before Chapter 2 ends"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Port Gellhorn"
+    },
+    {
+      "id": "db-places-jack-of-hearts",
+      "section": "places",
+      "category": "Club",
+      "name": "Jack of Hearts",
+      "subtitle": "Boobie's club",
+      "body": "Use the back entrance. Several Chapter 3 missions start here.",
+      "facts": [],
+      "tags": [],
+      "spoiler": false,
+      "region": "Crosstown, Vice City"
+    },
+    {
+      "id": "db-places-leonida-auto-world",
+      "section": "places",
+      "category": "Garage",
+      "name": "Leonida Auto World",
+      "subtitle": "Randy's garage",
+      "body": "Deliver Wish List cars here undamaged for full pay.",
+      "facts": [],
+      "tags": [],
+      "spoiler": false,
+      "region": "West Vice City"
+    },
+    {
+      "id": "db-places-moses-garage",
+      "section": "places",
+      "category": "Garage",
+      "name": "Moses's Garage",
+      "subtitle": "Sell untracked cars",
+      "body": "No daily limit. Steal cars on the main road, not next to the garage.",
+      "facts": [],
+      "tags": [],
+      "spoiler": false,
+      "region": "Port Gellhorn"
+    },
+    {
+      "id": "db-places-kenton-dive",
+      "section": "places",
+      "category": "Activity hub",
+      "name": "Kenton's Dive Shop",
+      "subtitle": "Treasure dive sets",
+      "body": "Kenton gives you a boat and a scanner after *Island Dreams*.",
+      "facts": [
+        {
+          "label": "Available",
+          "value": "Chapter 1"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Key Lento"
+    },
+    {
+      "id": "db-places-sundown-airfield",
+      "section": "places",
+      "category": "Airfield",
+      "name": "Sundown Airfield",
+      "subtitle": "Pilot Pete's first job",
+      "body": "Pilot Pete's side missions start here.",
+      "facts": [
+        {
+          "label": "Available",
+          "value": "Chapter 4"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Leonard County"
+    },
+    {
+      "id": "db-properties-jason-house",
+      "section": "properties",
+      "category": "Safehouse",
+      "name": "Jason's House",
+      "subtitle": "Your first home, in Key Lento",
+      "body": "Has a punching bag (free stamina training) and a balcony meditation spot. You lose it at the end of Chapter 1, so move your cash to Family Savings first.",
+      "facts": [
+        {
+          "label": "Chapter",
+          "value": "1"
+        },
+        {
+          "label": "Missable",
+          "value": "Lost after Chapter 1"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Key Lento"
+    },
+    {
+      "id": "db-properties-starlet-motel",
+      "section": "properties",
+      "category": "Safehouse",
+      "name": "Starlet Motel",
+      "subtitle": "Base for Chapter 2",
+      "body": "Stops being a safehouse after *Checking Out*.",
+      "facts": [
+        {
+          "label": "Chapter",
+          "value": "2"
+        }
+      ],
+      "tags": [],
+      "spoiler": true,
+      "region": "Port Gellhorn"
+    },
+    {
+      "id": "db-properties-bayside-apartment",
+      "section": "properties",
+      "category": "Safehouse",
+      "name": "Bayside Apartment",
+      "subtitle": "Lent by Boobie in Chapter 3",
+      "body": "Park in the side lot or the mission won't continue.",
+      "facts": [
+        {
+          "label": "Chapter",
+          "value": "3"
+        }
+      ],
+      "tags": [],
+      "spoiler": true,
+      "region": "Bayside, Vice City"
+    },
+    {
+      "id": "db-properties-the-y",
+      "section": "properties",
+      "category": "Safehouse",
+      "name": "The Y, Room 701",
+      "subtitle": "Hotel suite on Ocean Beach",
+      "body": "Comes with BuckMe Premium accounts and a concierge.",
+      "facts": [
+        {
+          "label": "Chapter",
+          "value": "4"
+        }
+      ],
+      "tags": [],
+      "spoiler": true,
+      "region": "Ocean Beach, Vice City"
+    },
+    {
+      "id": "db-properties-big-house-storage",
+      "section": "properties",
+      "category": "Storage",
+      "name": "Big House Storage",
+      "subtitle": "Jason's storage unit",
+      "body": "You visit it in *Caught Slipping* and *Lawyer Up*.",
+      "facts": [],
+      "tags": [],
+      "spoiler": true,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-collectibles-meditation",
+      "section": "collectibles",
+      "category": "Collectible",
+      "name": "Meditation Spots",
+      "subtitle": "18 meditations at 10 spots",
+      "body": "See the Tracker checklist. 15 of 18 count for 100%. The Chapter 1 spot at Jason's house is missable.",
+      "facts": [
+        {
+          "label": "Total",
+          "value": "18"
+        },
+        {
+          "label": "For 100%",
+          "value": "15"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-collectibles-flamingos",
+      "section": "collectibles",
+      "category": "Collectible",
+      "name": "Cocaine Flamingos",
+      "subtitle": "Shoot them for packages you can sell",
+      "body": "Real ones have a black-and-white beak. Sell the drops to a fence.",
+      "facts": [
+        {
+          "label": "Total",
+          "value": "125"
+        },
+        {
+          "label": "For 100%",
+          "value": "100"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-collectibles-card-sets",
+      "section": "collectibles",
+      "category": "Collectible",
+      "name": "Collectible Card Sets",
+      "subtitle": "Card sets around Leonida",
+      "body": "",
+      "facts": [
+        {
+          "label": "Total",
+          "value": "18"
+        },
+        {
+          "label": "For 100%",
+          "value": "15"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-collectibles-treasure-sets",
+      "section": "collectibles",
+      "category": "Collectible",
+      "name": "Treasure Dive Sets",
+      "subtitle": "Kenton's shipwreck sets",
+      "body": "Finish all 7 for the This Was No Boat Accident trophy.",
+      "facts": [
+        {
+          "label": "Total",
+          "value": "7"
+        },
+        {
+          "label": "For 100%",
+          "value": "5"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-collectibles-underwater",
+      "section": "collectibles",
+      "category": "Collectible",
+      "name": "Underwater Discoveries",
+      "subtitle": "Things to find under the sea",
+      "body": "",
+      "facts": [
+        {
+          "label": "For 100%",
+          "value": "33"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-collectibles-reading",
+      "section": "collectibles",
+      "category": "Collectible",
+      "name": "Magazines, Books & Comics",
+      "subtitle": "Reading material",
+      "body": "",
+      "facts": [
+        {
+          "label": "Total",
+          "value": "34"
+        },
+        {
+          "label": "For 100%",
+          "value": "30"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-collectibles-hunting-decks",
+      "section": "collectibles",
+      "category": "Collectible",
+      "name": "Bret's Hunting Decks",
+      "subtitle": "Animal hunting targets",
+      "body": "One clean shot to the head or heart keeps the carcass pristine.",
+      "facts": [
+        {
+          "label": "Total",
+          "value": "15"
+        },
+        {
+          "label": "Character",
+          "value": "Jason"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-collectibles-randy-list",
+      "section": "collectibles",
+      "category": "Collectible",
+      "name": "Randy's Wish List",
+      "subtitle": "High-end cars for Randy",
+      "body": "Finish all 16 for the Supply & Demand trophy.",
+      "facts": [
+        {
+          "label": "Total",
+          "value": "16"
+        },
+        {
+          "label": "Pay",
+          "value": "$30,000+ each"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-shooting-ranges",
+      "section": "activities",
+      "category": "Activity",
+      "name": "Shooting Ranges",
+      "subtitle": "Medals unlock ammo cheats",
+      "body": "Buy the $5 waiver first. 42 gold medals count toward 100%.",
+      "facts": [
+        {
+          "label": "For 100%",
+          "value": "42 gold medals"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-drone-trials",
+      "section": "activities",
+      "category": "Activity",
+      "name": "Drone Time Trials",
+      "subtitle": "Timed drone courses",
+      "body": "",
+      "facts": [
+        {
+          "label": "For 100%",
+          "value": "42"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-stunts",
+      "section": "activities",
+      "category": "Activity",
+      "name": "Stunts",
+      "subtitle": "Stunt jumps and tricks",
+      "body": "",
+      "facts": [
+        {
+          "label": "Total",
+          "value": "397"
+        },
+        {
+          "label": "For 100%",
+          "value": "300"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-street-races",
+      "section": "activities",
+      "category": "Activity",
+      "name": "Street Races",
+      "subtitle": "Yago's racing scene",
+      "body": "Race Against Yago is timed, so do it right away.",
+      "facts": [
+        {
+          "label": "Available",
+          "value": "Chapter 3"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Salton, Vice City"
+    },
+    {
+      "id": "db-activities-workouts",
+      "section": "activities",
+      "category": "Activity",
+      "name": "Workouts",
+      "subtitle": "Raise stamina for good",
+      "body": "The punching bag under Jason's house is free. Match the pink dial to score 90+.",
+      "facts": [
+        {
+          "label": "100 workouts",
+          "value": "Body Armor cheat"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-fishing",
+      "section": "activities",
+      "category": "Activity",
+      "name": "Fishing",
+      "subtitle": "Cast, wait, reel",
+      "body": "Use the right stick to attract fish, then push against the fish while you reel in.",
+      "facts": [],
+      "tags": [],
+      "spoiler": false
     }
   ]
 }
