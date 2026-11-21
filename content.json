@@ -1,11 +1,19 @@
 {
-  "version": 22,
+  "version": 23,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
     "Xbox Series X|S"
   ],
   "news": [
+    {
+      "id": "news-the-festival-miami",
+      "title": "Rockstar holds GTA VI: The Festival in Miami",
+      "summary": "Rockstar and PlayStation are holding a one-off live music event on November 21 at Mana Wynwood in Miami to celebrate launch, with artists from the game and soundtrack including Travis Scott and Cardi B. Tickets were sold through a lottery.",
+      "date": "2026-11-21",
+      "status": "official",
+      "sourceURL": "https://www.rockstargames.com/VI/gtavi-thefestival"
+    },
     {
       "id": "news-now-available",
       "title": "GTA VI is out now",
