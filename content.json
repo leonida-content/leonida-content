@@ -1,11 +1,19 @@
 {
-  "version": 24,
+  "version": 25,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
     "Xbox Series X|S"
   ],
   "news": [
+    {
+      "id": "news-day-one-sales-record",
+      "title": "$3.79 billion in day-one sales",
+      "summary": "Take-Two says GTA VI made an estimated $3.79 billion in worldwide retail sales through the end of launch day, calling it the biggest entertainment launch in history. It also reports 32.5 million units sold before release.",
+      "date": "2026-11-20",
+      "status": "official",
+      "sourceURL": "https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records"
+    },
     {
       "id": "news-the-festival-miami",
       "title": "Rockstar holds GTA VI: The Festival in Miami",
@@ -33,7 +41,7 @@
     {
       "id": "news-17m-sold",
       "title": "Over 17 million copies sold",
-      "summary": "Launch-day reports put GTA VI past 17 million copies sold. Rockstar has not published official sales yet.",
+      "summary": "Launch-day reports put GTA VI past 17 million copies sold. Take-Two has since published official figures: see \"$3.79 billion in day-one sales\".",
       "date": "2026-11-19",
       "status": "community",
       "sourceURL": "https://kotaku.com/live-updates-on-gta-6-the-biggest-launch-in-gaming-history-2000758030"
