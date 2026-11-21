@@ -94,6 +94,19 @@ for i, cl in enumerate(data.get("checklists", [])):
         need(it, ["id", "title"], f"{w} item {j}")
         unique("item", it.get("id"), f"{w} item {j}")
 
+DB_SECTIONS = {"characters", "vehicles", "weapons", "places", "properties", "collectibles", "activities", "wildlife", "radio"}
+for i, e in enumerate(data.get("database", [])):
+    w = f"database[{i}] \"{e.get('name', '?')}\""
+    need(e, ["id", "name", "section"], w)
+    if e.get("section") not in DB_SECTIONS:
+        err(f"{w}: section must be one of {sorted(DB_SECTIONS)}")
+    for k in ("mapX", "mapY"):
+        if k in e and not (isinstance(e[k], (int, float)) and 0 <= e[k] <= 1):
+            err(f"{w}: {k} must be a number from 0 to 1")
+    for j, f in enumerate(e.get("facts", [])):
+        need(f, ["label", "value"], f"{w} fact {j}")
+    unique("db", e.get("id"), w)
+
 if base:
     try:
         old = json.load(open(base, encoding="utf-8"))
@@ -123,5 +136,5 @@ if errors:
         print("  - " + e)
     sys.exit(1)
 
-counts = {k: len(data.get(k, [])) for k in ("missions", "cheats", "guides", "checklists", "news")}
+counts = {k: len(data.get(k, [])) for k in ("missions", "cheats", "guides", "checklists", "news", "database")}
 print(f"✅ {path} looks good (version {data['version']}): " + ", ".join(f"{v} {k}" for k, v in counts.items()))
