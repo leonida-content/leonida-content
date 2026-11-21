@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -1546,7 +1546,8 @@
         "Shooting out a tire on Arnold's car can end the car chase early.",
         "The kill-or-spare choice doesn't change how the mission ends, but it can count toward Jason's criminal profile."
       ],
-      "rewards": "Story progress"
+      "rewards": "Story progress",
+      "character": "Jason"
     },
     {
       "id": "story-island-dreams",
@@ -1918,7 +1919,8 @@
       ],
       "rewards": "Starts Chapter 2",
       "mode": "story",
-      "chapter": "Chapter 1"
+      "chapter": "Chapter 1",
+      "character": "Either"
     },
     {
       "id": "story-whats-in-the-bag",
@@ -1938,7 +1940,8 @@
         "Short mission. The hard drive can't be used yet, so it's just a story item for now.",
         "Afterward you can explore the open world as Lucia."
       ],
-      "rewards": "Unlocks free roam as Lucia"
+      "rewards": "Unlocks free roam as Lucia",
+      "character": "Lucia"
     },
     {
       "id": "story-just-moved-in",
@@ -1982,7 +1985,8 @@
         "Pick **Defuse** twice at the car wash to skip the fight.",
         "Dunk isn't at his trailer at first. His friends at the boatyard point you to the car wash."
       ],
-      "rewards": "Vicki pays back your $50"
+      "rewards": "Vicki pays back your $50",
+      "character": "Lucia"
     },
     {
       "id": "story-moses",
@@ -2005,7 +2009,8 @@
         "Steal from the main road in central Port Gellhorn, not near the garage.",
         "If your garage is full, sell a car first to free a slot."
       ],
-      "rewards": "Slim Jim, Scooter Bros app, a free registered car, and selling cars to Moses (no daily limit)"
+      "rewards": "Slim Jim, Scooter Bros app, a free registered car, and selling cars to Moses (no daily limit)",
+      "character": "Lucia"
     },
     {
       "id": "story-ambulance-chaser",
@@ -2027,7 +2032,8 @@
         "Don't crash during the chase.",
         "If you have a gun, you can throw the gas can in and shoot it instead."
       ],
-      "rewards": "None"
+      "rewards": "None",
+      "character": "Lucia"
     },
     {
       "id": "story-slam-dunk",
@@ -2051,7 +2057,8 @@
         "Check every building. Some Kolts hide inside.",
         "Searching Dr. Bill's body is optional but gives extra cash."
       ],
-      "rewards": "Painkillers for Jason, Dunk becomes a fence, plus a BuckMe payment the next day"
+      "rewards": "Painkillers for Jason, Dunk becomes a fence, plus a BuckMe payment the next day",
+      "character": "Lucia"
     },
     {
       "id": "story-daily-driver",
@@ -2073,7 +2080,8 @@
         "You don't have to fight. You can run straight to the car.",
         "Bring it back **undamaged** for a bonus."
       ],
-      "rewards": "$1,250 (+$500 if it's in good shape), the Port Gellhorn garage and the Vice City Real Estate app"
+      "rewards": "$1,250 (+$500 if it's in good shape), the Port Gellhorn garage and the Vice City Real Estate app",
+      "character": "Lucia"
     },
     {
       "id": "story-breakfast-run",
@@ -2116,7 +2124,8 @@
         "After this you can **switch between Jason and Lucia** (R1/RB). Hold Right on the D-pad to give your partner commands.",
         "Several optional jobs open up at once, and you can do them in any order."
       ],
-      "rewards": "Unlocks character switching"
+      "rewards": "Unlocks character switching",
+      "character": "Either"
     },
     {
       "id": "story-afternoon-delight",
@@ -2139,7 +2148,8 @@
         "Dancing or not doesn't change the payout. Skipping it is faster, but the chase is harder.",
         "Play pool at Delights before the next mission, while you still can."
       ],
-      "rewards": "$10,000 from Vicki (via BuckMe the next day)"
+      "rewards": "$10,000 from Vicki (via BuckMe the next day)",
+      "character": "Either"
     },
     {
       "id": "story-checking-out",
@@ -2163,7 +2173,8 @@
         "Guides recommend having **$15,000+** saved going in.",
         "In the kitchen, stay crouched behind the counter. Standing by the windows gets you killed."
       ],
-      "rewards": "Starts Chapter 3"
+      "rewards": "Starts Chapter 3",
+      "character": "Either"
     },
     {
       "id": "story-welcome-to-vice-city",
@@ -2185,7 +2196,8 @@
         "The apartment objective won't move on until you park in the side lot.",
         "The Bayside apartment is your safehouse for this chapter."
       ],
-      "rewards": "Bayside apartment safehouse"
+      "rewards": "Bayside apartment safehouse",
+      "character": "Either"
     },
     {
       "id": "story-dealers-choice",
@@ -2208,7 +2220,8 @@
         "If it turns into a shootout, use the parked cars as cover.",
         "The Southside drop-off only appears after you lose the cops."
       ],
-      "rewards": "Boobie's payment"
+      "rewards": "Boobie's payment",
+      "character": "Jason"
     },
     {
       "id": "story-meet-the-heders",
@@ -2276,7 +2289,8 @@
         "Shoot the gator fast or Mia gets hurt.",
         "Hold the claw button on the excavator to grab and smash cars."
       ],
-      "rewards": "None"
+      "rewards": "None",
+      "character": "Lucia"
     },
     {
       "id": "story-south-leonida-real-estate",
@@ -2297,7 +2311,8 @@
       "tips": [
         "This mission is played as Lucia only."
       ],
-      "rewards": "A cash commission from Mia"
+      "rewards": "A cash commission from Mia",
+      "character": "Lucia"
     },
     {
       "id": "story-tyrone",
@@ -2356,7 +2371,8 @@
         "Clear the crew before you get in the car.",
         "Don't stop on the street after leaving the yard."
       ],
-      "rewards": "Randy's number (he buys specific cars from you)"
+      "rewards": "Randy's number (he buys specific cars from you)",
+      "character": "Lucia"
     },
     {
       "id": "story-top-billing",
