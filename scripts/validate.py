@@ -107,6 +107,18 @@ for i, e in enumerate(data.get("database", [])):
         need(f, ["label", "value"], f"{w} fact {j}")
     unique("db", e.get("id"), w)
 
+for i, r in enumerate(data.get("mapRegions", [])):
+    w = f"mapRegions[{i}] \"{r.get('name', '?')}\""
+    need(r, ["id", "name"], w)
+    nums = [r.get(k) for k in ("x", "y", "w", "h")]
+    if not all(isinstance(v, (int, float)) and 0 <= v <= 1 for v in nums):
+        err(f"{w}: x, y, w and h must be numbers from 0 to 1")
+    elif r["x"] + r["w"] > 1.0001 or r["y"] + r["h"] > 1.0001:
+        err(f"{w}: region runs off the edge of the map")
+    if not re.fullmatch(r"#[0-9A-Fa-f]{6}", str(r.get("color", "#000000"))):
+        err(f"{w}: color must look like #RRGGBB")
+    unique("region", r.get("id"), w)
+
 if base:
     try:
         old = json.load(open(base, encoding="utf-8"))
