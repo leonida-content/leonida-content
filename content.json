@@ -1,5 +1,5 @@
 {
-  "version": 26,
+  "version": 27,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -1354,6 +1354,7 @@
       "order": 1,
       "title": "Prologue",
       "giver": "Lucia Caminos",
+      "character": "Lucia",
       "summary": "Lucia's story opens behind bars, then flashes back to the robbery that put her there.",
       "steps": [
         "Talk to your cellmate. Hold **L2 / LT** to pick a dialogue option.",
@@ -1377,6 +1378,7 @@
       "order": 2,
       "title": "Gone Fishing",
       "giver": "Cal",
+      "character": "Jason",
       "summary": "Jason's first mission: a boat run with Cal to pick up a drug drop turns into a rescue when Donnie gets grabbed.",
       "steps": [
         "Drive the boat after Donnie's plane.",
@@ -1406,6 +1408,7 @@
       "order": 3,
       "title": "Gear Up",
       "giver": "Jason",
+      "character": "Jason",
       "summary": "Jason heads to the local gun shop to pick up a long gun from Andrew, and runs into trouble on the way out.",
       "steps": [
         "Check the mailbox outside Jason's house. Mission pay lands there, so grab any cash waiting for you.",
@@ -1430,6 +1433,7 @@
       "order": 4,
       "title": "Just a Scratch",
       "giver": "Jason",
+      "character": "Jason",
       "summary": "Jason takes his beat-up Ganado to Joey at Coastal Auto Care for a free repair and paint job.",
       "steps": [
         "Drive Jason's Ganado to **Coastal Auto Care** near his house.",
@@ -1451,6 +1455,7 @@
       "order": 5,
       "title": "Lab Fees",
       "giver": "Brian",
+      "character": "Jason",
       "summary": "Brian sends Jason to collect overdue rent from a shop tenant in Key Lento who has no intention of paying.",
       "steps": [
         "Drive to the marker at the small shop tucked behind the surf shop in Key Lento.",
@@ -1474,6 +1479,7 @@
       "order": 6,
       "title": "Unwanted Attention",
       "giver": "Cal",
+      "character": "Jason",
       "summary": "Cal sends Jason to pull a red Imponte Phoenix out of the Hamlet police impound and get it to a garage without the cops tracing it.",
       "steps": [
         "Meet Cal on the north side of Key Lento and ride with him to Hamlet. He adds a **police scanner** app to your phone.",
@@ -1499,6 +1505,7 @@
       "order": 7,
       "title": "Pipework",
       "giver": "Mandy",
+      "character": "Jason",
       "summary": "Jason stops by to collect a tenant's rent, but she won't hand it over until he fixes her blocked sink.",
       "steps": [
         "Drive to Mandy's house and talk to her out front.",
@@ -1548,6 +1555,7 @@
       "order": 9,
       "title": "Island Dreams",
       "giver": "Kenton",
+      "character": "Jason",
       "summary": "Kenton, who runs a beach dive shop, offers Jason the use of his boat and scuba gear in exchange for guiding a group of tourists on a wreck dive.",
       "steps": [
         "Meet Kenton at his Island Dreams shop by the beach.",
@@ -1576,6 +1584,7 @@
       "order": 10,
       "title": "Feng Shui",
       "giver": "Cal",
+      "character": "Jason",
       "summary": "A low-key mission at Jason's house: Cal helps rearrange the living room, then the two unwind with some video games.",
       "steps": [
         "After Island Dreams, wait for the text and head to Jason's house in Key Lento.",
@@ -1598,6 +1607,7 @@
       "order": 11,
       "title": "Coming Home",
       "giver": "Lucia",
+      "character": "Jason",
       "summary": "Lucia is finally released, and Jason picks her up and takes her out to celebrate with friends. The night doesn't stay calm for long.",
       "steps": [
         "Optional: run errands for Lucia's return, like picking up her clothes, a gift and flowers, and getting a haircut.",
@@ -1626,6 +1636,7 @@
       "order": 12,
       "title": "Buck Me",
       "giver": "Lucia",
+      "character": "Jason",
       "summary": "Jason tries to open a bank account and ends up with the BuckMe app instead.",
       "steps": [
         "After Lucia calls, drive to the **Fleeca** bank in Key Lento.",
@@ -1649,6 +1660,7 @@
       "order": 13,
       "title": "Clean Up After Donnie",
       "giver": "Donnie",
+      "character": "Jason",
       "summary": "One of Donnie's drug drops went missing in the swamp. Track it down, take it back from the Kingfishers and bring it to his trailer.",
       "steps": [
         "Drive to the search area by the river in the Hamlet swamps.",
@@ -1673,6 +1685,7 @@
       "order": 14,
       "title": "Down to Earth",
       "giver": "Brian",
+      "character": "Jason",
       "summary": "A boat-cleaning favor for Brian turns into a seaplane smuggling run with Lucia, and you have to beat her parole officer home.",
       "steps": [
         "Meet Brian at his marina.",
@@ -1701,6 +1714,7 @@
       "order": 15,
       "title": "Clear Skies",
       "giver": "Donnie",
+      "character": "Jason",
       "summary": "Fly with Donnie to escort a drug plane. The handoff turns into an ambush by a biker gang and you have to get Donnie out alive.",
       "steps": [
         "Meet Donnie at his seaplane, then find **Brian at the bar** up the street.",
@@ -1729,6 +1743,7 @@
       "order": 16,
       "title": "Day Release",
       "giver": "Mattia",
+      "character": "Either",
       "summary": "Lucia gets a night off from her ankle monitor and Mattia takes everyone out: a yacht party, a jetski race, a supercar chase and a club in Vice City.",
       "steps": [
         "Meet the group at **The Rusty Anchor** bar.",
@@ -1759,6 +1774,7 @@
       "order": 17,
       "title": "Swamped",
       "giver": "Brian",
+      "character": "Jason",
       "summary": "Brian takes you to the Kingfisher camp to settle things. It goes badly, and the Kingfishers grab Lori.",
       "steps": [
         "Meet Brian at the marina and ride with him to the **Kingfisher camp** in the northwest swamps.",
@@ -1785,6 +1801,7 @@
       "order": 18,
       "title": "Don Gone",
       "giver": "Brian",
+      "character": "Jason",
       "summary": "Make it look like Donnie packed up and left town: clear out his trailer, then get rid of his car.",
       "steps": [
         "Go to **Donnie's trailer** and take down his flag.",
@@ -1809,6 +1826,7 @@
       "order": 19,
       "title": "Recalibration",
       "giver": "Lucia",
+      "character": "Jason",
       "summary": "Cal is taking things hard. Lucia sends Jason to cheer him up with beer, a fishing trip and a cookout.",
       "steps": [
         "Buy a **six-pack** at the marked liquor store.",
@@ -1833,6 +1851,7 @@
       "order": 20,
       "title": "Tourist Trap",
       "giver": "Mattia",
+      "character": "Either",
       "summary": "Mattia's 'easy' job, grabbing a bag from a locker, is a setup. The police are waiting, and Jason gets badly hurt.",
       "steps": [
         "Go to the **Visitor Center** and get the bag from the lockers.",
@@ -1859,6 +1878,7 @@
       "order": 21,
       "title": "Home Sweet Home",
       "giver": "Lucia",
+      "character": "Lucia",
       "summary": "Lucia goes back for Jason's things, but robbers hit the house and it goes up in flames. Then she has to slip past a police search.",
       "steps": [
         "Enter Jason's house and fight off the two robbers.",
