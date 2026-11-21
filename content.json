@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -154,7 +154,7 @@
         "Missables"
       ],
       "spoiler": false,
-      "body": "Each chapter has its own checklist in **More → Tracker**.\n\n## Chapter 2: Port Gellhorn\n- **Sell cars to Moses.** After the *Moses* mission he buys untracked cars with **no daily limit**, at $1,000+ each. Steal them on the main road through town, not right next to his garage, and expect a short wait between sales.\n- **Rob Sunrise RV Park** on Cottonmouth Lake (northwest of Key Lento). It has three safes and a unique **Akulus revolver** on the bed in the orange-and-white RV.\n- **Afternoon Delight** safe code: **2008**.\n- **Play pool at Delights** before the chapter ends, because the club closes for a while.\n- **Save manually before *Checking Out*.** The motel stops being a safehouse after it.\n\n## Chapter 3: Vice City\n- **Race Yago** as soon as his invite shows up. It has an **hourglass** icon, which means it's timed and can expire. First place pays about **$3,800**.\n- **Unlock the Key Cloner** in *Steal the Zorrusso for Randy*, then work through **Randy's Wish List**: 18 high-end cars at **$30,000+** each if they're undamaged. Randy marks some, and you can text him for more.\n- **Jewelry stores:** rob the cases and the **back-room safe**, then fence the loot with **Yasmani**. That's $10,000–$25,000 per store. Leave before the police show up.\n- **Pay 'N' Spray** buys cars with a standard tracker, around $4,000 for a good one.\n- **The Cartel Heist** pays **$120,000**. Save before you start it.\n\n## Chapters 4–5\n- **Lucia's hourglass call** (*This Is a Free Call From…*) is timed. Answer it right away.\n- **Bank vaults** open late in Chapter 4 (*That's Where the Money Is*). Follow an armored van to a bank and slip in while the vault is open, for up to about **$205,000** a run. Rob **2 Payday Loans** stores first and **Yasmani** sells you van routes for $10,000. A vault gives you an instant 4-star wanted level, so bring a fast motorbike.\n- **Save manually before *Starting from Zero*** and again, in a new slot, before ***The End of the Road***. There's **no mission replay**, so those saves are how you go back and see the other ending.\n- Before the finale, **finish side stories for both Jason and Lucia**, plus any trophies that need both of them.\n- **Stock up on body armor and grenades.** The final mission is the longest fight in the game.\n- Scanning cars, studying animals and clearing gang hideouts can wait until after the credits."
+      "body": "Each chapter has its own checklist in **More → Tracker**.\n\n## Chapter 2: Port Gellhorn\n- **Sell cars to Moses.** After the *Moses* mission he buys untracked cars with **no daily limit**, at $1,000+ each. Steal them on the main road through town, not right next to his garage, and expect a short wait between sales.\n- **Rob Sunrise RV Park** on Cottonmouth Lake (northwest of Key Lento). It has three safes and a unique **Akulus revolver** on the bed in the orange-and-white RV.\n- **Afternoon Delight** safe code: **2008**.\n- **Play pool at Delights** before the chapter ends, because the club closes for a while.\n- **Save manually before *Checking Out*.** The motel stops being a safehouse after it.\n\n## Chapter 3: Vice City\n- **Race Yago** as soon as his invite shows up. It has an **hourglass** icon, which means it's timed and can expire. First place pays about **$3,800**.\n- **Unlock the Key Cloner** in *Steal the Zorrusso for Randy*, then work through **Randy's Wish List**: 16 high-end cars at **$30,000+** each if they're undamaged. Randy marks some, and you can text him for more.\n- **Jewelry stores:** rob the cases and the **back-room safe**, then fence the loot with **Yasmani**. That's $10,000–$25,000 per store. Leave before the police show up.\n- **Pay 'N' Spray** buys cars with a standard tracker, around $4,000 for a good one.\n- **The Cartel Heist** pays **$120,000**. Save before you start it.\n\n## Chapters 4–5\n- **Lucia's hourglass call** (*This Is a Free Call From…*) is timed. Answer it right away.\n- **Bank vaults** open late in Chapter 4 (*That's Where the Money Is*). Follow an armored van to a bank and slip in while the vault is open, for up to about **$205,000** a run. Rob **2 Payday Loans** stores first and **Yasmani** sells you van routes for $10,000. A vault gives you an instant 4-star wanted level, so bring a fast motorbike.\n- **Save manually before *Starting from Zero*** and again, in a new slot, before ***The End of the Road***. There's **no mission replay**, so those saves are how you go back and see the other ending.\n- Before the finale, **finish side stories for both Jason and Lucia**, plus any trophies that need both of them.\n- **Stock up on body armor and grenades.** The final mission is the longest fight in the game.\n- Scanning cars, studying animals and clearing gang hideouts can wait until after the credits."
     },
     {
       "id": "g-what-we-know",
@@ -415,7 +415,7 @@
         {
           "id": "df3-randy-list",
           "title": "Start Randy's Wish List",
-          "detail": "18 high-end cars, $30,000+ each in perfect condition"
+          "detail": "16 high-end cars, $30,000+ each in perfect condition"
         },
         {
           "id": "df3-jewelry",
@@ -674,6 +674,103 @@
         {
           "id": "hp-weapons",
           "title": "50 standard-issue weapons"
+        }
+      ]
+    },
+    {
+      "id": "c-meditation",
+      "title": "Meditation Spots (18)",
+      "icon": "figure.mind.and.body",
+      "items": [
+        {
+          "id": "med-jasons-house",
+          "title": "Jason's House (Lucia)",
+          "detail": "Balcony at Jason's house. Chapter 1 only, MISSABLE"
+        },
+        {
+          "id": "med-smooth-sand-jason",
+          "title": "Smooth Sand (Jason)",
+          "detail": "Sandbar off the west coast of Capri"
+        },
+        {
+          "id": "med-smooth-sand-lucia",
+          "title": "Smooth Sand (Lucia)",
+          "detail": "Sandbar off the west coast of Capri"
+        },
+        {
+          "id": "med-swamp-jason",
+          "title": "Swamp (Jason)",
+          "detail": "Wooden dock by the lookout tower, Buckskin Swamp"
+        },
+        {
+          "id": "med-swamp-lucia",
+          "title": "Swamp (Lucia)",
+          "detail": "Wooden dock by the lookout tower, Buckskin Swamp"
+        },
+        {
+          "id": "med-worn-stone-jason",
+          "title": "Worn Stone (Jason)",
+          "detail": "Emerald River bank at Camp Moonflower"
+        },
+        {
+          "id": "med-worn-stone-lucia",
+          "title": "Worn Stone (Lucia)",
+          "detail": "Emerald River bank at Camp Moonflower"
+        },
+        {
+          "id": "med-red-rocks-jason",
+          "title": "Red Rocks (Jason)",
+          "detail": "By the rail and highway crossing in Manifest Canyon"
+        },
+        {
+          "id": "med-red-rocks-lucia",
+          "title": "Red Rocks (Lucia)",
+          "detail": "By the rail and highway crossing in Manifest Canyon"
+        },
+        {
+          "id": "med-water-wheel-jason",
+          "title": "Water Wheel (Jason)",
+          "detail": "Ruined paper mill waterwheel, south Moreau"
+        },
+        {
+          "id": "med-water-wheel-lucia",
+          "title": "Water Wheel (Lucia)",
+          "detail": "Ruined paper mill waterwheel, south Moreau"
+        },
+        {
+          "id": "med-jutting-cliff-jason",
+          "title": "Jutting Cliff (Jason)",
+          "detail": "Tower over the mine, Mount Kalaga National Park"
+        },
+        {
+          "id": "med-jutting-cliff-lucia",
+          "title": "Jutting Cliff (Lucia)",
+          "detail": "Tower over the mine, Mount Kalaga National Park"
+        },
+        {
+          "id": "med-waterfall-jason",
+          "title": "Waterfall (Jason)",
+          "detail": "Overlooking the waterfall northwest of Tallaloko"
+        },
+        {
+          "id": "med-waterfall-lucia",
+          "title": "Waterfall (Lucia)",
+          "detail": "Overlooking the waterfall northwest of Tallaloko"
+        },
+        {
+          "id": "med-seaside-jason",
+          "title": "Seaside (Jason)",
+          "detail": "Rocky outcrop east of Waning Sands"
+        },
+        {
+          "id": "med-seaside-lucia",
+          "title": "Seaside (Lucia)",
+          "detail": "Rocky outcrop east of Waning Sands"
+        },
+        {
+          "id": "med-summit",
+          "title": "Mount Kalaga Summit",
+          "detail": "Stone circle on the peak. Appears after the others"
         }
       ]
     }
@@ -3286,6 +3383,344 @@
         "Finish anything that needs both Jason and Lucia before you start."
       ],
       "rewards": null
+    },
+    {
+      "id": "side-shirley",
+      "mode": "story",
+      "kind": "side",
+      "chapter": "Side Missions",
+      "order": 92,
+      "title": "Shirley's Errands",
+      "giver": "Shirley",
+      "character": "Either",
+      "unlockChapter": "Chapter 1",
+      "missable": true,
+      "summary": "Jason's neighbor Shirley needs a couple of favors around Key Lento.",
+      "steps": [
+        "**Get Shirley's Rum:** buy a bottle at Three Sheets Liquor and bring it to her.",
+        "Out back of the store, deal with the guards by the parrot cages, then check the vent by the generator for about $1,300.",
+        "**Steal the Scooter:** about a day later she calls. Get her scooter back from a neighbor's yard and return it."
+      ],
+      "objectives": [],
+      "tips": [
+        "**Missable:** both errands disappear once you start *Tourist Trap*.",
+        "They don't count toward 100% or trophies, but the cash is worth it."
+      ],
+      "rewards": "About $1,300 in hidden cash"
+    },
+    {
+      "id": "side-kirk-skunk-ape",
+      "mode": "story",
+      "kind": "side",
+      "chapter": "Side Missions",
+      "order": 93,
+      "title": "Skunk Ape Hunt",
+      "giver": "Kirk",
+      "character": "Either",
+      "unlockChapter": "Chapter 1",
+      "missable": false,
+      "summary": "Cryptid hunter Kirk is sure the Skunk Ape is real, and he wants your help proving it.",
+      "steps": [
+        "Read Kirk's flyer at **Skeeter's bar in Hamlet** and call him.",
+        "**Search for the Skunk Ape:** meet him at night near Thorp Adventures in Pelican Valley.",
+        "**Search for Tree Effigies:** find the three carved effigies in Pelican Valley.",
+        "**Help Kirk Find Mr. Mangrove:** a night-time helicopter chase near Cottonmouth Lake."
+      ],
+      "objectives": [],
+      "tips": [
+        "Several parts only work at night. Sleep to skip ahead.",
+        "Counts toward the **Strangers & Freaks** trophy (8 strands needed)."
+      ],
+      "rewards": "$1,000 for the first hunt, plus more cash later"
+    },
+    {
+      "id": "side-kenton-dives",
+      "mode": "story",
+      "kind": "side",
+      "chapter": "Side Missions",
+      "order": 94,
+      "title": "Treasure Dives",
+      "giver": "Kenton",
+      "character": "Either",
+      "unlockChapter": "Chapter 1",
+      "missable": false,
+      "summary": "Kenton gives you a boat and a scanner to dive shipwrecks for his treasure sets.",
+      "steps": [
+        "Visit **Kenton's dive shop** in Key Lento after *Island Dreams*.",
+        "Dive to the wrecks marked with purple chest icons and scan for loot.",
+        "Bring each finished set back to Kenton. More sets unlock in later chapters."
+      ],
+      "objectives": [],
+      "tips": [
+        "Kenton pays after he sells what you find, so the money comes later.",
+        "5 of the 7 sets count toward 100%."
+      ],
+      "rewards": "Cash per set. Finish all 7 for the **This Was No Boat Accident** trophy"
+    },
+    {
+      "id": "side-kyle-crop-dusting",
+      "mode": "story",
+      "kind": "side",
+      "chapter": "Side Missions",
+      "order": 95,
+      "title": "Crop Duster Jobs",
+      "giver": "Kyle McKittrick",
+      "character": "Either",
+      "unlockChapter": "Chapter 2",
+      "missable": false,
+      "summary": "Farmer Kyle needs a pilot to dust his fields.",
+      "steps": [
+        "Grab the pilot job flyer, then head to **McKittrick Farm**.",
+        "**Check Out McKittrick Farm:** fly low over the fields, following his truck.",
+        "**Collect Chemicals for Kyle.**",
+        "**Buddy?:** check on Kyle (the last part opens in Chapter 3)."
+      ],
+      "objectives": [],
+      "tips": [
+        "Counts toward the **Strangers & Freaks** trophy (8 strands needed)."
+      ],
+      "rewards": "Shift pay into BuckMe"
+    },
+    {
+      "id": "side-moses-cars",
+      "mode": "story",
+      "kind": "side",
+      "chapter": "Side Missions",
+      "order": 96,
+      "title": "Steal Vehicles for Moses",
+      "giver": "Moses",
+      "character": "Either",
+      "unlockChapter": "Chapter 2",
+      "missable": false,
+      "summary": "After the *Moses* story mission, he buys untracked cars from you.",
+      "steps": [
+        "Scan cars with **WAiNK** and skip any with a tracker.",
+        "Steal on Port Gellhorn's main road, not right next to his garage.",
+        "Drive it to Moses's garage to sell. Repeat as often as you like."
+      ],
+      "objectives": [],
+      "tips": [
+        "There's **no daily limit**, just a short wait between sales.",
+        "Doesn't count toward Strangers & Freaks."
+      ],
+      "rewards": "$1,000+ per car, plus the Scooter Bros app"
+    },
+    {
+      "id": "side-bret-hunting",
+      "mode": "story",
+      "kind": "side",
+      "chapter": "Side Missions",
+      "order": 97,
+      "title": "Bret Vogel: Hunting",
+      "giver": "Bret Vogel",
+      "character": "Jason",
+      "unlockChapter": "Chapter 2",
+      "missable": false,
+      "summary": "Hunting guide Bret takes Jason out, then gives him a deck of targets to hunt down.",
+      "steps": [
+        "Answer Bret's text after *Coffee Break*. His hunting business is in Lummox County near Mount Kalaga.",
+        "**Veteran Hunted:** your first hunt with Bret.",
+        "**Bret's Hunting Decks:** 15 decks, each asking for a specific animal."
+      ],
+      "objectives": [],
+      "tips": [
+        "One clean shot to the head or heart keeps the carcass **pristine** and pays more.",
+        "Lost the rifle? Pick it up again from any Ammu-Nation weapon locker."
+      ],
+      "rewards": "Killtelligence SM-69 rifle and the **Fair Game** trophy"
+    },
+    {
+      "id": "side-billy-dirt-bikes",
+      "mode": "story",
+      "kind": "side",
+      "chapter": "Side Missions",
+      "order": 98,
+      "title": "Billy: Dirt Bike Crew",
+      "giver": "Billy",
+      "character": "Either",
+      "unlockChapter": "Chapter 2",
+      "missable": false,
+      "summary": "Billy's dirt bike crew at the Thrillbilly Mud Club has a string of stunts and jobs.",
+      "steps": [
+        "Head to the **Thrillbilly Mud Club** in Kelly County after *Coffee Break*.",
+        "Play through *Thrillbillies*, *Twist Wrist, Smash, Grab*, *Mall Rats* and *The Impaler*.",
+        "Finish with *Hometown Heroes* (go solo and leave your partner home)."
+      ],
+      "objectives": [],
+      "tips": [
+        "Doesn't count toward Strangers & Freaks."
+      ],
+      "rewards": "Prize money and **The Lone Rider** trophy"
+    },
+    {
+      "id": "side-yago-racing",
+      "mode": "story",
+      "kind": "side",
+      "chapter": "Side Missions",
+      "order": 99,
+      "title": "Yago: Street Races",
+      "giver": "Yago",
+      "character": "Jason",
+      "unlockChapter": "Chapter 3",
+      "missable": true,
+      "summary": "Street racer Yago brings Jason into the Vice City racing scene.",
+      "steps": [
+        "Meet the **Hit 'n' Run VC** racers in Salton for *Join a Street Race* (either character).",
+        "*Bumper to Bumper:* mentor Yago.",
+        "**Race Against Yago:** do it the moment it appears.",
+        "*Brother to Brother:* back Yago up. It ends on a heavy story scene."
+      ],
+      "objectives": [],
+      "tips": [
+        "**Missable:** *Race Against Yago* has an hourglass icon, so it's timed. Save first and race right away.",
+        "Counts toward the **Strangers & Freaks** trophy (8 strands needed)."
+      ],
+      "rewards": "Race winnings (about $3,800 for first place against Yago)"
+    },
+    {
+      "id": "side-andy-cellerica",
+      "mode": "story",
+      "kind": "side",
+      "chapter": "Side Missions",
+      "order": 100,
+      "title": "Andy's Cellerica",
+      "giver": "Andy",
+      "character": "Lucia",
+      "unlockChapter": "Chapter 3",
+      "missable": false,
+      "summary": "Lucia's old friend Andy gets her caught up in Cellerica, a pyramid scheme.",
+      "steps": [
+        "Answer Andy's call after *Top Billing* and visit her new place in Belville.",
+        "*Climbing the Cellerichain* (3 parts) and *Pay the Cellerica Fee*.",
+        "*Peach!* and *Read the Label*.",
+        "Wrap up at the warehouse in *Puff Puff Pass*."
+      ],
+      "objectives": [],
+      "tips": [
+        "Lucia only.",
+        "Doesn't count toward Strangers & Freaks."
+      ],
+      "rewards": "The **Road to Rehabilitation** trophy"
+    },
+    {
+      "id": "side-yasmani-jobs",
+      "mode": "story",
+      "kind": "side",
+      "chapter": "Side Missions",
+      "order": 101,
+      "title": "Yasmani: Robbery Jobs",
+      "giver": "Yasmani",
+      "character": "Either",
+      "unlockChapter": "Chapter 3",
+      "missable": false,
+      "summary": "Fence Yasmani sets you up with robbery work around Vice City.",
+      "steps": [
+        "**Jewelry jobs:** rob the cases *and* the back-room safe, then fence the loot with Yasmani.",
+        "**ATM jobs.**",
+        "**Payday Loans jobs:** do two to unlock his van tips.",
+        "**Tail the Security Van:** follow it to a bank vault."
+      ],
+      "objectives": [],
+      "tips": [
+        "Jewelry stores pay $10,000–$25,000 each. Leave before the police show up.",
+        "Doesn't count toward Strangers & Freaks."
+      ],
+      "rewards": "Snap Gun, a fence for hot goods, and big robbery payouts"
+    },
+    {
+      "id": "side-randy-wish-list",
+      "mode": "story",
+      "kind": "side",
+      "chapter": "Side Missions",
+      "order": 102,
+      "title": "Randy's Wish List",
+      "giver": "Randy",
+      "character": "Either",
+      "unlockChapter": "Chapter 3",
+      "missable": false,
+      "summary": "Randy wants specific high-end sports cars, delivered in perfect condition.",
+      "steps": [
+        "Finish *Steal the Zorrusso for Randy* to get the **Key Cloner**.",
+        "Find the cars on his list. Randy marks some, and you can text him for tips.",
+        "Deliver each one undamaged to his garage in west Vice City."
+      ],
+      "objectives": [],
+      "tips": [
+        "Damage cuts the payout, so drive carefully.",
+        "Doesn't count toward Strangers & Freaks."
+      ],
+      "rewards": "$30,000+ per car and the **Supply & Demand** trophy (16 cars)"
+    },
+    {
+      "id": "side-tyrone-labs",
+      "mode": "story",
+      "kind": "side",
+      "chapter": "Side Missions",
+      "order": 103,
+      "title": "Tyrone: Kitty Litter Labs",
+      "giver": "Tyrone",
+      "character": "Either",
+      "unlockChapter": "Chapter 3",
+      "missable": false,
+      "summary": "Tyrone wants the labs making 'kitty litter' shut down for good.",
+      "steps": [
+        "Unlocks after *Here, Kitty Kitty*.",
+        "**Take Out Kitty Litter:** hit the labs marked in purple around Vice City.",
+        "**Spin On This:** finish shutting them down."
+      ],
+      "objectives": [],
+      "tips": [
+        "Doesn't count toward Strangers & Freaks."
+      ],
+      "rewards": "The **Spin On This!** trophy"
+    },
+    {
+      "id": "side-pilot-pete",
+      "mode": "story",
+      "kind": "side",
+      "chapter": "Side Missions",
+      "order": 104,
+      "title": "Pilot Pete: The Last Mile",
+      "giver": "Pilot Pete",
+      "character": "Jason",
+      "unlockChapter": "Chapter 4",
+      "missable": false,
+      "summary": "Pilot Pete calls Jason with flying work out of Leonida's small airfields.",
+      "steps": [
+        "Answer Pete's call. The first job starts at **Sundown Airfield** in Leonard County.",
+        "*The Last Mile: Passing the Torch:* recover Pete's plane.",
+        "*The Last Mile: Backseat Pilot.*",
+        "*Pete's Deliveries* (Southpoint Airfield, Avery Allen & Co.), then *Deliver Packages*."
+      ],
+      "objectives": [],
+      "tips": [
+        "Later drops fly from Wild Hog, Southpoint, Kelly County and Leonard County airfields.",
+        "Counts toward the **Strangers & Freaks** trophy (8 strands needed)."
+      ],
+      "rewards": "Delivery pay"
+    },
+    {
+      "id": "side-eddie-acosta",
+      "mode": "story",
+      "kind": "side",
+      "chapter": "Side Missions",
+      "order": 105,
+      "title": "Eddie Acosta's Party",
+      "giver": "Eddie Acosta",
+      "character": "Either",
+      "unlockChapter": "Chapter 4",
+      "missable": false,
+      "summary": "After meeting him in *Pool Day*, Eddie invites you to one of his parties.",
+      "steps": [
+        "Wait for Eddie's invite after *Pool Day*.",
+        "Go to the party."
+      ],
+      "objectives": [],
+      "tips": [
+        "Short and optional.",
+        "Doesn't count toward Strangers & Freaks."
+      ],
+      "rewards": "Party invite"
     }
   ]
 }
