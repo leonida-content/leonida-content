@@ -1,5 +1,5 @@
 {
-  "version": 44,
+  "version": 45,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -11028,6 +11028,438 @@
         "Unique",
         "Free"
       ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-dinka-blista-85",
+      "section": "vehicles",
+      "category": "Compact",
+      "name": "Dinka Blista '85",
+      "subtitle": "Donnie's little hatchback",
+      "body": "Donnie's car in Chapter 1. In the mission **Don Gone** you load up his things, drive it out of Key Lento and get rid of it. Open the trunk before you destroy it: there's a unique revolver inside that you can't get back later.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Dinka"
+        },
+        {
+          "label": "Type",
+          "value": "Hatchback"
+        },
+        {
+          "label": "Where to find",
+          "value": "Story mission Don Gone (Chapter 1)"
+        },
+        {
+          "label": "Trunk",
+          "value": "Donnie's H&L .38 (missable)"
+        }
+      ],
+      "tags": [
+        "Story",
+        "Missable"
+      ],
+      "spoiler": true,
+      "region": "Key Lento"
+    },
+    {
+      "id": "db-vehicles-declasse-ambulance",
+      "section": "vehicles",
+      "category": "Utility",
+      "name": "Declasse Ambulance",
+      "subtitle": "Emergency ambulance",
+      "body": "A standard ambulance from Declasse, the kind you'll see racing to Leonida's hospitals.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Declasse"
+        },
+        {
+          "label": "Type",
+          "value": "Emergency"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-bravado-bison",
+      "section": "vehicles",
+      "category": "Pickup",
+      "name": "Bravado Bison",
+      "subtitle": "Workhorse pickup",
+      "body": "Bravado's everyday pickup and one of the most common trucks on Leonida's roads.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Bravado"
+        },
+        {
+          "label": "Type",
+          "value": "Pickup"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-bravado-bison-3800",
+      "section": "vehicles",
+      "category": "Pickup",
+      "name": "Bravado Bison 3800",
+      "subtitle": "Heavy-duty pickup",
+      "body": "The big heavy-duty version of the Bison, built for towing and hauling.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Bravado"
+        },
+        {
+          "label": "Type",
+          "value": "Heavy-duty pickup"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-bravado-bison-900-95",
+      "section": "vehicles",
+      "category": "Pickup",
+      "name": "Bravado Bison 900 '95",
+      "subtitle": "Older '90s pickup",
+      "body": "A mid-'90s Bison pickup. Fixed spawn spots and prices haven't been confirmed yet.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Bravado"
+        },
+        {
+          "label": "Type",
+          "value": "Pickup"
+        },
+        {
+          "label": "Year",
+          "value": "1995"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-bravado-buffalo-19",
+      "section": "vehicles",
+      "category": "Sedan",
+      "name": "Bravado Buffalo '19",
+      "subtitle": "Modern muscle sedan",
+      "body": "A late-model performance four-door from Bravado with plenty of power.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Bravado"
+        },
+        {
+          "label": "Type",
+          "value": "Performance sedan"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-dinka-sugoi",
+      "section": "vehicles",
+      "category": "Sports",
+      "name": "Dinka Sugoi",
+      "subtitle": "Hot hatch, built for rallycross",
+      "body": "A quick, light hatchback from Dinka that also shows up in rally trim.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Dinka"
+        },
+        {
+          "label": "Type",
+          "value": "Hatchback / rally car"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-emperor-sultan",
+      "section": "vehicles",
+      "category": "Sports",
+      "name": "Emperor Sultan",
+      "subtitle": "Classic rally sedan",
+      "body": "The all-wheel-drive Sultan sports sedan. Not to be confused with Moses's one-off Sultan.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Emperor"
+        },
+        {
+          "label": "Type",
+          "value": "Sports sedan / rally car"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-vapid-caracara-4x4",
+      "section": "vehicles",
+      "category": "Off-road",
+      "name": "Vapid Caracara 4x4",
+      "subtitle": "Lifted off-road pickup",
+      "body": "Vapid's tough, lifted off-road truck.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Vapid"
+        },
+        {
+          "label": "Type",
+          "value": "Off-road pickup"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-vapid-montagne-xl",
+      "section": "vehicles",
+      "category": "SUV",
+      "name": "Vapid Montagne XL",
+      "subtitle": "Big family SUV",
+      "body": "A large, boxy Vapid SUV that's easy to find on the street.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Vapid"
+        },
+        {
+          "label": "Type",
+          "value": "Full-size SUV"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-willard-grouse-92",
+      "section": "vehicles",
+      "category": "Sedan",
+      "name": "Willard Grouse '92",
+      "subtitle": "Cheap early-'90s sedan",
+      "body": "A plain, boxy early-'90s four-door. It won't win races, but it's easy to find.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Willard"
+        },
+        {
+          "label": "Type",
+          "value": "Sedan"
+        },
+        {
+          "label": "Year",
+          "value": "1992"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-benefactor-dubsta",
+      "section": "vehicles",
+      "category": "SUV",
+      "name": "Benefactor Dubsta",
+      "subtitle": "Luxury off-roader",
+      "body": "Benefactor's boxy luxury SUV.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Benefactor"
+        },
+        {
+          "label": "Type",
+          "value": "Luxury SUV"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-nagasaki-sea-sparrow",
+      "section": "vehicles",
+      "category": "Helicopters",
+      "name": "Nagasaki Sea Sparrow",
+      "subtitle": "Small helicopter with floats",
+      "body": "A light chopper with floats, so it can land on water. It's also a cheat-spawn reward for finishing five Exploration challenges.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Nagasaki"
+        },
+        {
+          "label": "Type",
+          "value": "Float helicopter"
+        },
+        {
+          "label": "Cheat unlock",
+          "value": "5 Exploration challenges"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-hulls-sea-enchantress",
+      "section": "vehicles",
+      "category": "Boat",
+      "name": "Hulls Sea Enchantress",
+      "subtitle": "Charter dive boat",
+      "body": "A mid-size cabin boat used for diving and charter trips.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Hulls"
+        },
+        {
+          "label": "Type",
+          "value": "Dive / charter boat"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-brimstone-golfer",
+      "section": "vehicles",
+      "category": "Cheat vehicle",
+      "name": "Brimstone Golfer",
+      "subtitle": "Golf cart",
+      "body": "A golf cart. Complete every Sports challenge to add it to your cheat-spawn list.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Golf cart"
+        },
+        {
+          "label": "Cheat unlock",
+          "value": "All Sports challenges"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-speeder-700-gt",
+      "section": "vehicles",
+      "category": "Cheat vehicle",
+      "name": "Speeder 700 GT",
+      "subtitle": "Speedboat",
+      "body": "A sleek speedboat you can spawn after finishing any five Combat challenges.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Speedboat"
+        },
+        {
+          "label": "Cheat unlock",
+          "value": "5 Combat challenges"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-truffade-thrax",
+      "section": "vehicles",
+      "category": "Cheat vehicle",
+      "name": "Truffade Thrax",
+      "subtitle": "Hypercar",
+      "body": "Truffade's hypercar. Complete every Shopping challenge to add it to your cheat-spawn list.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Truffade"
+        },
+        {
+          "label": "Type",
+          "value": "Hypercar"
+        },
+        {
+          "label": "Cheat unlock",
+          "value": "All Shopping challenges"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-inflatable-flamingo",
+      "section": "vehicles",
+      "category": "Cheat vehicle",
+      "name": "Inflatable Flamingo",
+      "subtitle": "Pool float you can ride",
+      "body": "A joke spawn: a giant inflatable flamingo. Destroy 50 flamingos to unlock it.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Inflatable"
+        },
+        {
+          "label": "Cheat unlock",
+          "value": "Destroy 50 flamingos"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-kingfishers-laird-350",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Kingfishers Laird 350",
+      "subtitle": "Gold sporting rifle at a motel",
+      "body": "A unique version of the Fortune & Son Laird 350, looted at a run-down motel in the marsh just outside Hamlet during an illegal operation. Like other unique guns, it can't take attachments.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Fortune & Son Laird 350"
+        },
+        {
+          "label": "Where to find",
+          "value": "Run-down motel in the marsh near Hamlet (illegal operation)"
+        },
+        {
+          "label": "Cost",
+          "value": "Free"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-hunters-laird-350",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Hunter's Laird 350",
+      "subtitle": "Rare sporting rifle variant",
+      "body": "A unique version of the Fortune & Son Laird 350 sniper. It can't be modified. How to get it hasn't been confirmed by more than one guide yet.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Fortune & Son Laird 350"
+        },
+        {
+          "label": "Ammo",
+          "value": "5-round magazine"
+        }
+      ],
+      "tags": [],
       "spoiler": false
     }
   ]
