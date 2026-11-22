@@ -1,5 +1,5 @@
 {
-  "version": 49,
+  "version": 50,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -12964,6 +12964,346 @@
       "tags": [
         "Mini golf"
       ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-nagasaki-blazer",
+      "section": "vehicles",
+      "category": "Off-road",
+      "name": "Nagasaki Blazer",
+      "subtitle": "Single-seat quad bike",
+      "body": "A nimble four-wheeler built for dirt trails. Rockstar showed it out in the national park wilderness, so expect to find it on rough ground away from the city.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Off-road quad bike"
+        },
+        {
+          "label": "Seats",
+          "value": "1"
+        }
+      ],
+      "tags": [
+        "Quad"
+      ],
+      "spoiler": false,
+      "region": "Mount Kalaga National Park"
+    },
+    {
+      "id": "db-vehicles-nagasaki-blazer-lifeguard",
+      "section": "vehicles",
+      "category": "Off-road",
+      "name": "Nagasaki Blazer Lifeguard",
+      "subtitle": "Lifeguard version of the Blazer quad",
+      "body": "The beach patrol take on the Blazer quad bike, used by lifeguards along the sand.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Off-road quad bike (emergency)"
+        }
+      ],
+      "tags": [
+        "Quad",
+        "Emergency"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-declasse-walton-l35",
+      "section": "vehicles",
+      "category": "Pickup",
+      "name": "Declasse Walton L35",
+      "subtitle": "Two-door off-road pickup",
+      "body": "A rugged two-door pickup with an off-road setup. A solid choice for dirt roads and trails outside the city.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Off-road pickup"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-bravado-buffalo-stx",
+      "section": "vehicles",
+      "category": "Muscle",
+      "name": "Bravado Buffalo STX",
+      "subtitle": "Four-door muscle sedan",
+      "body": "A beefed-up four-door muscle car, one of the first cars shown in the debut trailer. Not to be confused with the regular Buffalo '19 sedan.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Muscle (4-door)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-karin-contender",
+      "section": "vehicles",
+      "category": "SUV",
+      "name": "Karin Contender",
+      "subtitle": "Big SUV-style pickup",
+      "body": "A large Karin truck that sits between an SUV and a pickup. Handy when you need something tough with room to spare.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "SUV / pickup"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-gallivanter-baller",
+      "section": "vehicles",
+      "category": "SUV",
+      "name": "Gallivanter Baller",
+      "subtitle": "Luxury five-door SUV",
+      "body": "The second-generation Baller, a premium SUV you will spot around wealthier parts of Vice City. Different from the Baller ST-D on Randy's Wish List.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "SUV (5-door)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-sirius",
+      "section": "vehicles",
+      "category": "Muscle",
+      "name": "Sirius",
+      "subtitle": "Classic muscle car",
+      "body": "A vintage muscle car that is part of the Ultimate Edition classic car collection.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Muscle (classic)"
+        },
+        {
+          "label": "Unlock",
+          "value": "Ultimate Edition classic car collection"
+        }
+      ],
+      "tags": [
+        "Ultimate Edition"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-deever-tech-dsg",
+      "section": "weapons",
+      "category": "SMG",
+      "name": "Deever Tech DSG",
+      "subtitle": "Deever Tech submachine gun",
+      "body": "A compact submachine gun from Deever Tech, the same brand behind the GLR40 grenade launcher.",
+      "facts": [
+        {
+          "label": "Category",
+          "value": "Submachine gun"
+        },
+        {
+          "label": "Brand",
+          "value": "Deever Tech"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-eel",
+      "section": "wildlife",
+      "category": "Marine",
+      "name": "Eel",
+      "subtitle": "Reef dweller",
+      "body": "Eels hide around the reefs and rocks off the coast. Keep an eye out for them while diving.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Fish"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-hammerhead-shark",
+      "section": "wildlife",
+      "category": "Marine",
+      "name": "Hammerhead Shark",
+      "subtitle": "Shark with a wide, flat head",
+      "body": "One of the shark species in Leonida's waters, easy to recognize by its hammer-shaped head. Give it space when you're swimming.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Shark"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-beaver",
+      "section": "wildlife",
+      "category": "Mammals",
+      "name": "Beaver",
+      "subtitle": "Busy river builder",
+      "body": "A flat-tailed rodent that lives near rivers and lakes.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Mammal"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-possum",
+      "section": "wildlife",
+      "category": "Mammals",
+      "name": "Possum",
+      "subtitle": "Nighttime scavenger",
+      "body": "A small scavenger that pokes around trash and backyards.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Mammal"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-rat",
+      "section": "wildlife",
+      "category": "Mammals",
+      "name": "Rat",
+      "subtitle": "Urban pest",
+      "body": "Rats scurry through alleys and dumpsters in the city.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Mammal"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-cat",
+      "section": "wildlife",
+      "category": "Domestic",
+      "name": "Cat",
+      "subtitle": "Strays and pets",
+      "body": "Cats wander streets and storefronts across Leonida, including strays.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Domestic mammal"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-dog",
+      "section": "wildlife",
+      "category": "Domestic",
+      "name": "Dog",
+      "subtitle": "Several breeds around town",
+      "body": "Dogs of different breeds show up with owners, in yards and on the streets.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Domestic mammal"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-cow",
+      "section": "wildlife",
+      "category": "Domestic",
+      "name": "Cow",
+      "subtitle": "Farm animal",
+      "body": "Cattle graze on farmland in the countryside.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Domestic mammal"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-spoonbill",
+      "section": "wildlife",
+      "category": "Birds",
+      "name": "Spoonbill",
+      "subtitle": "Wading bird with a spoon-shaped bill",
+      "body": "A wading bird with a flat, spoon-shaped bill, found around shallow water and wetlands.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Bird"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-woodpecker",
+      "section": "wildlife",
+      "category": "Birds",
+      "name": "Woodpecker",
+      "subtitle": "Tree-tapping bird",
+      "body": "A small bird you may hear hammering on trees in wooded areas.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Bird"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-stork",
+      "section": "wildlife",
+      "category": "Birds",
+      "name": "Stork",
+      "subtitle": "Large wading bird",
+      "body": "A tall wading bird that feeds in marshes and wet fields.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Bird"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-frog",
+      "section": "wildlife",
+      "category": "Amphibian",
+      "name": "Frog",
+      "subtitle": "Wetland amphibian",
+      "body": "Frogs live around ponds, canals and swamps.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Amphibian"
+        }
+      ],
+      "tags": [],
       "spoiler": false
     }
   ]
