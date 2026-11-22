@@ -1,5 +1,5 @@
 {
-  "version": 41,
+  "version": 42,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -9946,6 +9946,366 @@
         {
           "label": "Where to buy",
           "value": "Gun stores"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-fathom-fr36",
+      "section": "vehicles",
+      "category": "Sports",
+      "name": "Fathom FR36",
+      "subtitle": "Two-door sports coupe",
+      "body": "A sleek two-door coupe from Fathom, an easy-to-handle choice for street driving.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Coupe"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Fathom"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-pfister-neon",
+      "section": "vehicles",
+      "category": "Sports",
+      "name": "Pfister Neon",
+      "subtitle": "Modern four-door sports car",
+      "body": "A modern, high-tech Pfister sports car with quick acceleration and a planted feel.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sports"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Pfister"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-grotti-itali-rsx",
+      "section": "vehicles",
+      "category": "Super",
+      "name": "Grotti Itali RSX",
+      "subtitle": "Grotti's flagship sports car",
+      "body": "One of Grotti's top-end performance cars, built for speed on long straights.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sports"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Grotti"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-progen-emerus",
+      "section": "vehicles",
+      "category": "Super",
+      "name": "Progen Emerus",
+      "subtitle": "Track-focused hypercar",
+      "body": "Progen's extreme, aero-heavy hypercar. It is one of the rarest and fastest cars you can spot in Leonida.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Super"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Progen"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-buckingham-valkyrie",
+      "section": "vehicles",
+      "category": "Helicopters",
+      "name": "Buckingham Valkyrie",
+      "subtitle": "Utility helicopter",
+      "body": "A rugged, military-style transport helicopter from Buckingham with room for passengers.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Helicopter"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Buckingham"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-principe-lectro",
+      "section": "vehicles",
+      "category": "Motorcycle",
+      "name": "Principe Lectro",
+      "subtitle": "Naked street bike",
+      "body": "A stripped-back Italian-style street motorcycle that is light, nimble and quick off the line.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Motorcycle"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Principe"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-canis-terminus",
+      "section": "vehicles",
+      "category": "Off-road",
+      "name": "Canis Terminus",
+      "subtitle": "Open-top 4x4",
+      "body": "A boxy off-roader that shrugs off dirt tracks, swamps and beach sand.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Off-road"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Canis"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-ubermacht-rebla-gts",
+      "section": "vehicles",
+      "category": "SUV",
+      "name": "Ubermacht Rebla GTS",
+      "subtitle": "German luxury SUV",
+      "body": "A premium Ubermacht SUV that mixes comfort with solid road performance.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "SUV"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Ubermacht"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-buckingham-luxor",
+      "section": "vehicles",
+      "category": "Planes",
+      "name": "Buckingham Luxor",
+      "subtitle": "Private business jet",
+      "body": "A twin-engine private jet, the kind Leonida's wealthy use to fly in and out of town.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Plane (jet)"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Buckingham"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-endurex-race-bike",
+      "section": "vehicles",
+      "category": "Bicycle",
+      "name": "Endurex Race Bike",
+      "subtitle": "Road racing bicycle",
+      "body": "A lightweight road bike built for speed on paved roads.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Bicycle"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Endurex"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-brute-stockade",
+      "section": "vehicles",
+      "category": "Truck",
+      "name": "Brute Stockade",
+      "subtitle": "Armored cash truck",
+      "body": "A heavy armored van used to move cash and valuables around the state.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Commercial"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Brute"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-hvy-airtug",
+      "section": "vehicles",
+      "category": "Utility",
+      "name": "HVY Airtug",
+      "subtitle": "Airport tug",
+      "body": "A small tow tractor used to move baggage carts and planes around the airport.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Utility"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "HVY"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-karin-asterope-gz",
+      "section": "vehicles",
+      "category": "Sedan",
+      "name": "Karin Asterope GZ",
+      "subtitle": "Everyday family sedan",
+      "body": "A common, sensible Karin sedan you will see all over Leonida's streets.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sedan"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Karin"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-vapid-aleutian",
+      "section": "vehicles",
+      "category": "SUV",
+      "name": "Vapid Aleutian",
+      "subtitle": "Full-size SUV",
+      "body": "A big, practical Vapid SUV with plenty of space and decent toughness.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "SUV"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Vapid"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-obey-animus",
+      "section": "vehicles",
+      "category": "Sedan",
+      "name": "Obey Animus",
+      "subtitle": "Luxury sedan",
+      "body": "A refined Obey four-door with a smooth ride.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sedan"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Obey"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-benefactor-schafter-s",
+      "section": "vehicles",
+      "category": "Sedan",
+      "name": "Benefactor Schafter S",
+      "subtitle": "Sporty luxury sedan",
+      "body": "A sharper, sportier take on Benefactor's Schafter executive sedan.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sedan"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Benefactor"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-declasse-akane",
+      "section": "vehicles",
+      "category": "Compact",
+      "name": "Declasse Akane",
+      "subtitle": "Small hatchback",
+      "body": "A small, cheap-to-run Declasse compact that is easy to squeeze through traffic.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Compact"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Declasse"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-dundreary-arcturus",
+      "section": "vehicles",
+      "category": "Coupe",
+      "name": "Dundreary Arcturus",
+      "subtitle": "Large luxury coupe",
+      "body": "A long, heavy two-door luxury coupe from Dundreary.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Coupe"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Dundreary"
         }
       ],
       "tags": [],
