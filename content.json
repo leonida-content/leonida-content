@@ -1,5 +1,5 @@
 {
-  "version": 56,
+  "version": 57,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -14957,6 +14957,358 @@
       "tags": [
         "Boat"
       ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-karin-vivanite",
+      "section": "vehicles",
+      "category": "SUV",
+      "name": "Karin Vivanite",
+      "subtitle": "Family people-mover",
+      "body": "A roomy Karin family hauler with sliding-door minivan styling. A taxi version also turns up on the streets.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "SUV / Van"
+        },
+        {
+          "label": "Make",
+          "value": "Karin"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-dinka-chavos-xs",
+      "section": "vehicles",
+      "category": "Sedan",
+      "name": "Dinka Chavos XS",
+      "subtitle": "Mid-size four-door",
+      "body": "A sensible mid-size Dinka saloon, one of the everyday cars you see all over Vice City.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sedan"
+        },
+        {
+          "label": "Make",
+          "value": "Dinka"
+        },
+        {
+          "label": "Doors",
+          "value": "4"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-rumpo",
+      "section": "vehicles",
+      "category": "Van",
+      "name": "Rumpo",
+      "subtitle": "Boxy utility van",
+      "body": "A compact cargo van that tradespeople and delivery crews use around town.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Van"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-hauler",
+      "section": "vehicles",
+      "category": "Truck",
+      "name": "Hauler",
+      "subtitle": "Semi-truck cab",
+      "body": "A big-rig tractor unit used to pull freight trailers along Leonida highways.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Semi-truck"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-biff",
+      "section": "vehicles",
+      "category": "Industrial",
+      "name": "Biff",
+      "subtitle": "Heavy work truck",
+      "body": "A heavy-duty work truck found around construction and industrial sites.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Industrial truck"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-b3000-excavator",
+      "section": "vehicles",
+      "category": "Industrial",
+      "name": "B3000 Excavator",
+      "subtitle": "Tracked digger",
+      "body": "A slow tracked excavator with a digging arm, parked up at building sites.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Industrial"
+        },
+        {
+          "label": "Drive",
+          "value": "Tracks"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-ubermacht-sentinel-classic",
+      "section": "vehicles",
+      "category": "Sports Classic",
+      "name": "Ubermacht Sentinel Classic",
+      "subtitle": "Retro German sports car",
+      "body": "An older Ubermacht sports model with boxy late-80s lines, a throwback to the classic Sentinel.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sports Classic"
+        },
+        {
+          "label": "Make",
+          "value": "Ubermacht"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-greta",
+      "section": "vehicles",
+      "category": "Sedan",
+      "name": "Greta",
+      "subtitle": "Compact family saloon",
+      "body": "A plain compact sedan that blends into everyday Vice City traffic.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sedan"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-sojourn",
+      "section": "vehicles",
+      "category": "SUV",
+      "name": "Sojourn",
+      "subtitle": "Mid-size SUV",
+      "body": "A practical mid-size SUV. Some are painted up as taxis.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "SUV"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-transient",
+      "section": "vehicles",
+      "category": "Sedan",
+      "name": "Transient",
+      "subtitle": "Mid-size saloon",
+      "body": "A comfortable mid-size sedan seen in regular traffic.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sedan"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-90-lasso",
+      "section": "vehicles",
+      "category": "Sports",
+      "name": "'90 Lasso",
+      "subtitle": "Early-90s two-door",
+      "body": "A 1990 model year coupe with a sporty edge.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sports"
+        },
+        {
+          "label": "Year",
+          "value": "1990"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-parkland",
+      "section": "vehicles",
+      "category": "Classic",
+      "name": "Parkland",
+      "subtitle": "Old-school land yacht",
+      "body": "A long classic cruiser from the early 70s, a favorite base for custom builds.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Classic"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-bogan",
+      "section": "vehicles",
+      "category": "Sedan",
+      "name": "Bogan",
+      "subtitle": "Everyday car",
+      "body": "A no-frills road car you will spot in normal traffic.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Car"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-allander",
+      "section": "vehicles",
+      "category": "SUV",
+      "name": "Allander",
+      "subtitle": "Compact crossover",
+      "body": "A small crossover SUV, with a taxi version also on the road.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "SUV"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-buckingham-volatus",
+      "section": "vehicles",
+      "category": "Helicopters",
+      "name": "Buckingham Volatus",
+      "subtitle": "Luxury helicopter",
+      "body": "A sleek private Buckingham helicopter.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Helicopter"
+        },
+        {
+          "label": "Make",
+          "value": "Buckingham"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-locust",
+      "section": "vehicles",
+      "category": "Sports",
+      "name": "Locust",
+      "subtitle": "Open-top sports car",
+      "body": "A low, open-top sports car built for fun on the coast roads.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sports"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-moonbeam",
+      "section": "vehicles",
+      "category": "Van",
+      "name": "Moonbeam",
+      "subtitle": "Boxy cruiser",
+      "body": "A big boxy cruiser that lowrider fans like to customize.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Van"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-dingus-nepa",
+      "section": "vehicles",
+      "category": "Boat",
+      "name": "Dingus Nepa",
+      "subtitle": "Rigid inflatable boat",
+      "body": "A quick rigid-hulled inflatable boat for getting around the coast and waterways.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Boat"
+        },
+        {
+          "label": "Type",
+          "value": "Rigid inflatable"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-land-turtle",
+      "section": "wildlife",
+      "category": "Reptile",
+      "name": "Land Turtle",
+      "subtitle": "Slow-moving shelled reptile",
+      "body": "A land-dwelling turtle you can spot plodding through the wilder parts of Leonida.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Reptile"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-crayfish",
+      "section": "wildlife",
+      "category": "Marine",
+      "name": "Crayfish",
+      "subtitle": "Small freshwater crustacean",
+      "body": "A little clawed crustacean that lives in Leonida's freshwater swamps and creeks.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Crustacean"
+        }
+      ],
+      "tags": [],
       "spoiler": false
     }
   ]
