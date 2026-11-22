@@ -1,5 +1,5 @@
 {
-  "version": 38,
+  "version": 39,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -8645,6 +8645,571 @@
           "value": "Open sea, by boat"
         }
       ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-annis-venturas-blvd-elegy-90",
+      "section": "vehicles",
+      "category": "Sports",
+      "name": "Annis Venturas BLVD Elegy '90",
+      "subtitle": "Widebody Elegy for GTA+ members",
+      "body": "A widened, body-kitted take on the retro Annis coupe. GTA+ members can claim it, along with a garage in Crosstown, once the story reaches Chapter 3.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sports"
+        },
+        {
+          "label": "How to get",
+          "value": "GTA+ membership reward"
+        },
+        {
+          "label": "Unlock",
+          "value": "Chapter 3"
+        },
+        {
+          "label": "Comes with",
+          "value": "Garage in Crosstown"
+        }
+      ],
+      "region": "Vice City",
+      "tags": [
+        "GTA+"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-annis-elegy-90",
+      "section": "vehicles",
+      "category": "Sports",
+      "name": "Annis Elegy '90",
+      "subtitle": "Retro Japanese coupe",
+      "body": "A common sight on Vice City streets and a favorite starting point for tuner builds.",
+      "facts": [
+        {
+          "label": "Cost to register",
+          "value": "$14,250"
+        },
+        {
+          "label": "Sells for (stolen)",
+          "value": "$4,235"
+        },
+        {
+          "label": "Where to find",
+          "value": "Vice City streets"
+        }
+      ],
+      "region": "Vice City",
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-declasse-tulip-72",
+      "section": "vehicles",
+      "category": "Muscle",
+      "name": "Declasse Tulip '72",
+      "subtitle": "70s four-door muscle sedan",
+      "body": "A roomy 1970s muscle sedan that's cheap to register and easy to spot around Leonida.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Muscle"
+        },
+        {
+          "label": "Cost to register",
+          "value": "$9,400"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-albany-hermes-50",
+      "section": "vehicles",
+      "category": "Muscle",
+      "name": "Albany Hermes '50",
+      "subtitle": "Rounded 50s cruiser",
+      "body": "A curvy 1950s classic and one of the pricier old-school cars worth stealing and keeping.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Muscle"
+        },
+        {
+          "label": "Cost to register",
+          "value": "$21,650"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-invetero-coquette-64",
+      "section": "vehicles",
+      "category": "Classic",
+      "name": "Invetero Coquette '64",
+      "subtitle": "60s roadster with a big price tag",
+      "body": "A 1960s American roadster that tops the steal-and-sell lists outside the supercars.",
+      "facts": [
+        {
+          "label": "Cost to register",
+          "value": "$29,150"
+        },
+        {
+          "label": "Sells for (stolen)",
+          "value": "$12,320"
+        },
+        {
+          "label": "Where to find",
+          "value": "Street spawn"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-albany-buccaneer-65",
+      "section": "vehicles",
+      "category": "Muscle",
+      "name": "Albany Buccaneer '65",
+      "subtitle": "Long 60s two-door",
+      "body": "A stretched mid-60s muscle coupe with a low registration fee.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Muscle"
+        },
+        {
+          "label": "Cost to register",
+          "value": "$9,400"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-bf-injection-73",
+      "section": "vehicles",
+      "category": "Off-road",
+      "name": "BF Injection '73",
+      "subtitle": "Open-top dune buggy",
+      "body": "A light 1970s buggy that's at home on beaches and dirt trails.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Off-road"
+        },
+        {
+          "label": "Cost to register",
+          "value": "$4,650"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-declasse-rancher-86",
+      "section": "vehicles",
+      "category": "Off-road",
+      "name": "Declasse Rancher '86",
+      "subtitle": "Boxy 80s 4x4",
+      "body": "A two-door mid-80s 4x4 pickup and one of the cheapest off-road options to register.",
+      "facts": [
+        {
+          "label": "Cost to register",
+          "value": "$4,750"
+        },
+        {
+          "label": "Sells for (stolen)",
+          "value": "$1,180"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-karin-futo-85",
+      "section": "vehicles",
+      "category": "Tuner",
+      "name": "Karin Futo '85",
+      "subtitle": "Light rear-drive coupe",
+      "body": "A small, rear-wheel-drive 80s Japanese coupe that suits drift builds.",
+      "facts": [
+        {
+          "label": "Cost to register",
+          "value": "$4,750"
+        },
+        {
+          "label": "Sells for (stolen)",
+          "value": "$1,430"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-ubermacht-cypher",
+      "section": "vehicles",
+      "category": "Wish List car",
+      "name": "Ubermacht Cypher",
+      "subtitle": "Wish List car near Cirque de Cuisine",
+      "body": "Randy wants this compact German-style sports car. Check outside the Cirque de Cuisine restaurant; if it isn't there, reloading a save can make it appear.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sports"
+        },
+        {
+          "label": "Where to find",
+          "value": "Outside Cirque de Cuisine, Ocean Beach"
+        },
+        {
+          "label": "Deliver to",
+          "value": "Randy at Leonida Auto World"
+        }
+      ],
+      "region": "Vice Beach",
+      "tags": [
+        "Randy's Wish List"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-ocelot-jugular",
+      "section": "vehicles",
+      "category": "Wish List car",
+      "name": "Ocelot Jugular",
+      "subtitle": "Wish List four-door sports sedan",
+      "body": "A fast British-style sedan on Randy's list, usually parked outside the BITE shop just north of Ocean Beach.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sports sedan"
+        },
+        {
+          "label": "Where to find",
+          "value": "Outside BITE, north of Ocean Beach"
+        },
+        {
+          "label": "Deliver to",
+          "value": "Randy at Leonida Auto World"
+        }
+      ],
+      "region": "Vice Beach",
+      "tags": [
+        "Randy's Wish List"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-hauners-cargobob",
+      "section": "vehicles",
+      "category": "Helicopters",
+      "name": "Hauners Cargobob",
+      "subtitle": "Heavy twin-rotor transport helicopter",
+      "body": "A big military transport chopper you can steal from the air station on Goose Key. Expect heavy resistance once the base is alerted.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Military helicopter"
+        },
+        {
+          "label": "Where to find",
+          "value": "Mile Zero Air Station, Goose Key"
+        }
+      ],
+      "region": "Leonida Keys",
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-vom-feuer-vf5",
+      "section": "weapons",
+      "category": "SMG",
+      "name": "Vom Feuer VF5",
+      "subtitle": "Military submachine gun",
+      "body": "A military-grade SMG sold at gun stores. A unique gold version, the Crabshack VF5, is locked inside a boat shack at an abandoned swamp outpost.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$2,325"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun stores"
+        },
+        {
+          "label": "Unique variant",
+          "value": "Crabshack VF5, Pelican Valley swamp outpost"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-hawk-little-38",
+      "section": "weapons",
+      "category": "Revolver",
+      "name": "Hawk & Little .38",
+      "subtitle": "Double-action revolver",
+      "body": "A mid-priced revolver that several unique .38 variants are based on.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$1,075"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun stores"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-scorpio-akulus",
+      "section": "weapons",
+      "category": "Revolver",
+      "name": "Scorpio Akulus",
+      "subtitle": "Heavy revolver",
+      "body": "A hard-hitting, high-end revolver. A gold Swamp Bait version lies on the floor of a wrecked cabin in the marshes, no fight needed.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$3,000"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun stores"
+        },
+        {
+          "label": "Unique variant",
+          "value": "Swamp Bait Akulus, abandoned marsh cabin"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-cruel-huntsmans-sm-69",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Cruel Huntsman's SM-69",
+      "subtitle": "Gold hunting rifle in a swamp cabin",
+      "body": "A unique version of the Shrewsbury SM-69 sniper. Pick it up for free at a remote hunter's cabin in the Pelican Valley marsh, next to some sniper ammo.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Shrewsbury SM-69"
+        },
+        {
+          "label": "Where to find",
+          "value": "Hunter's cabin, Pelican Valley marsh"
+        },
+        {
+          "label": "Cost",
+          "value": "Free"
+        }
+      ],
+      "region": "Pelican Valley",
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-zhang-wu-type-9",
+      "section": "weapons",
+      "category": "SMG",
+      "name": "Zhang Wu Type 9",
+      "subtitle": "Budget machine pistol",
+      "body": "A cheap fully automatic machine pistol. Its gold Conspiracist variant is hidden in an underground bunker reached through a hatch beneath a trailer.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$1,100"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun stores"
+        },
+        {
+          "label": "Unique variant",
+          "value": "Conspiracist Type 9, bunker under a trailer"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-girardi-es18",
+      "section": "weapons",
+      "category": "Pistol",
+      "name": "Girardi ES18",
+      "subtitle": "Three-round burst pistol",
+      "body": "A handgun that fires in three-shot bursts, good for close-range fights.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$1,550"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun stores"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-wortham-w-14",
+      "section": "weapons",
+      "category": "Tactical Rifles",
+      "name": "Wortham W-14",
+      "subtitle": "Low-cost tactical rifle",
+      "body": "An affordable rifle that even small rural stores like Chuck's Tackle & Shot keep in stock.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$1,400"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun stores, including Chuck's Tackle & Shot"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-adb-m350",
+      "section": "weapons",
+      "category": "Machine Guns",
+      "name": "ADB M350",
+      "subtitle": "Heavy combat machine gun",
+      "body": "One of the most expensive guns you can buy off the shelf.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$10,000"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun stores"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-brontasaurus-bat",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Brontasaurus Bat",
+      "subtitle": "One-of-a-kind bat at Dino Golf",
+      "body": "Find it in the batting cages on the right side of the abandoned Dino Golf park off SR-32. It can't be modified.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Melee"
+        },
+        {
+          "label": "Where to find",
+          "value": "Batting cages, Dino Golf, Frogswater"
+        },
+        {
+          "label": "Mods",
+          "value": "None"
+        }
+      ],
+      "region": "Frogswater",
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-chucks-tackle-shot",
+      "section": "places",
+      "category": "Gun store",
+      "name": "Chuck's Tackle & Shot",
+      "subtitle": "Rural fishing and gun shop",
+      "body": "A Limited-tier store with a basic selection of pistols, shotguns and rifles plus knives, grenades, sticky bombs and armor. You can also pick up a fishing license here.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Limited"
+        },
+        {
+          "label": "Sells",
+          "value": "Basic guns, knives, grenades, sticky bombs, armor"
+        },
+        {
+          "label": "Extras",
+          "value": "Changing room, weapon locker, fishing license"
+        }
+      ],
+      "region": "Mariana County",
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-black-eagle",
+      "section": "places",
+      "category": "Gun store",
+      "name": "Black Eagle",
+      "subtitle": "Expanded gun store",
+      "body": "A full-catalog store in the Vice City metro area, so heavy weapons like LMGs and launchers are on the shelves.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Expanded"
+        },
+        {
+          "label": "County",
+          "value": "Vice-Dale"
+        }
+      ],
+      "region": "Vice-Dale County",
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-iron-oak",
+      "section": "places",
+      "category": "Gun store",
+      "name": "Iron & Oak",
+      "subtitle": "Expanded gun store",
+      "body": "One of the six full-catalog stores, stocking everything from pistols to rocket launchers.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Expanded"
+        },
+        {
+          "label": "County",
+          "value": "Vice-Dale"
+        }
+      ],
+      "region": "Vice-Dale County",
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-phils-ammu-nation",
+      "section": "places",
+      "category": "Gun store",
+      "name": "Phil's Ammu-Nation",
+      "subtitle": "The only store with the Ammu-Nation name",
+      "body": "The one gun store that actually carries the Ammu-Nation brand on its sign. It's an Expanded store with the full catalog.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Expanded"
+        },
+        {
+          "label": "County",
+          "value": "Vice-Dale"
+        }
+      ],
+      "region": "Vice-Dale County",
       "tags": [],
       "spoiler": false
     }
