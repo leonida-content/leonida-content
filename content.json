@@ -1,5 +1,5 @@
 {
-  "version": 51,
+  "version": 52,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -13557,6 +13557,318 @@
         {
           "label": "Class",
           "value": "Box truck"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-imponte-ruiner",
+      "section": "vehicles",
+      "category": "Muscle",
+      "name": "Imponte Ruiner",
+      "subtitle": "Boxy '80s muscle car",
+      "body": "An early-'80s Imponte muscle coupe. Cheap to sell, but registering one to keep costs more than most everyday cars.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Muscle"
+        },
+        {
+          "label": "Register fee",
+          "value": "$6,400"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-95-impaler-sz",
+      "section": "vehicles",
+      "category": "Muscle",
+      "name": "'95 Impaler SZ",
+      "subtitle": "Mid-'90s coupe",
+      "body": "A 1995 model Impaler in its SZ trim. You can register it to keep it in your garage.",
+      "facts": [
+        {
+          "label": "Year",
+          "value": "1995"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-benefactor-schutzen",
+      "section": "vehicles",
+      "category": "Sedan",
+      "name": "Benefactor Schutzen",
+      "subtitle": "Benefactor luxury car",
+      "body": "A Benefactor model you can spot around the wealthier parts of Vice City.",
+      "facts": [
+        {
+          "label": "Make",
+          "value": "Benefactor"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-shitzu-tropic",
+      "section": "vehicles",
+      "category": "Boat",
+      "name": "Shitzu Tropic",
+      "subtitle": "Small Shitzu speedboat",
+      "body": "A compact speedboat from Shitzu, handy for hopping between the Keys.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Speedboat"
+        },
+        {
+          "label": "Make",
+          "value": "Shitzu"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-pfister-comet-s2",
+      "section": "vehicles",
+      "category": "Sports",
+      "name": "Pfister Comet S2",
+      "subtitle": "Modern Pfister sports car",
+      "body": "The modern Comet from Pfister, a rear-engined sports car with sharp handling.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sports"
+        },
+        {
+          "label": "Make",
+          "value": "Pfister"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-whiffler-dashound",
+      "section": "vehicles",
+      "category": "Service",
+      "name": "Whiffler Dashound",
+      "subtitle": "Intercity coach bus",
+      "body": "A long-distance coach you will see running between towns on the highways.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Coach bus"
+        },
+        {
+          "label": "Make",
+          "value": "Whiffler"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-brute-boxville",
+      "section": "vehicles",
+      "category": "Commercial",
+      "name": "Brute Boxville",
+      "subtitle": "Step van",
+      "body": "A boxy delivery van from Brute, common on city streets.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Van"
+        },
+        {
+          "label": "Make",
+          "value": "Brute"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-vapid-speedo",
+      "section": "vehicles",
+      "category": "Commercial",
+      "name": "Vapid Speedo",
+      "subtitle": "Full-size work van",
+      "body": "A plain Vapid van used by tradespeople and couriers.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Van"
+        },
+        {
+          "label": "Make",
+          "value": "Vapid"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-bravado-devil-s-rope-gauntlet",
+      "section": "vehicles",
+      "category": "Muscle",
+      "name": "Bravado Devil's Rope Gauntlet",
+      "subtitle": "Gang-themed Gauntlet",
+      "body": "A Gauntlet variant finished in the Devil's Rope style, separate from the Hellfire and classic versions.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Muscle"
+        },
+        {
+          "label": "Make",
+          "value": "Bravado"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-bf-bandito",
+      "section": "vehicles",
+      "category": "Off-road",
+      "name": "BF Bandito",
+      "subtitle": "Small off-road buggy",
+      "body": "A light BF off-roader that rates far better on dirt than on pavement.",
+      "facts": [
+        {
+          "label": "Make",
+          "value": "BF"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-western-cliffhanger",
+      "section": "vehicles",
+      "category": "Motorcycle",
+      "name": "Western Cliffhanger",
+      "subtitle": "Flat-track style bike",
+      "body": "A Western motorcycle styled after classic flat-track racers.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Motorcycle"
+        },
+        {
+          "label": "Make",
+          "value": "Western"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-ped-scorcher",
+      "section": "vehicles",
+      "category": "Bicycle",
+      "name": "PED Scorcher",
+      "subtitle": "Mountain bike",
+      "body": "A full-suspension mountain bike, good for trails and rough ground.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Bicycle"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-lombike",
+      "section": "vehicles",
+      "category": "Bicycle",
+      "name": "LomBike",
+      "subtitle": "Rental e-bike",
+      "body": "A rental electric bike like the shared bikes found around the city.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Bicycle"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-cruiser",
+      "section": "vehicles",
+      "category": "Bicycle",
+      "name": "Cruiser",
+      "subtitle": "Beach cruiser bicycle",
+      "body": "A relaxed beach cruiser, perfect for slow rides along the waterfront.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Bicycle"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-freight-train",
+      "section": "vehicles",
+      "category": "Service",
+      "name": "Freight Train",
+      "subtitle": "Cargo train",
+      "body": "Freight trains haul cargo along the rail lines across Leonida.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Train"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-albany-devanity-59",
+      "section": "vehicles",
+      "category": "Classic",
+      "name": "Albany DeVanity '59",
+      "subtitle": "Late-'50s Albany classic",
+      "body": "A big late-1950s Albany with classic fins and chrome.",
+      "facts": [
+        {
+          "label": "Make",
+          "value": "Albany"
+        },
+        {
+          "label": "Year",
+          "value": "1959"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-albany-alpha",
+      "section": "vehicles",
+      "category": "Sports",
+      "name": "Albany Alpha",
+      "subtitle": "Albany sports sedan",
+      "body": "A sporty four-door from Albany, seen around Vice City.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sports"
+        },
+        {
+          "label": "Make",
+          "value": "Albany"
         }
       ],
       "tags": [],
