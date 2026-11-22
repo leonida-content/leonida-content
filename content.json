@@ -1,5 +1,5 @@
 {
-  "version": 46,
+  "version": 47,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -11830,6 +11830,495 @@
         {
           "label": "Type",
           "value": "Air activity"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-coquette-d10",
+      "section": "vehicles",
+      "category": "Wish List car",
+      "name": "Coquette D10",
+      "subtitle": "Wish List sports car",
+      "body": "One of the high-end cars on Randy's Wish List. Spawn spots are still being confirmed, so check Randy's hint in the app before you go hunting. Expect a tracker and lose any heat before you deliver it.",
+      "facts": [
+        {
+          "label": "Collection",
+          "value": "Randy's Wish List"
+        },
+        {
+          "label": "Deliver to",
+          "value": "Randy at Leonida Auto World"
+        }
+      ],
+      "tags": [
+        "Randy's Wish List"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-buckingham-windsor-drop",
+      "section": "vehicles",
+      "category": "Wish List car",
+      "name": "Buckingham Windsor Drop",
+      "subtitle": "Wish List luxury convertible",
+      "body": "One of the high-end cars on Randy's Wish List. Spawn spots are still being confirmed, so check Randy's hint in the app before you go hunting. Expect a tracker and lose any heat before you deliver it.",
+      "facts": [
+        {
+          "label": "Collection",
+          "value": "Randy's Wish List"
+        },
+        {
+          "label": "Deliver to",
+          "value": "Randy at Leonida Auto World"
+        }
+      ],
+      "tags": [
+        "Randy's Wish List"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-buckingham-jubilee",
+      "section": "vehicles",
+      "category": "Wish List car",
+      "name": "Buckingham Jubilee",
+      "subtitle": "Wish List luxury SUV",
+      "body": "One of the high-end cars on Randy's Wish List. Spawn spots are still being confirmed, so check Randy's hint in the app before you go hunting. Expect a tracker and lose any heat before you deliver it.",
+      "facts": [
+        {
+          "label": "Collection",
+          "value": "Randy's Wish List"
+        },
+        {
+          "label": "Deliver to",
+          "value": "Randy at Leonida Auto World"
+        }
+      ],
+      "tags": [
+        "Randy's Wish List"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-gallivanter-baller-st-d",
+      "section": "vehicles",
+      "category": "Wish List car",
+      "name": "Gallivanter Baller ST-D",
+      "subtitle": "Wish List luxury SUV",
+      "body": "One of the high-end cars on Randy's Wish List. Spawn spots are still being confirmed, so check Randy's hint in the app before you go hunting. Expect a tracker and lose any heat before you deliver it.",
+      "facts": [
+        {
+          "label": "Collection",
+          "value": "Randy's Wish List"
+        },
+        {
+          "label": "Deliver to",
+          "value": "Randy at Leonida Auto World"
+        }
+      ],
+      "tags": [
+        "Randy's Wish List"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-reynolds-kit-car",
+      "section": "vehicles",
+      "category": "Sports",
+      "name": "Reynolds Kit Car",
+      "subtitle": "Wyman's rebuilt kit car",
+      "body": "A lightweight kit car Wyman puts back together once you track down the wrecks he needs. You keep it when he's done.",
+      "facts": [
+        {
+          "label": "Unlock",
+          "value": "Wyman's Classic Car Collection side job"
+        },
+        {
+          "label": "Edition",
+          "value": "Ultimate Edition"
+        }
+      ],
+      "tags": [
+        "Ultimate Edition"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-lapwing-streamer-216-c",
+      "section": "vehicles",
+      "category": "Planes",
+      "name": "Lapwing Streamer 216-C",
+      "subtitle": "Small plane at the main airport",
+      "body": "A light aircraft you can find parked at Vice City International Airport.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "Vice City International Airport"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-places-vice-city-international-airport",
+      "section": "places",
+      "category": "Airport",
+      "name": "Vice City International Airport",
+      "subtitle": "Leonida's main airport (VCIA)",
+      "body": "The big airport on the southwest side of Vice City, with two main runways and parked airliners. A good place to grab a plane.",
+      "facts": [
+        {
+          "label": "Location",
+          "value": "West side of Vice-Dale County, southwest Vice City"
+        },
+        {
+          "label": "What s there",
+          "value": "Commercial jets and small planes"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-weapons-brass-knuckles",
+      "section": "weapons",
+      "category": "Melee",
+      "name": "Brass Knuckles",
+      "subtitle": "Brass knuckles for fistfights",
+      "body": "A melee weapon you can buy over the counter. Cheap and silent for close-range fights.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$95"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun stores"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-baton",
+      "section": "weapons",
+      "category": "Melee",
+      "name": "Baton",
+      "subtitle": "Classic nightstick",
+      "body": "A melee weapon you can buy over the counter. Cheap and silent for close-range fights.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$160"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun stores"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-hunting-knife",
+      "section": "weapons",
+      "category": "Melee",
+      "name": "Hunting Knife",
+      "subtitle": "Basic hunting blade",
+      "body": "A melee weapon you can buy over the counter. Cheap and silent for close-range fights.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$125"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Chuck's Tackle & Shot and other gun stores"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-bushcraft-knife",
+      "section": "weapons",
+      "category": "Melee",
+      "name": "Bushcraft Knife",
+      "subtitle": "Sturdy outdoors knife",
+      "body": "A melee weapon you can buy over the counter. Cheap and silent for close-range fights.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$230"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Chuck's Tackle & Shot"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-edc-knife",
+      "section": "weapons",
+      "category": "Melee",
+      "name": "EDC Knife",
+      "subtitle": "Everyday carry folding knife",
+      "body": "A melee weapon you can buy over the counter. Cheap and silent for close-range fights.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$275"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun stores"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-combat-knife",
+      "section": "weapons",
+      "category": "Melee",
+      "name": "Combat Knife",
+      "subtitle": "Military-style fighting knife",
+      "body": "A melee weapon you can buy over the counter. Cheap and silent for close-range fights.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$285"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun stores"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-switchblade",
+      "section": "weapons",
+      "category": "Melee",
+      "name": "Switchblade",
+      "subtitle": "Spring-loaded pocket knife",
+      "body": "A melee weapon you can buy over the counter. Cheap and silent for close-range fights.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$290"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun stores"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-diving-knife",
+      "section": "weapons",
+      "category": "Melee",
+      "name": "Diving Knife",
+      "subtitle": "Knife for underwater trips",
+      "body": "A melee weapon you can buy over the counter. Cheap and silent for close-range fights.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$300"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Chuck's Tackle & Shot"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-survival-knife",
+      "section": "weapons",
+      "category": "Melee",
+      "name": "Survival Knife",
+      "subtitle": "Heavy-duty survival blade",
+      "body": "A melee weapon you can buy over the counter. Cheap and silent for close-range fights.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$315"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun stores"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-sticky-bomb",
+      "section": "weapons",
+      "category": "Throwables",
+      "name": "Sticky Bomb",
+      "subtitle": "Remote-detonated explosive",
+      "body": "Stick it to a car, wall or door, then set it off from a distance. Handy for breaking into guarded spots.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$185"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun stores"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-bzi-vatra",
+      "section": "weapons",
+      "category": "SMG",
+      "name": "BZI Vatra",
+      "subtitle": "Budget submachine gun",
+      "body": "An affordable SMG that's part of every gun store's standard stock. The unique Double Cross Vatra is a stronger variant.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$1,200"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun stores (standard stock)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-vom-feuer-vf5c",
+      "section": "weapons",
+      "category": "SMG",
+      "name": "Vom Feuer VF5C",
+      "subtitle": "Compact military SMG",
+      "body": "A shorter version of the VF5. Only the bigger, better-stocked gun stores carry it.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$2,600"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Larger gun stores"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-fortune-son-gorse-425",
+      "section": "weapons",
+      "category": "Shotguns",
+      "name": "Fortune & Son Gorse 425",
+      "subtitle": "Stubby pump shotgun",
+      "body": "A short, cheap pump-action shotgun. The unique Smuggler Gorse 425 is based on it.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$850"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun stores (standard stock)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-girardi-super400",
+      "section": "weapons",
+      "category": "Shotguns",
+      "name": "Girardi Super400",
+      "subtitle": "Semi-auto shotgun",
+      "body": "A semi-automatic shotgun from the standard gun store lineup. The unique Bruiser Super400 is based on it.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$2,825"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun stores"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-goodwin-comshot-12",
+      "section": "weapons",
+      "category": "Shotguns",
+      "name": "Goodwin Comshot 12",
+      "subtitle": "Heavy combat shotgun",
+      "body": "A powerful combat shotgun sold only at the larger gun stores. The unique Unpacked Comshot 12 is based on it.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$3,825"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Larger gun stores"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-vice-city-heathen",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Vice City Heathen",
+      "subtitle": "Unique Heathen rifle on display",
+      "body": "A one-of-a-kind take on the Hillinger Heathen assault rifle, sold from the display case at Prestige Firearms.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$5,150"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Prestige Firearms display case, Ocean Beach"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-weapons-nightmare-kz-59",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Nightmare KZ-59",
+      "subtitle": "Unique KZ-59 from Rodgers Ranch",
+      "body": "A unique KZ-59 rifle sold only at the Rodgers Ranch shooting range shop.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$2,630"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Rodgers Ranch shop"
         }
       ],
       "tags": [],
