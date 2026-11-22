@@ -1,5 +1,5 @@
 {
-  "version": 48,
+  "version": 49,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -12606,6 +12606,364 @@
         }
       ],
       "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-dinka-double-t",
+      "section": "vehicles",
+      "category": "Motorcycle",
+      "name": "Dinka Double-T",
+      "subtitle": "Dinka sport bike",
+      "body": "A fully faired Dinka sport bike that is quick and nimble on paved roads.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Motorcycle"
+        },
+        {
+          "label": "Type",
+          "value": "Sport bike"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-pegassi-faggio",
+      "section": "vehicles",
+      "category": "Motorcycle",
+      "name": "Pegassi Faggio",
+      "subtitle": "Classic Italian-style scooter",
+      "body": "A small retro scooter. It won't win races, but it slips through city traffic easily.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Motorcycle"
+        },
+        {
+          "label": "Type",
+          "value": "Scooter"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-dinka-verus",
+      "section": "vehicles",
+      "category": "Off-road",
+      "name": "Dinka Verus",
+      "subtitle": "Four-wheel ATV",
+      "body": "A quad bike that handles sand, dirt and swamp trails better than most cars.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Off-road"
+        },
+        {
+          "label": "Type",
+          "value": "Quad bike (ATV)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-buckingham-supervolito",
+      "section": "vehicles",
+      "category": "Helicopters",
+      "name": "Buckingham SuperVolito",
+      "subtitle": "Upscale passenger helicopter",
+      "body": "A roomy luxury helicopter from Buckingham, more comfortable than quick.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Helicopter"
+        },
+        {
+          "label": "Maker",
+          "value": "Buckingham"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-buckingham-swift",
+      "section": "vehicles",
+      "category": "Helicopters",
+      "name": "Buckingham Swift",
+      "subtitle": "Executive helicopter",
+      "body": "A sleek four-bladed Buckingham helicopter aimed at wealthy flyers.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Helicopter"
+        },
+        {
+          "label": "Maker",
+          "value": "Buckingham"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-buckingham-police-maverick",
+      "section": "vehicles",
+      "category": "Helicopters",
+      "name": "Buckingham Police Maverick",
+      "subtitle": "Police version of the Maverick",
+      "body": "The law-enforcement take on the Maverick. You will mostly see it overhead when your wanted level climbs.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Helicopter"
+        },
+        {
+          "label": "Use",
+          "value": "Police"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-bank-jobs",
+      "section": "activities",
+      "category": "Robberies",
+      "name": "Bank Jobs",
+      "subtitle": "Rob small branches and big-bank vaults",
+      "body": "Banks pay out in marked bills, so you need the Dye Pack Jammer before a fence will take the cash. Grab the teller cash and the back safe. Large banks also have a vault that only opens while an armored truck is making a delivery, so tail a truck or buy a tip from Yasmani. Hitting a vault gives you an instant 4-star wanted level.",
+      "facts": [
+        {
+          "label": "Total",
+          "value": "22 (14 small, 8 large)"
+        },
+        {
+          "label": "Small banks unlock",
+          "value": "After Credit Check (Chapter 3)"
+        },
+        {
+          "label": "Vaults unlock",
+          "value": "After the Chapter 4 optional mission That's Where The Money Is..."
+        },
+        {
+          "label": "Armored truck tip",
+          "value": "$10,000 from Yasmani"
+        },
+        {
+          "label": "Vault heat",
+          "value": "4 stars"
+        }
+      ],
+      "tags": [
+        "Money",
+        "100%"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-payday-loans",
+      "section": "activities",
+      "category": "Robberies",
+      "name": "Payday Loans",
+      "subtitle": "Hold up payday lenders",
+      "body": "Threaten the teller, empty the drawer, then hit the safe in the back. The cash is marked, so have the Dye Pack Jammer before fencing it. The Little Cuba store pays the most.",
+      "facts": [
+        {
+          "label": "Total",
+          "value": "7"
+        },
+        {
+          "label": "Unlock",
+          "value": "After Credit Check (Chapter 3)"
+        },
+        {
+          "label": "Best payout",
+          "value": "Little Cuba, Vice City"
+        },
+        {
+          "label": "For 100%",
+          "value": "All 7"
+        }
+      ],
+      "tags": [
+        "Money",
+        "100%"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-smash-n-grabs",
+      "section": "activities",
+      "category": "Robberies",
+      "name": "Smash 'n' Grabs",
+      "subtitle": "Rob jewelry stores and pawn shops",
+      "body": "Smash the display cases, then open the back-room safe too, or it won't count as done. Sell what you take to a fence. Vice City jewelers pay the most.",
+      "facts": [
+        {
+          "label": "Total",
+          "value": "35 (20 jewelry stores, 15 pawn shops)"
+        },
+        {
+          "label": "Pawn shops unlock",
+          "value": "After Coffee Break (Chapter 2)"
+        },
+        {
+          "label": "Jewelry stores unlock",
+          "value": "After Yasmani's Jewelry Jobs (Chapter 3)"
+        },
+        {
+          "label": "For 100%",
+          "value": "34 of 35"
+        }
+      ],
+      "tags": [
+        "Money",
+        "100%"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-stick-ups",
+      "section": "activities",
+      "category": "Robberies",
+      "name": "Stick Ups",
+      "subtitle": "Hold up stores for quick cash",
+      "body": "Point a gun at the clerk of a convenience store, liquor store or fast food spot and take the register. Available right from the start, and a fast way to earn early cash.",
+      "facts": [
+        {
+          "label": "Stores",
+          "value": "91"
+        },
+        {
+          "label": "Unlock",
+          "value": "From the start"
+        },
+        {
+          "label": "For 100%",
+          "value": "50 stores"
+        }
+      ],
+      "tags": [
+        "Money",
+        "100%"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-fencing",
+      "section": "activities",
+      "category": "Robberies",
+      "name": "Fencing",
+      "subtitle": "Turn stolen goods into cash",
+      "body": "Loot isn't money until you sell it. Each fence buys certain goods: Yasmani in Little Cuba takes marked bills and jewelry, Tyrone and Dunk buy narcotics, and Moses and Randy take stolen cars.",
+      "facts": [
+        {
+          "label": "Marked bills",
+          "value": "Yasmani (needs the Dye Pack Jammer)"
+        },
+        {
+          "label": "Narcotics",
+          "value": "Tyrone, Dunk"
+        },
+        {
+          "label": "Cars",
+          "value": "Moses, Randy, Pay 'n' Spray"
+        }
+      ],
+      "tags": [
+        "Money"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-race-challenges",
+      "section": "activities",
+      "category": "Sports",
+      "name": "Race Challenges",
+      "subtitle": "Medal challenges on the race tracks",
+      "body": "Timed race challenges with gold medals to chase. They are separate from the unique street races.",
+      "facts": [
+        {
+          "label": "Total",
+          "value": "13"
+        },
+        {
+          "label": "For 100%",
+          "value": "10 gold medals"
+        }
+      ],
+      "tags": [
+        "100%"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-king-gator-adventure-golf",
+      "section": "places",
+      "category": "Activity hub",
+      "name": "King Gator Adventure Golf",
+      "subtitle": "Gator-themed mini golf course",
+      "body": "A putt-putt course built around a giant gator theme. Counts toward the mini golf part of 100% completion.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Mini golf"
+        },
+        {
+          "label": "Counts for 100%",
+          "value": "Yes, 2 of 3 courses needed"
+        }
+      ],
+      "tags": [
+        "Mini golf"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-frontier-adventure-golf",
+      "section": "places",
+      "category": "Activity hub",
+      "name": "Frontier Adventure Golf",
+      "subtitle": "Mini golf course",
+      "body": "One of Leonida's three mini golf courses. Counts toward the mini golf part of 100% completion.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Mini golf"
+        },
+        {
+          "label": "Counts for 100%",
+          "value": "Yes, 2 of 3 courses needed"
+        }
+      ],
+      "tags": [
+        "Mini golf"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-dino-golf-challenge",
+      "section": "places",
+      "category": "Activity hub",
+      "name": "Dino Golf Challenge",
+      "subtitle": "Mini golf course",
+      "body": "One of three putt-putt courses in the state. Counts toward the mini golf part of 100% completion.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Mini golf"
+        },
+        {
+          "label": "Counts for 100%",
+          "value": "Yes, 2 of 3 courses needed"
+        }
+      ],
+      "tags": [
+        "Mini golf"
+      ],
       "spoiler": false
     }
   ]
