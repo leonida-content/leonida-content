@@ -1,5 +1,5 @@
 {
-  "version": 42,
+  "version": 43,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -10309,6 +10309,346 @@
         }
       ],
       "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-properties-mitchell-auto-center",
+      "section": "properties",
+      "category": "Garage",
+      "name": "Mitchell Auto Center",
+      "subtitle": "Cheapest garage you can buy",
+      "body": "One of eight garages you can buy from your phone. Each parking spot lets you register one more vehicle. Buying all eight unlocks the *Little Boxes* trophy.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$4,000"
+        },
+        {
+          "label": "How to buy",
+          "value": "Vice City Real Estate app (unlocked after Chapter 2's Daily Driver)"
+        }
+      ],
+      "tags": [
+        "Garage"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-properties-persistence-road-garage",
+      "section": "properties",
+      "category": "Garage",
+      "name": "Persistence Road Garage",
+      "subtitle": "Budget garage on the phone app",
+      "body": "One of eight garages you can buy from your phone. Each parking spot lets you register one more vehicle. Buying all eight unlocks the *Little Boxes* trophy.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$7,600"
+        },
+        {
+          "label": "How to buy",
+          "value": "Vice City Real Estate app (unlocked after Chapter 2's Daily Driver)"
+        }
+      ],
+      "tags": [
+        "Garage"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-properties-7th-avenue-garage",
+      "section": "properties",
+      "category": "Garage",
+      "name": "7th Avenue Garage",
+      "subtitle": "Purchasable garage",
+      "body": "One of eight garages you can buy from your phone. Each parking spot lets you register one more vehicle. Buying all eight unlocks the *Little Boxes* trophy.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$12,000"
+        },
+        {
+          "label": "How to buy",
+          "value": "Vice City Real Estate app (unlocked after Chapter 2's Daily Driver)"
+        }
+      ],
+      "tags": [
+        "Garage"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-properties-store-n-bolt",
+      "section": "properties",
+      "category": "Garage",
+      "name": "Store N' Bolt",
+      "subtitle": "Purchasable garage",
+      "body": "One of eight garages you can buy from your phone. Each parking spot lets you register one more vehicle. Buying all eight unlocks the *Little Boxes* trophy.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$16,800"
+        },
+        {
+          "label": "How to buy",
+          "value": "Vice City Real Estate app (unlocked after Chapter 2's Daily Driver)"
+        }
+      ],
+      "tags": [
+        "Garage"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-properties-wyatt-motors",
+      "section": "properties",
+      "category": "Garage",
+      "name": "Wyatt Motors",
+      "subtitle": "Purchasable garage",
+      "body": "One of eight garages you can buy from your phone. Each parking spot lets you register one more vehicle. Buying all eight unlocks the *Little Boxes* trophy.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$21,600"
+        },
+        {
+          "label": "How to buy",
+          "value": "Vice City Real Estate app (unlocked after Chapter 2's Daily Driver)"
+        }
+      ],
+      "tags": [
+        "Garage"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-properties-vela-rota-drive-garage",
+      "section": "properties",
+      "category": "Garage",
+      "name": "Vela Rota Drive Garage",
+      "subtitle": "Purchasable garage",
+      "body": "One of eight garages you can buy from your phone. Each parking spot lets you register one more vehicle. Buying all eight unlocks the *Little Boxes* trophy.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$24,000"
+        },
+        {
+          "label": "How to buy",
+          "value": "Vice City Real Estate app (unlocked after Chapter 2's Daily Driver)"
+        }
+      ],
+      "tags": [
+        "Garage"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-properties-bonita-court-garage",
+      "section": "properties",
+      "category": "Garage",
+      "name": "Bonita Court Garage",
+      "subtitle": "Purchasable garage",
+      "body": "One of eight garages you can buy from your phone. Each parking spot lets you register one more vehicle. Buying all eight unlocks the *Little Boxes* trophy.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$34,000"
+        },
+        {
+          "label": "How to buy",
+          "value": "Vice City Real Estate app (unlocked after Chapter 2's Daily Driver)"
+        }
+      ],
+      "tags": [
+        "Garage"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-properties-atlantic-court-garage",
+      "section": "properties",
+      "category": "Garage",
+      "name": "Atlantic Court Garage",
+      "subtitle": "Priciest garage on the app",
+      "body": "One of eight garages you can buy from your phone. Each parking spot lets you register one more vehicle. Buying all eight unlocks the *Little Boxes* trophy.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$40,000"
+        },
+        {
+          "label": "How to buy",
+          "value": "Vice City Real Estate app (unlocked after Chapter 2's Daily Driver)"
+        },
+        {
+          "label": "Parking spots",
+          "value": "1"
+        }
+      ],
+      "tags": [
+        "Garage"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-properties-port-gellhorn-station-garage",
+      "section": "properties",
+      "category": "Garage",
+      "name": "Port Gellhorn Station Garage",
+      "subtitle": "Your first free garage",
+      "body": "Given to you for free as the story moves on, so don't count it against your budget. Each spot holds one registered vehicle.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "Free (story reward)"
+        },
+        {
+          "label": "Unlock",
+          "value": "Finish Daily Driver (Chapter 2)"
+        }
+      ],
+      "tags": [
+        "Garage",
+        "Story reward"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-properties-thompson-court-garage",
+      "section": "properties",
+      "category": "Garage",
+      "name": "Thompson Court Garage",
+      "subtitle": "Free two-car garage",
+      "body": "Given to you for free as the story moves on, so don't count it against your budget. Each spot holds one registered vehicle.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "Free (story reward)"
+        },
+        {
+          "label": "Unlock",
+          "value": "Finish Company Cars (Chapter 4)"
+        },
+        {
+          "label": "Parking spots",
+          "value": "2"
+        }
+      ],
+      "tags": [
+        "Garage",
+        "Story reward"
+      ],
+      "spoiler": true
+    },
+    {
+      "id": "db-properties-ne-15th-street-garage",
+      "section": "properties",
+      "category": "Garage",
+      "name": "NE 15th Street Garage",
+      "subtitle": "Late-story two-car garage",
+      "body": "Given to you for free as the story moves on, so don't count it against your budget. Each spot holds one registered vehicle.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "Free (story reward)"
+        },
+        {
+          "label": "Unlock",
+          "value": "Finish Operation Savage Glory"
+        },
+        {
+          "label": "Parking spots",
+          "value": "2"
+        }
+      ],
+      "tags": [
+        "Garage",
+        "Story reward"
+      ],
+      "spoiler": true
+    },
+    {
+      "id": "db-properties-pegassi-residences-garage",
+      "section": "properties",
+      "category": "Garage",
+      "name": "Pegassi Residences Garage",
+      "subtitle": "Biggest free garage",
+      "body": "Given to you for free as the story moves on, so don't count it against your budget. Each spot holds one registered vehicle.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "Free (story reward)"
+        },
+        {
+          "label": "Unlock",
+          "value": "Finish Operation Savage Glory"
+        },
+        {
+          "label": "Parking spots",
+          "value": "3"
+        }
+      ],
+      "tags": [
+        "Garage",
+        "Story reward"
+      ],
+      "spoiler": true
+    },
+    {
+      "id": "db-places-mile-zero-air-station",
+      "section": "places",
+      "category": "Military base",
+      "name": "Mile Zero Air Station",
+      "subtitle": "Leonida's military base, home of the fighter jets",
+      "region": "Mariana County",
+      "body": "A heavily guarded air base on Goose Key in the far south-west, not far from Jason's starting house. Fighter jets, tanks and other military vehicles are parked here. Guards open fire as soon as they spot you and you'll get a wanted level, and stealing a jet brings the military after you. The easiest way in is the **Mile Zero Air Station Southeast** stunt jump: take the southern access road and hit the big dirt ramp at the fence at full speed. Save your game first.",
+      "facts": [
+        {
+          "label": "Where",
+          "value": "Goose Key, south-west corner of the map"
+        },
+        {
+          "label": "Vehicles",
+          "value": "Hauners P-996 Lazer, Hauners Rhino, Hauners APC, Buzzard, Mammoth Patriot, Botticher 015A"
+        },
+        {
+          "label": "Way in",
+          "value": "Mile Zero Air Station Southeast stunt jump"
+        }
+      ],
+      "tags": [
+        "Military",
+        "Aircraft"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-botticher-015a",
+      "section": "vehicles",
+      "category": "Planes",
+      "name": "Botticher 015A",
+      "subtitle": "Military plane parked at Mile Zero",
+      "region": "Mariana County",
+      "body": "A military airplane you can find on the grounds of Mile Zero Air Station. Expect a fight getting to it.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Plane"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Botticher"
+        },
+        {
+          "label": "Where to find",
+          "value": "Mile Zero Air Station, Goose Key"
+        }
+      ],
+      "tags": [
+        "Aircraft",
+        "Military"
+      ],
       "spoiler": false
     }
   ]
