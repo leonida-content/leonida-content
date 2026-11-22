@@ -1,5 +1,5 @@
 {
-  "version": 45,
+  "version": 46,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -11457,6 +11457,379 @@
         {
           "label": "Ammo",
           "value": "5-round magazine"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-leonida-cottonmouth",
+      "section": "wildlife",
+      "category": "Reptile",
+      "name": "Leonida Cottonmouth",
+      "subtitle": "Snake of the coast and marshes",
+      "body": "A dark water snake you'll run into near the shoreline and in wet ground. It's on the hunting list, so a small-caliber rifle keeps the carcass in good shape.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Snake"
+        },
+        {
+          "label": "Habitat",
+          "value": "Coastal areas and wetlands"
+        },
+        {
+          "label": "Huntable",
+          "value": "Yes"
+        }
+      ],
+      "tags": [
+        "hunting"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-eastern-diamondback-rattlesnake",
+      "section": "wildlife",
+      "category": "Reptile",
+      "name": "Eastern Diamondback Rattlesnake",
+      "subtitle": "Leonida's big rattler",
+      "body": "A large rattlesnake that counts as a hunting target. Keep your distance and take it out with a light rifle.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Snake"
+        },
+        {
+          "label": "Huntable",
+          "value": "Yes"
+        }
+      ],
+      "tags": [
+        "hunting"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-blue-axanthic-iguana",
+      "section": "wildlife",
+      "category": "Reptile",
+      "name": "Blue Axanthic Iguana",
+      "subtitle": "Rare blue iguana variant",
+      "body": "A blue-toned take on the common Green Iguana. Look for it in the same kinds of spots: sunny coastlines and around town.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Reptile (color variant)"
+        },
+        {
+          "label": "Habitat",
+          "value": "Coastal and urban areas"
+        },
+        {
+          "label": "Huntable",
+          "value": "Yes"
+        }
+      ],
+      "tags": [
+        "hunting",
+        "rare"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-snapping-turtle",
+      "section": "wildlife",
+      "category": "Reptile",
+      "name": "Snapping Turtle",
+      "subtitle": "Hard-shelled hunting target",
+      "body": "A chunky freshwater turtle that shows up on the hunting list.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Reptile"
+        },
+        {
+          "label": "Huntable",
+          "value": "Yes"
+        }
+      ],
+      "tags": [
+        "hunting"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-northern-coyote",
+      "section": "wildlife",
+      "category": "Mammals",
+      "name": "Northern Coyote",
+      "subtitle": "Wild dog of the backcountry",
+      "body": "A lean wild canine you can hunt out in Leonida's wilder areas.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Land mammal"
+        },
+        {
+          "label": "Huntable",
+          "value": "Yes"
+        }
+      ],
+      "tags": [
+        "hunting"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-eastern-spotted-skunk",
+      "section": "wildlife",
+      "category": "Mammals",
+      "name": "Eastern Spotted Skunk",
+      "subtitle": "Small striped-and-spotted critter",
+      "body": "A little skunk that counts toward hunting. Use a light gun so you don't ruin the carcass.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Land mammal"
+        },
+        {
+          "label": "Huntable",
+          "value": "Yes"
+        }
+      ],
+      "tags": [
+        "hunting"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-leonida-wild-white-tom",
+      "section": "wildlife",
+      "category": "Birds",
+      "name": "Leonida Wild White Tom",
+      "subtitle": "White-feathered wild turkey",
+      "body": "A pale-feathered wild turkey that's listed among the animals you can hunt.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Bird"
+        },
+        {
+          "label": "Huntable",
+          "value": "Yes"
+        }
+      ],
+      "tags": [
+        "hunting"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-bobcat",
+      "section": "wildlife",
+      "category": "Mammals",
+      "name": "Bobcat",
+      "subtitle": "Leonida's small wild cat",
+      "body": "A short-tailed wild cat found in the game's wilder areas. Guides list it as the Leonida Bobcat.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Wild cat"
+        }
+      ],
+      "tags": [
+        "hunting"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-fox",
+      "section": "wildlife",
+      "category": "Mammals",
+      "name": "Fox",
+      "subtitle": "Sly woodland hunter",
+      "body": "Foxes roam Leonida's countryside. Guides list both red and gray foxes.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Land mammal"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-squirrel",
+      "section": "wildlife",
+      "category": "Mammals",
+      "name": "Squirrel",
+      "subtitle": "Tree-hopping critter",
+      "body": "A common small animal you'll spot in parks, yards and woods.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Land mammal"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-otter",
+      "section": "wildlife",
+      "category": "Mammals",
+      "name": "Otter",
+      "subtitle": "Playful river swimmer",
+      "body": "Otters live along Leonida's rivers and wetlands. Grab your binoculars to study one.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Semi-aquatic mammal"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-bald-eagle",
+      "section": "wildlife",
+      "category": "Birds",
+      "name": "Bald Eagle",
+      "subtitle": "Big bird of prey",
+      "body": "A large raptor that's part of Leonida's 60-plus bird species.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Bird of prey"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-seagull",
+      "section": "wildlife",
+      "category": "Birds",
+      "name": "Seagull",
+      "subtitle": "Beach scavenger",
+      "body": "Gulls are everywhere along the beaches and docks.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Bird"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-pigeon",
+      "section": "wildlife",
+      "category": "Birds",
+      "name": "Pigeon",
+      "subtitle": "City regular",
+      "body": "The classic city bird, common around Vice City streets.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Bird"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-shark",
+      "section": "wildlife",
+      "category": "Marine",
+      "name": "Shark",
+      "subtitle": "Open-water predator",
+      "body": "Several shark species swim in Leonida's waters. Watch out when diving offshore.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Marine fish"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-whale",
+      "section": "wildlife",
+      "category": "Marine",
+      "name": "Whale",
+      "subtitle": "Giant of the deep",
+      "body": "Whales can be spotted out at sea.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Marine mammal"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-jellyfish",
+      "section": "wildlife",
+      "category": "Marine",
+      "name": "Jellyfish",
+      "subtitle": "Drifting sea creature",
+      "body": "Jellyfish float in the waters around Leonida. Look for them while swimming or diving.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Marine invertebrate"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-scuba-diving",
+      "section": "activities",
+      "category": "Sports",
+      "name": "Scuba Diving",
+      "subtitle": "Explore under the waves",
+      "body": "Dive below the surface to see reefs and sea life. It ties in with the underwater collectibles and treasure sets.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Water activity"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-kayaking",
+      "section": "activities",
+      "category": "Sports",
+      "name": "Kayaking",
+      "subtitle": "Paddle the coast and swamps",
+      "body": "Hop in a kayak and paddle Leonida's waterways at your own pace.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Water activity"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-base-jumping",
+      "section": "activities",
+      "category": "Sports",
+      "name": "Base Jumping",
+      "subtitle": "Leap off and pull the chute",
+      "body": "Jump from high points and open a parachute on the way down.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Air activity"
         }
       ],
       "tags": [],
