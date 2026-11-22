@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 37,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -7763,6 +7763,549 @@
           "value": "Doug Stanhope"
         }
       ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-pfister-comet-88",
+      "section": "vehicles",
+      "category": "Sports",
+      "name": "Pfister Comet '88",
+      "subtitle": "Late-80s rear-engine sports car",
+      "body": "A boxy, retro sports coupe that's one of the pricier cars to register.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sports"
+        },
+        {
+          "label": "Cost to register",
+          "value": "$34,250"
+        },
+        {
+          "label": "Sells for (stolen)",
+          "value": "$17,050"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-dundreary-chino-65",
+      "section": "vehicles",
+      "category": "Muscle",
+      "name": "Dundreary Chino '65",
+      "subtitle": "Mid-60s cruiser",
+      "body": "A long, low classic that looks best rolling slowly down Ocean Drive.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Muscle"
+        },
+        {
+          "label": "Cost to register",
+          "value": "$17,750"
+        },
+        {
+          "label": "Sells for (stolen)",
+          "value": "$5,335"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-classique-stallion-68",
+      "section": "vehicles",
+      "category": "Muscle",
+      "name": "Classique Stallion '68",
+      "subtitle": "Cheap classic muscle car",
+      "body": "One of the more affordable muscle cars to make your own.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Muscle"
+        },
+        {
+          "label": "Cost to register",
+          "value": "$10,650"
+        },
+        {
+          "label": "Sells for (stolen)",
+          "value": "$3,190"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-bravado-gauntlet-custom-69",
+      "section": "vehicles",
+      "category": "Muscle",
+      "name": "Bravado Gauntlet Custom '69",
+      "subtitle": "Classic Gauntlet with custom styling",
+      "body": "An older take on the Gauntlet with plenty of V8 attitude.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Muscle"
+        },
+        {
+          "label": "Cost to register",
+          "value": "$23,750"
+        },
+        {
+          "label": "Sells for (stolen)",
+          "value": "$7,095"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-vapid-slamvan-56",
+      "section": "vehicles",
+      "category": "Muscle",
+      "name": "Vapid Slamvan '56",
+      "subtitle": "Lowered 50s pickup",
+      "body": "A dropped vintage pickup with a lot of street style.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Muscle"
+        },
+        {
+          "label": "Cost to register",
+          "value": "$17,500"
+        },
+        {
+          "label": "Sells for (stolen)",
+          "value": "$5,225"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-declasse-picador-72",
+      "section": "vehicles",
+      "category": "Muscle",
+      "name": "Declasse Picador '72",
+      "subtitle": "70s coupe-utility",
+      "body": "Half car, half pickup, and one of the cheapest muscle rides to register.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Muscle"
+        },
+        {
+          "label": "Cost to register",
+          "value": "$9,900"
+        },
+        {
+          "label": "Sells for (stolen)",
+          "value": "$2,970"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-imponte-phoenix-77",
+      "section": "vehicles",
+      "category": "Muscle",
+      "name": "Imponte Phoenix '77",
+      "subtitle": "Late-70s muscle coupe",
+      "body": "Players first run into one in the police impound during the Chapter 1 mission \"Unwanted Attention\", where it's hanging off the back of a tow truck.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Muscle"
+        },
+        {
+          "label": "Cost to register",
+          "value": "$11,900"
+        },
+        {
+          "label": "Sells for (stolen)",
+          "value": "$3,575"
+        },
+        {
+          "label": "First seen",
+          "value": "Police impound, mission \"Unwanted Attention\" (Chapter 1)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-pfister-astron",
+      "section": "vehicles",
+      "category": "SUV",
+      "name": "Pfister Astron",
+      "subtitle": "Modern crossover SUV",
+      "body": "A comfortable, practical SUV for everyday driving around Vice City.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "SUV"
+        },
+        {
+          "label": "Cost to register",
+          "value": "$15,500"
+        },
+        {
+          "label": "Sells for (stolen)",
+          "value": "$4,620"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-schlamm-drx",
+      "section": "weapons",
+      "category": "Pistol",
+      "name": "Schlamm DRX",
+      "subtitle": "Gun-store pistol",
+      "body": "A mid-priced sidearm stocked at gun stores.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$2,100"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun stores"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-fairview-kalinga-50",
+      "section": "weapons",
+      "category": "Pistol",
+      "name": "Fairview Kalinga .50",
+      "subtitle": "Heavy .50-caliber pistol",
+      "body": "The store version of the big .50 handgun. Gil's .50 Pistol is a unique variant of it.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$3,100"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun stores"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-adb-pd-90",
+      "section": "weapons",
+      "category": "SMG",
+      "name": "ADB PD-90",
+      "subtitle": "Compact submachine gun",
+      "body": "A fast-firing SMG sold at gun stores.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$3,350"
+        },
+        {
+          "label": "Capacity",
+          "value": "30 rounds"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-adb-fra",
+      "section": "weapons",
+      "category": "Assault Rifles",
+      "name": "ADB FRA",
+      "subtitle": "Battle-style rifle",
+      "body": "A hard-hitting rifle with a smaller magazine. At Big Shots it stays locked until you've bought more guns there.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$2,900"
+        },
+        {
+          "label": "Capacity",
+          "value": "20 rounds"
+        },
+        {
+          "label": "Unlock",
+          "value": "Buy more guns at Big Shots"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-kozlov-kvga-12",
+      "section": "weapons",
+      "category": "Shotguns",
+      "name": "Kozlov KVGA-12",
+      "subtitle": "Automatic shotgun",
+      "body": "A magazine-fed auto shotgun that clears rooms quickly.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$3,650"
+        },
+        {
+          "label": "Capacity",
+          "value": "8 shells"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-hillinger-m306-tmr",
+      "section": "weapons",
+      "category": "Tactical Rifles",
+      "name": "Hillinger M306 TMR",
+      "subtitle": "Marksman-style rifle",
+      "body": "A precise semi-auto rifle you earn by mastering the shooting ranges.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$2,550"
+        },
+        {
+          "label": "Unlock",
+          "value": "Gold medals in all shooting ranges"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-unpacked-comshot-12",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Unpacked Comshot 12",
+      "subtitle": "Free unique shotgun in Key Lento",
+      "body": "A unique version of the Goodwin Comshot 12 that you can pick up for free.",
+      "facts": [
+        {
+          "label": "Capacity",
+          "value": "7 shells"
+        },
+        {
+          "label": "Where to find",
+          "value": "Upstairs bathroom of a small house in Key Lento"
+        }
+      ],
+      "region": "Key Lento",
+      "tags": [
+        "Unique"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-couch-potato-mustang-357",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Couch Potato Mustang .357",
+      "subtitle": "Unique revolver on a hanging couch",
+      "body": "A unique Mustang .357 sitting on a couch strung up in a tree. Shoot it down to grab the gun.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "Port Gellhorn, on a couch hanging from a tree"
+        }
+      ],
+      "region": "Port Gellhorn",
+      "tags": [
+        "Unique"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-rideout-customs",
+      "section": "places",
+      "category": "Garage",
+      "name": "Rideout Customs",
+      "subtitle": "Donk mod shop",
+      "body": "A mod shop for donks, with big custom rims and custom interiors. Ultimate Edition only.",
+      "facts": [
+        {
+          "label": "Specialty",
+          "value": "Donks: custom rims and interiors"
+        },
+        {
+          "label": "Requires",
+          "value": "Ultimate Edition"
+        }
+      ],
+      "region": "Vice-Dale County",
+      "tags": [
+        "Mod shop"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-lowballers-customs",
+      "section": "places",
+      "category": "Garage",
+      "name": "Lowballers Customs",
+      "subtitle": "Lowrider mod shop",
+      "body": "The place to turn a classic into a lowrider.",
+      "facts": [
+        {
+          "label": "Specialty",
+          "value": "Lowriders"
+        }
+      ],
+      "region": "Vice-Dale County",
+      "tags": [
+        "Mod shop"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-vice-vinyl",
+      "section": "places",
+      "category": "Garage",
+      "name": "Vice Vinyl",
+      "subtitle": "Wraps and liveries",
+      "body": "Mod shop focused on custom vinyl wraps and liveries.",
+      "facts": [
+        {
+          "label": "Specialty",
+          "value": "Vinyl wraps and liveries"
+        }
+      ],
+      "region": "Vice-Dale County",
+      "tags": [
+        "Mod shop"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-dirt-merchants",
+      "section": "places",
+      "category": "Garage",
+      "name": "Dirt Merchants",
+      "subtitle": "Dirt bike mod shop",
+      "body": "Upgrades and styling for dirt bikes out in Kelly County.",
+      "facts": [
+        {
+          "label": "Specialty",
+          "value": "Dirt bikes"
+        }
+      ],
+      "region": "Kelly County",
+      "tags": [
+        "Mod shop"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-collectibles-book-swaps",
+      "section": "collectibles",
+      "category": "Collectible",
+      "name": "Book Swaps",
+      "subtitle": "Neighborhood book-swap sheds",
+      "body": "Little book-swap sheds dotted around Leonida's neighborhoods. They count toward the Magazines, Books & Comics total.",
+      "facts": [
+        {
+          "label": "Total",
+          "value": "7"
+        },
+        {
+          "label": "Counts toward",
+          "value": "Magazines, Books & Comics (34 total)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-collectibles-unique-playlists",
+      "section": "collectibles",
+      "category": "Scans",
+      "name": "Unique Playlists",
+      "subtitle": "Hidden audio unlocked by posters",
+      "body": "Scan certain posters around the map to unlock two special playlists for your radio.",
+      "facts": [
+        {
+          "label": "Total",
+          "value": "2"
+        },
+        {
+          "label": "How to unlock",
+          "value": "Scan specific posters"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-animal-studying",
+      "section": "activities",
+      "category": "Activity",
+      "name": "Animal Studying",
+      "subtitle": "Log Leonida's wildlife without hunting",
+      "body": "Get close to an animal, or watch it through binoculars, and hold the prompt until the meter fills. It's then added to your animal logbook in the Progress menu.",
+      "facts": [
+        {
+          "label": "Animals to log",
+          "value": "255"
+        },
+        {
+          "label": "Logbook",
+          "value": "Progress menu"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-green-iguana",
+      "section": "wildlife",
+      "category": "Reptile",
+      "name": "Green Iguana",
+      "subtitle": "Sun-loving lizard",
+      "body": "Often spotted basking in coastal areas and around town.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Reptile"
+        },
+        {
+          "label": "Habitat",
+          "value": "Coastal and urban areas"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-sea-turtle",
+      "section": "wildlife",
+      "category": "Marine",
+      "name": "Sea Turtle",
+      "subtitle": "Reef swimmer in the Keys",
+      "body": "Look for sea turtles around the coral reefs of the Leonida Keys.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Marine reptile"
+        },
+        {
+          "label": "Where to find",
+          "value": "Coral reefs in the Leonida Keys"
+        }
+      ],
+      "region": "Leonida Keys",
       "tags": [],
       "spoiler": false
     }
