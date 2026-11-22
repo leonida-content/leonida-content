@@ -1,5 +1,5 @@
 {
-  "version": 55,
+  "version": 56,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -14707,6 +14707,255 @@
       ],
       "tags": [
         "Work"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-mer-can-outlaw",
+      "section": "vehicles",
+      "category": "Off-road",
+      "name": "Mer-Can Outlaw",
+      "subtitle": "Caged two-seat side-by-side",
+      "body": "A roll-caged buggy built to bounce over dirt trails and mud. It shines off the pavement but runs out of breath at top speed on the highway.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Off-road"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Mer-Can"
+        }
+      ],
+      "tags": [
+        "Off-road",
+        "Two-seater"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-mer-can-blast",
+      "section": "vehicles",
+      "category": "Off-road",
+      "name": "Mer-Can Blast",
+      "subtitle": "Utility side-by-side",
+      "body": "A boxy utility side-by-side built for dirt tracks and rough backcountry ground.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Off-road"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Mer-Can"
+        }
+      ],
+      "tags": [
+        "Off-road"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-bravado-swamp-blaster",
+      "section": "vehicles",
+      "category": "Off-road",
+      "name": "Bravado Swamp Blaster",
+      "subtitle": "Tall-tired swamp buggy",
+      "body": "A high-riding swamp buggy on oversized tires, a Leonida-flavored take on the classic Florida-style marsh buggy.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Off-road"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Bravado"
+        }
+      ],
+      "tags": [
+        "Off-road",
+        "Swamp"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-vapid-reclaimer",
+      "section": "vehicles",
+      "category": "Pickup",
+      "name": "Vapid Reclaimer",
+      "subtitle": "Mid-size off-road pickup",
+      "body": "A modern mid-size Vapid pickup that is at home on gravel and dirt roads. A '70s-style Reclaimer is listed as a separate vehicle.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Pickup / Off-road"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Vapid"
+        }
+      ],
+      "tags": [
+        "Pickup",
+        "Off-road"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-vapid-montagne-pickup",
+      "section": "vehicles",
+      "category": "Pickup",
+      "name": "Vapid Montagne Pickup",
+      "subtitle": "Open-bed version of the Montagne",
+      "body": "The Montagne with a short open bed in the back, an everyday truck that can also handle rough ground.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Pickup / Off-road"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Vapid"
+        }
+      ],
+      "tags": [
+        "Pickup"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-vapid-sandking-xl",
+      "section": "vehicles",
+      "category": "Pickup",
+      "name": "Vapid Sandking XL",
+      "subtitle": "Lifted heavy-duty crew-cab truck",
+      "body": "A huge lifted four-door pickup on chunky tires, built for trails and climbing.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Pickup / Off-road"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Vapid"
+        }
+      ],
+      "tags": [
+        "Pickup",
+        "Off-road",
+        "Heavy"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-benefactor-xls",
+      "section": "vehicles",
+      "category": "SUV",
+      "name": "Benefactor XLS",
+      "subtitle": "Large luxury SUV",
+      "body": "A big Benefactor luxury SUV with room for the whole crew.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "SUV"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Benefactor"
+        }
+      ],
+      "tags": [
+        "Luxury"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-declasse-tulip-m-100",
+      "section": "vehicles",
+      "category": "Muscle",
+      "name": "Declasse Tulip M-100",
+      "subtitle": "Four-door late-'70s muscle car",
+      "body": "A newer, four-door take on the Tulip, separate from the '72 two-door. One was shown in bright magenta in the first trailer.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Muscle"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Declasse"
+        }
+      ],
+      "tags": [
+        "Muscle",
+        "Classic"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-nagasaki-tao",
+      "section": "vehicles",
+      "category": "Boat",
+      "name": "Nagasaki Tao",
+      "subtitle": "Sporty bowrider boat",
+      "body": "A small open-bow sport boat from Nagasaki, suited to cruising the coast and waterways.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Boat"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Nagasaki"
+        }
+      ],
+      "tags": [
+        "Boat"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-calder-yakuruna",
+      "section": "vehicles",
+      "category": "Boat",
+      "name": "Calder Yakuruna",
+      "subtitle": "Luxury motor yacht",
+      "body": "A long, sleek luxury yacht from Calder, best enjoyed out on open water.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Boat / Yacht"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Calder"
+        }
+      ],
+      "tags": [
+        "Boat",
+        "Luxury"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-calder-shasa",
+      "section": "vehicles",
+      "category": "Boat",
+      "name": "Calder Shasa",
+      "subtitle": "Mid-size cabin cruiser",
+      "body": "A mid-size Calder cabin cruiser, a step up in size from the small speedboats.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Boat"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Calder"
+        }
+      ],
+      "tags": [
+        "Boat"
       ],
       "spoiler": false
     }
