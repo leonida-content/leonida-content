@@ -1,5 +1,5 @@
 {
-  "version": 47,
+  "version": 48,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -12319,6 +12319,290 @@
         {
           "label": "Where to buy",
           "value": "Rodgers Ranch shop"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-obey-8f-drafter",
+      "section": "vehicles",
+      "category": "Sports",
+      "name": "Obey 8F Drafter",
+      "subtitle": "Returning Obey sports coupe",
+      "body": "A two-door Obey sports car back from earlier GTA games. Steal one and register it at a Pay 'n' Spray to keep it.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sports"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-canis-kamacho",
+      "section": "vehicles",
+      "category": "Off-road",
+      "name": "Canis Kamacho",
+      "subtitle": "Rugged Canis off-road pickup",
+      "body": "A lifted Canis pickup built for dirt trails and swamp roads rather than the highway.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Off-road"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-vapid-sandking-xt",
+      "section": "vehicles",
+      "category": "Off-road",
+      "name": "Vapid Sandking XT",
+      "subtitle": "Big-wheeled Vapid off-roader",
+      "body": "Vapid's oversized off-road truck, handy for rough terrain away from the city.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Off-road"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-the-vault",
+      "section": "places",
+      "category": "Club",
+      "name": "The Vault",
+      "subtitle": "Downtown Vice City nightclub",
+      "body": "A big dance club in Downtown Vice City, one of the main nightlife spots in the city.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Nightclub"
+        },
+        {
+          "label": "Area",
+          "value": "Downtown Vice City"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-places-effluvia",
+      "section": "places",
+      "category": "Bar",
+      "name": "Effluvia",
+      "subtitle": "Rooftop bar in Vice Beach",
+      "body": "An upscale rooftop bar with a terrace looking out over the city.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Rooftop bar"
+        },
+        {
+          "label": "Area",
+          "value": "Vice Beach"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Vice Beach"
+    },
+    {
+      "id": "db-places-gellhorn-international-raceway",
+      "section": "places",
+      "category": "Landmark",
+      "name": "Gellhorn International Raceway",
+      "subtitle": "Leonida's asphalt race circuit",
+      "body": "A full road course used for lap races, with a layout that borrows corners inspired by famous real-world tracks.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Road course"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-sara-s-unisex-salon",
+      "section": "places",
+      "category": "Shop",
+      "name": "Sara's Unisex Salon",
+      "subtitle": "Hair salon for a new look",
+      "body": "A hair salon where you can change your character's hairstyle.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Hair salon"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-pawn-gun-crosstown",
+      "section": "places",
+      "category": "Gun store",
+      "name": "Pawn & Gun (Crosstown)",
+      "subtitle": "Gun shop in Crosstown",
+      "body": "One of Leonida's independent gun stores, an alternative to Ammu-Nation for weapons and ammo.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Gun store"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Crosstown, Vice City"
+    },
+    {
+      "id": "db-places-pawn-gun-port-gellhorn",
+      "section": "places",
+      "category": "Gun store",
+      "name": "Pawn & Gun (Port Gellhorn)",
+      "subtitle": "Gun shop in Port Gellhorn",
+      "body": "One of Leonida's independent gun stores, an alternative to Ammu-Nation for weapons and ammo.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Gun store"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Port Gellhorn"
+    },
+    {
+      "id": "db-places-barrage-gun-supply",
+      "section": "places",
+      "category": "Gun store",
+      "name": "Barrage Gun Supply",
+      "subtitle": "Gun shop on the Leonida map",
+      "body": "One of Leonida's independent gun stores, an alternative to Ammu-Nation for weapons and ammo.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Gun store"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-biff-s-gun-supply",
+      "section": "places",
+      "category": "Gun store",
+      "name": "Biff's Gun Supply",
+      "subtitle": "Gun shop on the Leonida map",
+      "body": "One of Leonida's independent gun stores, an alternative to Ammu-Nation for weapons and ammo.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Gun store"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-guns-aplenty",
+      "section": "places",
+      "category": "Gun store",
+      "name": "Guns Aplenty!",
+      "subtitle": "Gun shop on the Leonida map",
+      "body": "One of Leonida's independent gun stores, an alternative to Ammu-Nation for weapons and ammo.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Gun store"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-jackson-firearms",
+      "section": "places",
+      "category": "Gun store",
+      "name": "Jackson Firearms",
+      "subtitle": "Gun shop on the Leonida map",
+      "body": "One of Leonida's independent gun stores, an alternative to Ammu-Nation for weapons and ammo.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Gun store"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-quickscope",
+      "section": "places",
+      "category": "Gun store",
+      "name": "Quickscope",
+      "subtitle": "Gun shop on the Leonida map",
+      "body": "One of Leonida's independent gun stores, an alternative to Ammu-Nation for weapons and ammo.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Gun store"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-tactical-outlet-guns",
+      "section": "places",
+      "category": "Gun store",
+      "name": "Tactical Outlet Guns",
+      "subtitle": "Gun shop on the Leonida map",
+      "body": "One of Leonida's independent gun stores, an alternative to Ammu-Nation for weapons and ammo.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Gun store"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-tequesta-guns-ammo",
+      "section": "places",
+      "category": "Gun store",
+      "name": "Tequesta Guns & Ammo",
+      "subtitle": "Gun shop on the Leonida map",
+      "body": "One of Leonida's independent gun stores, an alternative to Ammu-Nation for weapons and ammo.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Gun store"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-zenon-s-pawn-shop",
+      "section": "places",
+      "category": "Gun store",
+      "name": "Zenon's Pawn Shop",
+      "subtitle": "Gun shop on the Leonida map",
+      "body": "One of Leonida's independent gun stores, an alternative to Ammu-Nation for weapons and ammo.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Gun store"
         }
       ],
       "tags": [],
