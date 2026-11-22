@@ -1,5 +1,5 @@
 {
-  "version": 37,
+  "version": 38,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -8306,6 +8306,345 @@
         }
       ],
       "region": "Leonida Keys",
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-pegassi-tempesta",
+      "section": "vehicles",
+      "category": "Wish List car",
+      "name": "Pegassi Tempesta",
+      "subtitle": "Wish List car from a repo street event",
+      "body": "This one shows up during a street event in Vice City: the car is already on a tow truck while its owner argues with the repo driver. Scare the owner off, then free the car from the flatbed.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "NE 3rd St, Vice City (random tow-truck event)"
+        },
+        {
+          "label": "Seen around",
+          "value": "1 PM"
+        },
+        {
+          "label": "How to get",
+          "value": "Threaten the owner, then take the car off the tow truck"
+        },
+        {
+          "label": "Deliver to",
+          "value": "Randy at Leonida Auto World"
+        }
+      ],
+      "region": "Vice City",
+      "tags": [
+        "Randy's Wish List"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-pegassi-infernus",
+      "section": "vehicles",
+      "category": "Wish List car",
+      "name": "Pegassi Infernus",
+      "subtitle": "Wish List car in a police parking garage",
+      "body": "Parked high up inside the Crosstown Police Station garage. Slip in when the gate opens for a patrol car and head to level 7.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "Crosstown Police Station garage, NW 9th St, Vice City (level 7)"
+        },
+        {
+          "label": "How to get",
+          "value": "Key Cloner"
+        },
+        {
+          "label": "Tracker",
+          "value": "Yes, lose the heat before delivering"
+        },
+        {
+          "label": "Deliver to",
+          "value": "Randy at Leonida Auto World"
+        }
+      ],
+      "region": "Vice City",
+      "tags": [
+        "Randy's Wish List"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-pegassi-vitello",
+      "section": "vehicles",
+      "category": "Wish List car",
+      "name": "Pegassi Vitello",
+      "subtitle": "Wish List car in a Waning Sands villa",
+      "body": "Kept in a villa garage east of Belville. Get over the fence (or blow the main gate) and use the garage closest to the house.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "Villa off Flamingo Pkwy, Waning Sands, east of Belville (Leonard County)"
+        },
+        {
+          "label": "How to get",
+          "value": "Key Cloner; explosives on the gate are optional"
+        },
+        {
+          "label": "Deliver to",
+          "value": "Randy at Leonida Auto World"
+        }
+      ],
+      "region": "Leonard County",
+      "tags": [
+        "Randy's Wish List"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-ascot-paragon",
+      "section": "vehicles",
+      "category": "Wish List car",
+      "name": "Ascot Paragon",
+      "subtitle": "Wish List car outside a beach bar",
+      "body": "Sits out front of the Banana Hole bar in the evening, with no guards or fences in the way.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "Banana Hole Main Bar, Shore Dr, Ocean Beach"
+        },
+        {
+          "label": "Seen around",
+          "value": "6 PM"
+        },
+        {
+          "label": "How to get",
+          "value": "Key Cloner"
+        },
+        {
+          "label": "Tracker",
+          "value": "Yes, lose the heat before delivering"
+        },
+        {
+          "label": "Deliver to",
+          "value": "Randy at Leonida Auto World"
+        }
+      ],
+      "region": "Vice Beach",
+      "tags": [
+        "Randy's Wish List"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-piccia-furia",
+      "section": "vehicles",
+      "category": "Wish List car",
+      "name": "Piccia Furia",
+      "subtitle": "Wish List car in a Peacock Estates garage",
+      "body": "Skip the front gate of this Peacock Estates villa and hop the hedge on the left side to reach the garage.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "Villa on Palladia Ln, Peacock Estates, Peacock Bay"
+        },
+        {
+          "label": "How to get",
+          "value": "Key Cloner"
+        },
+        {
+          "label": "Deliver to",
+          "value": "Randy at Leonida Auto World"
+        }
+      ],
+      "region": "Vice City",
+      "tags": [
+        "Randy's Wish List"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-pegassi-toros",
+      "section": "vehicles",
+      "category": "Wish List car",
+      "name": "Pegassi Toros",
+      "subtitle": "Wish List car at Pegassi Residences",
+      "body": "Parked in front of the Pegassi Residences building in the early evening. Guards hang around, so move quietly.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "Pegassi Residences, Bayside Dr, Tequesta Retreat"
+        },
+        {
+          "label": "Seen around",
+          "value": "6:30 PM"
+        },
+        {
+          "label": "How to get",
+          "value": "Key Cloner"
+        },
+        {
+          "label": "Deliver to",
+          "value": "Randy at Leonida Auto World"
+        }
+      ],
+      "region": "Vice City",
+      "tags": [
+        "Randy's Wish List"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-pfister-growler",
+      "section": "vehicles",
+      "category": "Wish List car",
+      "name": "Pfister Growler",
+      "subtitle": "Wish List car in an Ocean Beach car park",
+      "body": "Look inside the multistorey car park on Fig Street in the late afternoon.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "Multistorey car park, Fig St, Ocean Beach"
+        },
+        {
+          "label": "Seen around",
+          "value": "5 PM"
+        },
+        {
+          "label": "How to get",
+          "value": "Key Cloner"
+        },
+        {
+          "label": "Deliver to",
+          "value": "Randy at Leonida Auto World"
+        }
+      ],
+      "region": "Vice Beach",
+      "tags": [
+        "Randy's Wish List"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-american-crocodile",
+      "section": "wildlife",
+      "category": "Reptile",
+      "name": "American Crocodile",
+      "subtitle": "Saltwater cousin of the gator",
+      "body": "Unlike alligators, crocodiles prefer salty water. Watch the coastline in Leonida's warmer, tropical areas. It can be hunted, so bring a strong rifle.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Reptile"
+        },
+        {
+          "label": "Habitat",
+          "value": "Coastal salt water"
+        },
+        {
+          "label": "Huntable",
+          "value": "Yes"
+        }
+      ],
+      "tags": [
+        "Hunting"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-eastern-cottontail-rabbit",
+      "section": "wildlife",
+      "category": "Mammals",
+      "name": "Eastern Cottontail Rabbit",
+      "subtitle": "Small game for hunters",
+      "body": "A small, fast rabbit that counts as huntable game. Use a light rifle so you don't ruin the pelt.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Mammal"
+        },
+        {
+          "label": "Huntable",
+          "value": "Yes"
+        }
+      ],
+      "tags": [
+        "Hunting"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-mottled-duck",
+      "section": "wildlife",
+      "category": "Birds",
+      "name": "Mottled Duck",
+      "subtitle": "Wetland duck",
+      "body": "A brown dabbling duck that paddles around Leonida's marshes and wetlands.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Bird"
+        },
+        {
+          "label": "Habitat",
+          "value": "Wetlands"
+        }
+      ],
+      "tags": [
+        "Bird"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-great-blue-heron",
+      "section": "wildlife",
+      "category": "Birds",
+      "name": "Great Blue Heron",
+      "subtitle": "Tall wading bird",
+      "body": "A tall, gray-blue wader. Scan shallow water with binoculars to spot one standing still while it fishes.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Bird"
+        }
+      ],
+      "tags": [
+        "Bird"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-great-egret",
+      "section": "wildlife",
+      "category": "Birds",
+      "name": "Great Egret",
+      "subtitle": "White wading bird",
+      "body": "A large, bright white wader that's easy to pick out against swamp greenery.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Bird"
+        }
+      ],
+      "tags": [
+        "Bird"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-bottlenose-dolphin",
+      "section": "wildlife",
+      "category": "Marine",
+      "name": "Bottlenose Dolphin",
+      "subtitle": "Open-water swimmer",
+      "body": "Head out on a boat to find dolphins swimming in the open sea off Leonida's coast.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Marine mammal"
+        },
+        {
+          "label": "Where to find",
+          "value": "Open sea, by boat"
+        }
+      ],
       "tags": [],
       "spoiler": false
     }
