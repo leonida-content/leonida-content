@@ -1,5 +1,5 @@
 {
-  "version": 54,
+  "version": 55,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -14533,6 +14533,182 @@
       ],
       "spoiler": false,
       "region": "Vice City"
+    },
+    {
+      "id": "db-vehicles-emperor-vectre",
+      "section": "vehicles",
+      "category": "Sports",
+      "name": "Emperor Vectre",
+      "subtitle": "Sleek Emperor sports coupe",
+      "body": "A modern two-door sports car from Emperor, spotted on Leonida's roads.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sports"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-western-zombie-chopper",
+      "section": "vehicles",
+      "category": "Motorcycle",
+      "name": "Western Zombie Chopper",
+      "subtitle": "Long-fork custom chopper",
+      "body": "A stretched custom chopper from Western, built for cruising rather than cornering.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Motorcycle"
+        }
+      ],
+      "tags": [
+        "Chopper"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-buckingham-nimbus",
+      "section": "vehicles",
+      "category": "Plane",
+      "name": "Buckingham Nimbus",
+      "subtitle": "Business jet",
+      "body": "A private business jet from Buckingham, suited to quick trips across the state.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Plane"
+        }
+      ],
+      "tags": [
+        "Jet"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-vapid-liberator",
+      "section": "vehicles",
+      "category": "Off-Road",
+      "name": "Vapid Liberator",
+      "subtitle": "Big-wheeled off-roader",
+      "body": "A tall, oversized-tire off-roader from Vapid that climbs over almost anything.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Off-Road"
+        }
+      ],
+      "tags": [
+        "4x4"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-karin-intruder",
+      "section": "vehicles",
+      "category": "Sedan",
+      "name": "Karin Intruder",
+      "subtitle": "Everyday four-door sedan",
+      "body": "A plain, practical Karin sedan that blends into traffic.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sedan"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-declasse-bobcat-xl",
+      "section": "vehicles",
+      "category": "Van",
+      "name": "Declasse Bobcat XL",
+      "subtitle": "Work pickup",
+      "body": "A rugged utility pickup from Declasse, common on job sites and back roads.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Van"
+        }
+      ],
+      "tags": [
+        "Work"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-declasse-burrito",
+      "section": "vehicles",
+      "category": "Van",
+      "name": "Declasse Burrito",
+      "subtitle": "Classic panel van",
+      "body": "A boxy Declasse van with plenty of room in the back for gear.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Van"
+        }
+      ],
+      "tags": [
+        "Work"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-bravado-youga-classic",
+      "section": "vehicles",
+      "category": "Van",
+      "name": "Bravado Youga Classic",
+      "subtitle": "Retro camper-style van",
+      "body": "An old-school Bravado van with vintage styling.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Van"
+        }
+      ],
+      "tags": [
+        "Classic"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-hvy-mixer",
+      "section": "vehicles",
+      "category": "Industrial",
+      "name": "HVY Mixer",
+      "subtitle": "Cement mixer truck",
+      "body": "A heavy HVY cement mixer, slow but hard to stop once it gets moving.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Industrial"
+        }
+      ],
+      "tags": [
+        "Heavy"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-vapid-benson",
+      "section": "vehicles",
+      "category": "Commercial",
+      "name": "Vapid Benson",
+      "subtitle": "Box delivery truck",
+      "body": "A medium-size Vapid box truck used for deliveries around Leonida.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Commercial"
+        }
+      ],
+      "tags": [
+        "Work"
+      ],
+      "spoiler": false
     }
   ]
 }
