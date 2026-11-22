@@ -1,5 +1,5 @@
 {
-  "version": 39,
+  "version": 40,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -9210,6 +9210,380 @@
         }
       ],
       "region": "Vice-Dale County",
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-principe-alvino-v1",
+      "section": "vehicles",
+      "category": "Motorcycle",
+      "name": "Principe Alvino V1",
+      "subtitle": "Italian superbike",
+      "body": "A nimble modern sport bike built for speed on paved roads. One of the quickest two-wheelers you'll find in Leonida.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Superbike"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-maibatsu-manchez",
+      "section": "vehicles",
+      "category": "Motorcycle",
+      "name": "Maibatsu Manchez",
+      "subtitle": "Off-road dirt bike",
+      "body": "A lightweight dirt bike that handles trails and rough ground far better than tarmac.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Dirt bike"
+        }
+      ],
+      "tags": [
+        "Off-road"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-lcc-avarus",
+      "section": "vehicles",
+      "category": "Motorcycle",
+      "name": "LCC Avarus",
+      "subtitle": "Stripped-back chopper",
+      "body": "A mostly naked custom chopper. It's about style and noise more than raw speed.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Chopper"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-western-sovereign-107",
+      "section": "vehicles",
+      "category": "Motorcycle",
+      "name": "Western Sovereign 107",
+      "subtitle": "Big touring cruiser",
+      "body": "A heavy, comfortable cruiser in the classic American touring style. Police also ride a version of it.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Cruiser / chopper"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-nagasaki-nimbe",
+      "section": "vehicles",
+      "category": "Motorcycle",
+      "name": "Nagasaki Nimbe",
+      "subtitle": "Small city scooter",
+      "body": "A light motor scooter for zipping around town. Slow, but easy to handle in traffic.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Scooter"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-nagasaki-dinghy",
+      "section": "vehicles",
+      "category": "Boat",
+      "name": "Nagasaki Dinghy",
+      "subtitle": "Rigid inflatable boat",
+      "body": "A tough inflatable boat with a solid hull. Handy for getting around the coast and the Keys.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Rigid inflatable boat"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-dinka-marquis",
+      "section": "vehicles",
+      "category": "Boat",
+      "name": "Dinka Marquis",
+      "subtitle": "Sailboat",
+      "body": "A returning GTA sailboat. Relaxing to cruise in, but far from the fastest thing on the water.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Sailboat"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-clarion",
+      "section": "vehicles",
+      "category": "Boat",
+      "name": "Clarion",
+      "subtitle": "Offshore power boat",
+      "body": "A long, fast racing-style power boat made for open water.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Power boat"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-lure-predator-s23",
+      "section": "vehicles",
+      "category": "Boat",
+      "name": "Lure Predator S23",
+      "subtitle": "Fishing bay boat",
+      "body": "A small center-console bay boat, the kind locals take out fishing.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Bay boat"
+        }
+      ],
+      "tags": [
+        "Fishing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-lure-predator-l35p",
+      "section": "vehicles",
+      "category": "Boat",
+      "name": "Lure Predator L35P",
+      "subtitle": "Larger bay boat",
+      "body": "A bigger bay boat from the same maker as the S23. The police use a version of it to patrol the water.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Bay boat"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-nine-banded-armadillo",
+      "section": "wildlife",
+      "category": "Mammals",
+      "name": "Nine-banded Armadillo",
+      "subtitle": "Armored little digger",
+      "body": "A small mammal with a tough banded shell, often seen rooting around in the dirt.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Land mammal"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-rhesus-macaque",
+      "section": "wildlife",
+      "category": "Mammals",
+      "name": "Rhesus Macaque",
+      "subtitle": "Wild monkeys of Leonida",
+      "body": "A troop-living monkey species that has made Leonida home. Expect them to be curious and a little cheeky.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Land mammal"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-raccoon",
+      "section": "wildlife",
+      "category": "Mammals",
+      "name": "Raccoon",
+      "subtitle": "Masked night scavenger",
+      "body": "A common critter around towns, campsites and woods, always looking for scraps.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Land mammal"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-pelican",
+      "section": "wildlife",
+      "category": "Birds",
+      "name": "Pelican",
+      "subtitle": "Big-billed coastal bird",
+      "body": "A large seabird you'll see around docks, beaches and piers.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Bird"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-whooping-crane",
+      "section": "wildlife",
+      "category": "Birds",
+      "name": "Whooping Crane",
+      "subtitle": "Tall white wading bird",
+      "body": "A rare, very tall crane with white feathers and a red crown.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Bird"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-manta-ray",
+      "section": "wildlife",
+      "category": "Marine",
+      "name": "Manta Ray",
+      "subtitle": "Gliding giant of the sea",
+      "body": "A huge flat ray that glides through the water. Worth looking for on dives.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Marine fish"
+        }
+      ],
+      "tags": [
+        "Aquatic"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-cane-toad",
+      "section": "wildlife",
+      "category": "Reptile",
+      "name": "Cane Toad",
+      "subtitle": "Chunky invasive toad",
+      "body": "A big, warty toad found in damp spots. Not exactly cuddly.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Amphibian"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-radio-circoloco-records-radio",
+      "section": "radio",
+      "category": "Dance",
+      "name": "CircoLoco Records Radio",
+      "subtitle": "Club and electronic music",
+      "body": "Dance and electronic tracks from the CircoLoco label crew.",
+      "facts": [
+        {
+          "label": "Genre",
+          "value": "Electronic / dance"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-radio-kaleidoscope-fm",
+      "section": "radio",
+      "category": "Pop",
+      "name": "Kaleidoscope FM",
+      "subtitle": "Offbeat pop from around the world",
+      "body": "An eclectic mix of unusual pop and dance tracks from many countries.",
+      "facts": [
+        {
+          "label": "Genre",
+          "value": "International pop"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-radio-leonida-jazz-radio",
+      "section": "radio",
+      "category": "Jazz",
+      "name": "Leonida Jazz Radio",
+      "subtitle": "Jazz and fusion",
+      "body": "Classic jazz and jazz fusion for late-night drives.",
+      "facts": [
+        {
+          "label": "Genre",
+          "value": "Jazz"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-radio-worldwide-fm",
+      "section": "radio",
+      "category": "Dance",
+      "name": "Worldwide FM",
+      "subtitle": "House and global club sounds",
+      "body": "House, jazz-flavored dance and club music from around the globe.",
+      "facts": [
+        {
+          "label": "Genre",
+          "value": "House / global club"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-radio-wktt",
+      "section": "radio",
+      "category": "Talk",
+      "name": "WKTT",
+      "subtitle": "Talk radio",
+      "body": "A talk and commentary station, no music.",
+      "facts": [
+        {
+          "label": "Genre",
+          "value": "Talk"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-radio-the-wipe",
+      "section": "radio",
+      "category": "Talk",
+      "name": "The Wipe",
+      "subtitle": "Talk radio",
+      "body": "A discussion station with hosts and callers instead of music.",
+      "facts": [
+        {
+          "label": "Genre",
+          "value": "Talk"
+        }
+      ],
       "tags": [],
       "spoiler": false
     }
