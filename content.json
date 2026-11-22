@@ -1,5 +1,5 @@
 {
-  "version": 35,
+  "version": 36,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -2687,7 +2687,8 @@
       "tips": [
         "Dre'Quan calls a couple of in-game days after Ride or Die."
       ],
-      "rewards": "A unique bat"
+      "rewards": "A unique bat",
+      "character": "Lucia"
     },
     {
       "id": "story-bricked-up",
@@ -7222,6 +7223,547 @@
       "tags": [
         "Bird"
       ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-bravado-banshee",
+      "section": "vehicles",
+      "category": "Sports",
+      "name": "Bravado Banshee",
+      "subtitle": "Two-seat sports car",
+      "body": "A low, wide two-seater built for speed. Finish every Combat challenge to unlock a cheat that spawns one.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sports"
+        },
+        {
+          "label": "Spawn cheat unlock",
+          "value": "Complete all Combat challenges"
+        }
+      ],
+      "tags": [
+        "Cheat"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-lapwing-mallard",
+      "section": "vehicles",
+      "category": "Planes",
+      "name": "Lapwing Mallard",
+      "subtitle": "Small single-seat plane",
+      "body": "A tiny one-seat aircraft. A version of it also shows up during the story.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Plane"
+        },
+        {
+          "label": "Seats",
+          "value": "1"
+        },
+        {
+          "label": "Spawn cheat unlock",
+          "value": "Complete 5 Vehicle challenges"
+        }
+      ],
+      "tags": [
+        "Cheat"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-airgator-airboat-09",
+      "section": "vehicles",
+      "category": "Watercraft",
+      "name": "Airgator Airboat 09",
+      "subtitle": "Fan-powered swamp boat",
+      "body": "Skims across shallow swamp water where regular boats struggle.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Watercraft"
+        },
+        {
+          "label": "Spawn cheat unlock",
+          "value": "Complete 5 Survival challenges"
+        }
+      ],
+      "tags": [
+        "Cheat"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-maibatsu-sanchez",
+      "section": "vehicles",
+      "category": "Motorcycle",
+      "name": "Maibatsu Sanchez",
+      "subtitle": "Lightweight dirt bike",
+      "body": "A nimble dirt bike that handles trails and jumps well.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Motorcycle"
+        },
+        {
+          "label": "Spawn cheat unlock",
+          "value": "Complete 5 Criminal challenges"
+        }
+      ],
+      "tags": [
+        "Cheat"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-western-zombie-bobber",
+      "section": "vehicles",
+      "category": "Motorcycle",
+      "name": "Western Zombie Bobber",
+      "subtitle": "Stripped-down bobber motorcycle",
+      "body": "A classic bobber-style bike for cruising.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Motorcycle"
+        },
+        {
+          "label": "Spawn cheat unlock",
+          "value": "Complete all Criminal challenges"
+        }
+      ],
+      "tags": [
+        "Cheat"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-nagasaki-carbon-rs",
+      "section": "vehicles",
+      "category": "Motorcycle",
+      "name": "Nagasaki Carbon RS",
+      "subtitle": "Sport bike",
+      "body": "A fast sport bike. Finish every Exploration challenge to unlock its spawn cheat.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Motorcycle"
+        },
+        {
+          "label": "Spawn cheat unlock",
+          "value": "Complete all Exploration challenges"
+        }
+      ],
+      "tags": [
+        "Cheat"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-tuff-bmx",
+      "section": "vehicles",
+      "category": "Bicycle",
+      "name": "Tuff BMX",
+      "subtitle": "Trick bike",
+      "body": "A small BMX for tricks and short hops.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Bicycle"
+        },
+        {
+          "label": "Spawn cheat unlock",
+          "value": "Complete 5 Fitness challenges"
+        }
+      ],
+      "tags": [
+        "Cheat"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-mason-keen-longshot",
+      "section": "weapons",
+      "category": "Shotguns",
+      "name": "Mason & Keen Longshot",
+      "subtitle": "Break-action double-barrel shotgun",
+      "body": "Two shells, huge damage up close, slow to reload. Some stores make you buy other guns first before it unlocks.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$1,425"
+        },
+        {
+          "label": "Capacity",
+          "value": "2 shells (12-gauge)"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun stores, including Big Shots"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-mason-keen-shortstraw",
+      "section": "weapons",
+      "category": "Shotguns",
+      "name": "Mason & Keen Shortstraw",
+      "subtitle": "Sawed-off double-barrel",
+      "body": "A cut-down Longshot: same punch, quicker to handle, shorter range. It's also the gun the Explosive Shotgun cheat hands you.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$1,625"
+        },
+        {
+          "label": "Capacity",
+          "value": "2 shells (12-gauge)"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun stores, including Big Shots"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-kozlov-kz-59",
+      "section": "weapons",
+      "category": "Assault Rifles",
+      "name": "Kozlov KZ-59",
+      "subtitle": "Classic AK-style rifle",
+      "body": "A dependable assault rifle. Several unique versions turn up during the story and side content.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Assault rifle"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-kozlov-hind",
+      "section": "weapons",
+      "category": "Assault Rifles",
+      "name": "Kozlov Hind",
+      "subtitle": "Assault rifle sold at gun stores",
+      "body": "A Kozlov rifle stocked by gun stores. Prices reported so far don't match, so check in-game.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Assault rifle"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-kingpin-bowling",
+      "section": "places",
+      "category": "Robbery spot",
+      "name": "Kingpin Bowling",
+      "subtitle": "Bowling alley run by a gang",
+      "body": "A bowling alley you can rob in an optional Chapter 2 job. Grab all three valuables and escape for a trophy.",
+      "facts": [
+        {
+          "label": "Mission",
+          "value": "Hit Kingpin Bowling (optional, Chapter 2)"
+        },
+        {
+          "label": "Loot",
+          "value": "Luxury watch, Gutterball Moreland 850 shotgun, safe"
+        },
+        {
+          "label": "Trophy",
+          "value": "Let's Go Bowling"
+        }
+      ],
+      "tags": [],
+      "spoiler": true
+    },
+    {
+      "id": "db-places-big-shots",
+      "section": "places",
+      "category": "Gun store",
+      "name": "Big Shots",
+      "subtitle": "Expanded gun store in Hamlet",
+      "body": "One of the big Expanded stores, so it stocks sniper rifles, launchers and their ammo as well as the usual guns.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Expanded"
+        },
+        {
+          "label": "Area",
+          "value": "Hamlet"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Hamlet"
+    },
+    {
+      "id": "db-places-woodhatch",
+      "section": "places",
+      "category": "Gun store",
+      "name": "Woodhatch",
+      "subtitle": "Expanded gun store",
+      "body": "An Expanded store with the full range, including snipers and launchers.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Expanded"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-prestige-firearms",
+      "section": "places",
+      "category": "Gun store",
+      "name": "Prestige Firearms",
+      "subtitle": "Expanded gun store",
+      "body": "Another Expanded store, so you can stock up on heavy weapons and ammo here.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Expanded"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-martez-empenos",
+      "section": "places",
+      "category": "Gun store",
+      "name": "Martez Empeños",
+      "subtitle": "Pawn shop and gun store",
+      "body": "A smaller standard gun store that doubles as a pawn shop.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Standard"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-places-tyrones-apartment",
+      "section": "places",
+      "category": "Fence",
+      "name": "Tyrone's Apartment",
+      "subtitle": "Fence for stolen goods",
+      "body": "Tyrone buys stolen goods and pays cash on the spot.",
+      "facts": [
+        {
+          "label": "Area",
+          "value": "La Perle, Vice City"
+        },
+        {
+          "label": "Unlock",
+          "value": "Chapter 3"
+        },
+        {
+          "label": "Payment",
+          "value": "Instant"
+        }
+      ],
+      "tags": [],
+      "spoiler": true,
+      "region": "La Perle, Vice City"
+    },
+    {
+      "id": "db-places-yasmanis-shop",
+      "section": "places",
+      "category": "Fence",
+      "name": "Yasmani's Shop",
+      "subtitle": "Fence for stolen goods",
+      "body": "Yasmani buys stolen goods at his shop and pays right away.",
+      "facts": [
+        {
+          "label": "Area",
+          "value": "Little Cuba, Vice City"
+        },
+        {
+          "label": "Unlock",
+          "value": "Boobie Time (Chapter 3)"
+        },
+        {
+          "label": "Payment",
+          "value": "Instant"
+        }
+      ],
+      "tags": [],
+      "spoiler": true,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-places-dunks-trailer",
+      "section": "places",
+      "category": "Fence",
+      "name": "Dunk's Trailer",
+      "subtitle": "Drop-box fence",
+      "body": "Leave stolen goods in the drop box and get paid later.",
+      "facts": [
+        {
+          "label": "Area",
+          "value": "Southern Port Gellhorn"
+        },
+        {
+          "label": "Unlock",
+          "value": "Slam Dunk (Chapter 2)"
+        },
+        {
+          "label": "Payment",
+          "value": "Drop box, paid later"
+        }
+      ],
+      "tags": [],
+      "spoiler": true,
+      "region": "Port Gellhorn"
+    },
+    {
+      "id": "db-places-donnies-trailer",
+      "section": "places",
+      "category": "Fence",
+      "name": "Donnie's Trailer",
+      "subtitle": "Early-game drop-box fence",
+      "body": "Your first place to offload stolen goods. Only around in Chapter 1.",
+      "facts": [
+        {
+          "label": "Area",
+          "value": "Key Lento"
+        },
+        {
+          "label": "Available",
+          "value": "Chapter 1 only"
+        },
+        {
+          "label": "Payment",
+          "value": "Drop box"
+        }
+      ],
+      "tags": [],
+      "spoiler": true,
+      "region": "Key Lento"
+    },
+    {
+      "id": "db-places-brians-lockup",
+      "section": "places",
+      "category": "Fence",
+      "name": "Brian's Lockup",
+      "subtitle": "Drop-box fence (not the marina)",
+      "body": "Brian's drop box for stolen goods. Only available in Chapter 1.",
+      "facts": [
+        {
+          "label": "Area",
+          "value": "Key Lento"
+        },
+        {
+          "label": "Unlock",
+          "value": "Lab Fees (Chapter 1)"
+        },
+        {
+          "label": "Available",
+          "value": "Chapter 1 only"
+        },
+        {
+          "label": "Payment",
+          "value": "Drop box, paid later"
+        }
+      ],
+      "tags": [],
+      "spoiler": true,
+      "region": "Key Lento"
+    },
+    {
+      "id": "db-collectibles-watches",
+      "section": "collectibles",
+      "category": "Collectible",
+      "name": "Watches",
+      "subtitle": "Collectible watches around Leonida",
+      "body": "Track down watches hidden around the map. Collecting them unlocks two time-of-day cheats.",
+      "facts": [
+        {
+          "label": "10 found",
+          "value": "Unlocks Move Time Forward cheat"
+        },
+        {
+          "label": "20 found",
+          "value": "Unlocks Pause Time of Day cheat"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-radio-stockyard-fm",
+      "section": "radio",
+      "category": "Dance",
+      "name": "Stockyard FM",
+      "subtitle": "Upbeat indie dance and house",
+      "body": "Bouncy dance tracks for night drives.",
+      "facts": [
+        {
+          "label": "Genre",
+          "value": "Indie dance / house"
+        },
+        {
+          "label": "Hosts",
+          "value": "The Dare and PinkPantheress"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-radio-honey-fm",
+      "section": "radio",
+      "category": "R&B",
+      "name": "Honey FM",
+      "subtitle": "R&B and soul",
+      "body": "Smooth R&B and soul.",
+      "facts": [
+        {
+          "label": "Genre",
+          "value": "R&B / soul"
+        },
+        {
+          "label": "Hosts",
+          "value": "Chilli and T-Boz"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-radio-emotion-98-3",
+      "section": "radio",
+      "category": "80s",
+      "name": "Emotion 98.3",
+      "subtitle": "80s soft rock and power ballads",
+      "body": "Big choruses and power ballads.",
+      "facts": [
+        {
+          "label": "Genre",
+          "value": "80s soft rock"
+        },
+        {
+          "label": "Host",
+          "value": "Doug Stanhope"
+        }
+      ],
+      "tags": [],
       "spoiler": false
     }
   ]
