@@ -1,5 +1,5 @@
 {
-  "version": 52,
+  "version": 53,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -13872,6 +13872,326 @@
         }
       ],
       "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-albany-buccaneer-custom",
+      "section": "vehicles",
+      "category": "Muscle",
+      "name": "Albany Buccaneer Custom",
+      "subtitle": "Slammed Albany lowrider",
+      "body": "The lowrider take on the Buccaneer, sitting close to the pavement. It shows up in the very first trailer cruising Vice City.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Muscle"
+        },
+        {
+          "label": "Make",
+          "value": "Albany"
+        },
+        {
+          "label": "Type",
+          "value": "Lowrider"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-pfister-comet-retro-custom",
+      "section": "vehicles",
+      "category": "Sports",
+      "name": "Pfister Comet Retro Custom",
+      "subtitle": "Old-school Comet with a custom kit",
+      "body": "A modified classic Comet from Pfister with a retro race look, seen in the first trailer.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sports"
+        },
+        {
+          "label": "Make",
+          "value": "Pfister"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-grotti-cheetah-classic",
+      "section": "vehicles",
+      "category": "Sports Classic",
+      "name": "Grotti Cheetah Classic",
+      "subtitle": "80s-style Grotti sports car",
+      "body": "The older wedge-shaped Cheetah, a different car from the Ultimate Edition '95 Cheetah. Spotted in the first trailer.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sports Classic"
+        },
+        {
+          "label": "Make",
+          "value": "Grotti"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-fcr-1000",
+      "section": "vehicles",
+      "category": "Motorcycle",
+      "name": "FCR 1000",
+      "subtitle": "Retro cafe racer bike",
+      "body": "A stripped-back cafe racer motorcycle with classic styling, seen in the second trailer.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Motorcycle"
+        },
+        {
+          "label": "Type",
+          "value": "Cafe racer"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-airboating",
+      "section": "activities",
+      "category": "Water",
+      "name": "Airboating",
+      "subtitle": "Skim across gator country",
+      "body": "Take an airboat out through the swamps and wetlands. Keep an eye out for alligators and crocodiles along the way.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Water activity"
+        },
+        {
+          "label": "Where",
+          "value": "Swamps and wetlands, like Grassrivers"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-jet-skiing",
+      "section": "activities",
+      "category": "Water",
+      "name": "Jet Skiing",
+      "subtitle": "Race the waves on a jet ski",
+      "body": "Grab a jet ski and tear along the coast, around the marinas or out to the Keys.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Water activity"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-dirt-bike-racing",
+      "section": "activities",
+      "category": "Racing",
+      "name": "Dirt Bike Racing",
+      "subtitle": "Off-road races on two wheels",
+      "body": "Muddy dirt-bike courses run through the backcountry. A race course was shown in Rockstar's Extended Look.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Racing"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-demolition-derby",
+      "section": "activities",
+      "category": "Racing",
+      "name": "Demolition Derby",
+      "subtitle": "Smash cars until one is left",
+      "body": "A crash-heavy event where the last car still running wins.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Racing"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-backyard-wrestling",
+      "section": "activities",
+      "category": "Sports",
+      "name": "Backyard Wrestling",
+      "subtitle": "Homemade ring, real body slams",
+      "body": "Step into a backyard wrestling ring for some over-the-top bouts.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Fighting"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-boxing-fighting",
+      "section": "activities",
+      "category": "Sports",
+      "name": "Boxing & Fighting",
+      "subtitle": "Throw down in organized fights",
+      "body": "Organized fights where you trade punches with opponents for bragging rights.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Fighting"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-nightclubs",
+      "section": "activities",
+      "category": "Leisure",
+      "name": "Nightclubs",
+      "subtitle": "Dance the night away",
+      "body": "Vice City's clubs are open for a night out. You can hit the dance floor and soak up the music.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Nightlife"
+        },
+        {
+          "label": "Where",
+          "value": "Vice City"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-electric-scooters",
+      "section": "activities",
+      "category": "Leisure",
+      "name": "Electric Scooters",
+      "subtitle": "Rent an e-scooter and zip around",
+      "body": "Rental e-scooters are parked around the city. Hop on one for a quick ride between spots.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Getting around"
+        },
+        {
+          "label": "Where",
+          "value": "Vice City streets"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-visiting-the-zoo",
+      "section": "activities",
+      "category": "Leisure",
+      "name": "Visiting the Zoo",
+      "subtitle": "A day out with the animals",
+      "body": "Leonida has a zoo you can wander through.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Leisure"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-watching-tv",
+      "section": "activities",
+      "category": "Leisure",
+      "name": "Watching TV",
+      "subtitle": "Catch in-game shows and ads",
+      "body": "Kick back on the couch and flip through Leonida's TV channels, full of parody shows and commercials.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Leisure"
+        },
+        {
+          "label": "Where",
+          "value": "Safehouses"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-social-media-scrolling",
+      "section": "activities",
+      "category": "Leisure",
+      "name": "Social Media Scrolling",
+      "subtitle": "Doomscroll on your phone",
+      "body": "Open the social feed on your phone and scroll through what Leonida is posting.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Phone"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-ambrosia",
+      "section": "places",
+      "category": "Regions",
+      "name": "Ambrosia",
+      "subtitle": "Industrial town around a sugar refinery",
+      "body": "A working-class industrial area built around a big sugar refinery, the main employer in town. Local biker gangs hold a lot of sway here.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Region"
+        },
+        {
+          "label": "What's there",
+          "value": "Sugar refinery, industrial yards, biker turf"
+        }
+      ],
+      "tags": [
+        "Region"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-grassrivers",
+      "section": "places",
+      "category": "Regions",
+      "name": "Grassrivers",
+      "subtitle": "Wild wetlands full of gators",
+      "body": "Leonida's swampy wetlands, packed with alligators and best explored by airboat.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Region"
+        },
+        {
+          "label": "What's there",
+          "value": "Swamps, wildlife, airboat routes"
+        }
+      ],
+      "tags": [
+        "Region"
+      ],
       "spoiler": false
     }
   ]
