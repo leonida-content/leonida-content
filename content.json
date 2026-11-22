@@ -1,5 +1,5 @@
 {
-  "version": 34,
+  "version": 35,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -3101,7 +3101,8 @@
         "Part of the VCIA Takedown setup chain.",
         "Story missions can't be replayed from the menu, so finish objectives the first time."
       ],
-      "rewards": null
+      "rewards": null,
+      "character": "Either"
     },
     {
       "id": "story-child-s-play",
@@ -3144,7 +3145,8 @@
       "tips": [
         "Both Jason and Lucia are playable here. Hold Right on the D-Pad to switch."
       ],
-      "rewards": null
+      "rewards": null,
+      "character": "Either"
     },
     {
       "id": "story-close-surveillance",
@@ -3234,7 +3236,8 @@
         "Part of the VCIA Takedown setup chain.",
         "Drive carefully on the way back so the truck isn't too damaged for the heist."
       ],
-      "rewards": null
+      "rewards": null,
+      "character": "Either"
     },
     {
       "id": "story-vcia-takedown",
@@ -3258,7 +3261,8 @@
         "Finish all the prep missions first.",
         "Make a manual save before this mission. Story missions can't be replayed."
       ],
-      "rewards": null
+      "rewards": null,
+      "character": "Either"
     },
     {
       "id": "story-sunset",
@@ -3279,7 +3283,8 @@
       "tips": [
         "This is a heavy story mission with very little combat until the end."
       ],
-      "rewards": null
+      "rewards": null,
+      "character": "Either"
     },
     {
       "id": "story-starting-from-zero",
@@ -3302,7 +3307,8 @@
         "Finishing it unlocks the **Top of the World, Ma** trophy.",
         "Make another manual save once Chapter 5 starts."
       ],
-      "rewards": null
+      "rewards": null,
+      "character": "Either"
     },
     {
       "id": "story-bird-in-the-hand",
@@ -3324,7 +3330,8 @@
         "First mission of Chapter 5.",
         "Vinny joins the story here."
       ],
-      "rewards": null
+      "rewards": null,
+      "character": "Either"
     },
     {
       "id": "story-taking-liberties",
@@ -3346,7 +3353,8 @@
         "This one is mostly a story scene, so there's no combat to prepare for.",
         "Make a **manual save** before each Chapter 5 mission, since the finale missions come quickly from here."
       ],
-      "rewards": null
+      "rewards": null,
+      "character": "Either"
     },
     {
       "id": "story-vc-baby",
@@ -3368,7 +3376,8 @@
         "Make a **manual save** before starting. Chapter 5 missions come quickly from here.",
         "Finish this and Doggie Bag to move on to **Operation Savage Glory**."
       ],
-      "rewards": null
+      "rewards": null,
+      "character": "Either"
     },
     {
       "id": "story-doggie-bag",
@@ -3392,7 +3401,8 @@
         "Grabbing Rocco doesn't end the mission. You still have to reach the helicopter and get away.",
         "Rocco's nose is the crew's way to find the rival shipment in the next missions."
       ],
-      "rewards": null
+      "rewards": null,
+      "character": "Either"
     },
     {
       "id": "story-operation-savage-glory",
@@ -3414,7 +3424,8 @@
         "Finishing it unlocks the **Snow Storm** trophy.",
         "Afterwards Giorgio sends Jason and Lucia to meet Abe, which leads into Protective Custody."
       ],
-      "rewards": "Snow Storm trophy"
+      "rewards": "Snow Storm trophy",
+      "character": "Either"
     },
     {
       "id": "story-protective-custody",
@@ -3435,7 +3446,8 @@
       "tips": [
         "Make a manual save in a fresh slot when this one ends. The next mission is the finale, and it decides your ending."
       ],
-      "rewards": null
+      "rewards": null,
+      "character": "Either"
     },
     {
       "id": "story-the-end-of-the-road",
@@ -3459,7 +3471,8 @@
         "**Save in a new slot first.** The bridge choice decides the ending, and you'll want to go back and see the other one.",
         "Finish anything that needs both Jason and Lucia before you start."
       ],
-      "rewards": null
+      "rewards": null,
+      "character": "Either"
     },
     {
       "id": "side-shirley",
@@ -6626,6 +6639,589 @@
         }
       ],
       "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-buckingham-maverick",
+      "section": "vehicles",
+      "category": "Helicopters",
+      "name": "Buckingham Maverick",
+      "subtitle": "An early helicopter you can grab in the Keys",
+      "body": "A civilian helicopter parked on a private dock not far from Jason's house. Great for clearing map fog quickly.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Helicopter"
+        },
+        {
+          "label": "Where to find",
+          "value": "Private dock in Southwind, through the gate by the Sherwin Boatworks and Chicki's Tiki Bar signs, roughly 2.5 miles southwest of Jason's house along Route 1"
+        }
+      ],
+      "tags": [
+        "Aircraft",
+        "Early game"
+      ],
+      "spoiler": false,
+      "region": "Mariana County"
+    },
+    {
+      "id": "db-vehicles-mammoth-dodo",
+      "section": "vehicles",
+      "category": "Planes",
+      "name": "Mammoth Dodo",
+      "subtitle": "Small seaplane that can land on water",
+      "body": "A four-seat seaplane from Mammoth. Because it can set down on water, it's handy for reaching islands and the Keys.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Plane (seaplane)"
+        },
+        {
+          "label": "Seats",
+          "value": "4"
+        }
+      ],
+      "tags": [
+        "Aircraft"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-duster",
+      "section": "vehicles",
+      "category": "Planes",
+      "name": "Duster",
+      "subtitle": "Crop-duster biplane, an easy first plane",
+      "body": "A slow, forgiving crop-duster biplane. It's one of the easiest planes to get early and is a favorite for uncovering the map.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Plane"
+        },
+        {
+          "label": "Where to find",
+          "value": "Airstrip off Boundary Road near Key Lento, close to Jason's house"
+        },
+        {
+          "label": "Available",
+          "value": "Chapter 1, after the mission Gone Fishing"
+        }
+      ],
+      "tags": [
+        "Aircraft",
+        "Early game"
+      ],
+      "spoiler": false,
+      "region": "Mariana County"
+    },
+    {
+      "id": "db-vehicles-hauners-apc",
+      "section": "vehicles",
+      "category": "Military",
+      "name": "Hauners APC",
+      "subtitle": "Armored troop carrier at the air station",
+      "body": "A heavily armored personnel carrier. Expect a big military response if you try to take one.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Military (APC)"
+        },
+        {
+          "label": "Where to find",
+          "value": "Mile Zero Air Station on Goose Key, at the southwest corner of the map"
+        }
+      ],
+      "tags": [
+        "Military"
+      ],
+      "spoiler": false,
+      "region": "Mariana County"
+    },
+    {
+      "id": "db-vehicles-buzzard",
+      "section": "vehicles",
+      "category": "Military",
+      "name": "Buzzard",
+      "subtitle": "Small attack helicopter",
+      "body": "A nimble military attack helicopter kept at the air base.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Helicopter (military)"
+        },
+        {
+          "label": "Where to find",
+          "value": "Mile Zero Air Station, Goose Key"
+        }
+      ],
+      "tags": [
+        "Aircraft",
+        "Military"
+      ],
+      "spoiler": false,
+      "region": "Mariana County"
+    },
+    {
+      "id": "db-vehicles-mammoth-patriot",
+      "section": "vehicles",
+      "category": "Military",
+      "name": "Mammoth Patriot",
+      "subtitle": "Military-spec off-roader",
+      "body": "A big, boxy military truck found at the air base.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Military truck"
+        },
+        {
+          "label": "Where to find",
+          "value": "Mile Zero Air Station, Goose Key"
+        }
+      ],
+      "tags": [
+        "Military"
+      ],
+      "spoiler": false,
+      "region": "Mariana County"
+    },
+    {
+      "id": "db-vehicles-schyster-deviant",
+      "section": "vehicles",
+      "category": "Muscle",
+      "name": "Schyster Deviant",
+      "subtitle": "Muscle car from the classic car collection",
+      "body": "A muscle car tied to the Classic Car Collection side activity.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Muscle"
+        },
+        {
+          "label": "How to get",
+          "value": "Classic Car Collection side mission (Ultimate Edition)"
+        }
+      ],
+      "tags": [
+        "Ultimate Edition"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-fortune-son-moreland-850",
+      "section": "weapons",
+      "category": "Shotguns",
+      "name": "Fortune & Son Moreland 850",
+      "subtitle": "Standard pump-action shotgun",
+      "body": "The basic version of the Moreland pump shotgun. Several shops sell their own variants.",
+      "facts": [
+        {
+          "label": "Category",
+          "value": "Shotgun (pump action)"
+        },
+        {
+          "label": "Price",
+          "value": "$700"
+        },
+        {
+          "label": "Discount",
+          "value": "Half price ($350) during the Chapter 1 mission Gear Up"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Chuck's Tackle & Shot"
+        }
+      ],
+      "tags": [
+        "Gun store"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-hawk-little-mediator",
+      "section": "weapons",
+      "category": "Tactical Rifles",
+      "name": "Hawk & Little Mediator",
+      "subtitle": "Affordable tactical rifle",
+      "body": "A budget tactical rifle that is cheap to pick up early.",
+      "facts": [
+        {
+          "label": "Category",
+          "value": "Tactical rifle"
+        },
+        {
+          "label": "Price",
+          "value": "$900"
+        }
+      ],
+      "tags": [
+        "Gun store"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-mustang-357",
+      "section": "weapons",
+      "category": "Handguns",
+      "name": "Mustang .357",
+      "subtitle": "Hard-hitting Duke revolver",
+      "body": "A powerful .357 revolver made by Duke.",
+      "facts": [
+        {
+          "label": "Category",
+          "value": "Revolver"
+        },
+        {
+          "label": "Price",
+          "value": "$1,800"
+        }
+      ],
+      "tags": [
+        "Gun store"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-vom-feuer-vf-g1",
+      "section": "weapons",
+      "category": "Assault Rifles",
+      "name": "Vom Feuer VF-G1",
+      "subtitle": "Pricey assault rifle",
+      "body": "A full-size assault rifle from Vom Feuer.",
+      "facts": [
+        {
+          "label": "Category",
+          "value": "Assault rifle"
+        },
+        {
+          "label": "Price",
+          "value": "$3,700"
+        }
+      ],
+      "tags": [
+        "Gun store"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-hillinger-heathen",
+      "section": "weapons",
+      "category": "Assault Rifles",
+      "name": "Hillinger Heathen",
+      "subtitle": "Bullpup assault rifle",
+      "body": "A compact bullpup assault rifle from Hillinger.",
+      "facts": [
+        {
+          "label": "Category",
+          "value": "Assault rifle (bullpup)"
+        },
+        {
+          "label": "Price",
+          "value": "$2,450"
+        }
+      ],
+      "tags": [
+        "Gun store"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-key-lento",
+      "section": "places",
+      "category": "Regions",
+      "name": "Key Lento",
+      "subtitle": "The island where the story begins",
+      "body": "Home to Jason's house and a cluster of small shops and bars. It's packed with early collectibles, a book swap and several basketball hoops.",
+      "facts": [
+        {
+          "label": "County",
+          "value": "Mariana County"
+        },
+        {
+          "label": "What's there",
+          "value": "Jason's House, The Rusty Anchor, a dive center and small shops"
+        }
+      ],
+      "tags": [
+        "Region"
+      ],
+      "spoiler": false,
+      "region": "Mariana County"
+    },
+    {
+      "id": "db-places-port-gellhorn",
+      "section": "places",
+      "category": "Regions",
+      "name": "Port Gellhorn",
+      "subtitle": "Run-down old tourist town",
+      "body": "A faded beach town full of empty malls and cheap motels, including the Starlet Motel.",
+      "facts": [
+        {
+          "label": "County",
+          "value": "Kelly County"
+        },
+        {
+          "label": "What's there",
+          "value": "Starlet Motel, Bargain World (with an arcade machine outside), a basketball hoop"
+        }
+      ],
+      "tags": [
+        "Region"
+      ],
+      "spoiler": false,
+      "region": "Kelly County"
+    },
+    {
+      "id": "db-places-mount-kalaga-national-park",
+      "section": "places",
+      "category": "Regions",
+      "name": "Mount Kalaga National Park",
+      "subtitle": "Wild northern parkland",
+      "body": "A big wilderness area on the northern edge of the map with hunting, fishing, kayaking and off-road trails.",
+      "facts": [
+        {
+          "label": "County",
+          "value": "Lummox County"
+        },
+        {
+          "label": "Good for",
+          "value": "Hunting, fishing, kayaking, off-roading"
+        }
+      ],
+      "tags": [
+        "Region",
+        "Outdoors"
+      ],
+      "spoiler": false,
+      "region": "Lummox County"
+    },
+    {
+      "id": "db-places-vice-beach",
+      "section": "places",
+      "category": "Regions",
+      "name": "Vice Beach",
+      "subtitle": "Beachfront district of Vice City",
+      "body": "A large beach district on the east side of Vice City, home to the Leaf Links golf course.",
+      "facts": [
+        {
+          "label": "County",
+          "value": "Vice-Dale County"
+        },
+        {
+          "label": "What's there",
+          "value": "Leaf Links golf course"
+        }
+      ],
+      "tags": [
+        "Region",
+        "Vice City"
+      ],
+      "spoiler": false,
+      "region": "Vice-Dale County"
+    },
+    {
+      "id": "db-places-the-rusty-anchor",
+      "section": "places",
+      "category": "Bars",
+      "name": "The Rusty Anchor",
+      "subtitle": "Dive bar with pool and an arcade game",
+      "body": "A small dive bar on Key Lento. You can play pool here (the opponent isn't always around, so come back later) and play the Bang For Your Buck arcade machine.",
+      "facts": [
+        {
+          "label": "Where",
+          "value": "Key Lento"
+        },
+        {
+          "label": "Activities",
+          "value": "Pool, Bang For Your Buck arcade machine"
+        }
+      ],
+      "tags": [
+        "Pool",
+        "Arcade"
+      ],
+      "spoiler": false,
+      "region": "Mariana County"
+    },
+    {
+      "id": "db-activities-golf",
+      "section": "activities",
+      "category": "Sports",
+      "name": "Golf",
+      "subtitle": "Two full golf courses",
+      "body": "Play a round at either of Leonida's golf courses. Progress shows under Activities > Sports.",
+      "facts": [
+        {
+          "label": "Courses",
+          "value": "Leaf Links (Vice Beach) and Mount Hailes (Waning Sands)"
+        }
+      ],
+      "tags": [
+        "Sports",
+        "100%"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-mini-golf",
+      "section": "activities",
+      "category": "Sports",
+      "name": "Mini Golf",
+      "subtitle": "Three adventure golf courses",
+      "body": "Putt-putt courses dotted around Leonida. You need at least two for 100% completion.",
+      "facts": [
+        {
+          "label": "Total",
+          "value": "3"
+        },
+        {
+          "label": "Needed for 100%",
+          "value": "2"
+        }
+      ],
+      "tags": [
+        "Sports",
+        "100%"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-pool",
+      "section": "activities",
+      "category": "Sports",
+      "name": "Pool",
+      "subtitle": "Beat opponents in bars around Leonida",
+      "body": "Challenge pool players at bars across the state. Some players aren't always there, so check back.",
+      "facts": [
+        {
+          "label": "Opponents",
+          "value": "7"
+        },
+        {
+          "label": "Needed for 100%",
+          "value": "5"
+        },
+        {
+          "label": "Example",
+          "value": "The Rusty Anchor on Key Lento"
+        }
+      ],
+      "tags": [
+        "Sports",
+        "100%"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-video-games",
+      "section": "activities",
+      "category": "Mini-games",
+      "name": "Video Games",
+      "subtitle": "Console and arcade games to play",
+      "body": "Three games run on the JoySystem console at home and one, Bang For Your Buck, is on arcade machines around the map. Play each once for 100%.",
+      "facts": [
+        {
+          "label": "Total",
+          "value": "4"
+        },
+        {
+          "label": "Console games",
+          "value": "Tenebrae Lux, Street Trash III, Time Jackers Rewind"
+        },
+        {
+          "label": "Arcade game",
+          "value": "Bang For Your Buck"
+        },
+        {
+          "label": "Console unlock",
+          "value": "Chapter 1 mission Feng Shui"
+        }
+      ],
+      "tags": [
+        "Mini-game",
+        "100%"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-collectibles-basketball-hoops",
+      "section": "collectibles",
+      "category": "Exploration",
+      "name": "Basketball Hoops",
+      "subtitle": "Sink a shot at hoops across the map",
+      "body": "Find a ball near each hoop and score to log it. They're tracked under Exploration > Basketball Hoops.",
+      "facts": [
+        {
+          "label": "Total",
+          "value": "100"
+        },
+        {
+          "label": "Needed for 100%",
+          "value": "90"
+        }
+      ],
+      "tags": [
+        "100%"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-cougar",
+      "section": "wildlife",
+      "category": "Predators",
+      "name": "Cougar",
+      "subtitle": "Rare, solitary big cat",
+      "body": "Also called the Florida panther. A rare predator found in remote wild areas. Keep your distance.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Big cat (predator)"
+        },
+        {
+          "label": "Where to find",
+          "value": "Mount Kalaga National Park"
+        }
+      ],
+      "tags": [
+        "Predator"
+      ],
+      "spoiler": false,
+      "region": "Lummox County"
+    },
+    {
+      "id": "db-wildlife-manatee",
+      "section": "wildlife",
+      "category": "Marine",
+      "name": "Manatee",
+      "subtitle": "Gentle sea cow of Leonida's waters",
+      "body": "A slow, peaceful marine mammal you can spot in the water around Leonida.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Marine mammal"
+        }
+      ],
+      "tags": [
+        "Aquatic"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-flamingo",
+      "section": "wildlife",
+      "category": "Birds",
+      "name": "Flamingo",
+      "subtitle": "Leonida's famous pink bird",
+      "body": "Pink wading birds found around Leonida's wetlands and shores.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Bird"
+        }
+      ],
+      "tags": [
+        "Bird"
+      ],
       "spoiler": false
     }
   ]
