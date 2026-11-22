@@ -1,5 +1,5 @@
 {
-  "version": 53,
+  "version": 54,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -14193,6 +14193,346 @@
         "Region"
       ],
       "spoiler": false
+    },
+    {
+      "id": "db-characters-real-dimez",
+      "section": "characters",
+      "category": "Supporting",
+      "name": "Real Dimez",
+      "subtitle": "Rap duo Bae-Luxe and Roxy",
+      "body": "Bae-Luxe and Roxy are childhood friends turned rap act, signed to Dre'Quan Priest's label, Only Raw Records.",
+      "facts": [
+        {
+          "label": "Members",
+          "value": "Bae-Luxe and Roxy"
+        },
+        {
+          "label": "Label",
+          "value": "Only Raw Records"
+        }
+      ],
+      "tags": [
+        "Music"
+      ],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-characters-lori-heder",
+      "section": "characters",
+      "category": "Supporting",
+      "name": "Lori Heder",
+      "subtitle": "Brian Heder's wife",
+      "body": "Lori is Brian's third wife and lives with him by his boat yard in the Keys.",
+      "facts": [
+        {
+          "label": "Married to",
+          "value": "Brian Heder"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Leonida Keys"
+    },
+    {
+      "id": "db-characters-shirley",
+      "section": "characters",
+      "category": "Strangers & Freaks",
+      "name": "Shirley",
+      "subtitle": "Jason's neighbor in the Keys",
+      "body": "Shirley lives next to Jason and hands out a couple of small favors early in the story. Do them before Chapter 1 ends or you lose the chance.",
+      "facts": [
+        {
+          "label": "Side jobs",
+          "value": "Get Shirley's Rum, Steal the Scooter"
+        },
+        {
+          "label": "Playable as",
+          "value": "Jason"
+        }
+      ],
+      "tags": [
+        "Missable"
+      ],
+      "spoiler": false,
+      "region": "Leonida Keys"
+    },
+    {
+      "id": "db-characters-kenton",
+      "section": "characters",
+      "category": "Strangers & Freaks",
+      "name": "Kenton",
+      "subtitle": "Pays for sunken treasure",
+      "body": "Kenton runs the dive shop and pays you for each full set of underwater treasure you bring up from the dive sites.",
+      "facts": [
+        {
+          "label": "Activity",
+          "value": "Treasure dive sets"
+        },
+        {
+          "label": "Reward",
+          "value": "Cash per completed set"
+        }
+      ],
+      "tags": [
+        "Diving"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-characters-kirk",
+      "section": "characters",
+      "category": "Strangers & Freaks",
+      "name": "Kirk",
+      "subtitle": "Skunk Ape hunter",
+      "body": "Kirk is convinced the Skunk Ape is real. His strand sends you out at night looking for the creature and the strange tree effigies tied to it.",
+      "facts": [
+        {
+          "label": "Activity",
+          "value": "Skunk Ape search, tree effigies"
+        },
+        {
+          "label": "Tip",
+          "value": "Most of his jobs only work at night"
+        }
+      ],
+      "tags": [
+        "Night"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-characters-kyle",
+      "section": "characters",
+      "category": "Strangers & Freaks",
+      "name": "Kyle",
+      "subtitle": "Crop duster at McKittrick Farm",
+      "body": "Kyle flies a crop duster out of McKittrick Farm and asks for help gathering chemicals for his work.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "McKittrick Farm"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-characters-bret-vogel",
+      "section": "characters",
+      "category": "Strangers & Freaks",
+      "name": "Bret Vogel",
+      "subtitle": "Hunting boss of Killtelligence",
+      "body": "Bret runs the Killtelligence brand and gives out hunting target decks. Finishing them earns the Fair Game trophy.",
+      "facts": [
+        {
+          "label": "Activity",
+          "value": "Bret's Hunting Decks"
+        },
+        {
+          "label": "Trophy",
+          "value": "Fair Game"
+        }
+      ],
+      "tags": [
+        "Hunting"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-characters-billy",
+      "section": "characters",
+      "category": "Strangers & Freaks",
+      "name": "Billy",
+      "subtitle": "Runs the Thrillbilly Mud Club",
+      "body": "Billy hosts the mud racing at the Thrillbilly Mud Club and follows up with a chain of rowdy small-town jobs.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "Thrillbilly Mud Club"
+        },
+        {
+          "label": "Trophy",
+          "value": "The Lone Rider (Hometown Heroes)"
+        }
+      ],
+      "tags": [
+        "Racing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-characters-yago",
+      "section": "characters",
+      "category": "Strangers & Freaks",
+      "name": "Yago",
+      "subtitle": "Street racing organizer",
+      "body": "Yago gets you into Vice City's street racing scene. One of his races is time-limited, so do it when it pops up.",
+      "facts": [
+        {
+          "label": "Activity",
+          "value": "Street races"
+        },
+        {
+          "label": "Missable",
+          "value": "Race Against Yago"
+        }
+      ],
+      "tags": [
+        "Racing",
+        "Missable"
+      ],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-characters-andy",
+      "section": "characters",
+      "category": "Strangers & Freaks",
+      "name": "Andy",
+      "subtitle": "Tied to the Cellerica campus",
+      "body": "Andy's strand revolves around the Cellerica company and ends with the Road to Rehabilitation trophy.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "Cellerica campus"
+        },
+        {
+          "label": "Trophy",
+          "value": "Road to Rehabilitation"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-characters-tyrone",
+      "section": "characters",
+      "category": "Strangers & Freaks",
+      "name": "Tyrone",
+      "subtitle": "Wants the Kitty Litter labs gone",
+      "body": "Tyrone asks you to hit the Kitty Litter drug labs around Vice City. Shutting them all down unlocks the Spin On This! trophy.",
+      "facts": [
+        {
+          "label": "Activity",
+          "value": "Kitty Litter labs"
+        },
+        {
+          "label": "Trophy",
+          "value": "Spin On This!"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-characters-pilot-pete",
+      "section": "characters",
+      "category": "Strangers & Freaks",
+      "name": "Pilot Pete",
+      "subtitle": "Air delivery jobs",
+      "body": "Pilot Pete runs package drops and flying jobs from small airfields across Leonida.",
+      "facts": [
+        {
+          "label": "Unlock",
+          "value": "Chapter 4"
+        },
+        {
+          "label": "Activity",
+          "value": "Air deliveries"
+        }
+      ],
+      "tags": [
+        "Flying"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-vice-city",
+      "section": "places",
+      "category": "Regions",
+      "name": "Vice City",
+      "subtitle": "Leonida's biggest city",
+      "body": "The Miami-style metropolis at the heart of the story, with beaches, nightlife and the downtown financial core.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Region"
+        },
+        {
+          "label": "What's there",
+          "value": "Beaches, nightclubs, downtown, airport"
+        }
+      ],
+      "tags": [
+        "Region"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-leonida-keys",
+      "section": "places",
+      "category": "Regions",
+      "name": "Leonida Keys",
+      "subtitle": "Island chain linked by bridges",
+      "body": "Tropical islands strung along the southern tip of the state, joined by long bridges. Jason's starting home is here.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Region"
+        },
+        {
+          "label": "What's there",
+          "value": "Islands, bridges, marinas"
+        }
+      ],
+      "tags": [
+        "Region"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-lake-leonida",
+      "section": "places",
+      "category": "Landmarks",
+      "name": "Lake Leonida",
+      "subtitle": "Huge lake beside Ambrosia",
+      "body": "The big inland lake in the middle of the state, with Ambrosia's sugar town on its shore.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Lake"
+        },
+        {
+          "label": "Nearby",
+          "value": "Ambrosia"
+        }
+      ],
+      "tags": [
+        "Lake"
+      ],
+      "spoiler": false,
+      "region": "Ambrosia"
+    },
+    {
+      "id": "db-places-washington-beach",
+      "section": "places",
+      "category": "Neighborhood",
+      "name": "Washington Beach",
+      "subtitle": "Beachfront tourist strip",
+      "body": "A busy oceanfront stretch of Vice City lined with hotels and tourist spots.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Neighborhood"
+        }
+      ],
+      "tags": [
+        "Beach"
+      ],
+      "spoiler": false,
+      "region": "Vice City"
     }
   ]
 }
