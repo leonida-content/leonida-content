@@ -1,5 +1,5 @@
 {
-  "version": 57,
+  "version": 58,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -15310,6 +15310,570 @@
       ],
       "tags": [],
       "spoiler": false
+    },
+    {
+      "id": "db-vehicles-nagasaki-sfb-1000",
+      "section": "vehicles",
+      "category": "Motorcycle",
+      "name": "Nagasaki SFB 1000",
+      "subtitle": "Fully faired superbike",
+      "body": "A track-focused sport bike with a full fairing, and one of the quickest two-wheelers you can ride in Leonida.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Motorcycle"
+        },
+        {
+          "label": "Type",
+          "value": "Sport bike"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Nagasaki"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-declasse-vamos-74",
+      "section": "vehicles",
+      "category": "Muscle",
+      "name": "Declasse Vamos '74",
+      "subtitle": "1970s compact turned V8 muscle coupe",
+      "body": "A small '70s coupe that packs a V8, giving it proper muscle-car punch.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Muscle"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Declasse"
+        },
+        {
+          "label": "Year",
+          "value": "1974"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-vapid-stanier-g2",
+      "section": "vehicles",
+      "category": "Sedan",
+      "name": "Vapid Stanier G2",
+      "subtitle": "Newer-generation Stanier sedan",
+      "body": "The updated take on the Stanier, a full-size four-door you will see all over the roads.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sedan"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Vapid"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-sirius-61-sungrazer",
+      "section": "vehicles",
+      "category": "Sedan",
+      "name": "Sirius '61 Sungrazer",
+      "subtitle": "Early-1960s classic sedan",
+      "body": "A long, chrome-trimmed four-door from the early sixties.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sedan"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Sirius"
+        },
+        {
+          "label": "Year",
+          "value": "1961"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-osprey-78-journey",
+      "section": "vehicles",
+      "category": "Van",
+      "name": "Osprey '78 Journey",
+      "subtitle": "Late-1970s van",
+      "body": "A boxy late-seventies van with plenty of room in the back.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Van"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Osprey"
+        },
+        {
+          "label": "Year",
+          "value": "1978"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-ubermacht-apoc",
+      "section": "vehicles",
+      "category": "Car",
+      "name": "Ubermacht Apoc",
+      "subtitle": "Ubermacht road car",
+      "body": "A road car from the German-style Ubermacht brand.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Ubermacht"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-declasse-20-impaler",
+      "section": "vehicles",
+      "category": "Sedan",
+      "name": "Declasse '20 Impaler",
+      "subtitle": "Modern Impaler sedan",
+      "body": "A present-day version of the Impaler nameplate in four-door sedan form.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sedan"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Declasse"
+        },
+        {
+          "label": "Year",
+          "value": "2020"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-willard-83-moocher",
+      "section": "vehicles",
+      "category": "Van",
+      "name": "Willard '83 Moocher",
+      "subtitle": "Early-1980s van",
+      "body": "An early-eighties Willard van built for hauling people or gear.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Van"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Willard"
+        },
+        {
+          "label": "Year",
+          "value": "1983"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-vapid-shifter",
+      "section": "vehicles",
+      "category": "Van",
+      "name": "Vapid Shifter",
+      "subtitle": "Vapid van",
+      "body": "A practical Vapid van you will spot around town.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Van"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Vapid"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-taci-ragno",
+      "section": "vehicles",
+      "category": "Motorcycle",
+      "name": "Taci Ragno",
+      "subtitle": "Small street scooter",
+      "body": "A light, nimble scooter for zipping through city traffic.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Motorcycle"
+        },
+        {
+          "label": "Type",
+          "value": "Scooter"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Taci"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-shift-e-fan-e",
+      "section": "vehicles",
+      "category": "Motorcycle",
+      "name": "Shift-E Fan-E",
+      "subtitle": "Stand-up electric scooter",
+      "body": "A stand-up e-scooter in the style of the rental scooters dotted around Vice City.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Motorcycle"
+        },
+        {
+          "label": "Type",
+          "value": "Electric scooter"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Shift-E"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-nagasaki-street-blazer",
+      "section": "vehicles",
+      "category": "Off-road",
+      "name": "Nagasaki Street Blazer",
+      "subtitle": "Road-going quad bike",
+      "body": "A street-focused version of the Blazer ATV, separate from the standard Blazer.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Off-road"
+        },
+        {
+          "label": "Type",
+          "value": "Quad bike"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Nagasaki"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-del-perro-erode",
+      "section": "vehicles",
+      "category": "Bicycle",
+      "name": "Del Perro Erode",
+      "subtitle": "Mountain bike",
+      "body": "A sturdy mountain bike for trails and rough ground.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Bicycle"
+        },
+        {
+          "label": "Type",
+          "value": "Mountain bike"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Del Perro"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-dingus-como",
+      "section": "vehicles",
+      "category": "Boat",
+      "name": "Dingus Como",
+      "subtitle": "Dingus boat",
+      "body": "A boat from Dingus, the same brand behind the Nepa inflatable.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Boat"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Dingus"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-lapwing-mammatus",
+      "section": "vehicles",
+      "category": "Planes",
+      "name": "Lapwing Mammatus",
+      "subtitle": "Small Lapwing plane",
+      "body": "A small light aircraft from Lapwing.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Plane"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Lapwing"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-interstate-80-yankee",
+      "section": "vehicles",
+      "category": "Utility",
+      "name": "Interstate '80 Yankee",
+      "subtitle": "1980 work truck",
+      "body": "A heavy old work truck from 1980, built for hauling rather than speed.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Work truck"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Interstate"
+        },
+        {
+          "label": "Year",
+          "value": "1980"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-vapid-guardian-tx2",
+      "section": "vehicles",
+      "category": "Truck",
+      "name": "Vapid Guardian TX2",
+      "subtitle": "Heavy-duty Vapid truck",
+      "body": "A big heavy-duty truck from Vapid.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Truck"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Vapid"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-goodwin-lmg-6",
+      "section": "weapons",
+      "category": "LMG",
+      "name": "Goodwin LMG 6",
+      "subtitle": "Belt-fed light machine gun",
+      "body": "A belt-fed machine gun with a huge magazine, and the second LMG you can buy after the ADB M350.",
+      "facts": [
+        {
+          "label": "Category",
+          "value": "Light machine gun"
+        },
+        {
+          "label": "Brand",
+          "value": "Goodwin"
+        },
+        {
+          "label": "Capacity",
+          "value": "100 rounds"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Ammu-Nation"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-mercenary-lmg-6",
+      "section": "weapons",
+      "category": "LMG",
+      "name": "Mercenary LMG 6",
+      "subtitle": "Unique LMG 6 hidden at the docks",
+      "body": "A modified LMG 6 stashed inside a shipping container at the port. Approach from the water and climb the stacked containers to reach it.",
+      "facts": [
+        {
+          "label": "Category",
+          "value": "Light machine gun (unique)"
+        },
+        {
+          "label": "Base weapon",
+          "value": "Goodwin LMG 6"
+        },
+        {
+          "label": "Capacity",
+          "value": "100 rounds"
+        },
+        {
+          "label": "Where to find",
+          "value": "Yellow Scoop shipping container in the northern cargo area of Port Vice City"
+        }
+      ],
+      "tags": [
+        "Unique"
+      ],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-weapons-frag-grenade",
+      "section": "weapons",
+      "category": "Throwable",
+      "name": "Frag Grenade",
+      "subtitle": "Standard pull-pin grenade",
+      "body": "A classic fragmentation grenade, best thrown into groups of enemies.",
+      "facts": [
+        {
+          "label": "Category",
+          "value": "Throwable"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Ammu-Nation and other gun stores"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-lawton-co-paper-mill",
+      "section": "places",
+      "category": "Landmark",
+      "name": "Lawton Co. Paper Mill",
+      "subtitle": "Industrial paper mill",
+      "body": "A big working paper mill in the countryside, and one of the WAiNK landmark scan spots.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Landmark"
+        },
+        {
+          "label": "Activity",
+          "value": "WAiNK landmark scan"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Moreau, Lummox County"
+    },
+    {
+      "id": "db-places-gellhorn-fun-fair",
+      "section": "places",
+      "category": "Landmark",
+      "name": "Gellhorn Fun Fair",
+      "subtitle": "Fairground in Port Gellhorn",
+      "body": "A fairground with rides and stalls, also a WAiNK landmark scan spot.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Landmark"
+        },
+        {
+          "label": "Activity",
+          "value": "WAiNK landmark scan"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Port Gellhorn"
+    },
+    {
+      "id": "db-places-kalaga-lookout",
+      "section": "places",
+      "category": "Landmark",
+      "name": "Kalaga Lookout",
+      "subtitle": "Scenic peak lookout",
+      "body": "A high viewpoint in the national park with sweeping views, and a WAiNK landmark scan spot.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Landmark"
+        },
+        {
+          "label": "Activity",
+          "value": "WAiNK landmark scan"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Mount Kalaga National Park, Lummox County"
+    },
+    {
+      "id": "db-places-belpoint-lighthouse",
+      "section": "places",
+      "category": "Landmark",
+      "name": "Belpoint Lighthouse",
+      "subtitle": "Coastal lighthouse",
+      "body": "A lighthouse on the coast at Belpoint, and a WAiNK landmark scan spot.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Landmark"
+        },
+        {
+          "label": "Activity",
+          "value": "WAiNK landmark scan"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Belpoint"
+    },
+    {
+      "id": "db-places-farmer-scrumpys-apple-orchard",
+      "section": "places",
+      "category": "Landmark",
+      "name": "Farmer Scrumpy's Apple Orchard",
+      "subtitle": "Countryside apple orchard",
+      "body": "An apple orchard out in the canyon country, and a WAiNK landmark scan spot.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Landmark"
+        },
+        {
+          "label": "Activity",
+          "value": "WAiNK landmark scan"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Manifest Canyon"
     }
   ]
 }
