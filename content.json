@@ -1,5 +1,5 @@
 {
-  "version": 50,
+  "version": 51,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -13301,6 +13301,262 @@
         {
           "label": "Type",
           "value": "Amphibian"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-albany-primo",
+      "section": "vehicles",
+      "category": "Sedan",
+      "name": "Albany Primo",
+      "subtitle": "Everyday four-door sedan",
+      "body": "A plain, practical Albany sedan you will see all over Leonida, often looking a little worse for wear.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sedan"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-schyster-pmp-700",
+      "section": "vehicles",
+      "category": "Sedan",
+      "name": "Schyster PMP 700",
+      "subtitle": "Big luxury sedan",
+      "body": "A long, comfortable Schyster luxury car. Roomy and smooth rather than fast.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Luxury sedan"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-annis-hellion",
+      "section": "vehicles",
+      "category": "Off-Road",
+      "name": "Annis Hellion",
+      "subtitle": "Compact off-roader",
+      "body": "A small Annis off-road vehicle with a 1990s look. Good for dirt roads and the countryside.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Off-road"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-dundreary-landstalker-xl",
+      "section": "vehicles",
+      "category": "SUV",
+      "name": "Dundreary Landstalker XL",
+      "subtitle": "Full-size family SUV",
+      "body": "A big Dundreary SUV with plenty of room. Heavy, but solid in a crash.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "SUV (full-size)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-canis-mesa",
+      "section": "vehicles",
+      "category": "Off-Road",
+      "name": "Canis Mesa",
+      "subtitle": "Compact four-seat off-roader",
+      "body": "A small, rugged Canis 4x4 built for rough terrain rather than top speed.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Off-road SUV"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-declasse-granger",
+      "section": "vehicles",
+      "category": "SUV",
+      "name": "Declasse Granger",
+      "subtitle": "Large boxy SUV",
+      "body": "A large Declasse SUV that soaks up hits well. Common on Leonida's roads.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "SUV (large)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-karin-feroci",
+      "section": "vehicles",
+      "category": "Sedan",
+      "name": "Karin Feroci",
+      "subtitle": "Compact Karin sedan",
+      "body": "A small, nimble Karin four-door that is easy to grab for quick trips around the city.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sedan (compact)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-vapid-lowline",
+      "section": "vehicles",
+      "category": "Sedan",
+      "name": "Vapid Lowline",
+      "subtitle": "Common four-door sedan",
+      "body": "A widespread Vapid sedan. You will see it in busy neighborhoods and in police use.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sedan"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-albany-manana",
+      "section": "vehicles",
+      "category": "Classic",
+      "name": "Albany Manana",
+      "subtitle": "Old-school Albany cruiser",
+      "body": "A vintage Albany with laid-back, cruising style. Looks great, handles like a boat.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Classic"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-albany-emperor",
+      "section": "vehicles",
+      "category": "Sedan",
+      "name": "Albany Emperor",
+      "subtitle": "Vintage luxury sedan",
+      "body": "An older Albany luxury four-door from the 1980s. Comfortable but slow.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sedan (vintage)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-bravado-dorado",
+      "section": "vehicles",
+      "category": "SUV",
+      "name": "Bravado Dorado",
+      "subtitle": "Mid-size Bravado SUV",
+      "body": "A mid-size SUV from Bravado that balances space and handling.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "SUV"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-albany-cavalcade-xl",
+      "section": "vehicles",
+      "category": "SUV",
+      "name": "Albany Cavalcade XL",
+      "subtitle": "Full-size luxury SUV",
+      "body": "A big, upscale Albany SUV that fits right in around wealthier parts of Vice City.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "SUV (luxury)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-obey-tailgater",
+      "section": "vehicles",
+      "category": "Sedan",
+      "name": "Obey Tailgater",
+      "subtitle": "Sporty luxury sedan",
+      "body": "Obey's luxury four-door, quicker than most sedans and comfortable inside.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Luxury sedan"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-mtl-packer",
+      "section": "vehicles",
+      "category": "Industrial",
+      "name": "MTL Packer",
+      "subtitle": "Car transporter truck",
+      "body": "A big rig used for hauling cars. Slow and wide, so take corners carefully.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Truck (car carrier)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-jobuilt-phantom",
+      "section": "vehicles",
+      "category": "Industrial",
+      "name": "JoBuilt Phantom",
+      "subtitle": "Heavy semi truck",
+      "body": "A classic big rig cab often seen pulling trailers along Leonida's highways.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Truck (semi)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-maibatsu-mule",
+      "section": "vehicles",
+      "category": "Commercial",
+      "name": "Maibatsu Mule",
+      "subtitle": "Two-seat box truck",
+      "body": "A delivery box truck you will see making stops around town.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Box truck"
         }
       ],
       "tags": [],
