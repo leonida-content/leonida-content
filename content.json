@@ -1,5 +1,5 @@
 {
-  "version": 40,
+  "version": 41,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -9582,6 +9582,370 @@
         {
           "label": "Genre",
           "value": "Talk"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-smuggler-gorse-425",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Smuggler Gorse 425",
+      "subtitle": "Free unique shotgun on a washed-up boat",
+      "body": "A stubby shotgun left beside an abandoned smuggler's boat on one of the small Permit Keys islands. It costs nothing to pick up.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Stubby shotgun"
+        },
+        {
+          "label": "Where to find",
+          "value": "Abandoned smuggler's boat on a small island, Permit Keys"
+        },
+        {
+          "label": "Price",
+          "value": "Free"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Permit Keys"
+    },
+    {
+      "id": "db-weapons-drug-mule-kz-59",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Drug Mule KZ-59",
+      "subtitle": "Underwater assault rifle by a sunken speedboat",
+      "body": "Dive down to a speedboat resting on the seabed off the northern Riquezas Keys to grab this rifle for free.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Assault rifle"
+        },
+        {
+          "label": "Where to find",
+          "value": "Next to a sunken speedboat, off the northern Riquezas Keys"
+        },
+        {
+          "label": "Price",
+          "value": "Free"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Riquezas Keys"
+    },
+    {
+      "id": "db-weapons-turnt-nipper-38",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Turnt Nipper .38",
+      "subtitle": "Pistol stuck in a crashed paraglider",
+      "body": "Look for a crashed paraglider tangled in a tree near Bobcat Bight. The pistol is on the wreck and there's no fight to get it.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Compact pistol"
+        },
+        {
+          "label": "Where to find",
+          "value": "Crashed paraglider in a tree near Bobcat Bight"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Bobcat Bight"
+    },
+    {
+      "id": "db-weapons-crabshack-vf5",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Crabshack VF5",
+      "subtitle": "SMG at an abandoned research outpost",
+      "body": "Reach the abandoned crab research outpost in southwest Pelican Valley by boat. You need to solve a door puzzle before you can take the SMG from the boathouse.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "SMG"
+        },
+        {
+          "label": "Where to find",
+          "value": "Boathouse at an abandoned research outpost, southwest Pelican Valley"
+        },
+        {
+          "label": "Unlock",
+          "value": "Solve the outpost's door puzzle"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Pelican Valley"
+    },
+    {
+      "id": "db-weapons-cockroach-xtreme-556",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Cockroach Xtreme 556",
+      "subtitle": "Free rifle hidden in a motel storeroom",
+      "body": "Check the garage storeroom at the Sunrise Motel in Tequesta and look behind the stacked toilet paper.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Carbine rifle"
+        },
+        {
+          "label": "Where to find",
+          "value": "Sunrise Motel garage storeroom, Tequesta"
+        },
+        {
+          "label": "Price",
+          "value": "Free"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Tequesta"
+    },
+    {
+      "id": "db-weapons-conspiracist-type-9",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Conspiracist Type 9",
+      "subtitle": "Machine pistol in a hidden bunker",
+      "body": "Under a hatch at a mobile home in Balsero, southwest of the Griffin Shooting Range, there's a small underground armory with this machine pistol inside.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Machine pistol"
+        },
+        {
+          "label": "Where to find",
+          "value": "Underground bunker below a mobile home, Balsero"
+        },
+        {
+          "label": "Price",
+          "value": "Free"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Balsero"
+    },
+    {
+      "id": "db-weapons-black-eagle-import-kalinga",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Black Eagle Import Kalinga",
+      "subtitle": "Hand cannon in a gun warehouse safe",
+      "body": "Get inside the Black Eagle warehouse in Balsero, find the door code on the office computer, then open the safe to take this .50-caliber pistol.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": ".50 caliber pistol"
+        },
+        {
+          "label": "Where to find",
+          "value": "Office safe, Black Eagle warehouse, Balsero"
+        },
+        {
+          "label": "Unlock",
+          "value": "Code is on the office computer"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Balsero"
+    },
+    {
+      "id": "db-weapons-soldier-s-combat-knife",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Soldier's Combat Knife",
+      "subtitle": "Knife inside a half-sunken tank",
+      "body": "Swim out to the rusted tank sitting in the water between Bobcat Bight and Bobcat Key and search its hatch.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Melee"
+        },
+        {
+          "label": "Where to find",
+          "value": "Half-sunken tank between Bobcat Bight and Bobcat Key"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Bobcat Key"
+    },
+    {
+      "id": "db-weapons-dirty-drifter",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Dirty Drifter",
+      "subtitle": "Double-barrel in a stranded car's trunk",
+      "body": "Open the trunk of a blue car stuck in a mudslide in Bonanza to find this shotgun.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Double-barrel shotgun"
+        },
+        {
+          "label": "Where to find",
+          "value": "Trunk of a blue car caught in a mudslide, Bonanza"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Bonanza"
+    },
+    {
+      "id": "db-weapons-double-cross-vatra",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Double Cross Vatra",
+      "subtitle": "SMG on the seabed off Bobcat Key",
+      "body": "Dive to the sea floor west of Bobcat Key. Bodies floating at the surface mark roughly where it is.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Heavy SMG"
+        },
+        {
+          "label": "Where to find",
+          "value": "Seabed west of Bobcat Key"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Bobcat Key"
+    },
+    {
+      "id": "db-weapons-sand-storm-es9",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Sand Storm ES9",
+      "subtitle": "Store-exclusive pistol at Big Shots",
+      "body": "A custom ES9 that only Big Shots in Hamlet sells. It handles like the standard ES9.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Pistol"
+        },
+        {
+          "label": "Price",
+          "value": "$1,470"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Big Shots, Hamlet"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Hamlet"
+    },
+    {
+      "id": "db-weapons-honky-tonk-mustang-357",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Honky Tonk Mustang .357",
+      "subtitle": "Store-exclusive magnum at Phil's",
+      "body": "A custom Mustang .357 sold only at Phil's Ammu-Nation in Southside.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Magnum revolver"
+        },
+        {
+          "label": "Price",
+          "value": "$3,780"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Phil's Ammu-Nation, Southside"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Southside, Vice City"
+    },
+    {
+      "id": "db-weapons-scorpio-nipper-38",
+      "section": "weapons",
+      "category": "Pistol",
+      "name": "Scorpio Nipper .38",
+      "subtitle": "Cheapest compact pistol",
+      "body": "A small, low-cost backup pistol.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$550"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun stores, including Chuck's Tackle & Shot"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-wortham-wcr1",
+      "section": "weapons",
+      "category": "Revolver",
+      "name": "Wortham WCR1",
+      "subtitle": "Budget compact revolver",
+      "body": "The cheapest revolver on store shelves.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$600"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun stores"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-klose-k17-mcd",
+      "section": "weapons",
+      "category": "Pistol",
+      "name": "Klose K17 MCD",
+      "subtitle": "Fully automatic K17",
+      "body": "An automatic version of the K17 service pistol.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$1,700"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun stores"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-girardi-az1200",
+      "section": "weapons",
+      "category": "Shotguns",
+      "name": "Girardi AZ1200",
+      "subtitle": "Semi-auto shotgun",
+      "body": "A semi-automatic shotgun that fires faster than pump-action models.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$2,300"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun stores"
         }
       ],
       "tags": [],
