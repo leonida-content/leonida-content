@@ -1,5 +1,5 @@
 {
-  "version": 43,
+  "version": 44,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -10648,6 +10648,385 @@
       "tags": [
         "Aircraft",
         "Military"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-vapid-65-dominator",
+      "section": "vehicles",
+      "category": "Muscle",
+      "name": "Vapid '65 Dominator",
+      "subtitle": "Two-seat classic muscle car",
+      "body": "A 1960s take on Vapid's long-running Dominator line, with room for just two. Prices and fixed spawn spots haven't been confirmed yet; like most cars in Leonida, you'll usually have to take one off the street.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Muscle"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Vapid"
+        },
+        {
+          "label": "Seats",
+          "value": "2"
+        }
+      ],
+      "tags": [
+        "Classic"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-vapid-dominator-gt",
+      "section": "vehicles",
+      "category": "Muscle",
+      "name": "Vapid Dominator GT",
+      "subtitle": "Dominator in GT trim",
+      "body": "A GT version of Vapid's current Dominator. Prices and fixed spawn spots haven't been confirmed yet; like most cars in Leonida, you'll usually have to take one off the street.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Vapid"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-vapid-dominator-asp",
+      "section": "vehicles",
+      "category": "Muscle",
+      "name": "Vapid Dominator ASP",
+      "subtitle": "Dominator variant",
+      "body": "Another modern spin on the Dominator nameplate. Prices and fixed spawn spots haven't been confirmed yet; like most cars in Leonida, you'll usually have to take one off the street.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Vapid"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-declasse-vigero-zx-convertible",
+      "section": "vehicles",
+      "category": "Muscle",
+      "name": "Declasse Vigero ZX Convertible",
+      "subtitle": "Open-top Vigero",
+      "body": "The convertible version of Declasse's Vigero ZX. Prices and fixed spawn spots haven't been confirmed yet; like most cars in Leonida, you'll usually have to take one off the street.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Declasse"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-grotti-carbonizzare",
+      "section": "vehicles",
+      "category": "Sports",
+      "name": "Grotti Carbonizzare",
+      "subtitle": "Grotti sports car",
+      "body": "A sports car from Grotti. Prices and fixed spawn spots haven't been confirmed yet; like most cars in Leonida, you'll usually have to take one off the street.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Grotti"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-coil-raiden",
+      "section": "vehicles",
+      "category": "Sports",
+      "name": "Coil Raiden",
+      "subtitle": "Coil performance car",
+      "body": "A performance car from Coil. Prices and fixed spawn spots haven't been confirmed yet; like most cars in Leonida, you'll usually have to take one off the street.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Coil"
+        }
+      ],
+      "tags": [
+        "Electric"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-albany-v-str",
+      "section": "vehicles",
+      "category": "Sports",
+      "name": "Albany V-STR",
+      "subtitle": "Albany performance car",
+      "body": "A four-door performance car from Albany. Prices and fixed spawn spots haven't been confirmed yet; like most cars in Leonida, you'll usually have to take one off the street.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Albany"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-hvy-wastelander",
+      "section": "vehicles",
+      "category": "Truck",
+      "name": "HVY Wastelander",
+      "subtitle": "Heavy-duty truck",
+      "body": "A big utility truck from HVY. Prices and fixed spawn spots haven't been confirmed yet; like most cars in Leonida, you'll usually have to take one off the street.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "HVY"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-karin-84-rebel",
+      "section": "vehicles",
+      "category": "Truck",
+      "name": "Karin '84 Rebel",
+      "subtitle": "1980s pickup",
+      "body": "A boxy 1980s pickup truck from Karin. Prices and fixed spawn spots haven't been confirmed yet; like most cars in Leonida, you'll usually have to take one off the street.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Karin"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-bravado-bison-1800",
+      "section": "vehicles",
+      "category": "Truck",
+      "name": "Bravado Bison 1800",
+      "subtitle": "Full-size pickup",
+      "body": "A full-size pickup truck from Bravado. Prices and fixed spawn spots haven't been confirmed yet; like most cars in Leonida, you'll usually have to take one off the street.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Bravado"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-duke-1922",
+      "section": "weapons",
+      "category": "Handguns",
+      "name": "Duke 1922",
+      "subtitle": "Heavy pistol",
+      "body": "A hard-hitting heavy pistol with a vintage look.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$1,050"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Chuck's Tackle & Shot"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-shrewsbury-drifter",
+      "section": "weapons",
+      "category": "Shotguns",
+      "name": "Shrewsbury Drifter",
+      "subtitle": "Double-barrel shotgun",
+      "body": "A two-shot, double-barrel shotgun. Devastating up close but slow to reload.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$1,150"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun stores"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-darknite-drifter",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Darknite Drifter",
+      "subtitle": "Unique double-barrel shotgun",
+      "region": "Port Gellhorn",
+      "body": "A special store-only version of the Shrewsbury Drifter.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$2,420"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun store in Port Gellhorn"
+        }
+      ],
+      "tags": [
+        "Unique"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-girardi-verro",
+      "section": "weapons",
+      "category": "Shotguns",
+      "name": "Girardi Verro",
+      "subtitle": "Short semi-auto shotgun",
+      "body": "A compact, stubby semi-automatic shotgun that's easy to handle in tight spaces.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$2,700"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun stores"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-bruiser-super400",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Bruiser Super400",
+      "subtitle": "Unique heavy shotgun",
+      "body": "A special version of the Girardi Super400 heavy shotgun, sold at one pawn-style gun shop.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$5,930"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Vice City Gun & Pawn"
+        }
+      ],
+      "tags": [
+        "Unique"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-hillinger-m306",
+      "section": "weapons",
+      "category": "Tactical Rifles",
+      "name": "Hillinger M306",
+      "subtitle": "Marksman rifle",
+      "body": "A semi-automatic marksman rifle for accurate mid-to-long range shots.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$2,375"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun stores"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-schlamm-dw-9",
+      "section": "weapons",
+      "category": "SMG",
+      "name": "Schlamm DW-9",
+      "subtitle": "Combat SMG",
+      "body": "A fast-firing combat submachine gun.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$1,750"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Gun stores"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-star-spangled-556",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Star Spangled 556",
+      "subtitle": "Patriotic carbine variant",
+      "body": "A flag-themed carbine rifle you can only buy at one store.",
+      "facts": [
+        {
+          "label": "Price",
+          "value": "$3,050"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Phil's Ammu-Nation"
+        }
+      ],
+      "tags": [
+        "Unique"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-cold-war-556",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Cold War 556",
+      "subtitle": "Hidden unique carbine",
+      "region": "Mariana County",
+      "body": "A unique carbine left behind in a forgotten government bunker in North Mariana County.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "Abandoned bunker in Big Pine"
+        }
+      ],
+      "tags": [
+        "Unique",
+        "Free"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-clunker-556",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Clunker 556",
+      "subtitle": "Unique carbine",
+      "region": "Port Gellhorn",
+      "body": "A free unique carbine found at an illegal gang operation in Port Gellhorn.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "Brooks Boatworks, Port Gellhorn"
+        }
+      ],
+      "tags": [
+        "Unique",
+        "Free"
       ],
       "spoiler": false
     }
