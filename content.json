@@ -1,5 +1,5 @@
 {
-  "version": 63,
+  "version": 64,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -18386,6 +18386,488 @@
       ],
       "tags": [
         "Fishing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-griffin-shooting-range",
+      "section": "places",
+      "category": "Shooting range",
+      "name": "Griffin Shooting Range",
+      "subtitle": "Fast-paced range in Vice City",
+      "body": "Six timed courses where quick target switching matters more than pinpoint aim. Clearing them on gold helps toward 100% and The Shootist trophy.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "North-west Vice City"
+        },
+        {
+          "label": "Challenges",
+          "value": "6"
+        },
+        {
+          "label": "Gold medals",
+          "value": "18"
+        },
+        {
+          "label": "Waiver",
+          "value": "$5"
+        },
+        {
+          "label": "Gun rental",
+          "value": "$10"
+        }
+      ],
+      "tags": [
+        "Shooting range",
+        "100%"
+      ],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-places-rodgers-ranch-shooting-range",
+      "section": "places",
+      "category": "Shooting range",
+      "name": "Rodgers Ranch Shooting Range",
+      "subtitle": "Themed range near Port Gellhorn",
+      "body": "A ranch range with six themed scoring courses. Medals earned here count toward the shooting-range ammo cheats.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "North-east of Port Gellhorn"
+        },
+        {
+          "label": "Challenges",
+          "value": "6"
+        },
+        {
+          "label": "Gold medals",
+          "value": "24"
+        },
+        {
+          "label": "Waiver",
+          "value": "$5"
+        },
+        {
+          "label": "Gun rental",
+          "value": "$10"
+        }
+      ],
+      "tags": [
+        "Shooting range",
+        "100%"
+      ],
+      "spoiler": false,
+      "region": "Port Gellhorn"
+    },
+    {
+      "id": "db-places-wyman-s-world-auto-salvage-co",
+      "section": "places",
+      "category": "Garage",
+      "name": "Wyman's World Auto Salvage Co.",
+      "subtitle": "Where classic cars get rebuilt",
+      "body": "Wyman's salvage yard is where you bring classic car parts and frames to be restored into cars you keep. Part of the Wyman's Classic Car Collection activity.",
+      "facts": [
+        {
+          "label": "Edition",
+          "value": "Ultimate Edition"
+        },
+        {
+          "label": "Unlock",
+          "value": "Story progress"
+        }
+      ],
+      "tags": [
+        "Ultimate Edition"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-euroform-automotive",
+      "section": "places",
+      "category": "Garage",
+      "name": "Euroform Automotive",
+      "subtitle": "Luxury car mod shop",
+      "body": "Upgrades and cosmetic work for high-end European-style cars.",
+      "facts": [
+        {
+          "label": "Specialty",
+          "value": "Luxury cars"
+        }
+      ],
+      "tags": [
+        "Mod shop"
+      ],
+      "spoiler": false,
+      "region": "Vice-Dale County"
+    },
+    {
+      "id": "db-places-whisler-motorsport",
+      "section": "places",
+      "category": "Garage",
+      "name": "Whisler Motorsport",
+      "subtitle": "Race car mod shop",
+      "body": "Track-focused performance parts and race looks.",
+      "facts": [
+        {
+          "label": "Specialty",
+          "value": "Racing cars"
+        }
+      ],
+      "tags": [
+        "Mod shop"
+      ],
+      "spoiler": false,
+      "region": "Kelly County"
+    },
+    {
+      "id": "db-places-ledford-motorcycle-workshop",
+      "section": "places",
+      "category": "Garage",
+      "name": "Ledford Motorcycle Workshop",
+      "subtitle": "Chopper and classic bike shop",
+      "body": "Repairs, upgrades and custom styling for choppers and classic American bikes.",
+      "facts": [
+        {
+          "label": "Specialty",
+          "value": "Choppers"
+        }
+      ],
+      "tags": [
+        "Mod shop"
+      ],
+      "spoiler": false,
+      "region": "Lummox County"
+    },
+    {
+      "id": "db-places-two-wheel-fury-motorsport",
+      "section": "places",
+      "category": "Garage",
+      "name": "Two Wheel Fury Motorsport",
+      "subtitle": "Sport bike mod shop",
+      "body": "Performance parts and styling for sport bikes.",
+      "facts": [
+        {
+          "label": "Specialty",
+          "value": "Sport bikes"
+        }
+      ],
+      "tags": [
+        "Mod shop"
+      ],
+      "spoiler": false,
+      "region": "Vice-Dale County"
+    },
+    {
+      "id": "db-places-wasteland-off-road",
+      "section": "places",
+      "category": "Garage",
+      "name": "Wasteland Off-Road",
+      "subtitle": "Off-road mod shop",
+      "body": "Lift kits, tires and rugged parts for off-road builds.",
+      "facts": [
+        {
+          "label": "Specialty",
+          "value": "Off-road"
+        }
+      ],
+      "tags": [
+        "Mod shop"
+      ],
+      "spoiler": false,
+      "region": "Kelly County"
+    },
+    {
+      "id": "db-places-capri-classic",
+      "section": "places",
+      "category": "Garage",
+      "name": "Capri Classic",
+      "subtitle": "Muscle car mod shop",
+      "body": "Parts and paint for American muscle cars.",
+      "facts": [
+        {
+          "label": "Specialty",
+          "value": "Muscle cars"
+        }
+      ],
+      "tags": [
+        "Mod shop"
+      ],
+      "spoiler": false,
+      "region": "Mariana County"
+    },
+    {
+      "id": "db-places-stockyard-speedshop",
+      "section": "places",
+      "category": "Garage",
+      "name": "Stockyard Speedshop",
+      "subtitle": "Hot rod mod shop",
+      "body": "Old-school parts and styling for hot rods.",
+      "facts": [
+        {
+          "label": "Specialty",
+          "value": "Hot rods"
+        }
+      ],
+      "tags": [
+        "Mod shop"
+      ],
+      "spoiler": false,
+      "region": "Vice-Dale County"
+    },
+    {
+      "id": "db-places-vice-auto-customs",
+      "section": "places",
+      "category": "Garage",
+      "name": "Vice Auto Customs",
+      "subtitle": "Tuner car mod shop",
+      "body": "Performance and body mods for import tuner cars.",
+      "facts": [
+        {
+          "label": "Specialty",
+          "value": "Tuners"
+        }
+      ],
+      "tags": [
+        "Mod shop"
+      ],
+      "spoiler": false,
+      "region": "Vice-Dale County"
+    },
+    {
+      "id": "db-places-suburban",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Suburban",
+      "subtitle": "Casual streetwear store",
+      "body": "A clothing chain for everyday casual and street outfits.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Casual & Street"
+        }
+      ],
+      "tags": [
+        "Clothing"
+      ],
+      "spoiler": false,
+      "region": "Vice-Dale County"
+    },
+    {
+      "id": "db-places-eris",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Eris",
+      "subtitle": "Sportswear store",
+      "body": "Athletic and sportswear clothing.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Sportswear"
+        }
+      ],
+      "tags": [
+        "Clothing"
+      ],
+      "spoiler": false,
+      "region": "Vice-Dale County"
+    },
+    {
+      "id": "db-places-dr-froogal",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Dr Froogal",
+      "subtitle": "Budget thrift store",
+      "body": "A cheap thrift shop for secondhand outfits.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Thrift"
+        }
+      ],
+      "tags": [
+        "Clothing"
+      ],
+      "spoiler": false,
+      "region": "Vice-Dale County"
+    },
+    {
+      "id": "db-places-dominion-ink",
+      "section": "places",
+      "category": "Tattoo parlor",
+      "name": "Dominion Ink",
+      "subtitle": "Anime-style tattoo studio",
+      "body": "A tattoo studio whose designs lean toward anime art.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Anime"
+        }
+      ],
+      "tags": [
+        "Tattoos"
+      ],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-activities-challenges",
+      "section": "activities",
+      "category": "Activity",
+      "name": "Challenges",
+      "subtitle": "80 skill challenges in 8 groups",
+      "body": "Skill challenges split into eight categories of ten. You don't need all of them for 100% completion.",
+      "facts": [
+        {
+          "label": "Total",
+          "value": "80"
+        },
+        {
+          "label": "Needed for 100%",
+          "value": "70"
+        }
+      ],
+      "tags": [
+        "100%"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-strangers-freaks",
+      "section": "activities",
+      "category": "Side job",
+      "name": "Strangers & Freaks",
+      "subtitle": "Quirky side-character story lines",
+      "body": "Optional mission strands from Leonida's oddball locals, such as Bret's hunting line. Finishing eight strands earns a trophy.",
+      "facts": [
+        {
+          "label": "Trophy",
+          "value": "Strangers & Freaks (finish 8 strands)"
+        }
+      ],
+      "tags": [
+        "Side missions"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-body-armor",
+      "section": "weapons",
+      "category": "Tool",
+      "name": "Body Armor",
+      "subtitle": "Bulletproof vest",
+      "body": "Adds an armor bar above your health that soaks up bullets. Once it's used up you need a new vest.",
+      "facts": [
+        {
+          "label": "Where to get",
+          "value": "Ammu-Nation, Equipment section"
+        },
+        {
+          "label": "Equip",
+          "value": "Item wheel"
+        }
+      ],
+      "tags": [
+        "Equipment"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-binoculars",
+      "section": "weapons",
+      "category": "Tool",
+      "name": "Binoculars",
+      "subtitle": "Scout and study wildlife",
+      "body": "Handy for scouting a target from a distance and for studying animals, which counts toward 100% completion.",
+      "facts": [
+        {
+          "label": "Used for",
+          "value": "Studying animals (100 needed for 100%)"
+        }
+      ],
+      "tags": [
+        "Equipment"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-nile-monitor",
+      "section": "wildlife",
+      "category": "Reptile",
+      "name": "Nile Monitor",
+      "subtitle": "Big invasive lizard",
+      "body": "A large invasive lizard that lives in Leonida's wetlands and can be hunted.",
+      "facts": [
+        {
+          "label": "Habitat",
+          "value": "Wetland"
+        },
+        {
+          "label": "Suggested gun",
+          "value": "Wortham W-22"
+        }
+      ],
+      "tags": [
+        "Hunting"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-nutria",
+      "section": "wildlife",
+      "category": "Mammal",
+      "name": "Nutria",
+      "subtitle": "Invasive wetland rodent",
+      "body": "A large beaver-like rodent found around wetlands. Can be hunted.",
+      "facts": [
+        {
+          "label": "Habitat",
+          "value": "Wetland"
+        },
+        {
+          "label": "Suggested gun",
+          "value": "Wortham W-22"
+        }
+      ],
+      "tags": [
+        "Hunting"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-round-tailed-muskrat",
+      "section": "wildlife",
+      "category": "Mammal",
+      "name": "Round-Tailed Muskrat",
+      "subtitle": "Small marsh rodent",
+      "body": "A small muskrat that lives in marshy areas. Can be hunted.",
+      "facts": [
+        {
+          "label": "Habitat",
+          "value": "Wetland"
+        }
+      ],
+      "tags": [
+        "Hunting"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-leonida-wild-turkey",
+      "section": "wildlife",
+      "category": "Bird",
+      "name": "Leonida Wild Turkey",
+      "subtitle": "Common game bird",
+      "body": "The standard wild turkey found in forests and wetlands. The rare white tom is a variant of it.",
+      "facts": [
+        {
+          "label": "Habitat",
+          "value": "Forest and wetland"
+        }
+      ],
+      "tags": [
+        "Hunting"
       ],
       "spoiler": false
     }
