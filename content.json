@@ -1,5 +1,5 @@
 {
-  "version": 73,
+  "version": 74,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -22065,6 +22065,362 @@
       "tags": [],
       "spoiler": false,
       "region": "Kelly County"
+    },
+    {
+      "id": "db-wildlife-leonida-black-panther",
+      "section": "wildlife",
+      "category": "Mammals",
+      "name": "Leonida Black Panther",
+      "subtitle": "Dark-coated variant of the Leonida panther",
+      "body": "A rarer, darker-coated form of Leonida's native big cat. Treat it like any panther and keep your distance.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Big cat (rare variant)"
+        }
+      ],
+      "tags": [
+        "Predator"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-black-fox",
+      "section": "wildlife",
+      "category": "Mammals",
+      "name": "Black Fox",
+      "subtitle": "Dark-furred fox variant",
+      "body": "A fox with an unusually dark coat. Much less common to spot than a regular fox.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Mammal (fox variant)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-northern-silver-coyote",
+      "section": "wildlife",
+      "category": "Mammals",
+      "name": "Northern Silver Coyote",
+      "subtitle": "Pale, silvery coyote variant",
+      "body": "A coyote with a lighter, silver-gray coat that stands out from the usual Northern Coyote.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Mammal (coyote variant)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-piebald-whitetail-buck",
+      "section": "wildlife",
+      "category": "Mammals",
+      "name": "Piebald Whitetail Buck",
+      "subtitle": "Deer with a patchy white coat",
+      "body": "A whitetail buck with a piebald coat, meaning large white patches mixed with the normal brown.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Mammal (deer variant)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-spotted-wild-boar",
+      "section": "wildlife",
+      "category": "Mammals",
+      "name": "Spotted Wild Boar",
+      "subtitle": "Wild boar with a spotted coat",
+      "body": "A wild boar with a spotted coat pattern instead of the usual solid dark fur.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Mammal (boar variant)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-bengal-tiger",
+      "section": "wildlife",
+      "category": "Mammals",
+      "name": "Bengal Tiger",
+      "subtitle": "Exotic big cat in Leonida's animal list",
+      "body": "A striped big cat that is not native to Leonida but shows up in the game's list of animals.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Big cat (exotic)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-chimpanzee",
+      "section": "wildlife",
+      "category": "Mammals",
+      "name": "Chimpanzee",
+      "subtitle": "Exotic ape in Leonida's animal list",
+      "body": "A great ape that appears among Leonida's exotic, non-native animals.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Primate (exotic)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-gulf-coast-sheep",
+      "section": "wildlife",
+      "category": "Mammals",
+      "name": "Gulf Coast Sheep",
+      "subtitle": "Farm sheep breed",
+      "body": "A hardy sheep breed from the U.S. Gulf Coast, one of Leonida's farm animals.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Farm animal"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-american-quarter-horse",
+      "section": "wildlife",
+      "category": "Mammals",
+      "name": "American Quarter Horse",
+      "subtitle": "Horse breed seen in Leonida",
+      "body": "A stocky, muscular horse breed known for short sprints. One of the domestic animals logged in Leonida.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Domestic animal"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-albino-spectacled-caiman",
+      "section": "wildlife",
+      "category": "Reptile",
+      "name": "Albino Spectacled Caiman",
+      "subtitle": "White-scaled caiman variant",
+      "body": "A pale, albino version of the spectacled caiman, a smaller relative of the alligator.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Reptile (rare variant)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-spectacled-caiman",
+      "section": "wildlife",
+      "category": "Reptile",
+      "name": "Spectacled Caiman",
+      "subtitle": "Small crocodilian with a bony 'glasses' ridge",
+      "body": "Named for the bony ridge between its eyes that looks like a pair of glasses. It is smaller than an alligator but still worth avoiding.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Reptile"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-leonida-kingsnake",
+      "section": "wildlife",
+      "category": "Reptile",
+      "name": "Leonida Kingsnake",
+      "subtitle": "Leonida's own kingsnake",
+      "body": "A kingsnake named after the state. Kingsnakes are not venomous, unlike the Leonida Cottonmouth.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Reptile (snake)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-softshell-turtle",
+      "section": "wildlife",
+      "category": "Reptile",
+      "name": "Softshell Turtle",
+      "subtitle": "Flat turtle with a leathery shell",
+      "body": "A pancake-flat turtle whose shell is soft and leathery instead of hard and bony.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Reptile (turtle)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-super-red-iguana",
+      "section": "wildlife",
+      "category": "Reptile",
+      "name": "Super Red Iguana",
+      "subtitle": "Bright red iguana color morph",
+      "body": "A vivid red color form of the iguana, much flashier than the common green one.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Reptile (iguana variant)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-blacktip-shark",
+      "section": "wildlife",
+      "category": "Marine",
+      "name": "Blacktip Shark",
+      "subtitle": "Shark with black-tipped fins",
+      "body": "A fast coastal shark easy to recognize by the black tips on its fins.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Marine (shark)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-tiger-shark",
+      "section": "wildlife",
+      "category": "Marine",
+      "name": "Tiger Shark",
+      "subtitle": "Large striped shark",
+      "body": "A big shark named for the faint stripes along its sides. Be careful around it while diving.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Marine (shark)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-spotted-eagle-ray",
+      "section": "wildlife",
+      "category": "Marine",
+      "name": "Spotted Eagle Ray",
+      "subtitle": "Ray covered in white spots",
+      "body": "A ray with a dark back covered in white spots that glides through the water like it's flying.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Marine (ray)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-tricolored-heron",
+      "section": "wildlife",
+      "category": "Birds",
+      "name": "Tricolored Heron",
+      "subtitle": "Slim heron with blue, white and rust colors",
+      "body": "A slender heron with a blue-gray back, white belly and rusty neck markings.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Bird (wading)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-purple-gallinule",
+      "section": "wildlife",
+      "category": "Birds",
+      "name": "Purple Gallinule",
+      "subtitle": "Colorful marsh bird",
+      "body": "A brightly colored marsh bird with purple-blue feathers, a red-and-yellow bill and long yellow legs.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Bird (marsh)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-american-crow",
+      "section": "wildlife",
+      "category": "Birds",
+      "name": "American Crow",
+      "subtitle": "All-black, clever bird",
+      "body": "A common, all-black bird known for being smart and noisy.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Bird"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-common-loon",
+      "section": "wildlife",
+      "category": "Birds",
+      "name": "Common Loon",
+      "subtitle": "Diving water bird",
+      "body": "A water bird with a black-and-white checkered back that dives underwater to catch fish.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Bird (water)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-parachute",
+      "section": "weapons",
+      "category": "Tool",
+      "name": "Parachute",
+      "subtitle": "Equipment for jumps from height",
+      "body": "Bought as equipment at Ammu-Nation rather than found as a weapon. Handy for base jumping and bailing out of aircraft.",
+      "facts": [
+        {
+          "label": "Where to buy",
+          "value": "Ammu-Nation (equipment section)"
+        }
+      ],
+      "tags": [
+        "Equipment"
+      ],
+      "spoiler": false
     }
   ]
 }
