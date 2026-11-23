@@ -1,5 +1,5 @@
 {
-  "version": 62,
+  "version": 63,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -17836,6 +17836,558 @@
       ],
       "spoiler": false,
       "region": "Grassrivers, Mariana County"
+    },
+    {
+      "id": "db-wildlife-american-eel",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "American Eel",
+      "subtitle": "Snake-like freshwater fish",
+      "body": "A long, slippery eel that lurks in Leonida's lakes and swamps. One of the few eels you can actually hook.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Freshwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Medium Freshwater Lure"
+        }
+      ],
+      "tags": [
+        "Fishing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-atlantic-spadefish",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Atlantic Spadefish",
+      "subtitle": "Striped, disc-shaped sea fish",
+      "body": "A flat, round fish with dark bands that hangs around reefs and wrecks in open salt water.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Saltwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Medium Saltwater Lure"
+        }
+      ],
+      "tags": [
+        "Fishing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-atlantic-tarpon",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Atlantic Tarpon",
+      "subtitle": "Big silver game fish",
+      "body": "A large, hard-fighting silver fish. Bring the biggest saltwater lure or it won't bite.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Saltwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Large Saltwater Lure"
+        }
+      ],
+      "tags": [
+        "Fishing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-bluegill",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Bluegill",
+      "subtitle": "Easy starter catch",
+      "body": "A small panfish common in rivers and ponds. The starter freshwater lure is all you need.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Freshwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Small Freshwater Lure"
+        },
+        {
+          "label": "Lure cost",
+          "value": "Free (starter lure)"
+        }
+      ],
+      "tags": [
+        "Fishing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-candy-fish",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Candy Fish",
+      "subtitle": "Novelty fish with its own lure",
+      "body": "An oddball catch that only takes the special Candy Cane Lure. The lure is not sold in shops; it's a hidden pickup in the Ambrosia area.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Freshwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Candy Cane Lure"
+        }
+      ],
+      "tags": [
+        "Fishing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-channel-catfish",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Channel Catfish",
+      "subtitle": "Whiskered swamp bottom-feeder",
+      "body": "A whiskered bottom-feeder that likes murky, slow water. Upgrade to the medium freshwater lure for it.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Freshwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Medium Freshwater Lure"
+        }
+      ],
+      "tags": [
+        "Fishing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-lake-chubsucker",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Lake Chubsucker",
+      "subtitle": "Small lake fish",
+      "body": "A modest lake fish that bites on the starter freshwater lure.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Freshwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Small Freshwater Lure"
+        },
+        {
+          "label": "Lure cost",
+          "value": "Free (starter lure)"
+        }
+      ],
+      "tags": [
+        "Fishing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-greater-amberjack",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Greater Amberjack",
+      "subtitle": "Offshore fish on a starter lure",
+      "body": "A strong offshore fish that will still take the small saltwater lure every rod comes with.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Saltwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Small Saltwater Lure"
+        },
+        {
+          "label": "Lure cost",
+          "value": "Free (starter lure)"
+        }
+      ],
+      "tags": [
+        "Fishing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-great-barracuda",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Great Barracuda",
+      "subtitle": "Toothy reef predator",
+      "body": "A long, toothy predator of the reefs. Needs a large saltwater lure.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Saltwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Large Saltwater Lure"
+        }
+      ],
+      "tags": [
+        "Fishing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-largemouth-bass",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Largemouth Bass",
+      "subtitle": "Classic marsh bass",
+      "body": "The classic freshwater game fish, found in marshes and lakes. Bites on the starter freshwater lure.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Freshwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Small Freshwater Lure"
+        },
+        {
+          "label": "Lure cost",
+          "value": "Free (starter lure)"
+        }
+      ],
+      "tags": [
+        "Fishing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-striped-bass",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Striped Bass",
+      "subtitle": "Striped coastal bass",
+      "body": "A bass with dark side stripes that feeds in coastal bays. Use a medium saltwater lure.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Saltwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Medium Saltwater Lure"
+        }
+      ],
+      "tags": [
+        "Fishing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-cobia",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Cobia",
+      "subtitle": "Big open-ocean fish",
+      "body": "A large, dark fish of the open Atlantic. Head out by boat with a large saltwater lure.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Saltwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Large Saltwater Lure"
+        }
+      ],
+      "tags": [
+        "Fishing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-green-moray-eel",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Green Moray Eel",
+      "subtitle": "Large reef eel",
+      "body": "A big green eel that hides in rocky crevices. It needs the large saltwater lure.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Saltwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Large Saltwater Lure"
+        }
+      ],
+      "tags": [
+        "Fishing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-spotted-moray-eel",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Spotted Moray Eel",
+      "subtitle": "Speckled reef eel",
+      "body": "A smaller, speckled moray found offshore. A medium saltwater lure does the job.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Saltwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Medium Saltwater Lure"
+        }
+      ],
+      "tags": [
+        "Fishing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-black-grouper",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Black Grouper",
+      "subtitle": "Heavy bay grouper",
+      "body": "A chunky grouper that sits near the bottom in bays and reefs.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Saltwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Medium Saltwater Lure"
+        }
+      ],
+      "tags": [
+        "Fishing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-tiger-grouper",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Tiger Grouper",
+      "subtitle": "Grouper with tiger stripes",
+      "body": "A grouper with bold diagonal stripes. Same medium saltwater lure as its black cousin.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Saltwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Medium Saltwater Lure"
+        }
+      ],
+      "tags": [
+        "Fishing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-hogfish",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Hogfish",
+      "subtitle": "Snouted reef fish",
+      "body": "A reef fish with a long pig-like snout, found around the Keys.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Saltwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Medium Saltwater Lure"
+        }
+      ],
+      "tags": [
+        "Fishing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-red-lionfish",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Red Lionfish",
+      "subtitle": "Spiny striped reef fish",
+      "body": "A striking red-and-white fish covered in spines, found on Gulf-side reefs.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Saltwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Medium Saltwater Lure"
+        }
+      ],
+      "tags": [
+        "Fishing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-mahi-mahi",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Mahi-Mahi",
+      "subtitle": "Bright offshore fish",
+      "body": "A brightly colored, fast offshore fish. Needs the large saltwater lure and usually a boat.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Saltwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Large Saltwater Lure"
+        }
+      ],
+      "tags": [
+        "Fishing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-permit",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Permit",
+      "subtitle": "Wary flats fish",
+      "body": "A tall silver fish of the Leonida Straits. Bring a large saltwater lure.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Saltwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Large Saltwater Lure"
+        }
+      ],
+      "tags": [
+        "Fishing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-redfin-pickerel",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Redfin Pickerel",
+      "subtitle": "Small swamp pike",
+      "body": "A little pike-like fish with reddish fins that lives in swampy water.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Freshwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Small Freshwater Lure"
+        },
+        {
+          "label": "Lure cost",
+          "value": "Free (starter lure)"
+        }
+      ],
+      "tags": [
+        "Fishing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-yellowfin-tuna",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Yellowfin Tuna",
+      "subtitle": "Deep-water tuna",
+      "body": "A powerful tuna out in the Gulf of Leonida. One of the bigger catches; large saltwater lure required.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Saltwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Large Saltwater Lure"
+        }
+      ],
+      "tags": [
+        "Fishing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-yellowtail-snapper",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Yellowtail Snapper",
+      "subtitle": "Snapper with a yellow stripe",
+      "body": "A snapper with a bright yellow tail stripe. The starter saltwater lure works.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Saltwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Small Saltwater Lure"
+        },
+        {
+          "label": "Lure cost",
+          "value": "Free (starter lure)"
+        }
+      ],
+      "tags": [
+        "Fishing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-wildlife-common-snook",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Common Snook",
+      "subtitle": "Inshore fish around Vice Beach islands",
+      "body": "A sleek inshore fish with a dark side line, common around the islands off Vice Beach.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Saltwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Medium Saltwater Lure"
+        }
+      ],
+      "tags": [
+        "Fishing"
+      ],
+      "spoiler": false
     }
   ]
 }
