@@ -1,5 +1,5 @@
 {
-  "version": 69,
+  "version": 70,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -20828,6 +20828,207 @@
           "value": "Throwable"
         }
       ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-lapwing-nimbus",
+      "section": "vehicles",
+      "category": "Planes",
+      "name": "Lapwing Nimbus",
+      "subtitle": "Twin-engine private jet",
+      "body": "A sleek private charter jet with room for a small group. Much faster than the prop planes you'll fly early on.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Plane (jet)"
+        },
+        {
+          "label": "Seats",
+          "value": "8"
+        }
+      ],
+      "tags": [
+        "Aircraft"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-pegassi-bati-801",
+      "section": "vehicles",
+      "category": "Motorcycle",
+      "name": "Pegassi Bati 801",
+      "subtitle": "Italian-style sport bike",
+      "body": "A classic GTA sport bike that returns in Leonida. Quick and nimble, great for weaving through Vice City traffic.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Motorcycle (sport)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-police-buzzard",
+      "section": "vehicles",
+      "category": "Helicopters",
+      "name": "Police Buzzard",
+      "subtitle": "Small police helicopter",
+      "body": "A compact police chopper in a Vice City police paint scheme. Expect to see it overhead when your wanted level climbs.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Helicopter"
+        },
+        {
+          "label": "Type",
+          "value": "Police"
+        }
+      ],
+      "tags": [
+        "Aircraft",
+        "Police"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-nine1nine",
+      "section": "places",
+      "category": "Club",
+      "name": "NINE1NINE",
+      "subtitle": "Big neon nightclub in Downtown Vice City",
+      "body": "One of Vice City's flashiest nightclubs. It sits right next to The Vault, so the two make an easy night out.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Nightclub"
+        },
+        {
+          "label": "Area",
+          "value": "Downtown Vice City, next to The Vault"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-places-the-thirsty-wolf",
+      "section": "places",
+      "category": "Bar",
+      "name": "The Thirsty Wolf",
+      "subtitle": "Roadside biker bar",
+      "body": "A rough roadhouse out in rural Leonida where the local bikers hang out. One of the 122 bars on the map.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Bar (biker bar)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-collectibles-magazine-styles",
+      "section": "collectibles",
+      "category": "Collectible",
+      "name": "Magazine Styles",
+      "subtitle": "Outfits and tattoos spotted in magazines",
+      "body": "Styles are looks you discover for Jason and Lucia, plus tattoos you find in magazines. They're tracked under Styles in the Progress menu, alongside the luxury watches.",
+      "facts": [
+        {
+          "label": "Total",
+          "value": "79 (13 Jason, 15 Lucia, 17 tattoos, 34 watches)"
+        },
+        {
+          "label": "For 100%",
+          "value": "70"
+        }
+      ],
+      "tags": [
+        "100%"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-characters-stefanie",
+      "section": "characters",
+      "category": "Supporting",
+      "name": "Stefanie",
+      "subtitle": "Social worker who talks with Lucia",
+      "body": "A social worker with the Leonida Department of Corrections. She's the person Lucia speaks to in the very first trailer.",
+      "facts": [
+        {
+          "label": "Works for",
+          "value": "Leonida Department of Corrections"
+        }
+      ],
+      "tags": [],
+      "spoiler": true
+    },
+    {
+      "id": "db-characters-dre",
+      "section": "characters",
+      "category": "Minor",
+      "name": "Dre",
+      "subtitle": "Nightclub manager",
+      "body": "Manages one of Vice City's nightclubs.",
+      "facts": [
+        {
+          "label": "Role",
+          "value": "Nightclub manager"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-characters-chester",
+      "section": "characters",
+      "category": "Minor",
+      "name": "Chester",
+      "subtitle": "Runs Chester's Music",
+      "body": "The owner of Chester's Music, a local music shop.",
+      "facts": [
+        {
+          "label": "Business",
+          "value": "Chester's Music"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-characters-dale",
+      "section": "characters",
+      "category": "Minor",
+      "name": "Dale",
+      "subtitle": "Runs Dale's Shopwell",
+      "body": "The man behind Dale's Shopwell, a neighborhood store.",
+      "facts": [
+        {
+          "label": "Business",
+          "value": "Dale's Shopwell"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-characters-iris",
+      "section": "characters",
+      "category": "Minor",
+      "name": "Iris",
+      "subtitle": "Runs Iris Laundry",
+      "body": "The owner of Iris Laundry, a local laundromat.",
+      "facts": [
+        {
+          "label": "Business",
+          "value": "Iris Laundry"
+        }
+      ],
+      "tags": [],
       "spoiler": false
     }
   ]
