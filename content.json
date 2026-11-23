@@ -1,5 +1,5 @@
 {
-  "version": 71,
+  "version": 72,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -21474,6 +21474,363 @@
       ],
       "tags": [],
       "spoiler": false
+    },
+    {
+      "id": "db-places-xero-gas",
+      "section": "places",
+      "category": "Gas station",
+      "name": "Xero Gas",
+      "subtitle": "Leonida's biggest gas chain",
+      "body": "The most common fuel stop in the state, with stations spread across every county from the Keys to the far north.",
+      "facts": [
+        {
+          "label": "Locations",
+          "value": "19"
+        },
+        {
+          "label": "Counties",
+          "value": "Mariana, Vice-Dale, Kelly, Leonard and Lummox"
+        },
+        {
+          "label": "Map icon",
+          "value": "Blue fuel pump, shown once the area is uncovered"
+        }
+      ],
+      "tags": [
+        "fuel"
+      ],
+      "spoiler": false,
+      "region": "Statewide"
+    },
+    {
+      "id": "db-places-ron-gas",
+      "section": "places",
+      "category": "Gas station",
+      "name": "Ron Gas",
+      "subtitle": "Vice City fuel chain",
+      "body": "A gas brand found only around Vice City, mostly in the southern and western neighborhoods.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "Southside, Salton, Balsero, Little Cuba, Bayside and Washington Beach"
+        },
+        {
+          "label": "County",
+          "value": "Vice-Dale"
+        }
+      ],
+      "tags": [
+        "fuel"
+      ],
+      "spoiler": false,
+      "region": "Vice-Dale County"
+    },
+    {
+      "id": "db-places-arrow-gas",
+      "section": "places",
+      "category": "Gas station",
+      "name": "Arrow Gas",
+      "subtitle": "Gas chain in Vice City and the north",
+      "body": "Arrow stations are dotted around Vice City, plus a few up in Port Gellhorn and Leonard County.",
+      "facts": [
+        {
+          "label": "Locations",
+          "value": "7"
+        },
+        {
+          "label": "Where to find",
+          "value": "Hamlet, near VCIA, La Perle, Decor District, Port Gellhorn, Belville and Waning Sands"
+        }
+      ],
+      "tags": [
+        "fuel"
+      ],
+      "spoiler": false,
+      "region": "Vice-Dale & Leonard counties"
+    },
+    {
+      "id": "db-places-247-gas",
+      "section": "places",
+      "category": "Gas station",
+      "name": "247 Gas",
+      "subtitle": "Fuel stops across the state",
+      "body": "A smaller chain with one or two stations in most counties, handy on long drives between regions.",
+      "facts": [
+        {
+          "label": "Locations",
+          "value": "6"
+        },
+        {
+          "label": "Where to find",
+          "value": "Key Lento, West Vice-Dale County, Emerald Springs, Belville, West Kalaga and Millport"
+        }
+      ],
+      "tags": [
+        "fuel"
+      ],
+      "spoiler": false,
+      "region": "Statewide"
+    },
+    {
+      "id": "db-places-globe-oil-gas",
+      "section": "places",
+      "category": "Gas station",
+      "name": "Globe Oil Gas",
+      "subtitle": "Four-station gas brand",
+      "body": "Globe Oil runs a handful of stations split between the Keys, Vice City and the north.",
+      "facts": [
+        {
+          "label": "Locations",
+          "value": "4"
+        },
+        {
+          "label": "Where to find",
+          "value": "Watson Bay, Hamlet, Crosstown and Grayson"
+        }
+      ],
+      "tags": [
+        "fuel"
+      ],
+      "spoiler": false,
+      "region": "Multiple locations"
+    },
+    {
+      "id": "db-places-ltd-gas",
+      "section": "places",
+      "category": "Gas station",
+      "name": "LTD Gas",
+      "subtitle": "Small gas chain",
+      "body": "LTD has just a few stations, one in the Keys and two around Vice City.",
+      "facts": [
+        {
+          "label": "Locations",
+          "value": "3"
+        },
+        {
+          "label": "Where to find",
+          "value": "Capri, Hamlet and Ocean Beach"
+        }
+      ],
+      "tags": [
+        "fuel"
+      ],
+      "spoiler": false,
+      "region": "Multiple locations"
+    },
+    {
+      "id": "db-places-alpha-gas",
+      "section": "places",
+      "category": "Gas station",
+      "name": "Alpha Gas",
+      "subtitle": "Two stations up north",
+      "body": "The rarest of the gas chains, with one station in Port Gellhorn and one in Belville.",
+      "facts": [
+        {
+          "label": "Locations",
+          "value": "2"
+        },
+        {
+          "label": "Where to find",
+          "value": "Port Gellhorn and Belville"
+        }
+      ],
+      "tags": [
+        "fuel"
+      ],
+      "spoiler": false,
+      "region": "Multiple locations"
+    },
+    {
+      "id": "db-places-ron-car-wash",
+      "section": "places",
+      "category": "Car wash",
+      "name": "RON Car Wash",
+      "subtitle": "Vice City car wash chain",
+      "body": "Run by the same brand as Ron Gas, this is the most common place to get your ride cleaned up in Vice City.",
+      "facts": [
+        {
+          "label": "Locations",
+          "value": "3"
+        },
+        {
+          "label": "Where to find",
+          "value": "Salton, Balsero and Bayside"
+        }
+      ],
+      "tags": [
+        "car wash"
+      ],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-places-xero-car-wash",
+      "section": "places",
+      "category": "Car wash",
+      "name": "Xero Car Wash",
+      "subtitle": "Car washes from the Xero brand",
+      "body": "Xero's car washes are found at two spots in Vice City.",
+      "facts": [
+        {
+          "label": "Locations",
+          "value": "2"
+        },
+        {
+          "label": "Where to find",
+          "value": "Southside and La Perle"
+        }
+      ],
+      "tags": [
+        "car wash"
+      ],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-places-park-n-glow",
+      "section": "places",
+      "category": "Car wash",
+      "name": "Park N Glow",
+      "subtitle": "Independent car wash",
+      "body": "A standalone car wash in Vice City, one of only six car washes in the whole game.",
+      "facts": [
+        {
+          "label": "Locations",
+          "value": "1"
+        },
+        {
+          "label": "Where to find",
+          "value": "Vice City"
+        }
+      ],
+      "tags": [
+        "car wash"
+      ],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-places-tech-point",
+      "section": "places",
+      "category": "Electronics Store",
+      "name": "Tech Point",
+      "subtitle": "Two-store electronics chain",
+      "body": "A gadget shop selling headphones and phone accessories, with branches in Tequesta and Ocean Beach.",
+      "facts": [
+        {
+          "label": "Locations",
+          "value": "2"
+        },
+        {
+          "label": "Where to find",
+          "value": "Tequesta and Ocean Beach"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-places-electronick",
+      "section": "places",
+      "category": "Electronics Store",
+      "name": "Electronick",
+      "subtitle": "Downtown electronics shop",
+      "body": "A tech store in Downtown Vice City for headphones and phone cases.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "Downtown"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-places-simply-sound",
+      "section": "places",
+      "category": "Electronics Store",
+      "name": "Simply Sound",
+      "subtitle": "Downtown audio shop",
+      "body": "An audio-focused electronics store in Downtown Vice City.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "Downtown"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-places-super-friki-inc",
+      "section": "places",
+      "category": "Electronics Store",
+      "name": "Super Friki Inc.",
+      "subtitle": "Little Cuba gadget store",
+      "body": "A quirky electronics store in Little Cuba.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "Little Cuba"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-places-cell-phone-zone",
+      "section": "places",
+      "category": "Electronics Store",
+      "name": "Cell Phone Zone",
+      "subtitle": "Crosstown phone shop",
+      "body": "A phone and accessories store in Crosstown.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "Crosstown"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Crosstown, Vice City"
+    },
+    {
+      "id": "db-places-zeke-s-gadgets",
+      "section": "places",
+      "category": "Electronics Store",
+      "name": "Zeke's Gadgets",
+      "subtitle": "Rockridge electronics store",
+      "body": "An electronics shop in Rockridge for headphones and phone cases.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "Rockridge"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-places-best-priced-electrical-supplies",
+      "section": "places",
+      "category": "Electronics Store",
+      "name": "Best Priced Electrical Supplies",
+      "subtitle": "La Perle electronics shop",
+      "body": "A budget electronics store in La Perle.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "La Perle"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "La Perle, Vice City"
     }
   ]
 }
