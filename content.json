@@ -1,5 +1,5 @@
 {
-  "version": 59,
+  "version": 60,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -16217,6 +16217,476 @@
       ],
       "tags": [],
       "spoiler": false
+    },
+    {
+      "id": "db-vehicles-declasse-granger-3600lx",
+      "section": "vehicles",
+      "category": "SUV",
+      "name": "Declasse Granger 3600LX",
+      "subtitle": "Full-size Declasse SUV",
+      "body": "A large, full-size SUV from Declasse.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Declasse"
+        },
+        {
+          "label": "Class",
+          "value": "SUV"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-obey-tailgater-s",
+      "section": "vehicles",
+      "category": "Sedan",
+      "name": "Obey Tailgater S",
+      "subtitle": "Sportier take on the Tailgater",
+      "body": "A sharper, sportier version of the Obey Tailgater sedan.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Obey"
+        },
+        {
+          "label": "Class",
+          "value": "Sedan"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-bravado-gresley-xt",
+      "section": "vehicles",
+      "category": "SUV",
+      "name": "Bravado Gresley XT",
+      "subtitle": "Four-door Bravado SUV",
+      "body": "A mid-size Bravado SUV you'll see a lot in everyday traffic.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Bravado"
+        },
+        {
+          "label": "Class",
+          "value": "SUV"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-fincredible-laird-350",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Fincredible Laird 350",
+      "subtitle": "Unique Laird 350 bolt-action rifle",
+      "body": "A special-edition version of the Fortune & Son Laird 350 bolt-action rifle.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Fortune & Son Laird 350"
+        },
+        {
+          "label": "Type",
+          "value": "Sniper rifle"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-twin-s-laird-350",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Twin's Laird 350",
+      "subtitle": "Unique Laird 350 found in the world",
+      "body": "A one-off version of the Laird 350 rifle that you pick up out in the world instead of buying.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Fortune & Son Laird 350"
+        },
+        {
+          "label": "Type",
+          "value": "Sniper rifle"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-fib-sm-69",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "FIB SM-69",
+      "subtitle": "FIB-branded SM-69 rifle",
+      "body": "A government-agency version of the Shrewsbury SM-69 hunting rifle.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Shrewsbury SM-69"
+        },
+        {
+          "label": "Type",
+          "value": "Sniper rifle"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-firebreak-sm-69",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Firebreak SM-69",
+      "subtitle": "Variant of the SM-69 rifle",
+      "body": "Another special version of the Shrewsbury SM-69.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Shrewsbury SM-69"
+        },
+        {
+          "label": "Type",
+          "value": "Sniper rifle"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-iaa-sms-01",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "IAA SMS-01",
+      "subtitle": "IAA-branded SMS-01 rifle",
+      "body": "An agency-themed version of the Shrewsbury SMS-01 sniper rifle.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Shrewsbury SMS-01"
+        },
+        {
+          "label": "Type",
+          "value": "Sniper rifle"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-internal-affairs-ff-sr",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Internal Affairs FF-SR",
+      "subtitle": "Variant of the Fairview FF-SR",
+      "body": "A special version of the Fairview FF-SR sniper rifle.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Fairview FF-SR"
+        },
+        {
+          "label": "Type",
+          "value": "Sniper rifle"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-kingpin-heathen",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Kingpin Heathen",
+      "subtitle": "Unique Heathen assault rifle",
+      "body": "A one-off version of the Hillinger Heathen assault rifle.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Hillinger Heathen"
+        },
+        {
+          "label": "Type",
+          "value": "Assault rifle"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-la-polilla-negra-kz-59",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "La Polilla Negra KZ-59",
+      "subtitle": "Cartel-styled KZ-59",
+      "body": "A gang-themed version of the Kozlov KZ-59 assault rifle.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Kozlov KZ-59"
+        },
+        {
+          "label": "Type",
+          "value": "Assault rifle"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-metal-detector",
+      "section": "weapons",
+      "category": "Tool",
+      "name": "Metal Detector",
+      "subtitle": "Finds buried and sunken items",
+      "body": "A short-range detector that also works underwater. Bring it on dives to track down Kenton's sunken treasure.",
+      "facts": [
+        {
+          "label": "Works underwater",
+          "value": "Yes"
+        },
+        {
+          "label": "Used for",
+          "value": "Kenton's treasure dives"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-richardson-hunting-supplies",
+      "section": "places",
+      "category": "Gun store",
+      "name": "Richardson Hunting Supplies",
+      "subtitle": "Hunting-themed gun shop",
+      "body": "An independent gun store with an outdoors and hunting feel, out in Mariana County.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Gun store"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Mariana County"
+    },
+    {
+      "id": "db-places-rusty-willis-jr-hunting-supplies",
+      "section": "places",
+      "category": "Gun store",
+      "name": "Rusty Willis Jr. Hunting Supplies",
+      "subtitle": "Hunting-themed gun shop",
+      "body": "A countryside hunting store that sells guns and ammo.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Gun store"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-hamlet-traders",
+      "section": "places",
+      "category": "Gun store",
+      "name": "Hamlet Traders",
+      "subtitle": "Independent gun store",
+      "body": "A small independent gun shop, another option besides Ammu-Nation.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Gun store"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-vice-city-firearms",
+      "section": "places",
+      "category": "Gun store",
+      "name": "Vice City Firearms",
+      "subtitle": "Gun store in Vice City",
+      "body": "One of the city's independent gun stores for weapons and ammo.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Gun store"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-places-vice-city-gun-pawn",
+      "section": "places",
+      "category": "Gun store",
+      "name": "Vice City Gun & Pawn",
+      "subtitle": "Pawn shop and gun store",
+      "body": "A Vice City pawn shop that also sells firearms.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Pawn and gun store"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-places-leaf-links-golf-challenge",
+      "section": "places",
+      "category": "Activity hub",
+      "name": "Leaf Links Golf Challenge",
+      "subtitle": "Full-size golf course",
+      "body": "Play a proper round of golf at Leaf Links Golf Club. Unlike mini golf, it doesn't count toward 100% completion.",
+      "facts": [
+        {
+          "label": "Activity",
+          "value": "Golf"
+        },
+        {
+          "label": "Counts for 100%",
+          "value": "No"
+        }
+      ],
+      "tags": [
+        "Sports"
+      ],
+      "spoiler": false,
+      "region": "Leaf Links"
+    },
+    {
+      "id": "db-places-mount-hailes-golf-challenge",
+      "section": "places",
+      "category": "Activity hub",
+      "name": "Mount Hailes Golf Challenge",
+      "subtitle": "Second full-size golf course",
+      "body": "Leonida's other full golf course, for when you want a change from Leaf Links.",
+      "facts": [
+        {
+          "label": "Activity",
+          "value": "Golf"
+        }
+      ],
+      "tags": [
+        "Sports"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-sinfrontera-national-bank",
+      "section": "places",
+      "category": "Landmark",
+      "name": "Sinfrontera National Bank",
+      "subtitle": "Tequesta bank tied to the story",
+      "body": "A bank in Tequesta that becomes a main-story target in Chapter 3.",
+      "facts": [
+        {
+          "label": "Story mission",
+          "value": "Sinfrontera National Bank (Chapter 3)"
+        },
+        {
+          "label": "Mission giver",
+          "value": "Raul"
+        }
+      ],
+      "tags": [],
+      "spoiler": true,
+      "region": "Tequesta"
+    },
+    {
+      "id": "db-places-the-banana-hole",
+      "section": "places",
+      "category": "Bar",
+      "name": "The Banana Hole",
+      "subtitle": "Bar in Ocean Beach",
+      "body": "A Vice Beach bar. A No Flusher tag can be scanned nearby.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Bar"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Ocean Beach"
+    },
+    {
+      "id": "db-collectibles-no-flusher-tags",
+      "section": "collectibles",
+      "category": "Scans",
+      "name": "No Flusher Tags",
+      "subtitle": "Utility markings to scan with WAiNK",
+      "body": "Spray-painted utility tags hidden around the map. Scan them with the WAiNK app. One is near The Banana Hole in Ocean Beach.",
+      "facts": [
+        {
+          "label": "How to collect",
+          "value": "Scan with WAiNK"
+        }
+      ],
+      "tags": [
+        "WAiNK"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-activities-kitty-litter-labs",
+      "section": "activities",
+      "category": "Side job",
+      "name": "Kitty Litter Labs",
+      "subtitle": "Tyrone's lab-busting side job",
+      "body": "Hunt down drug labs around Vice City, marked by pink smoke, and destroy them with fire or explosives. Each one pays out through BuckMe.",
+      "facts": [
+        {
+          "label": "Unlock",
+          "value": "After the Chapter 3 mission Here, Kitty Kitty"
+        },
+        {
+          "label": "Given by",
+          "value": "Tyrone"
+        },
+        {
+          "label": "Pay per lab",
+          "value": "$2,000–$2,500"
+        }
+      ],
+      "tags": [],
+      "spoiler": true,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-activities-tree-effigies",
+      "section": "activities",
+      "category": "Mysteries",
+      "name": "Tree Effigies",
+      "subtitle": "Kirk's second cryptid task",
+      "body": "Inspect three strange effigies in the Pelican Valley swamps for Kirk.",
+      "facts": [
+        {
+          "label": "Given by",
+          "value": "Kirk"
+        },
+        {
+          "label": "Unlock",
+          "value": "After Search for the Skunk Ape"
+        },
+        {
+          "label": "Effigies",
+          "value": "3"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Pelican Valley"
     }
   ]
 }
