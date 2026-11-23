@@ -1,5 +1,5 @@
 {
-  "version": 60,
+  "version": 61,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -16687,6 +16687,480 @@
       "tags": [],
       "spoiler": false,
       "region": "Pelican Valley"
+    },
+    {
+      "id": "db-vehicles-twinstripe-vigero",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Twinstripe Vigero",
+      "subtitle": "One-off street racer Vigero",
+      "body": "A one-of-a-kind Vigero with racing stripes, listed among the Street Racer standout vehicles.",
+      "facts": [
+        {
+          "label": "Standout type",
+          "value": "Street Racer"
+        },
+        {
+          "label": "Base model",
+          "value": "Vigero"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-drifter-elegy",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Drifter Elegy",
+      "subtitle": "Drift-styled one-off Elegy",
+      "body": "A drift-build take on the Annis Elegy. More than one has turned up around the map.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Annis Elegy"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-maibatsu-caddy",
+      "section": "vehicles",
+      "category": "Utility",
+      "name": "Maibatsu Caddy",
+      "subtitle": "Small utility cart",
+      "body": "A little utility cart of the kind you'll spot around airports and resorts.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Maibatsu"
+        },
+        {
+          "label": "Class",
+          "value": "Utility"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-maibatsu-iota",
+      "section": "vehicles",
+      "category": "Truck",
+      "name": "Maibatsu Iota",
+      "subtitle": "Light commercial truck",
+      "body": "A small work truck that shows up in regular traffic.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Maibatsu"
+        },
+        {
+          "label": "Class",
+          "value": "Truck"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-vapid-shuttle",
+      "section": "vehicles",
+      "category": "Van",
+      "name": "Vapid Shuttle",
+      "subtitle": "Passenger shuttle van",
+      "body": "Vapid's people-carrier van, used for shuttle runs.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Vapid"
+        },
+        {
+          "label": "Class",
+          "value": "Van"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-seashark-hydroblast",
+      "section": "vehicles",
+      "category": "Boat",
+      "name": "Seashark Hydroblast",
+      "subtitle": "Seashark personal watercraft",
+      "body": "Another personal watercraft from the Seashark brand.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Seashark"
+        },
+        {
+          "label": "Class",
+          "value": "Watercraft"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-kozlov-little-cuba-hind",
+      "section": "weapons",
+      "category": "Assault Rifle",
+      "name": "Kozlov Little Cuba Hind",
+      "subtitle": "Shop-exclusive Hind",
+      "body": "A unique version of the compact Kozlov Hind that only one Little Cuba pawn shop sells.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Kozlov Hind"
+        },
+        {
+          "label": "Price",
+          "value": "$3,570"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Martez Empeños, Little Cuba (only)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Little Cuba"
+    },
+    {
+      "id": "db-weapons-schlamm-dazzler-dw-9",
+      "section": "weapons",
+      "category": "SMG",
+      "name": "Schlamm Dazzler DW-9",
+      "subtitle": "Flashy shop-exclusive DW-9",
+      "body": "A unique, eye-catching DW-9 sold at a single gun store in Stockyard.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Schlamm DW-9"
+        },
+        {
+          "label": "Price",
+          "value": "$3,680"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Iron & Oak, Stockyard (only)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Stockyard"
+    },
+    {
+      "id": "db-weapons-mason-and-keen-woodhatch-longshot",
+      "section": "weapons",
+      "category": "Shotgun",
+      "name": "Mason & Keen Woodhatch Longshot",
+      "subtitle": "Store-branded Longshot",
+      "body": "A Longshot shotgun in Woodhatch's own branding, sold at their Capri store.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Mason & Keen Longshot"
+        },
+        {
+          "label": "Price",
+          "value": "$2,990"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Woodhatch, Capri"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Capri"
+    },
+    {
+      "id": "db-weapons-fairview-island-poacher-ff-50",
+      "section": "weapons",
+      "category": "Sniper Rifle",
+      "name": "Fairview Island Poacher FF-50",
+      "subtitle": "Unique FF-50 variant",
+      "body": "A one-off version of the heavy FF-50 sniper rifle. How to get it hasn't been pinned down yet.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Fairview"
+        },
+        {
+          "label": "Base weapon",
+          "value": "Fairview FF-50"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-scorpio-swamp-bait-akulus",
+      "section": "weapons",
+      "category": "Handgun",
+      "name": "Scorpio Swamp Bait Akulus",
+      "subtitle": "Unique revolver in the marsh",
+      "body": "A unique Akulus revolver left lying in a swamp shack.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Scorpio Akulus"
+        },
+        {
+          "label": "Where to find",
+          "value": "Floor of a waterfront building in the marsh southwest of Hamlet"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Hamlet"
+    },
+    {
+      "id": "db-weapons-coil-shocker",
+      "section": "weapons",
+      "category": "Handgun",
+      "name": "Coil Shocker",
+      "subtitle": "Electric stun gun",
+      "body": "Coil's taser. Use it to drop someone without killing them.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Coil"
+        },
+        {
+          "label": "Type",
+          "value": "Taser"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-wortham-w-22",
+      "section": "weapons",
+      "category": "Rifle",
+      "name": "Wortham W-22",
+      "subtitle": "Light small-game rifle",
+      "body": "The standard small-game hunting rifle, and the base gun behind the Kingfishers W-22.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Wortham"
+        },
+        {
+          "label": "Class",
+          "value": "Small game rifle"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-redneck-w-22",
+      "section": "weapons",
+      "category": "Rifle",
+      "name": "Redneck W-22",
+      "subtitle": "Unique W-22 variant",
+      "body": "A rough-and-ready unique version of the W-22 small-game rifle.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Wortham W-22"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-shark-knife",
+      "section": "weapons",
+      "category": "Melee",
+      "name": "Shark Knife",
+      "subtitle": "Unique knife on the seabed",
+      "body": "A unique knife you'll need to dive for.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Combat Knife"
+        },
+        {
+          "label": "Where to find",
+          "value": "Seabed north of the Saint Attaway Islands, beside a sunken shark cage in an underwater ravine"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-tallaloko-knife",
+      "section": "weapons",
+      "category": "Melee",
+      "name": "Tallaloko Knife",
+      "subtitle": "Unique knife in a lake cabin",
+      "body": "A unique knife tucked away in a locked room of a lakeside cabin.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Combat Knife"
+        },
+        {
+          "label": "Where to find",
+          "value": "Locked upstairs room of the Evergreen cabin, west side of Lake Tallaloko"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-explorer-s-knife",
+      "section": "weapons",
+      "category": "Melee",
+      "name": "Explorer's Knife",
+      "subtitle": "Unique knife at the end of a cave dive",
+      "body": "A unique knife waiting at the end of an underwater cave route. Bring scuba gear.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Combat Knife"
+        },
+        {
+          "label": "Where to find",
+          "value": "Underground Emerald River, reached by diving through Selkie Hole"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-the-inked-mermaid",
+      "section": "places",
+      "category": "Tattoo Studio",
+      "name": "The Inked Mermaid",
+      "subtitle": "Tattoo parlor in the Keys",
+      "body": "A Keys tattoo shop focused on classic American traditional designs.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Tattoo parlor"
+        },
+        {
+          "label": "Style",
+          "value": "American Traditional"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Key Lento"
+    },
+    {
+      "id": "db-places-cross-my-heart-tattoos",
+      "section": "places",
+      "category": "Tattoo Studio",
+      "name": "Cross My Heart Tattoos",
+      "subtitle": "Tattoo shop in Vice City",
+      "body": "A Vice City parlor for bold, colorful new-school tattoos.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Tattoo parlor"
+        },
+        {
+          "label": "Style",
+          "value": "New School"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Vice City"
+    },
+    {
+      "id": "db-places-game-horde",
+      "section": "places",
+      "category": "Electronics Store",
+      "name": "Game Horde",
+      "subtitle": "Electronics shop in Port Gellhorn",
+      "body": "Port Gellhorn's electronics store, the only one in Kelly County.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Electronics store"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Port Gellhorn"
+    },
+    {
+      "id": "db-places-barnacle-beauties",
+      "section": "places",
+      "category": "Hair Salon",
+      "name": "Barnacle Beauties",
+      "subtitle": "Hair salon in the Keys",
+      "body": "A salon in the Leonida Keys where you can change your hairstyle.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Hair salon"
+        },
+        {
+          "label": "Service",
+          "value": "Change hairstyle"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Leonida Keys"
+    },
+    {
+      "id": "db-places-salon-perez",
+      "section": "places",
+      "category": "Hair Salon",
+      "name": "Salon Pérez",
+      "subtitle": "Hair salon in Vice-Dale",
+      "body": "A Vice-Dale County salon for a fresh haircut.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Hair salon"
+        },
+        {
+          "label": "Service",
+          "value": "Change hairstyle"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Vice-Dale County"
+    },
+    {
+      "id": "db-wildlife-stoplight-parrotfish",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Stoplight Parrotfish",
+      "subtitle": "Reef fish for Cal's challenge",
+      "body": "A colorful reef fish. Landing one over 2 lb completes Cal's first fishing challenge, Catch A Bigger Fish.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Saltwater fish"
+        },
+        {
+          "label": "Where to find",
+          "value": "Gambit Bay"
+        },
+        {
+          "label": "Linked challenge",
+          "value": "Cal's Catch A Bigger Fish"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Gambit Bay"
     }
   ]
 }
