@@ -1,5 +1,5 @@
 {
-  "version": 66,
+  "version": 67,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -19756,6 +19756,306 @@
       "region": "Vice-Dale County",
       "tags": [
         "Clothing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-layin-ink",
+      "section": "places",
+      "category": "Tattoo Studio",
+      "name": "Layin' Ink",
+      "subtitle": "Black & Gray tattoo studio",
+      "body": "A Vice-Dale studio specializing in black-and-gray shaded work. Stop in to buy new tattoos for Jason or Lucia.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Tattoo studio"
+        },
+        {
+          "label": "Style",
+          "value": "Black & Gray"
+        },
+        {
+          "label": "Where to find",
+          "value": "Vice-Dale County"
+        }
+      ],
+      "region": "Vice-Dale County",
+      "tags": [
+        "Tattoos"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-inkomplete-tattoo-co",
+      "section": "places",
+      "category": "Tattoo Studio",
+      "name": "Inkomplete Tattoo Co.",
+      "subtitle": "Old School tattoo studio",
+      "body": "A Vice-Dale parlor for classic old-school flash designs. Stop in to buy new tattoos for Jason or Lucia.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Tattoo studio"
+        },
+        {
+          "label": "Style",
+          "value": "Old School"
+        },
+        {
+          "label": "Where to find",
+          "value": "Vice-Dale County"
+        }
+      ],
+      "region": "Vice-Dale County",
+      "tags": [
+        "Tattoos"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-twa-ponya-tattoo",
+      "section": "places",
+      "category": "Tattoo Studio",
+      "name": "Twa Ponya Tattoo",
+      "subtitle": "Neo-Traditional tattoo studio",
+      "body": "A Vice-Dale studio offering neo-traditional pieces with bold lines and rich color. Stop in to buy new tattoos for Jason or Lucia.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Tattoo studio"
+        },
+        {
+          "label": "Style",
+          "value": "Neo-Traditional"
+        },
+        {
+          "label": "Where to find",
+          "value": "Vice-Dale County"
+        }
+      ],
+      "region": "Vice-Dale County",
+      "tags": [
+        "Tattoos"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-black-spot-tattoo",
+      "section": "places",
+      "category": "Tattoo Studio",
+      "name": "Black Spot Tattoo",
+      "subtitle": "Geometric & Blackwork tattoo studio",
+      "body": "A Vice-Dale studio focused on geometric patterns and solid blackwork. Stop in to buy new tattoos for Jason or Lucia.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Tattoo studio"
+        },
+        {
+          "label": "Style",
+          "value": "Geometric & Blackwork"
+        },
+        {
+          "label": "Where to find",
+          "value": "Vice-Dale County"
+        }
+      ],
+      "region": "Vice-Dale County",
+      "tags": [
+        "Tattoos"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-blood-sugar-tattoo",
+      "section": "places",
+      "category": "Tattoo Studio",
+      "name": "Blood Sugar Tattoo",
+      "subtitle": "Lettering tattoo studio",
+      "body": "A Kelly County shop for script and lettering tattoos. Stop in to buy new tattoos for Jason or Lucia.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Tattoo studio"
+        },
+        {
+          "label": "Style",
+          "value": "Lettering"
+        },
+        {
+          "label": "Where to find",
+          "value": "Kelly County"
+        }
+      ],
+      "region": "Kelly County",
+      "tags": [
+        "Tattoos"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-freedom-tattoo",
+      "section": "places",
+      "category": "Tattoo Studio",
+      "name": "Freedom Tattoo",
+      "subtitle": "Stick & Poke tattoo studio",
+      "body": "A Kelly County shop offering hand-poked, stick-and-poke style tattoos. Stop in to buy new tattoos for Jason or Lucia.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Tattoo studio"
+        },
+        {
+          "label": "Style",
+          "value": "Stick & Poke"
+        },
+        {
+          "label": "Where to find",
+          "value": "Kelly County"
+        }
+      ],
+      "region": "Kelly County",
+      "tags": [
+        "Tattoos"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-hair-by-clair",
+      "section": "places",
+      "category": "Hair Salon",
+      "name": "Hair By Clair",
+      "subtitle": "Hair & beauty in Mariana",
+      "body": "A salon down in Mariana County where you can switch up your look.",
+      "facts": [
+        {
+          "label": "Service",
+          "value": "Change hairstyle"
+        },
+        {
+          "label": "Where to find",
+          "value": "Mariana County"
+        }
+      ],
+      "region": "Mariana County",
+      "tags": [
+        "Hair"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-crosstown-cutz",
+      "section": "places",
+      "category": "Hair Salon",
+      "name": "Crosstown Cutz",
+      "subtitle": "Hair & beauty in Vice-Dale",
+      "body": "A Vice-Dale County spot for a new haircut.",
+      "facts": [
+        {
+          "label": "Service",
+          "value": "Change hairstyle"
+        },
+        {
+          "label": "Where to find",
+          "value": "Vice-Dale County"
+        }
+      ],
+      "region": "Vice-Dale County",
+      "tags": [
+        "Hair"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-onyx-salon",
+      "section": "places",
+      "category": "Hair Salon",
+      "name": "Onyx Salon",
+      "subtitle": "Hair & beauty in Vice-Dale",
+      "body": "A Vice-Dale County salon where you can restyle your hair.",
+      "facts": [
+        {
+          "label": "Service",
+          "value": "Change hairstyle"
+        },
+        {
+          "label": "Where to find",
+          "value": "Vice-Dale County"
+        }
+      ],
+      "region": "Vice-Dale County",
+      "tags": [
+        "Hair"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-a-better-you",
+      "section": "places",
+      "category": "Hair Salon",
+      "name": "A Better You",
+      "subtitle": "Hair & beauty in Leonard",
+      "body": "The only salon listed in Leonard County, handy if you're far from Vice City.",
+      "facts": [
+        {
+          "label": "Service",
+          "value": "Change hairstyle"
+        },
+        {
+          "label": "Where to find",
+          "value": "Leonard County"
+        }
+      ],
+      "region": "Leonard County",
+      "tags": [
+        "Hair"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-pearl-house-hair-salon",
+      "section": "places",
+      "category": "Hair Salon",
+      "name": "Pearl House Hair Salon",
+      "subtitle": "Hair & beauty in Kelly",
+      "body": "A Kelly County salon for changing your hairstyle.",
+      "facts": [
+        {
+          "label": "Service",
+          "value": "Change hairstyle"
+        },
+        {
+          "label": "Where to find",
+          "value": "Kelly County"
+        }
+      ],
+      "region": "Kelly County",
+      "tags": [
+        "Hair"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-captain-starlings-barber-shop",
+      "section": "places",
+      "category": "Hair Salon",
+      "name": "Captain Starlings Barber Shop",
+      "subtitle": "Hair & beauty in Kelly",
+      "body": "A Kelly County barbershop where you can get a fresh cut.",
+      "facts": [
+        {
+          "label": "Service",
+          "value": "Change hairstyle"
+        },
+        {
+          "label": "Where to find",
+          "value": "Kelly County"
+        }
+      ],
+      "region": "Kelly County",
+      "tags": [
+        "Hair"
       ],
       "spoiler": false
     }
