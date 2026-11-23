@@ -1,5 +1,5 @@
 {
-  "version": 68,
+  "version": 69,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -20497,6 +20497,336 @@
       ],
       "tags": [
         "Unique"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-vice-dale-county",
+      "section": "places",
+      "category": "Regions",
+      "name": "Vice-Dale County",
+      "subtitle": "South-east county built around Vice City",
+      "body": "The south-eastern county of Leonida and the state's urban heart. It takes in Vice City along with its beaches and the international airport.",
+      "facts": [
+        {
+          "label": "Position",
+          "value": "South-east Leonida"
+        },
+        {
+          "label": "Includes",
+          "value": "Vice City, Ocean Beach, Vice Beach, Vice City International Airport"
+        }
+      ],
+      "spoiler": false,
+      "region": "Vice-Dale County",
+      "tags": [
+        "county"
+      ]
+    },
+    {
+      "id": "db-places-mariana-county",
+      "section": "places",
+      "category": "Regions",
+      "name": "Mariana County",
+      "subtitle": "South-west county of keys and swamps",
+      "body": "The south-western county where Jason's story begins. It covers Key Lento, the Leonida Keys and the Grassrivers wetlands.",
+      "facts": [
+        {
+          "label": "Position",
+          "value": "South-west Leonida"
+        },
+        {
+          "label": "Includes",
+          "value": "Key Lento, Leonida Keys, Grassrivers"
+        }
+      ],
+      "spoiler": false,
+      "region": "Mariana County",
+      "tags": [
+        "county"
+      ]
+    },
+    {
+      "id": "db-places-kelly-county",
+      "section": "places",
+      "category": "Regions",
+      "name": "Kelly County",
+      "subtitle": "Western county around Port Gellhorn",
+      "body": "The county on Leonida's western side, home to the faded resort town of Port Gellhorn.",
+      "facts": [
+        {
+          "label": "Position",
+          "value": "Western Leonida"
+        },
+        {
+          "label": "Includes",
+          "value": "Port Gellhorn"
+        }
+      ],
+      "spoiler": false,
+      "region": "Kelly County",
+      "tags": [
+        "county"
+      ]
+    },
+    {
+      "id": "db-places-leonard-county",
+      "section": "places",
+      "category": "Regions",
+      "name": "Leonard County",
+      "subtitle": "North-east county around Lake Leonida",
+      "body": "The north-eastern county wrapped around Lake Leonida, including the Waning Sands area.",
+      "facts": [
+        {
+          "label": "Position",
+          "value": "North-east Leonida"
+        },
+        {
+          "label": "Includes",
+          "value": "Lake Leonida, Waning Sands"
+        }
+      ],
+      "spoiler": false,
+      "region": "Leonard County",
+      "tags": [
+        "county"
+      ]
+    },
+    {
+      "id": "db-places-lummox-county",
+      "section": "places",
+      "category": "Regions",
+      "name": "Lummox County",
+      "subtitle": "Northernmost county, home of Mount Kalaga",
+      "body": "Leonida's wild northern county, best known for Mount Kalaga National Park and its forests and mountains.",
+      "facts": [
+        {
+          "label": "Position",
+          "value": "Far north of Leonida"
+        },
+        {
+          "label": "Includes",
+          "value": "Mount Kalaga National Park"
+        }
+      ],
+      "spoiler": false,
+      "region": "Lummox County",
+      "tags": [
+        "county"
+      ]
+    },
+    {
+      "id": "db-places-little-cuba",
+      "section": "places",
+      "category": "Neighborhood",
+      "name": "Little Cuba",
+      "subtitle": "Cuban-American district of Vice City",
+      "body": "A Vice City neighbourhood with a strong Cuban-American flavour, Leonida's take on Miami's Little Havana.",
+      "facts": [
+        {
+          "label": "City",
+          "value": "Vice City"
+        },
+        {
+          "label": "Type",
+          "value": "Neighbourhood"
+        }
+      ],
+      "spoiler": false,
+      "region": "Vice-Dale County"
+    },
+    {
+      "id": "db-places-tisha-wocka-flea-market",
+      "section": "places",
+      "category": "Landmark",
+      "name": "Tisha-Wocka Flea Market",
+      "subtitle": "Vice City's sprawling flea market",
+      "body": "A busy open-air flea market in Vice City, worth a wander for local colour.",
+      "facts": [
+        {
+          "label": "City",
+          "value": "Vice City"
+        },
+        {
+          "label": "Type",
+          "value": "Flea market"
+        }
+      ],
+      "spoiler": false,
+      "region": "Vice-Dale County"
+    },
+    {
+      "id": "db-places-allied-crystal-refinery",
+      "section": "places",
+      "category": "Landmark",
+      "name": "Allied Crystal Refinery",
+      "subtitle": "Ambrosia's sugar refinery and main employer",
+      "body": "The huge sugar refinery that the small industrial town of Ambrosia is built around; most locals work there.",
+      "facts": [
+        {
+          "label": "Town",
+          "value": "Ambrosia"
+        },
+        {
+          "label": "Type",
+          "value": "Sugar refinery"
+        },
+        {
+          "label": "Role",
+          "value": "Ambrosia's main employer"
+        }
+      ],
+      "spoiler": false,
+      "region": "Ambrosia"
+    },
+    {
+      "id": "db-places-leonida-state-prison",
+      "section": "places",
+      "category": "Landmark",
+      "name": "Leonida State Prison",
+      "subtitle": "The prison where Lucia's story opens",
+      "body": "The state penitentiary where Lucia is serving time when the game begins.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "State prison"
+        },
+        {
+          "label": "Story link",
+          "value": "Lucia is held here at the start of the game"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-key-lento-airstrip",
+      "section": "places",
+      "category": "Airfield",
+      "name": "Key Lento Airstrip",
+      "subtitle": "Small airstrip with a plane near Jason's house",
+      "body": "A small airstrip a short drive from Jason's house in Key Lento, and one of the closest places to find a plane early on.",
+      "facts": [
+        {
+          "label": "County",
+          "value": "Mariana County"
+        },
+        {
+          "label": "Aircraft",
+          "value": "Plane spawn"
+        },
+        {
+          "label": "Nearby",
+          "value": "Jason's house, Key Lento"
+        }
+      ],
+      "spoiler": false,
+      "region": "Mariana County",
+      "tags": [
+        "aircraft spawn"
+      ]
+    },
+    {
+      "id": "db-radio-drunk-kings",
+      "section": "radio",
+      "category": "Podcast",
+      "name": "Drunk Kings",
+      "subtitle": "On-demand hip-hop talk podcast",
+      "body": "A hip-hop chat show in the game's on-demand podcast library, a parody of a well-known real-world rap podcast.",
+      "facts": [
+        {
+          "label": "Format",
+          "value": "On-demand podcast"
+        },
+        {
+          "label": "How to listen",
+          "value": "Open the radio wheel, then switch to the podcast library"
+        },
+        {
+          "label": "On foot",
+          "value": "Works with headphones"
+        }
+      ],
+      "spoiler": false,
+      "tags": [
+        "podcast"
+      ]
+    },
+    {
+      "id": "db-weapons-golf-club",
+      "section": "weapons",
+      "category": "Melee",
+      "name": "Golf Club",
+      "subtitle": "Swing it like you mean it",
+      "body": "A golf club that doubles as a close-range melee weapon.",
+      "facts": [
+        {
+          "label": "Category",
+          "value": "Melee"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-hammer",
+      "section": "weapons",
+      "category": "Melee",
+      "name": "Hammer",
+      "subtitle": "Everyday tool, blunt weapon",
+      "body": "A basic claw hammer you can use for melee attacks.",
+      "facts": [
+        {
+          "label": "Category",
+          "value": "Melee"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-pool-cue",
+      "section": "weapons",
+      "category": "Melee",
+      "name": "Pool Cue",
+      "subtitle": "Bar-room melee classic",
+      "body": "A long pool cue that works as a melee weapon.",
+      "facts": [
+        {
+          "label": "Category",
+          "value": "Melee"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-flashbang",
+      "section": "weapons",
+      "category": "Throwables",
+      "name": "Flashbang",
+      "subtitle": "Stun grenade that blinds foes",
+      "body": "A stun grenade (also listed as the Flash Grenade) for disorienting enemies rather than blowing them up.",
+      "facts": [
+        {
+          "label": "Category",
+          "value": "Throwable"
+        },
+        {
+          "label": "Also called",
+          "value": "Flash Grenade"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-smoke-grenade",
+      "section": "weapons",
+      "category": "Throwables",
+      "name": "Smoke Grenade",
+      "subtitle": "Throw down cover",
+      "body": "A grenade that fills an area with thick smoke, handy for breaking line of sight.",
+      "facts": [
+        {
+          "label": "Category",
+          "value": "Throwable"
+        }
       ],
       "spoiler": false
     }
