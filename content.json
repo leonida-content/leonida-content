@@ -1,5 +1,5 @@
 {
-  "version": 58,
+  "version": 59,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -15874,6 +15874,349 @@
       "tags": [],
       "spoiler": false,
       "region": "Manifest Canyon"
+    },
+    {
+      "id": "db-vehicles-80-declasse-impaler",
+      "section": "vehicles",
+      "category": "Sedan",
+      "name": "'80 Declasse Impaler",
+      "subtitle": "Early-80s Declasse sedan",
+      "body": "An older, boxy take on the Impaler nameplate. Cheap to put on the books.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sedan"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Declasse"
+        },
+        {
+          "label": "Cost to register",
+          "value": "$3,500"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-55-declasse-bobcat-500",
+      "section": "vehicles",
+      "category": "Muscle",
+      "name": "'55 Declasse Bobcat 500",
+      "subtitle": "Fifties Declasse muscle",
+      "body": "A rounded mid-fifties Declasse with big chrome and plenty of attitude.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Muscle"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Declasse"
+        },
+        {
+          "label": "Cost to register",
+          "value": "$14,750"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-79-bravado-youga-xl",
+      "section": "vehicles",
+      "category": "Van",
+      "name": "'79 Bravado Youga XL",
+      "subtitle": "Long late-70s Bravado van",
+      "body": "The stretched version of the classic Youga, with extra room in the back.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Van"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Bravado"
+        },
+        {
+          "label": "Cost to register",
+          "value": "$10,650"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-07-bravado-buffalo",
+      "section": "vehicles",
+      "category": "Sedan",
+      "name": "'07 Bravado Buffalo",
+      "subtitle": "Mid-2000s Bravado sedan",
+      "body": "The older generation of the Buffalo four-door, a common sight on Leonida roads.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sedan"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Bravado"
+        },
+        {
+          "label": "Cost to register",
+          "value": "$8,000"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-74-bravado-youga",
+      "section": "vehicles",
+      "category": "Van",
+      "name": "'74 Bravado Youga",
+      "subtitle": "Seventies Bravado van",
+      "body": "A compact seventies Youga van, the shorter sibling of the Youga XL.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Van"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Bravado"
+        },
+        {
+          "label": "Cost to register",
+          "value": "$5,400"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-98-vapid-stanier",
+      "section": "vehicles",
+      "category": "Sedan",
+      "name": "'98 Vapid Stanier",
+      "subtitle": "Late-90s Vapid sedan",
+      "body": "A plain, sturdy late-nineties Stanier. It blends right into traffic.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sedan"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Vapid"
+        },
+        {
+          "label": "Cost to register",
+          "value": "$3,400"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-85-schyster-woodland",
+      "section": "vehicles",
+      "category": "Sedan",
+      "name": "'85 Schyster Woodland",
+      "subtitle": "Mid-80s Schyster sedan",
+      "body": "A big eighties Schyster four-door with a soft, floaty ride.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Sedan"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Schyster"
+        },
+        {
+          "label": "Cost to register",
+          "value": "$7,400"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-67-declasse-yosemite",
+      "section": "vehicles",
+      "category": "Muscle",
+      "name": "'67 Declasse Yosemite",
+      "subtitle": "Sixties Declasse muscle",
+      "body": "A late-sixties Yosemite listed with the muscle cars, a world apart from the modern Yosemite 1500 pickup.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Muscle"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Declasse"
+        },
+        {
+          "label": "Cost to register",
+          "value": "$6,250"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-81-declasse-walton",
+      "section": "vehicles",
+      "category": "Pickup",
+      "name": "'81 Declasse Walton",
+      "subtitle": "Early-80s Declasse pickup",
+      "body": "An old-school Walton pickup, cheap and handy for hauling.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Pickup"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Declasse"
+        },
+        {
+          "label": "Cost to register",
+          "value": "$3,400"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-brute-police-riot",
+      "section": "vehicles",
+      "category": "Emergency",
+      "name": "Brute Police Riot",
+      "subtitle": "Armored police riot truck",
+      "body": "A heavy armored truck used by police. Expect to see it when things get serious.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Emergency"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Brute"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-bombora-s23-ccs",
+      "section": "vehicles",
+      "category": "Boat",
+      "name": "Bombora S23 CCS",
+      "subtitle": "Story-mission boat",
+      "body": "A small boat that shows up during a story mission out in the Grassrivers.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Boat"
+        },
+        {
+          "label": "How to get",
+          "value": "Story mission"
+        }
+      ],
+      "tags": [
+        "Mission"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-buckingham-bourbon-windsor",
+      "section": "vehicles",
+      "category": "Unique",
+      "name": "Buckingham Bourbon Windsor",
+      "subtitle": "One-off donk",
+      "body": "A one-of-a-kind lifted Windsor kept in the garage of the Sound4Sound Studio illegal operation.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Buckingham Windsor"
+        },
+        {
+          "label": "Where to find",
+          "value": "Sound4Sound Studio garage, Stockyard"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Stockyard, Vice City"
+    },
+    {
+      "id": "db-vehicles-progen-royal-ruby-emerus",
+      "section": "vehicles",
+      "category": "Unique",
+      "name": "Progen Royal Ruby Emerus",
+      "subtitle": "One-off red Emerus",
+      "body": "A one-off ruby-red Emerus parked at a guarded mansion that's part of an illegal operation.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Progen Emerus"
+        },
+        {
+          "label": "Where to find",
+          "value": "Guarded mansion on Vespucci Island"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Vespucci Island"
+    },
+    {
+      "id": "db-vehicles-canis-gunrunner-kamacho",
+      "section": "vehicles",
+      "category": "Unique",
+      "name": "Canis Gunrunner Kamacho",
+      "subtitle": "One-off Kamacho",
+      "body": "A one-off Kamacho that counts as one of the valuables in the Leonida Carrier Warehouse illegal operation.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Canis Kamacho"
+        },
+        {
+          "label": "Where to find",
+          "value": "Leonida Carrier Warehouse, Balsero"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Balsero"
+    },
+    {
+      "id": "db-radio-the-vault-radio",
+      "section": "radio",
+      "category": "Unlockable",
+      "name": "The Vault Radio",
+      "subtitle": "Hidden station unlocked by a poster",
+      "body": "A bonus station that isn't on the dial at the start. Find and scan its poster with the WAiNK app to add it to your radio.",
+      "facts": [
+        {
+          "label": "Unlock",
+          "value": "Scan its hidden poster (Unique Playlists)"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
     }
   ]
 }
