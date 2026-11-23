@@ -1,5 +1,5 @@
 {
-  "version": 72,
+  "version": 73,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -21831,6 +21831,240 @@
       "tags": [],
       "spoiler": false,
       "region": "La Perle, Vice City"
+    },
+    {
+      "id": "db-wildlife-atlantic-spanish-mackerel",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Atlantic Spanish Mackerel",
+      "subtitle": "Fast saltwater fish off Key Lento",
+      "body": "A sleek open-water fish. Try the deeper channels south of Key Lento.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Saltwater fish"
+        },
+        {
+          "label": "Where to find",
+          "value": "South of Key Lento, toward the Leonida Straits"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Leonida Keys"
+    },
+    {
+      "id": "db-wildlife-atlantic-thread-herring",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Atlantic Thread Herring",
+      "subtitle": "Open-ocean catch near Vice Beach",
+      "body": "A small silvery fish, but it still needs the large saltwater lure. Head offshore northeast of Vice Beach.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Saltwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Large Saltwater Lure"
+        },
+        {
+          "label": "Where to find",
+          "value": "Atlantic waters northeast of Vice Beach"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Vice-Dale County"
+    },
+    {
+      "id": "db-wildlife-rock-sea-bass",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Rock Sea Bass",
+      "subtitle": "Starter-lure fish west of Watson Bay",
+      "body": "An easy early catch since it bites on the free small saltwater lure.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Saltwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Small Saltwater Lure"
+        },
+        {
+          "label": "Where to find",
+          "value": "Coastal water west of Watson Bay"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Mariana County"
+    },
+    {
+      "id": "db-wildlife-black-drum",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Black Drum",
+      "subtitle": "Bay fish in northwest Lummox County",
+      "body": "Found in Okchiloha Bay. Guides haven't settled which lure works best yet, so experiment.",
+      "facts": [
+        {
+          "label": "Where to find",
+          "value": "Okchiloha Bay, northwest Lummox County"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Lummox County"
+    },
+    {
+      "id": "db-wildlife-leonida-gar",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Leonida Gar",
+      "subtitle": "Long-snouted river fish in the Grassrivers",
+      "body": "A freshwater predator living in the Grassrivers west of Hamlet. Bring a medium freshwater lure.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Freshwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Medium Freshwater Lure"
+        },
+        {
+          "label": "Where to find",
+          "value": "The Grassrivers, west of Hamlet"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Mariana County"
+    },
+    {
+      "id": "db-wildlife-bluestriped-grunt",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Bluestriped Grunt",
+      "subtitle": "Small reef fish at Abismo Key",
+      "body": "A striped reef fish that bites on the free small saltwater lure around Abismo Key.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Saltwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Small Saltwater Lure"
+        },
+        {
+          "label": "Where to find",
+          "value": "Around Abismo Key, between Key Lento and Mile Zero Air Station"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Leonida Keys"
+    },
+    {
+      "id": "db-wildlife-littlehead-porgy",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Littlehead Porgy",
+      "subtitle": "Gulf fish near the Crude Islands",
+      "body": "Fish the Gulf of Leonida just south of the Crude Islands with the small saltwater lure.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Saltwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Small Saltwater Lure"
+        },
+        {
+          "label": "Where to find",
+          "value": "Gulf of Leonida, south of the Crude Islands"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Kelly County"
+    },
+    {
+      "id": "db-wildlife-salt-fish",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Salt Fish",
+      "subtitle": "Odd lake catch at Lake Leonida",
+      "body": "Despite the name, it lives in Lake Leonida and takes a medium freshwater lure.",
+      "facts": [
+        {
+          "label": "Lure",
+          "value": "Medium Freshwater Lure"
+        },
+        {
+          "label": "Where to find",
+          "value": "Lake Leonida, southern Leonard County"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Leonard County"
+    },
+    {
+      "id": "db-wildlife-northern-red-snapper",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Northern Red Snapper",
+      "subtitle": "Red bay fish in Leonida Bay",
+      "body": "Cast a medium saltwater lure in the northwest part of Leonida Bay, southwest of the Grassrivers.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Saltwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Medium Saltwater Lure"
+        },
+        {
+          "label": "Where to find",
+          "value": "Northwest Leonida Bay"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Mariana County"
+    },
+    {
+      "id": "db-wildlife-redbreast-sunfish",
+      "section": "wildlife",
+      "category": "Fish",
+      "name": "Redbreast Sunfish",
+      "subtitle": "Small river fish on the Emerald River",
+      "body": "A colorful panfish that bites on the free small freshwater lure along the northern Emerald River.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Freshwater fish"
+        },
+        {
+          "label": "Lure",
+          "value": "Small Freshwater Lure"
+        },
+        {
+          "label": "Where to find",
+          "value": "Northern Emerald River"
+        }
+      ],
+      "tags": [],
+      "spoiler": false,
+      "region": "Kelly County"
     }
   ]
 }
