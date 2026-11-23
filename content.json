@@ -1,5 +1,5 @@
 {
-  "version": 67,
+  "version": 68,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -20056,6 +20056,447 @@
       "region": "Kelly County",
       "tags": [
         "Hair"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-burger-shot",
+      "section": "places",
+      "category": "Restaurant",
+      "name": "Burger Shot",
+      "subtitle": "The series' classic burger joint, with a single Leonida branch",
+      "body": "There's only one Burger Shot on the map, in Ocean Beach. A meal here gives you a brief stat boost like other food stops.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Fast food"
+        },
+        {
+          "label": "Locations",
+          "value": "1 (Ocean Beach)"
+        },
+        {
+          "label": "Effect",
+          "value": "Food gives a short stat boost"
+        }
+      ],
+      "region": "Ocean Beach",
+      "tags": [
+        "Food"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-pollo-diablo",
+      "section": "places",
+      "category": "Restaurant",
+      "name": "Pollo Diablo",
+      "subtitle": "The most widespread fast food chain in Leonida",
+      "body": "With five branches stretching from Vice City to Lummox County, Pollo Diablo is the easiest fast food chain to find.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Fast food chain"
+        },
+        {
+          "label": "Locations",
+          "value": "5: Hamlet, VCIA, Ocean Beach, Waning Sands, Millport"
+        },
+        {
+          "label": "Effect",
+          "value": "Food gives a short stat boost"
+        }
+      ],
+      "region": "Statewide",
+      "tags": [
+        "Food"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-taco-bomb",
+      "section": "places",
+      "category": "Restaurant",
+      "name": "Taco Bomb",
+      "subtitle": "Taco chain mostly found north of Vice City",
+      "body": "All four Taco Bomb branches sit in Leonard, Kelly and Lummox counties, so it's a good pit stop on long trips upstate.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Fast food chain"
+        },
+        {
+          "label": "Locations",
+          "value": "4: Belville, Waning Sands, Gellhorn, West Kalaga"
+        },
+        {
+          "label": "Effect",
+          "value": "Food gives a short stat boost"
+        }
+      ],
+      "region": "Leonard, Kelly & Lummox counties",
+      "tags": [
+        "Food"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-marbles",
+      "section": "places",
+      "category": "Restaurant",
+      "name": "Marbles",
+      "subtitle": "Fast food chain spread from the Keys to Ambrosia",
+      "body": "Marbles has four branches across the map, one of them in Key Lento, close to where the story begins.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Fast food chain"
+        },
+        {
+          "label": "Locations",
+          "value": "4: Key Lento, Salton, West Vice-Dale County, Ambrosia"
+        },
+        {
+          "label": "Effect",
+          "value": "Food gives a short stat boost"
+        }
+      ],
+      "region": "Statewide",
+      "tags": [
+        "Food"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-peewees",
+      "section": "places",
+      "category": "Restaurant",
+      "name": "Peewees",
+      "subtitle": "Three-branch fast food chain around the city",
+      "body": "Two Peewees branches are in Vice-Dale County and the third is in Belville.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Fast food chain"
+        },
+        {
+          "label": "Locations",
+          "value": "3: Southside, Rockridge, Belville"
+        },
+        {
+          "label": "Effect",
+          "value": "Food gives a short stat boost"
+        }
+      ],
+      "region": "Vice-Dale & Leonard counties",
+      "tags": [
+        "Food"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-chaceys",
+      "section": "places",
+      "category": "Restaurant",
+      "name": "Chacey's",
+      "subtitle": "Small fast food chain in Vice-Dale County",
+      "body": "Chacey's only has two branches, both in Vice-Dale County.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Fast food chain"
+        },
+        {
+          "label": "Locations",
+          "value": "2: Southside, Salton"
+        },
+        {
+          "label": "Effect",
+          "value": "Food gives a short stat boost"
+        }
+      ],
+      "region": "Vice-Dale County",
+      "tags": [
+        "Food"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-hanks-waffles",
+      "section": "places",
+      "category": "Restaurant",
+      "name": "Hank's Waffles",
+      "subtitle": "Waffle spot in Kelly County",
+      "body": "A one-location waffle restaurant up in Kelly County.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Fast food"
+        },
+        {
+          "label": "Locations",
+          "value": "1 (Kelly County)"
+        },
+        {
+          "label": "Effect",
+          "value": "Food gives a short stat boost"
+        }
+      ],
+      "region": "Kelly County",
+      "tags": [
+        "Food"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-franks-waffles",
+      "section": "places",
+      "category": "Restaurant",
+      "name": "Frank's Waffles",
+      "subtitle": "Waffle spot in Vice-Dale County",
+      "body": "A single waffle restaurant in Vice-Dale County, not to be confused with Hank's Waffles up north.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Fast food"
+        },
+        {
+          "label": "Locations",
+          "value": "1 (Vice-Dale County)"
+        },
+        {
+          "label": "Effect",
+          "value": "Food gives a short stat boost"
+        }
+      ],
+      "region": "Vice-Dale County",
+      "tags": [
+        "Food"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-chihuahua-hotdogs",
+      "section": "places",
+      "category": "Street food",
+      "name": "Chihuahua Hotdogs",
+      "subtitle": "Hot dog carts dotted around Leonida",
+      "body": "One of the street food vendor brands. Its carts sell quick snacks that give a short stat boost, and they show up under street food on the map.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Street food vendor (hot dogs)"
+        },
+        {
+          "label": "Map filter",
+          "value": "Food & Drink > Street Food"
+        },
+        {
+          "label": "Effect",
+          "value": "Food gives a short stat boost"
+        }
+      ],
+      "region": "Multiple locations",
+      "tags": [
+        "Food"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-baseball-bat",
+      "section": "weapons",
+      "category": "Melee",
+      "name": "Baseball Bat",
+      "subtitle": "The standard bat for close-range fights",
+      "body": "A plain wooden bat, separate from the special bat variants. Simple, reliable and always a series staple.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Melee"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-crowbar",
+      "section": "weapons",
+      "category": "Melee",
+      "name": "Crowbar",
+      "subtitle": "Steel pry bar that doubles as a weapon",
+      "body": "A heavy tool that's been in GTA for years. Swing it when a fight gets up close.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Melee"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-lyles-h-l-38",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Lyle's H&L .38",
+      "subtitle": "Named one-off version of the Hawk & Little .38",
+      "body": "A unique take on the six-shot .38 revolver. Like other unique guns, it comes as a fixed build.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Hawk & Little .38"
+        },
+        {
+          "label": "Class",
+          "value": "Revolver"
+        },
+        {
+          "label": "Capacity",
+          "value": "6 rounds"
+        },
+        {
+          "label": "Mods",
+          "value": "Cannot be modified"
+        }
+      ],
+      "tags": [
+        "Unique"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-cargo-h-l-38",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Cargo H&L .38",
+      "subtitle": "Unique .38 revolver you find rather than buy",
+      "body": "A special edition of the Hawk & Little .38 that isn't sold off the shelf. Its setup can't be changed.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Hawk & Little .38"
+        },
+        {
+          "label": "Class",
+          "value": "Revolver"
+        },
+        {
+          "label": "Capacity",
+          "value": "6 rounds"
+        },
+        {
+          "label": "Mods",
+          "value": "Cannot be modified"
+        }
+      ],
+      "tags": [
+        "Unique"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-jack-sheepe-h-l-38",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Jack Sheepe H&L .38",
+      "subtitle": "Another named variant of the classic .38",
+      "body": "One of several unique versions of the Hawk & Little .38 wheel-gun, locked to its own look and setup.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Hawk & Little .38"
+        },
+        {
+          "label": "Class",
+          "value": "Revolver"
+        },
+        {
+          "label": "Capacity",
+          "value": "6 rounds"
+        },
+        {
+          "label": "Mods",
+          "value": "Cannot be modified"
+        }
+      ],
+      "tags": [
+        "Unique"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-moneymaker-w-10",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Moneymaker W-10",
+      "subtitle": "Flashy unique version of the W-10 SMG",
+      "body": "A showy special edition of Wortham's lightweight submachine gun. It comes as-is.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Wortham W-10"
+        },
+        {
+          "label": "Class",
+          "value": "SMG"
+        },
+        {
+          "label": "Mods",
+          "value": "Cannot be modified"
+        }
+      ],
+      "tags": [
+        "Unique"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-petes-kz-59",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Pete's KZ-59",
+      "subtitle": "Personalized Kozlov KZ-59 rifle",
+      "body": "A named, one-of-a-kind KZ-59 assault rifle with a fixed build.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Kozlov KZ-59"
+        },
+        {
+          "label": "Class",
+          "value": "Assault rifle"
+        },
+        {
+          "label": "Mods",
+          "value": "Cannot be modified"
+        }
+      ],
+      "tags": [
+        "Unique"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-kolt-associates-556",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Kolt & Associates 556",
+      "subtitle": "Unique build of the Duke 556 rifle",
+      "body": "A special version of the 556 assault rifle that you loot instead of buying.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Duke 556"
+        },
+        {
+          "label": "Class",
+          "value": "Assault rifle"
+        },
+        {
+          "label": "Mods",
+          "value": "Cannot be modified"
+        }
+      ],
+      "tags": [
+        "Unique"
       ],
       "spoiler": false
     }
