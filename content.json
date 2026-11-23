@@ -1,5 +1,5 @@
 {
-  "version": 61,
+  "version": 62,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -17161,6 +17161,681 @@
       "tags": [],
       "spoiler": false,
       "region": "Gambit Bay"
+    },
+    {
+      "id": "db-vehicles-progen-purple-drank-emerus",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Progen Purple Drank Emerus",
+      "subtitle": "Purple one-off Emerus at the docks",
+      "body": "A purple custom Emerus kept at a storage and logistics yard on Waxman Island. Look around the containers near the water.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Progen Emerus"
+        },
+        {
+          "label": "Standout type",
+          "value": "Ultra-Luxe"
+        },
+        {
+          "label": "Where to find",
+          "value": "Chatfield Storage & Logistics on Waxman Island, by the shipping containers"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Waxman Island, Vice City"
+    },
+    {
+      "id": "db-vehicles-declasse-pink-gin-tulip",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Declasse Pink Gin Tulip",
+      "subtitle": "Pink lifted Tulip donk",
+      "body": "A pink Tulip built up as a donk, parked at a garage in La Perle.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Declasse Tulip"
+        },
+        {
+          "label": "Standout type",
+          "value": "Donk"
+        },
+        {
+          "label": "Where to find",
+          "value": "Janjak's Garage in La Perle"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "La Perle, Vice City"
+    },
+    {
+      "id": "db-vehicles-pegassi-charred-toros",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Pegassi Charred Toros",
+      "subtitle": "One-off Toros donk",
+      "body": "A one-off Toros styled as a donk. Most guides place it at a trap house in La Perle.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Pegassi Toros"
+        },
+        {
+          "label": "Standout type",
+          "value": "Donk"
+        },
+        {
+          "label": "Where to find",
+          "value": "Trap house yard in La Perle"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "La Perle, Vice City"
+    },
+    {
+      "id": "db-vehicles-declasse-fruit-outlet-walton",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Declasse Fruit Outlet Walton",
+      "subtitle": "Pickup with a giant fruit on top",
+      "body": "An old Walton pickup with a huge piece of fruit mounted on the bed, parked outside the fruit outlet in Port Gellhorn.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Declasse Walton"
+        },
+        {
+          "label": "Standout type",
+          "value": "Topper"
+        },
+        {
+          "label": "Where to find",
+          "value": "Leonida Fruit Outlet off US-9, Port Gellhorn"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Port Gellhorn"
+    },
+    {
+      "id": "db-vehicles-vapid-truth-justice-caracara",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Vapid Truth & Justice Caracara",
+      "subtitle": "Patriot-themed Caracara",
+      "body": "A one-off Caracara pickup from the Patriot standout set, found outside a warehouse in Port Gellhorn.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Vapid Caracara"
+        },
+        {
+          "label": "Standout type",
+          "value": "Patriot"
+        },
+        {
+          "label": "Where to find",
+          "value": "Outside June Warehouse, Port Gellhorn"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Port Gellhorn"
+    },
+    {
+      "id": "db-vehicles-vapid-smuggler-caracara",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Vapid Smuggler Caracara",
+      "subtitle": "Off-road Caracara at the docks",
+      "body": "A one-off off-road Caracara found on the Port Gellhorn waterfront.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Vapid Caracara"
+        },
+        {
+          "label": "Standout type",
+          "value": "All-Terrain"
+        },
+        {
+          "label": "Where to find",
+          "value": "Waterfront by the fishery at the north end of Port Gellhorn"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Port Gellhorn"
+    },
+    {
+      "id": "db-vehicles-lapwing-stolen-valor-300-h",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Lapwing Stolen Valor 300-H",
+      "subtitle": "Military-styled light plane",
+      "body": "A single-prop light plane with a military look, sitting on the grass beside a hangar on Bobcat Key.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Lapwing 300-H"
+        },
+        {
+          "label": "Standout type",
+          "value": "Plane"
+        },
+        {
+          "label": "Where to find",
+          "value": "Airstrip by the hangar on Bobcat Key"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Bobcat Key"
+    },
+    {
+      "id": "db-vehicles-western-magma-cliffhanger",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Western Magma Cliffhanger",
+      "subtitle": "One-off restored Cliffhanger",
+      "body": "A restored Cliffhanger bike leaning against an abandoned cabin in Watson Bay.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Western Cliffhanger"
+        },
+        {
+          "label": "Standout type",
+          "value": "Dirt bike"
+        },
+        {
+          "label": "Where to find",
+          "value": "Abandoned cabins off Sweetbay Road, Watson Bay"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Watson Bay"
+    },
+    {
+      "id": "db-vehicles-nagasaki-rudolph-tao",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Nagasaki Rudolph Tao",
+      "subtitle": "One-off powerboat on a trailer",
+      "body": "A one-off Tao powerboat sitting on a trailer on Key Lento's west coast. Back the trailer into the water to use it.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Nagasaki Tao"
+        },
+        {
+          "label": "Standout type",
+          "value": "Powerboat"
+        },
+        {
+          "label": "Where to find",
+          "value": "On a trailer outside a holiday house on Sunset Drive, Key Lento"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Key Lento"
+    },
+    {
+      "id": "db-vehicles-lure-predator-rainbow-ripple-l20s",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Lure Predator Rainbow Ripple L20S",
+      "subtitle": "One-off Predator boat",
+      "body": "A one-off L20S beached on an island shore in Gambit Bay.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Lure Predator L20S"
+        },
+        {
+          "label": "Standout type",
+          "value": "Boat"
+        },
+        {
+          "label": "Where to find",
+          "value": "Shore of the Shoeless Keys, southwest Gambit Bay"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Gambit Bay"
+    },
+    {
+      "id": "db-vehicles-tsunami-zorrusso",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Tsunami Zorrusso",
+      "subtitle": "One-off Zorrusso street racer",
+      "body": "A one-off Zorrusso street racer locked in a mansion garage in Peacock Estates.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Zorrusso"
+        },
+        {
+          "label": "Standout type",
+          "value": "Street Racer"
+        },
+        {
+          "label": "Where to find",
+          "value": "Mansion garage in Peacock Estates"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Peacock Estates, Vice City"
+    },
+    {
+      "id": "db-vehicles-benefactor-nightlight-schafter",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Benefactor Nightlight Schafter",
+      "subtitle": "Street racer Schafter",
+      "body": "A tuned Schafter street racer tucked in the backyard of Casa Guardia in Little Cuba.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Benefactor Schafter"
+        },
+        {
+          "label": "Standout type",
+          "value": "Street Racer"
+        },
+        {
+          "label": "Where to find",
+          "value": "Back of the Casa Guardia yard, Little Cuba"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Little Cuba, Vice City"
+    },
+    {
+      "id": "db-vehicles-dundreary-cherry-bomb-chino",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Dundreary Cherry Bomb Chino",
+      "subtitle": "One-off restored Chino",
+      "body": "A restored one-off Chino just inside the gate of a shipping yard in Little Cuba.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Dundreary Chino"
+        },
+        {
+          "label": "Standout type",
+          "value": "Ripped & Shredded"
+        },
+        {
+          "label": "Where to find",
+          "value": "Saber Shipping Yard, Little Cuba"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Little Cuba, Vice City"
+    },
+    {
+      "id": "db-vehicles-vapid-firebug-dominator",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Vapid Firebug Dominator",
+      "subtitle": "One-off Dominator",
+      "body": "A one-off Dominator parked outside an abandoned beachside motel in Port Gellhorn.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Vapid Dominator"
+        },
+        {
+          "label": "Standout type",
+          "value": "Ripped & Shredded"
+        },
+        {
+          "label": "Where to find",
+          "value": "Abandoned La Cascara Motel, Port Gellhorn"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Port Gellhorn"
+    },
+    {
+      "id": "db-vehicles-imponte-bloodbath-phoenix",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Imponte Bloodbath Phoenix",
+      "subtitle": "One-off restored Phoenix",
+      "body": "A restored one-off Phoenix kept under an awning at a towing yard in Salton.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Imponte Phoenix"
+        },
+        {
+          "label": "Standout type",
+          "value": "Ripped & Shredded"
+        },
+        {
+          "label": "Where to find",
+          "value": "Slator Towing in Salton"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Salton, Vice City"
+    },
+    {
+      "id": "db-vehicles-pfister-class-act-comet",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Pfister Class Act Comet",
+      "subtitle": "Classy retro Comet",
+      "body": "A restored retro Comet parked at a mansion on Starfish Island.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Pfister Comet"
+        },
+        {
+          "label": "Standout type",
+          "value": "Retro"
+        },
+        {
+          "label": "Where to find",
+          "value": "Mansion driveway on Starfish Island"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Starfish Island, Vice City"
+    },
+    {
+      "id": "db-vehicles-albany-teniente-manana",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Albany Teniente Manana",
+      "subtitle": "One-off lowrider Manana",
+      "body": "A lowrider Manana inside a large garage at a junkyard in Hamlet.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Albany Manana"
+        },
+        {
+          "label": "Standout type",
+          "value": "Lowrider"
+        },
+        {
+          "label": "Where to find",
+          "value": "Nova Auto Junkyard in Hamlet"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Hamlet"
+    },
+    {
+      "id": "db-vehicles-black-moth-kamacho",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Black Moth Kamacho",
+      "subtitle": "Gang-owned off-road Kamacho",
+      "body": "A custom Kamacho kept at the La Polilla Negra hideout north of Watson Bay. Expect armed guards.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Kamacho"
+        },
+        {
+          "label": "Standout type",
+          "value": "All-Terrain"
+        },
+        {
+          "label": "Where to find",
+          "value": "Garage at the La Polilla Negra hideout, Watson Bay"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Watson Bay"
+    },
+    {
+      "id": "db-vehicles-declasse-mountain-yosemite",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Declasse Mountain Yosemite",
+      "subtitle": "One-off off-road Yosemite",
+      "body": "A one-off Yosemite parked by a riverside shack in Watson Bay.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Declasse Yosemite"
+        },
+        {
+          "label": "Standout type",
+          "value": "All-Terrain"
+        },
+        {
+          "label": "Where to find",
+          "value": "Covered driveway by a shack on the Pelican River, Watson Bay"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Watson Bay"
+    },
+    {
+      "id": "db-vehicles-bf-blood-moon-bandito",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "BF Blood Moon Bandito",
+      "subtitle": "One-off Bandito buggy",
+      "body": "A rough-looking Bandito buggy parked with the off-road vehicles at Boone Speedway.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "BF Bandito"
+        },
+        {
+          "label": "Standout type",
+          "value": "All-Terrain"
+        },
+        {
+          "label": "Where to find",
+          "value": "Boone Speedway in Hamlet, under the tent with the off-roaders"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Hamlet"
+    },
+    {
+      "id": "db-vehicles-invetero-enforcer-coquette",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Invetero Enforcer Coquette",
+      "subtitle": "Police-themed show Coquette",
+      "body": "A police-styled Coquette on show outside the Capri police station. Stealing it draws heat fast.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Invetero Coquette"
+        },
+        {
+          "label": "Standout type",
+          "value": "Law & Order"
+        },
+        {
+          "label": "Where to find",
+          "value": "On display outside the Capri Police Station"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Capri, Kelly County"
+    },
+    {
+      "id": "db-vehicles-vapid-red-hot-hustler",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Vapid Red Hot Hustler",
+      "subtitle": "Red hot rod Hustler",
+      "body": "A restored red Hustler hot rod in the corner of a coastal hotel lot in Capri.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Vapid Hustler"
+        },
+        {
+          "label": "Standout type",
+          "value": "Hot Rod"
+        },
+        {
+          "label": "Where to find",
+          "value": "Hotel parking lot on the Capri coast"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Capri, Kelly County"
+    },
+    {
+      "id": "db-vehicles-declasse-bugstars-burrito",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Declasse Bugstars Burrito",
+      "subtitle": "Pest control van",
+      "body": "A pest control Burrito van parked outside a house under a fumigation tent in Capri.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Declasse Burrito"
+        },
+        {
+          "label": "Standout type",
+          "value": "Throwback"
+        },
+        {
+          "label": "Where to find",
+          "value": "Outside a tented house being fumigated in Capri"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Capri, Kelly County"
+    },
+    {
+      "id": "db-vehicles-declasse-ghosts-exposed-parkland",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Declasse Ghosts Exposed Parkland",
+      "subtitle": "One-off Parkland wagon",
+      "body": "A one-off Parkland wagon in the driveway of a spooky Halloween house in Capri.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Declasse Parkland"
+        },
+        {
+          "label": "Standout type",
+          "value": "Leonida Man"
+        },
+        {
+          "label": "Where to find",
+          "value": "Driveway of the Halloween house in Capri"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Capri, Kelly County"
+    },
+    {
+      "id": "db-vehicles-brute-cherry-popper-boxville",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Brute Cherry Popper Boxville",
+      "subtitle": "Ice cream delivery van",
+      "body": "A Cherry Popper ice cream Boxville parked outside the company's building in Grassrivers.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Brute Boxville"
+        },
+        {
+          "label": "Standout type",
+          "value": "Topper"
+        },
+        {
+          "label": "Where to find",
+          "value": "Outside the Cherry Popper ice cream factory, Grassrivers"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Grassrivers, Mariana County"
     }
   ]
 }
