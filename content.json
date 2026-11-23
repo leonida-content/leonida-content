@@ -1,5 +1,5 @@
 {
-  "version": 65,
+  "version": 66,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -19319,6 +19319,443 @@
           "label": "How to listen",
           "value": "Podcast library in the radio menu, or headphones on foot"
         }
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-drip-drops",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Drip Drops",
+      "subtitle": "Streetwear shop in Vice-Dale",
+      "body": "A casual clothing store for everyday streetwear looks.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Casual & street"
+        },
+        {
+          "label": "Where to find",
+          "value": "Vice-Dale County"
+        }
+      ],
+      "region": "Vice-Dale County",
+      "tags": [
+        "Clothing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-hamlet-thrift",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Hamlet Thrift",
+      "subtitle": "Secondhand clothes in Vice-Dale",
+      "body": "A thrift store for cheap, mismatched secondhand outfits.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Thrift"
+        },
+        {
+          "label": "Where to find",
+          "value": "Vice-Dale County"
+        }
+      ],
+      "region": "Vice-Dale County",
+      "tags": [
+        "Clothing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-alines-thrift-store",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Aline's Thrift Store",
+      "subtitle": "Budget thrift shop",
+      "body": "Another thrift option for low-cost used clothing.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Thrift"
+        },
+        {
+          "label": "Where to find",
+          "value": "Vice-Dale County"
+        }
+      ],
+      "region": "Vice-Dale County",
+      "tags": [
+        "Clothing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-deluge-swimwear",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "De'luge Swimwear",
+      "subtitle": "Swimwear boutique",
+      "body": "A beach-focused store for swimsuits and summer gear.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Souvenirs & swimwear"
+        },
+        {
+          "label": "Where to find",
+          "value": "Vice-Dale County"
+        }
+      ],
+      "region": "Vice-Dale County",
+      "tags": [
+        "Clothing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-leroys",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Leroy's",
+      "subtitle": "Souvenir shop in the Keys",
+      "body": "A small gift shop in Mariana County with tourist tees and beachwear.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Souvenirs & swimwear"
+        },
+        {
+          "label": "Where to find",
+          "value": "Mariana County"
+        }
+      ],
+      "region": "Mariana County",
+      "tags": [
+        "Clothing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-the-wonder-whale",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "The Wonder Whale",
+      "subtitle": "Keys gift shop",
+      "body": "A souvenir store in Mariana County selling vacation clothes.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Souvenirs & swimwear"
+        },
+        {
+          "label": "Where to find",
+          "value": "Mariana County"
+        }
+      ],
+      "region": "Mariana County",
+      "tags": [
+        "Clothing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-billies-key-lento-gift-shop",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Billie's Key Lento Gift Shop",
+      "subtitle": "Key Lento souvenir store",
+      "body": "A gift shop in Mariana County for tourist shirts and beach clothes.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Souvenirs & swimwear"
+        },
+        {
+          "label": "Where to find",
+          "value": "Mariana County"
+        }
+      ],
+      "region": "Mariana County",
+      "tags": [
+        "Clothing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-lost-mines-souvenirs",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Lost Mines Souvenirs",
+      "subtitle": "Mariana County gift shop",
+      "body": "A souvenir shop in Mariana County with tourist tees and summer wear.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Souvenirs & swimwear"
+        },
+        {
+          "label": "Where to find",
+          "value": "Mariana County"
+        }
+      ],
+      "region": "Mariana County",
+      "tags": [
+        "Clothing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-little-cuba-souvenir-store",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Little Cuba Souvenir Store",
+      "subtitle": "Souvenirs in Little Cuba",
+      "body": "A gift store in Little Cuba stocking tourist clothing.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Souvenirs & swimwear"
+        },
+        {
+          "label": "Where to find",
+          "value": "Vice-Dale County"
+        }
+      ],
+      "region": "Vice-Dale County",
+      "tags": [
+        "Clothing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-sea-swell-gifts",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Sea Swell Gifts",
+      "subtitle": "Beach gift shop",
+      "body": "A seaside souvenir store for beach outfits and vacation tees.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Souvenirs & swimwear"
+        },
+        {
+          "label": "Where to find",
+          "value": "Vice-Dale County"
+        }
+      ],
+      "region": "Vice-Dale County",
+      "tags": [
+        "Clothing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-starboard-souvenirs",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Starboard Souvenirs",
+      "subtitle": "Vice-Dale souvenir shop",
+      "body": "A souvenir store in Vice-Dale selling summer clothes.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Souvenirs & swimwear"
+        },
+        {
+          "label": "Where to find",
+          "value": "Vice-Dale County"
+        }
+      ],
+      "region": "Vice-Dale County",
+      "tags": [
+        "Clothing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-vice-style",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Vice Style",
+      "subtitle": "Vice City-branded souvenirs",
+      "body": "A souvenir shop for Vice City tourist shirts and beachwear.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Souvenirs & swimwear"
+        },
+        {
+          "label": "Where to find",
+          "value": "Vice-Dale County"
+        }
+      ],
+      "region": "Vice-Dale County",
+      "tags": [
+        "Clothing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-sunshine-sallys",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Sunshine Sally's",
+      "subtitle": "Sunny gift shop",
+      "body": "A cheerful souvenir store with swimwear and tourist tees.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Souvenirs & swimwear"
+        },
+        {
+          "label": "Where to find",
+          "value": "Vice-Dale County"
+        }
+      ],
+      "region": "Vice-Dale County",
+      "tags": [
+        "Clothing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-coquina-box",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Coquina Box",
+      "subtitle": "Beach souvenir shop",
+      "body": "A gift shop selling beach clothing and souvenirs.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Souvenirs & swimwear"
+        },
+        {
+          "label": "Where to find",
+          "value": "Vice-Dale County"
+        }
+      ],
+      "region": "Vice-Dale County",
+      "tags": [
+        "Clothing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-knick-knack-paddle-shack",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Knick Knack Paddle Shack",
+      "subtitle": "Vice-Dale gift store",
+      "body": "A souvenir shop in Vice-Dale with summer clothes.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Souvenirs & swimwear"
+        },
+        {
+          "label": "Where to find",
+          "value": "Vice-Dale County"
+        }
+      ],
+      "region": "Vice-Dale County",
+      "tags": [
+        "Clothing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-washed-ashore-souvenirs",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Washed Ashore Souvenirs",
+      "subtitle": "Coastal gift shop",
+      "body": "A souvenir store for beachwear and tourist shirts.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Souvenirs & swimwear"
+        },
+        {
+          "label": "Where to find",
+          "value": "Vice-Dale County"
+        }
+      ],
+      "region": "Vice-Dale County",
+      "tags": [
+        "Clothing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-larrys-lagoon",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Larry's Lagoon",
+      "subtitle": "Souvenir and swim shop",
+      "body": "A souvenir and swimwear store in Vice-Dale.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Souvenirs & swimwear"
+        },
+        {
+          "label": "Where to find",
+          "value": "Vice-Dale County"
+        }
+      ],
+      "region": "Vice-Dale County",
+      "tags": [
+        "Clothing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-gifts-a-gogo",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Gifts A GoGo",
+      "subtitle": "Tourist gift shop",
+      "body": "A souvenir store packed with tourist tees and beach gear.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Souvenirs & swimwear"
+        },
+        {
+          "label": "Where to find",
+          "value": "Vice-Dale County"
+        }
+      ],
+      "region": "Vice-Dale County",
+      "tags": [
+        "Clothing"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-beach-please",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Beach Please",
+      "subtitle": "Beachwear gift shop",
+      "body": "A beach clothing and souvenir store.",
+      "facts": [
+        {
+          "label": "Style",
+          "value": "Souvenirs & swimwear"
+        },
+        {
+          "label": "Where to find",
+          "value": "Vice-Dale County"
+        }
+      ],
+      "region": "Vice-Dale County",
+      "tags": [
+        "Clothing"
       ],
       "spoiler": false
     }
