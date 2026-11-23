@@ -1,5 +1,5 @@
 {
-  "version": 74,
+  "version": 75,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -22419,6 +22419,442 @@
       ],
       "tags": [
         "Equipment"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-pegassi-gold-rope-infernus",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Pegassi Gold Rope Infernus",
+      "subtitle": "One-off standout Infernus '96",
+      "body": "A one-off standout version of the Pegassi Infernus '96, with its own custom look.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Pegassi Infernus '96"
+        },
+        {
+          "label": "Registration cost",
+          "value": "$34,750"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-bravado-copperheads-gauntlet",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Bravado Copperheads Gauntlet",
+      "subtitle": "One-off standout Gauntlet",
+      "body": "A one-off standout version of the Bravado Gauntlet, with its own custom look.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Bravado Gauntlet"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-progen-honeycomb-emerus",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Progen Honeycomb Emerus",
+      "subtitle": "One-off standout Emerus",
+      "body": "A one-off standout version of the Progen Emerus, with its own custom look.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Progen Emerus"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-progen-seaspray-emerus",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Progen Seaspray Emerus",
+      "subtitle": "One-off standout Emerus",
+      "body": "A one-off standout version of the Progen Emerus, with its own custom look.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Progen Emerus"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-grotti-dolce-vita-rsx",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Grotti Dolce Vita RSX",
+      "subtitle": "One-off standout Itali RSX",
+      "body": "A one-off standout version of the Grotti Itali RSX, with its own custom look.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Grotti Itali RSX"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-grotti-status-rsx",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Grotti Status RSX",
+      "subtitle": "One-off standout Itali RSX",
+      "body": "A one-off standout version of the Grotti Itali RSX, with its own custom look.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Grotti Itali RSX"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-pegassi-dantes-vitello",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Pegassi Dante's Vitello",
+      "subtitle": "One-off standout Vitello",
+      "body": "A one-off standout version of the Pegassi Vitello, with its own custom look.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Pegassi Vitello"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-piccia-dragon-gate-furia",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Piccia Dragon Gate Furia",
+      "subtitle": "One-off standout Furia",
+      "body": "A one-off standout version of the Piccia Furia, with its own custom look.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Piccia Furia"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-piccia-big-cat-furia",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Piccia Big Cat Furia",
+      "subtitle": "One-off standout Furia",
+      "body": "A one-off standout version of the Piccia Furia, with its own custom look.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Piccia Furia"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-pegassi-mojito-tempesta",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Pegassi Mojito Tempesta",
+      "subtitle": "One-off standout Tempesta",
+      "body": "A one-off standout version of the Pegassi Tempesta, with its own custom look.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Pegassi Tempesta"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-pegassi-rauls-tempesta",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Pegassi Raul's Tempesta",
+      "subtitle": "One-off standout Tempesta",
+      "body": "A one-off standout version of the Pegassi Tempesta, with its own custom look.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Pegassi Tempesta"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-pegassi-lipgloss-vitello",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Pegassi Lipgloss Vitello",
+      "subtitle": "One-off standout Vitello",
+      "body": "A one-off standout version of the Pegassi Vitello, with its own custom look.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Pegassi Vitello"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-invetero-vice-vinyl-coquette",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Invetero Vice Vinyl Coquette",
+      "subtitle": "One-off standout Coquette",
+      "body": "A one-off standout version of the Invetero Coquette, with its own custom look.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Invetero Coquette"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-pfister-gentrifier-comet",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Pfister Gentrifier Comet",
+      "subtitle": "One-off standout Comet",
+      "body": "A one-off standout version of the Pfister Comet, with its own custom look.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Pfister Comet"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-truffade-andrew-nodes-thrax",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Truffade Andrew Node's Thrax",
+      "subtitle": "One-off standout Thrax",
+      "body": "A one-off standout version of the Truffade Thrax, with its own custom look.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Truffade Thrax"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-ubermacht-burning-cypher",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Übermacht Burning Cypher",
+      "subtitle": "One-off standout Cypher",
+      "body": "A one-off standout version of the Übermacht Cypher, with its own custom look.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Übermacht Cypher"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-grotti-1010-cheetah",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Grotti 1010 Cheetah",
+      "subtitle": "One-off standout Cheetah",
+      "body": "A one-off standout version of the Grotti Cheetah, with its own custom look.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Grotti Cheetah"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-pegassi-gold-rush-tempesta",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Pegassi Gold Rush Tempesta",
+      "subtitle": "One-off standout Tempesta",
+      "body": "A one-off standout version of the Pegassi Tempesta, with its own custom look.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Pegassi Tempesta"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-pegassi-lustrous-toros",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Pegassi Lustrous Toros",
+      "subtitle": "One-off standout Toros",
+      "body": "A one-off standout version of the Pegassi Toros, with its own custom look.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Pegassi Toros"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-bravado-revenant-gauntlet",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Bravado Revenant Gauntlet",
+      "subtitle": "One-off standout Gauntlet",
+      "body": "A one-off standout version of the Bravado Gauntlet, with its own custom look.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Bravado Gauntlet"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-sirius-holdout-sungrazer",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Sirius Holdout Sungrazer",
+      "subtitle": "One-off standout '61 Sungrazer",
+      "body": "A one-off standout version of the Sirius '61 Sungrazer, with its own custom look.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Sirius '61 Sungrazer"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-western-searing-zombie-bobber",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Western Searing Zombie Bobber",
+      "subtitle": "One-off standout Zombie Bobber",
+      "body": "A one-off standout version of the Western Zombie Bobber, with its own custom look.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Western Zombie Bobber"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-bottcher-meteor-duster",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Bottcher Meteor Duster",
+      "subtitle": "One-off standout Duster (biplane)",
+      "body": "A one-off standout version of the Duster (biplane), with its own custom look.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Duster (biplane)"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-maibatsu-tropical-manchez",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Maibatsu Tropical Manchez",
+      "subtitle": "One-off standout Manchez",
+      "body": "A one-off standout version of the Maibatsu Manchez, with its own custom look.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Maibatsu Manchez"
+        }
+      ],
+      "tags": [
+        "Standout"
       ],
       "spoiler": false
     }
