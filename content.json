@@ -1,5 +1,5 @@
 {
-  "version": 70,
+  "version": 71,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -21026,6 +21026,450 @@
         {
           "label": "Business",
           "value": "Iris Laundry"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-benefactor-spritz",
+      "section": "vehicles",
+      "category": "Van",
+      "name": "Benefactor Spritz",
+      "subtitle": "Benefactor passenger and cargo van",
+      "body": "A tall, modern Benefactor van modeled on a European-style delivery and shuttle van.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Van"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Benefactor"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-vapid-montagne",
+      "section": "vehicles",
+      "category": "SUV",
+      "name": "Vapid Montagne",
+      "subtitle": "Mid-size family SUV",
+      "body": "Vapid's everyday mid-size SUV. Police also run a marked version, so expect to see a lot of them during a chase.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "SUV"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Vapid"
+        },
+        {
+          "label": "Variants",
+          "value": "Police version"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-vapid-stanier-g2-taxi",
+      "section": "vehicles",
+      "category": "Service",
+      "name": "Vapid Stanier G2 Taxi",
+      "subtitle": "Yellow cab version of the Stanier G2",
+      "body": "The classic yellow taxi built on the Stanier G2 sedan. Besides finding one on the street, you can also spawn it with a cheat.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Service"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Vapid"
+        },
+        {
+          "label": "Based on",
+          "value": "Vapid Stanier G2"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-declasse-granger-taxi",
+      "section": "vehicles",
+      "category": "Service",
+      "name": "Declasse Granger Taxi",
+      "subtitle": "Big SUV taxi",
+      "body": "A taxi-liveried version of the Declasse Granger SUV, with lots of room for passengers.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Service"
+        },
+        {
+          "label": "Based on",
+          "value": "Declasse Granger"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-dundreary-police-landstalker-xl",
+      "section": "vehicles",
+      "category": "Emergency",
+      "name": "Dundreary Police Landstalker XL",
+      "subtitle": "Police full-size SUV",
+      "body": "The law enforcement take on the Landstalker XL luxury SUV.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Emergency"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Dundreary"
+        },
+        {
+          "label": "Based on",
+          "value": "Dundreary Landstalker XL"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-seashark-azure",
+      "section": "vehicles",
+      "category": "Boat",
+      "name": "Seashark Azure",
+      "subtitle": "Compact jet ski",
+      "body": "A small Seashark personal watercraft for quick trips along the coast.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Jet ski"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Seashark"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-seashark-sedna",
+      "section": "vehicles",
+      "category": "Boat",
+      "name": "Seashark Sedna",
+      "subtitle": "Seashark jet ski",
+      "body": "Another Seashark personal watercraft. You will spot these around beaches and marinas.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Jet ski"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Seashark"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-calder-dibnah",
+      "section": "vehicles",
+      "category": "Boat",
+      "name": "Calder Dibnah",
+      "subtitle": "Calder yacht",
+      "body": "A Calder yacht. A custom 'Mosaic' version is tied up at a dock on Dalton Island.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Yacht"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Calder"
+        },
+        {
+          "label": "Custom version",
+          "value": "Mosaic Dibnah, docked on Dalton Island"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-calder-torlan",
+      "section": "vehicles",
+      "category": "Boat",
+      "name": "Calder Torlan",
+      "subtitle": "Calder motor yacht",
+      "body": "A sleek Calder motor yacht found around the islands and marinas.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Yacht"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Calder"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-hulls-flatdeck",
+      "section": "vehicles",
+      "category": "Boat",
+      "name": "Hulls Flatdeck",
+      "subtitle": "Huge cargo workboat",
+      "body": "A long flat cargo boat that sails offshore. To take one, catch up with it, climb the ladder on its side and grab the helm.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Cargo boat"
+        },
+        {
+          "label": "How to get",
+          "value": "Board a passing cargo boat by its side ladder"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-hulls-pontoon",
+      "section": "vehicles",
+      "category": "Boat",
+      "name": "Hulls Pontoon",
+      "subtitle": "Flat pontoon-style boat",
+      "body": "A slow, flat-decked Hulls boat built more for carrying things than speed.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Pontoon boat"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Hulls"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-rugger-fortune",
+      "section": "vehicles",
+      "category": "Boat",
+      "name": "Rugger Fortune",
+      "subtitle": "Vintage fishing workboat",
+      "body": "An old-school Rugger fishing boat with a working-vessel look.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Fishing boat"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Rugger"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-rugger-hemming",
+      "section": "vehicles",
+      "category": "Boat",
+      "name": "Rugger Hemming",
+      "subtitle": "Rugger fishing boat",
+      "body": "A Rugger fishing boat you will find tied up in the quieter bays.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Fishing boat"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Rugger"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-whiffler-airport-bus",
+      "section": "vehicles",
+      "category": "Service",
+      "name": "Whiffler Airport Bus",
+      "subtitle": "Airport shuttle bus",
+      "body": "A Whiffler bus that ferries travelers around the airport.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Service"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Whiffler"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-brute-rental-shuttle-bus",
+      "section": "vehicles",
+      "category": "Service",
+      "name": "Brute Rental Shuttle Bus",
+      "subtitle": "Small rental-car shuttle",
+      "body": "A short Brute shuttle bus that carries people between rental lots and terminals.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Service"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Brute"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-declasse-d7700",
+      "section": "vehicles",
+      "category": "Truck",
+      "name": "Declasse D7700",
+      "subtitle": "Medium-duty work truck",
+      "body": "A Declasse chassis-cab truck used for deliveries and work jobs.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Truck"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Declasse"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-lifta",
+      "section": "vehicles",
+      "category": "Utility",
+      "name": "Lifta",
+      "subtitle": "Warehouse forklift",
+      "body": "A forklift for moving pallets around warehouses and docks.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Utility"
+        },
+        {
+          "label": "Type",
+          "value": "Forklift"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-stanley-furrow-tc-2350",
+      "section": "vehicles",
+      "category": "Industrial",
+      "name": "Stanley Furrow TC 2350",
+      "subtitle": "Farm tractor",
+      "body": "A Stanley farm tractor, slow but handy around fields and ranches.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Industrial"
+        },
+        {
+          "label": "Type",
+          "value": "Tractor"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Stanley"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-jack-sheepe-fieldmaster-99",
+      "section": "vehicles",
+      "category": "Industrial",
+      "name": "Jack Sheepe Fieldmaster '99",
+      "subtitle": "Large farm machine",
+      "body": "A Jack Sheepe farm vehicle from the late '90s, built for heavy field work.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Industrial"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "Jack Sheepe"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-jobuilt-mb2-10",
+      "section": "vehicles",
+      "category": "Truck",
+      "name": "JoBuilt MB2-10",
+      "subtitle": "JoBuilt heavy truck",
+      "body": "A big JoBuilt work truck seen on highways and around industrial areas.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Truck"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "JoBuilt"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-jobuilt-rubble",
+      "section": "vehicles",
+      "category": "Industrial",
+      "name": "JoBuilt Rubble",
+      "subtitle": "Heavy dump truck",
+      "body": "A JoBuilt dump truck for hauling dirt and rubble from construction sites.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Industrial"
+        },
+        {
+          "label": "Manufacturer",
+          "value": "JoBuilt"
+        },
+        {
+          "label": "Seats",
+          "value": "2"
         }
       ],
       "tags": [],
