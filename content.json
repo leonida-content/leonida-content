@@ -1,5 +1,5 @@
 {
-  "version": 64,
+  "version": 65,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -18868,6 +18868,457 @@
       ],
       "tags": [
         "Hunting"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-marabunta-grande-hobo",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Marabunta Grande Hobo",
+      "subtitle": "Free unique double-barrel shotgun near Hamlet",
+      "body": "A one-of-a-kind take on the Shrewsbury Hobo that you can grab for free early on. Look for a weapon case inside an industrial storage building south of Hamlet. Like other unique variants, it can't be modified.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Shrewsbury Hobo (shotgun)"
+        },
+        {
+          "label": "Price",
+          "value": "Free pickup"
+        },
+        {
+          "label": "Where to find",
+          "value": "Weapon case in an industrial storage building south of Hamlet"
+        },
+        {
+          "label": "Mods",
+          "value": "Cannot be modified"
+        }
+      ],
+      "region": "Hamlet",
+      "tags": [
+        "Unique",
+        "Early game"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-molotov",
+      "section": "weapons",
+      "category": "Throwables",
+      "name": "Molotov",
+      "subtitle": "Fire bottle that sets the landing spot ablaze",
+      "body": "A thrown firebomb that bursts into flames where it lands. Handy for clearing groups or stopping vehicles.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Throwable"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-rugger-rhode",
+      "section": "vehicles",
+      "category": "Boat",
+      "name": "Rugger Rhode",
+      "subtitle": "Large four-engine fishing and cruising boat",
+      "body": "A big center-console powerboat with four outboard motors, made for fishing runs and coastal cruising. Police also use a version of it on the water.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Rugger"
+        },
+        {
+          "label": "Engines",
+          "value": "Four outboards"
+        },
+        {
+          "label": "Variants",
+          "value": "Police version"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-calder-cb69",
+      "section": "vehicles",
+      "category": "Boat",
+      "name": "Calder CB69",
+      "subtitle": "Luxury twin-hull power catamaran",
+      "body": "A large luxury catamaran you'll often spot loaded with partying boaters off Vice Beach and around the Keys.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Calder"
+        },
+        {
+          "label": "Type",
+          "value": "Yacht (catamaran)"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-dingus-garda",
+      "section": "vehicles",
+      "category": "Boat",
+      "name": "Dingus Garda",
+      "subtitle": "Coast Guard rescue boat",
+      "body": "A grey emergency response boat used for rescues on Leonida's waters.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Dingus"
+        },
+        {
+          "label": "Type",
+          "value": "Emergency / rescue boat"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-hulls-sea-cab",
+      "section": "vehicles",
+      "category": "Boat",
+      "name": "Hulls Sea Cab",
+      "subtitle": "Vice City water taxi",
+      "body": "A colorful covered water taxi that shuttles passengers on short hops across the bay. Some guides spell it Seacab.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Hulls"
+        },
+        {
+          "label": "Type",
+          "value": "Water taxi"
+        }
+      ],
+      "region": "Vice City",
+      "spoiler": false
+    },
+    {
+      "id": "db-places-manatee-motel",
+      "section": "places",
+      "category": "Gang hideout",
+      "name": "Manatee Motel",
+      "subtitle": "Run-down Kingfishers motel with a loose tiger",
+      "body": "A grimy motel the Kingfishers use to keep exotic animals. You can visit early, but an angry tiger roams the rooms, so be ready. Search it for cash and a unique sniper rifle.",
+      "facts": [
+        {
+          "label": "Location",
+          "value": "South of Hamlet"
+        },
+        {
+          "label": "Gang",
+          "value": "Kingfishers"
+        },
+        {
+          "label": "Danger",
+          "value": "Hostile tiger in the rooms"
+        },
+        {
+          "label": "Loot",
+          "value": "Cash and the Kingfishers Laird 350 sniper rifle (weapon case)"
+        }
+      ],
+      "region": "Hamlet",
+      "tags": [
+        "Early game",
+        "Unique weapon"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-hamlet-weapons-warehouse",
+      "section": "places",
+      "category": "Landmark",
+      "name": "Hamlet Weapons Warehouse",
+      "subtitle": "Unguarded warehouse with free guns",
+      "body": "An abandoned warehouse in South Vice-Dale County near Hamlet. You can collect several guns and a bit of cash here without a fight, which makes it a great early stop.",
+      "facts": [
+        {
+          "label": "Location",
+          "value": "South Vice-Dale County, near Hamlet"
+        },
+        {
+          "label": "What's inside",
+          "value": "Several free guns (SMG, assault rifle and pistol) and some cash"
+        }
+      ],
+      "region": "Hamlet",
+      "tags": [
+        "Early game"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-sherwin-boatworks",
+      "section": "places",
+      "category": "Marina",
+      "name": "Sherwin Boatworks",
+      "subtitle": "Southwind boatyard with a free helicopter",
+      "body": "A boatyard in Southwind next to Chicki's Tiki Bar and Mile Zero Air Station. A Buckingham Maverick waits on the dock, so this is the fastest way to get in the air early, no story progress needed.",
+      "facts": [
+        {
+          "label": "Location",
+          "value": "Southwind, about 2.5 miles west of Jason's house along the Sunbelt Highway"
+        },
+        {
+          "label": "What's there",
+          "value": "Buckingham Maverick helicopter on the dock east of the parking lot"
+        },
+        {
+          "label": "Nearby",
+          "value": "Chicki's Tiki Bar, Mile Zero Air Station"
+        },
+        {
+          "label": "Requirements",
+          "value": "None"
+        }
+      ],
+      "region": "Leonida Keys",
+      "tags": [
+        "Helicopter",
+        "Early game"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-flip-flop-house",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Flip Flop House",
+      "subtitle": "Budget shoe and sunglasses shop in Key Lento",
+      "body": "A cheap starter store close to Jason's house for sandals, sneakers and shades. Bigger shoe stores open up once you reach Vice City.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Footwear"
+        },
+        {
+          "label": "Location",
+          "value": "Sunbelt Highway, southwest of Jason's house"
+        },
+        {
+          "label": "Sunglasses",
+          "value": "About $30 to $40"
+        },
+        {
+          "label": "Running shoes",
+          "value": "About $89"
+        }
+      ],
+      "region": "Key Lento",
+      "tags": [
+        "Shoes"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-callus",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Callus",
+      "subtitle": "Footwear chain",
+      "body": "A shoe store chain with branches from Capri down to Waning Sands, with two in Ocean Beach.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Footwear"
+        },
+        {
+          "label": "Branches",
+          "value": "Capri, Decor District, Ocean Beach (2), Waning Sands"
+        }
+      ],
+      "tags": [
+        "Shoes"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-podium-sports",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Podium Sports",
+      "subtitle": "Sneaker and sports shoe chain",
+      "body": "The biggest sneaker chain in Leonida, also stocking accessories.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Sneakers and accessories"
+        },
+        {
+          "label": "Branches",
+          "value": "Southside, Tequesta, Downtown, Ocean Beach (2), Waning Sands"
+        }
+      ],
+      "tags": [
+        "Shoes"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-whs",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "WHS",
+      "subtitle": "Discount shoe chain",
+      "body": "A bargain shoe store for cheap sneakers, boots and sandals.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Discount footwear"
+        },
+        {
+          "label": "Branches",
+          "value": "Little Cuba, Downtown (2), Ocean Beach, Port Gellhorn"
+        }
+      ],
+      "tags": [
+        "Shoes"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-urban-legendz",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Urban Legendz",
+      "subtitle": "Streetwear boutique",
+      "body": "A casual streetwear shop for everyday outfits and accessories.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Casual and streetwear"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-key-lento-kahuna",
+      "section": "places",
+      "category": "Clothing store",
+      "name": "Key Lento Kahuna",
+      "subtitle": "Island souvenir and beachwear shop",
+      "body": "A souvenir store in the Keys selling summer clothes and beach gear.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Souvenirs and swimwear"
+        }
+      ],
+      "region": "Mariana County",
+      "spoiler": false
+    },
+    {
+      "id": "db-places-electric-boulevard",
+      "section": "places",
+      "category": "Electronics Store",
+      "name": "Electric Boulevard",
+      "subtitle": "Gadget and accessories store",
+      "body": "An electronics shop where Jason and Lucia can pick up headphones, earbuds and phone cases.",
+      "facts": [
+        {
+          "label": "Sells",
+          "value": "Headphones, earbuds, phone cases"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-kurts-barber-shop",
+      "section": "places",
+      "category": "Hair Salon",
+      "name": "Kurt's Barber Shop",
+      "subtitle": "Barbershop for new haircuts",
+      "body": "A barbershop marked under Hair & Beauty on the map where you can change your character's hairstyle.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Barber"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-hyper-ink",
+      "section": "places",
+      "category": "Tattoo Studio",
+      "name": "Hyper Ink",
+      "subtitle": "Vice City tattoo studio",
+      "body": "A tattoo studio in Vice City where you can add new ink.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Tattoo studio"
+        }
+      ],
+      "region": "Vice City",
+      "spoiler": false
+    },
+    {
+      "id": "db-places-avery-pawn",
+      "section": "places",
+      "category": "Shop",
+      "name": "Avery Pawn",
+      "subtitle": "Port Gellhorn pawn shop",
+      "body": "A pawn shop in Port Gellhorn with glass jewelry display cases.",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Pawn shop"
+        }
+      ],
+      "region": "Port Gellhorn",
+      "spoiler": false
+    },
+    {
+      "id": "db-properties-paradise-garage",
+      "section": "properties",
+      "category": "Garage",
+      "name": "Paradise Garage",
+      "subtitle": "Ultimate Edition garage in Watson Bay",
+      "body": "A garage for Ultimate Edition owners. Besides parking, it has a weapon locker and a spot to stash stolen goods until you sell them to a fence.",
+      "facts": [
+        {
+          "label": "Location",
+          "value": "Watson Bay"
+        },
+        {
+          "label": "Features",
+          "value": "Weapon locker, stolen-goods storage"
+        },
+        {
+          "label": "Edition",
+          "value": "Ultimate Edition only"
+        }
+      ],
+      "region": "Watson Bay",
+      "tags": [
+        "Ultimate Edition"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-radio-vice-city-true-stories",
+      "section": "radio",
+      "category": "Podcast",
+      "name": "Vice City True Stories",
+      "subtitle": "On-demand true-crime podcast",
+      "body": "One of GTA 6's new on-demand podcasts. Play it in a vehicle or on foot with headphones; new episodes unlock as the story moves on.",
+      "facts": [
+        {
+          "label": "Format",
+          "value": "On-demand podcast"
+        },
+        {
+          "label": "How to listen",
+          "value": "Podcast library in the radio menu, or headphones on foot"
+        }
       ],
       "spoiler": false
     }
