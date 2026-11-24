@@ -1,11 +1,19 @@
 {
-  "version": 75,
+  "version": 76,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
     "Xbox Series X|S"
   ],
   "news": [
+    {
+      "id": "news-update-01-002-002",
+      "title": "First post-launch patch: 01.002.002",
+      "summary": "Rockstar's first update since launch arrived on Nov 23 for PS5 (01.002.002, about 604 MB) and Xbox Series X|S (1.0.2.2, about 1.6 GB). It fixes crashes, weather getting stuck, autosave, missing story and unlock phone calls, Wanted Levels that wouldn't clear, the gym deadlift bar, and partners not handing over bags for fencing.",
+      "date": "2026-11-23",
+      "status": "official",
+      "sourceURL": "https://support.rockstargames.com/articles/sN5pEdFYZdlvijKXd6xpJ/grand-theft-auto-vi-launch-updates-ps5-xbox-series-x-or-s"
+    },
     {
       "id": "news-day-one-sales-record",
       "title": "$3.79 billion in day-one sales",
@@ -22855,6 +22863,614 @@
       ],
       "tags": [
         "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-fleeca-key-lento",
+      "section": "places",
+      "category": "Bank",
+      "name": "Fleeca Key Lento",
+      "subtitle": "Small bank job, $5,000–$20,000",
+      "body": "A small bank job: empty both the teller cash drawer and the back safe for it to count as done. The cash comes out as marked bills, so you need the Dye Pack Jammer before a fence will buy it. The nearest bank to Jason's place in the Keys.",
+      "region": "Key Lento",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Small bank (drawer + safe)"
+        },
+        {
+          "label": "Payout",
+          "value": "$5,000–$20,000"
+        },
+        {
+          "label": "Unlock",
+          "value": "After Credit Check (Chapter 3)"
+        }
+      ],
+      "tags": [
+        "Bank Jobs",
+        "Money"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-shorefront-watson-bay",
+      "section": "places",
+      "category": "Bank",
+      "name": "Shorefront Watson Bay",
+      "subtitle": "Small bank job, $5,000–$20,000",
+      "body": "A small bank job: empty both the teller cash drawer and the back safe for it to count as done. The cash comes out as marked bills, so you need the Dye Pack Jammer before a fence will buy it.",
+      "region": "Watson Bay",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Small bank (drawer + safe)"
+        },
+        {
+          "label": "Payout",
+          "value": "$5,000–$20,000"
+        },
+        {
+          "label": "Unlock",
+          "value": "After Credit Check (Chapter 3)"
+        }
+      ],
+      "tags": [
+        "Bank Jobs",
+        "Money"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-gibson-brothers-bank",
+      "section": "places",
+      "category": "Bank",
+      "name": "Gibson Brothers Bank",
+      "subtitle": "Small bank job, $10,000–$30,000",
+      "body": "A small bank job: empty both the teller cash drawer and the back safe for it to count as done. The cash comes out as marked bills, so you need the Dye Pack Jammer before a fence will buy it. The best-paying small bank in the Keys.",
+      "region": "Mariana County",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Small bank (drawer + safe)"
+        },
+        {
+          "label": "Payout",
+          "value": "$10,000–$30,000"
+        },
+        {
+          "label": "Unlock",
+          "value": "After Credit Check (Chapter 3)"
+        }
+      ],
+      "tags": [
+        "Bank Jobs",
+        "Money"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-lombank-peacock-bay",
+      "section": "places",
+      "category": "Bank",
+      "name": "Lombank Peacock Bay",
+      "subtitle": "Small bank job, $5,000–$20,000",
+      "body": "A small bank job: empty both the teller cash drawer and the back safe for it to count as done. The cash comes out as marked bills, so you need the Dye Pack Jammer before a fence will buy it.",
+      "region": "Peacock Bay",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Small bank (drawer + safe)"
+        },
+        {
+          "label": "Payout",
+          "value": "$5,000–$20,000"
+        },
+        {
+          "label": "Unlock",
+          "value": "After Credit Check (Chapter 3)"
+        }
+      ],
+      "tags": [
+        "Bank Jobs",
+        "Money"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-fleeca-peacock-bay",
+      "section": "places",
+      "category": "Bank",
+      "name": "Fleeca Peacock Bay",
+      "subtitle": "Small bank job, $5,000–$20,000",
+      "body": "A small bank job: empty both the teller cash drawer and the back safe for it to count as done. The cash comes out as marked bills, so you need the Dye Pack Jammer before a fence will buy it.",
+      "region": "Peacock Bay",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Small bank (drawer + safe)"
+        },
+        {
+          "label": "Payout",
+          "value": "$5,000–$20,000"
+        },
+        {
+          "label": "Unlock",
+          "value": "After Credit Check (Chapter 3)"
+        }
+      ],
+      "tags": [
+        "Bank Jobs",
+        "Money"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-shorefront-downtown",
+      "section": "places",
+      "category": "Bank",
+      "name": "Shorefront Downtown",
+      "subtitle": "Small bank job, $5,000–$15,000",
+      "body": "A small bank job: empty both the teller cash drawer and the back safe for it to count as done. The cash comes out as marked bills, so you need the Dye Pack Jammer before a fence will buy it.",
+      "region": "Downtown Vice City",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Small bank (drawer + safe)"
+        },
+        {
+          "label": "Payout",
+          "value": "$5,000–$15,000"
+        },
+        {
+          "label": "Unlock",
+          "value": "After Credit Check (Chapter 3)"
+        }
+      ],
+      "tags": [
+        "Bank Jobs",
+        "Money"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-shorefront-rockridge",
+      "section": "places",
+      "category": "Bank",
+      "name": "Shorefront Rockridge",
+      "subtitle": "Small bank job, $5,000–$20,000",
+      "body": "A small bank job: empty both the teller cash drawer and the back safe for it to count as done. The cash comes out as marked bills, so you need the Dye Pack Jammer before a fence will buy it.",
+      "region": "Rockridge",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Small bank (drawer + safe)"
+        },
+        {
+          "label": "Payout",
+          "value": "$5,000–$20,000"
+        },
+        {
+          "label": "Unlock",
+          "value": "After Credit Check (Chapter 3)"
+        }
+      ],
+      "tags": [
+        "Bank Jobs",
+        "Money"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-lombank-bayside",
+      "section": "places",
+      "category": "Bank",
+      "name": "Lombank Bayside",
+      "subtitle": "Small bank job, $15,000–$45,000",
+      "body": "A small bank job: empty both the teller cash drawer and the back safe for it to count as done. The cash comes out as marked bills, so you need the Dye Pack Jammer before a fence will buy it. One of the best-paying small banks on the map.",
+      "region": "Bayside",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Small bank (drawer + safe)"
+        },
+        {
+          "label": "Payout",
+          "value": "$15,000–$45,000"
+        },
+        {
+          "label": "Unlock",
+          "value": "After Credit Check (Chapter 3)"
+        }
+      ],
+      "tags": [
+        "Bank Jobs",
+        "Money"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-fleeca-washington-beach",
+      "section": "places",
+      "category": "Bank",
+      "name": "Fleeca Washington Beach",
+      "subtitle": "Small bank job, $10,000–$30,000",
+      "body": "A small bank job: empty both the teller cash drawer and the back safe for it to count as done. The cash comes out as marked bills, so you need the Dye Pack Jammer before a fence will buy it.",
+      "region": "Washington Beach",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Small bank (drawer + safe)"
+        },
+        {
+          "label": "Payout",
+          "value": "$10,000–$30,000"
+        },
+        {
+          "label": "Unlock",
+          "value": "After Credit Check (Chapter 3)"
+        }
+      ],
+      "tags": [
+        "Bank Jobs",
+        "Money"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-lombank-ocean-beach",
+      "section": "places",
+      "category": "Bank",
+      "name": "Lombank Ocean Beach",
+      "subtitle": "Small bank job, $15,000–$45,000",
+      "body": "A small bank job: empty both the teller cash drawer and the back safe for it to count as done. The cash comes out as marked bills, so you need the Dye Pack Jammer before a fence will buy it. One of the best-paying small banks on the map.",
+      "region": "Ocean Beach",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Small bank (drawer + safe)"
+        },
+        {
+          "label": "Payout",
+          "value": "$15,000–$45,000"
+        },
+        {
+          "label": "Unlock",
+          "value": "After Credit Check (Chapter 3)"
+        }
+      ],
+      "tags": [
+        "Bank Jobs",
+        "Money"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-fleeca-ocean-beach",
+      "section": "places",
+      "category": "Bank",
+      "name": "Fleeca Ocean Beach",
+      "subtitle": "Small bank job, $5,000–$15,000",
+      "body": "A small bank job: empty both the teller cash drawer and the back safe for it to count as done. The cash comes out as marked bills, so you need the Dye Pack Jammer before a fence will buy it.",
+      "region": "Ocean Beach",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Small bank (drawer + safe)"
+        },
+        {
+          "label": "Payout",
+          "value": "$5,000–$15,000"
+        },
+        {
+          "label": "Unlock",
+          "value": "After Credit Check (Chapter 3)"
+        }
+      ],
+      "tags": [
+        "Bank Jobs",
+        "Money"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-shorefront-ocean-beach",
+      "section": "places",
+      "category": "Bank",
+      "name": "Shorefront Ocean Beach",
+      "subtitle": "Small bank job, $5,000–$15,000",
+      "body": "A small bank job: empty both the teller cash drawer and the back safe for it to count as done. The cash comes out as marked bills, so you need the Dye Pack Jammer before a fence will buy it.",
+      "region": "Ocean Beach",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Small bank (drawer + safe)"
+        },
+        {
+          "label": "Payout",
+          "value": "$5,000–$15,000"
+        },
+        {
+          "label": "Unlock",
+          "value": "After Credit Check (Chapter 3)"
+        }
+      ],
+      "tags": [
+        "Bank Jobs",
+        "Money"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-druthers-state-bank",
+      "section": "places",
+      "category": "Bank",
+      "name": "Druthers State Bank",
+      "subtitle": "Small bank job, $15,000–$45,000",
+      "body": "A small bank job: empty both the teller cash drawer and the back safe for it to count as done. The cash comes out as marked bills, so you need the Dye Pack Jammer before a fence will buy it. A top-paying small bank outside the city.",
+      "region": "Leonard County",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Small bank (drawer + safe)"
+        },
+        {
+          "label": "Payout",
+          "value": "$15,000–$45,000"
+        },
+        {
+          "label": "Unlock",
+          "value": "After Credit Check (Chapter 3)"
+        }
+      ],
+      "tags": [
+        "Bank Jobs",
+        "Money"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-shorefront-ambrosia",
+      "section": "places",
+      "category": "Bank",
+      "name": "Shorefront Ambrosia",
+      "subtitle": "Small bank job, $5,000–$15,000",
+      "body": "A small bank job: empty both the teller cash drawer and the back safe for it to count as done. The cash comes out as marked bills, so you need the Dye Pack Jammer before a fence will buy it.",
+      "region": "Ambrosia",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Small bank (drawer + safe)"
+        },
+        {
+          "label": "Payout",
+          "value": "$5,000–$15,000"
+        },
+        {
+          "label": "Unlock",
+          "value": "After Credit Check (Chapter 3)"
+        }
+      ],
+      "tags": [
+        "Bank Jobs",
+        "Money"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-fleeca-vcia-vault",
+      "section": "places",
+      "category": "Bank",
+      "name": "Fleeca VCIA Vault",
+      "subtitle": "Bank vault, $100,000–$150,000",
+      "body": "A large bank with a vault. The vault only opens while a security van is making a delivery, so follow a van here (or buy a tip from Yasmani) and slip in while it's open. Expect an instant 4-star wanted level, so plan a fast getaway, like a quick motorcycle and a vehicle swap. Loot is marked bills.",
+      "region": "Vice City International Airport area",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Large bank with vault"
+        },
+        {
+          "label": "Payout",
+          "value": "$100,000–$150,000"
+        },
+        {
+          "label": "Unlock",
+          "value": "After That's Where The Money Is... (Chapter 4 optional)"
+        },
+        {
+          "label": "Wanted level",
+          "value": "4 stars"
+        },
+        {
+          "label": "Van tip",
+          "value": "$10,000 from Yasmani, after two Payday Loans for him"
+        }
+      ],
+      "tags": [
+        "Bank Jobs",
+        "Money"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-fleeca-tequesta-vault",
+      "section": "places",
+      "category": "Bank",
+      "name": "Fleeca Tequesta Vault",
+      "subtitle": "Bank vault, $65,000–$110,000",
+      "body": "A large bank with a vault. The vault only opens while a security van is making a delivery, so follow a van here (or buy a tip from Yasmani) and slip in while it's open. Expect an instant 4-star wanted level, so plan a fast getaway, like a quick motorcycle and a vehicle swap. Loot is marked bills.",
+      "region": "Tequesta",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Large bank with vault"
+        },
+        {
+          "label": "Payout",
+          "value": "$65,000–$110,000"
+        },
+        {
+          "label": "Unlock",
+          "value": "After That's Where The Money Is... (Chapter 4 optional)"
+        },
+        {
+          "label": "Wanted level",
+          "value": "4 stars"
+        },
+        {
+          "label": "Van tip",
+          "value": "$10,000 from Yasmani, after two Payday Loans for him"
+        }
+      ],
+      "tags": [
+        "Bank Jobs",
+        "Money"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-lombank-downtown-vault",
+      "section": "places",
+      "category": "Bank",
+      "name": "Lombank Downtown Vault",
+      "subtitle": "Bank vault, $135,000–$205,000",
+      "body": "A large bank with a vault. The vault only opens while a security van is making a delivery, so follow a van here (or buy a tip from Yasmani) and slip in while it's open. Expect an instant 4-star wanted level, so plan a fast getaway, like a quick motorcycle and a vehicle swap. Loot is marked bills.",
+      "region": "Downtown Vice City",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Large bank with vault"
+        },
+        {
+          "label": "Payout",
+          "value": "$135,000–$205,000"
+        },
+        {
+          "label": "Unlock",
+          "value": "After That's Where The Money Is... (Chapter 4 optional)"
+        },
+        {
+          "label": "Wanted level",
+          "value": "4 stars"
+        },
+        {
+          "label": "Van tip",
+          "value": "$10,000 from Yasmani, after two Payday Loans for him"
+        }
+      ],
+      "tags": [
+        "Bank Jobs",
+        "Money"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-fleeca-downtown-vault",
+      "section": "places",
+      "category": "Bank",
+      "name": "Fleeca Downtown Vault",
+      "subtitle": "Bank vault, $100,000–$150,000",
+      "body": "A large bank with a vault. The vault only opens while a security van is making a delivery, so follow a van here (or buy a tip from Yasmani) and slip in while it's open. Expect an instant 4-star wanted level, so plan a fast getaway, like a quick motorcycle and a vehicle swap. Loot is marked bills.",
+      "region": "Downtown Vice City",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Large bank with vault"
+        },
+        {
+          "label": "Payout",
+          "value": "$100,000–$150,000"
+        },
+        {
+          "label": "Unlock",
+          "value": "After That's Where The Money Is... (Chapter 4 optional)"
+        },
+        {
+          "label": "Wanted level",
+          "value": "4 stars"
+        },
+        {
+          "label": "Van tip",
+          "value": "$10,000 from Yasmani, after two Payday Loans for him"
+        }
+      ],
+      "tags": [
+        "Bank Jobs",
+        "Money"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-fleeca-ocean-beach-vault",
+      "section": "places",
+      "category": "Bank",
+      "name": "Fleeca Ocean Beach Vault",
+      "subtitle": "Bank vault, $75,000–$135,000",
+      "body": "A large bank with a vault. The vault only opens while a security van is making a delivery, so follow a van here (or buy a tip from Yasmani) and slip in while it's open. Expect an instant 4-star wanted level, so plan a fast getaway, like a quick motorcycle and a vehicle swap. Loot is marked bills.",
+      "region": "Ocean Beach",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Large bank with vault"
+        },
+        {
+          "label": "Payout",
+          "value": "$75,000–$135,000"
+        },
+        {
+          "label": "Unlock",
+          "value": "After That's Where The Money Is... (Chapter 4 optional)"
+        },
+        {
+          "label": "Wanted level",
+          "value": "4 stars"
+        },
+        {
+          "label": "Van tip",
+          "value": "$10,000 from Yasmani, after two Payday Loans for him"
+        }
+      ],
+      "tags": [
+        "Bank Jobs",
+        "Money"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-shorefront-ocean-beach-vault",
+      "section": "places",
+      "category": "Bank",
+      "name": "Shorefront Ocean Beach Vault",
+      "subtitle": "Bank vault, $95,000–$140,000",
+      "body": "A large bank with a vault. The vault only opens while a security van is making a delivery, so follow a van here (or buy a tip from Yasmani) and slip in while it's open. Expect an instant 4-star wanted level, so plan a fast getaway, like a quick motorcycle and a vehicle swap. Loot is marked bills.",
+      "region": "Ocean Beach",
+      "facts": [
+        {
+          "label": "Type",
+          "value": "Large bank with vault"
+        },
+        {
+          "label": "Payout",
+          "value": "$95,000–$140,000"
+        },
+        {
+          "label": "Unlock",
+          "value": "After That's Where The Money Is... (Chapter 4 optional)"
+        },
+        {
+          "label": "Wanted level",
+          "value": "4 stars"
+        },
+        {
+          "label": "Van tip",
+          "value": "$10,000 from Yasmani, after two Payday Loans for him"
+        }
+      ],
+      "tags": [
+        "Bank Jobs",
+        "Money"
       ],
       "spoiler": false
     }
