@@ -1,5 +1,5 @@
 {
-  "version": 76,
+  "version": 77,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -23472,6 +23472,577 @@
         "Bank Jobs",
         "Money"
       ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-pegassi-splattered-vitello",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Pegassi Splattered Vitello",
+      "subtitle": "Paint-splattered Vitello supercar",
+      "body": "A one-off Vitello covered in splashes of paint. It's a supercar, so it's one of the quickest things on four wheels in Leonida.",
+      "facts": [
+        {
+          "label": "Standout type",
+          "value": "Standout variant"
+        },
+        {
+          "label": "Base model",
+          "value": "Vitello"
+        },
+        {
+          "label": "Class",
+          "value": "Super"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-progen-black-widow-emerus",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Progen Black Widow Emerus",
+      "subtitle": "Street Racer Emerus",
+      "body": "A dark, one-of-a-kind Emerus from the Street Racer group. Like the other Emerus standouts, it sits near the top of the supercar speed rankings.",
+      "facts": [
+        {
+          "label": "Standout type",
+          "value": "Street Racer"
+        },
+        {
+          "label": "Base model",
+          "value": "Emerus"
+        },
+        {
+          "label": "Class",
+          "value": "Super"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-buckingham-cellerica-shamal",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Buckingham Cellerica Shamal",
+      "subtitle": "Luxury Shamal business jet",
+      "body": "A plush, one-off take on the Shamal private jet and one of the few standout aircraft in the game.",
+      "facts": [
+        {
+          "label": "Standout type",
+          "value": "Ultra-Luxe"
+        },
+        {
+          "label": "Base model",
+          "value": "Shamal"
+        },
+        {
+          "label": "Class",
+          "value": "Plane"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-lapwing-blazing-mallard",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Lapwing Blazing Mallard",
+      "subtitle": "Flame-painted Mallard stunt plane",
+      "body": "A Mallard stunt plane decked out in hot-rod flames.",
+      "facts": [
+        {
+          "label": "Standout type",
+          "value": "Hot Rods"
+        },
+        {
+          "label": "Base model",
+          "value": "Mallard"
+        },
+        {
+          "label": "Class",
+          "value": "Plane"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-lapwing-pussycat-mammatus",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Lapwing Pussycat Mammatus",
+      "subtitle": "Pink Mammatus light plane",
+      "body": "A bright pink version of the small Mammatus prop plane.",
+      "facts": [
+        {
+          "label": "Standout type",
+          "value": "Girlypop"
+        },
+        {
+          "label": "Base model",
+          "value": "Mammatus"
+        },
+        {
+          "label": "Class",
+          "value": "Plane"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-buckingham-atlantic-volatus",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Buckingham Atlantic Volatus",
+      "subtitle": "Ultra-Luxe Volatus helicopter",
+      "body": "A high-end, one-off Volatus helicopter from the Ultra-Luxe group.",
+      "facts": [
+        {
+          "label": "Standout type",
+          "value": "Ultra-Luxe"
+        },
+        {
+          "label": "Base model",
+          "value": "Volatus"
+        },
+        {
+          "label": "Class",
+          "value": "Helicopter"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-buckingham-dragonfly-volatus",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Buckingham Dragonfly Volatus",
+      "subtitle": "Dragonfly-themed Volatus",
+      "body": "Another Ultra-Luxe Volatus, this one with a dragonfly theme.",
+      "facts": [
+        {
+          "label": "Standout type",
+          "value": "Ultra-Luxe"
+        },
+        {
+          "label": "Base model",
+          "value": "Volatus"
+        },
+        {
+          "label": "Class",
+          "value": "Helicopter"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-buckingham-avalanche-supervolito",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Buckingham Avalanche SuperVolito",
+      "subtitle": "Ultra-Luxe SuperVolito",
+      "body": "A one-off SuperVolito helicopter in the Ultra-Luxe group.",
+      "facts": [
+        {
+          "label": "Standout type",
+          "value": "Ultra-Luxe"
+        },
+        {
+          "label": "Base model",
+          "value": "SuperVolito"
+        },
+        {
+          "label": "Class",
+          "value": "Helicopter"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-calder-mosaic-dibnah",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Calder Mosaic Dibnah",
+      "subtitle": "Mosaic-styled Dibnah superyacht",
+      "body": "An Ultra-Luxe Dibnah superyacht with a mosaic-pattern finish.",
+      "facts": [
+        {
+          "label": "Standout type",
+          "value": "Ultra-Luxe"
+        },
+        {
+          "label": "Base model",
+          "value": "Dibnah"
+        },
+        {
+          "label": "Class",
+          "value": "Boat"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-calder-ocean-pearl-cb69",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Calder Ocean Pearl CB69",
+      "subtitle": "Pearl-themed CB69 catamaran",
+      "body": "A pearly version of the CB69 power catamaran from the Girlypop group.",
+      "facts": [
+        {
+          "label": "Standout type",
+          "value": "Girlypop"
+        },
+        {
+          "label": "Base model",
+          "value": "CB69"
+        },
+        {
+          "label": "Class",
+          "value": "Boat"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-rugger-henshaw-rhode",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Rugger Henshaw Rhode",
+      "subtitle": "Patriot-themed Rhode boat",
+      "body": "A red, white and blue Rhode center-console boat from the Patriot group.",
+      "facts": [
+        {
+          "label": "Standout type",
+          "value": "Patriot"
+        },
+        {
+          "label": "Base model",
+          "value": "Rhode"
+        },
+        {
+          "label": "Class",
+          "value": "Boat"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-shitzu-shining-sea-squalo",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Shitzu Shining Sea Squalo",
+      "subtitle": "Stars-and-stripes Squalo",
+      "body": "A Squalo speedboat dressed in stars and stripes, part of the Patriot group.",
+      "facts": [
+        {
+          "label": "Standout type",
+          "value": "Patriot"
+        },
+        {
+          "label": "Base model",
+          "value": "Squalo"
+        },
+        {
+          "label": "Class",
+          "value": "Boat"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-blade-500",
+      "section": "vehicles",
+      "category": "Boat",
+      "name": "Blade 500",
+      "subtitle": "Racing powerboat",
+      "body": "A twin-hull racing powerboat built for speed on open water. Prices and fixed spawn spots haven't been confirmed yet.",
+      "facts": [
+        {
+          "label": "Class",
+          "value": "Boat"
+        },
+        {
+          "label": "Type",
+          "value": "Racing powerboat"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-scrapper-vf5c",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Scrapper VF5C",
+      "subtitle": "Unique suppressed VF5C SMG",
+      "body": "A one-of-a-kind VF5C with a suppressor and long barrel. It's in a guarded room on the top floor of La Cascara Motel, which you hit during the Kolt & Associates gang operation.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Vom Feuer VF5C"
+        },
+        {
+          "label": "Where to get",
+          "value": "Top floor of La Cascara Motel, Port Gellhorn"
+        },
+        {
+          "label": "Unlock",
+          "value": "Kolt & Associates gang operation"
+        }
+      ],
+      "region": "Port Gellhorn",
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-nipper-38-mahi",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Nipper .38 \"Mahi\"",
+      "subtitle": "Unique Nipper sold at Chuck's",
+      "body": "A special Nipper .38 that only Chuck's Tackle & Shot stocks.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Nipper .38"
+        },
+        {
+          "label": "Price",
+          "value": "$1,160"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Chuck's Tackle & Shot"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-backdoor-hobo",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Backdoor Hobo",
+      "subtitle": "Unique sawed-off Hobo",
+      "body": "A battered sawed-off Hobo shotgun you can only buy at Zenon's Pawn Shop.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Shrewsbury Hobo"
+        },
+        {
+          "label": "Price",
+          "value": "$2,502"
+        },
+        {
+          "label": "Where to buy",
+          "value": "Zenon's Pawn Shop, La Perle"
+        }
+      ],
+      "region": "La Perle",
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-the-guardian-es18",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "The Guardian ES18",
+      "subtitle": "Unique ES18 from Little Cuba",
+      "body": "A unique ES18 you can pick up at the Saber Shipping Yard in Little Cuba.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Girardi ES18"
+        },
+        {
+          "label": "Where to get",
+          "value": "Saber Shipping Yard, Little Cuba"
+        }
+      ],
+      "region": "Little Cuba",
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-final-chapter-kvga-12",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Final Chapter KVGA-12",
+      "subtitle": "Unique KVGA-12 auto shotgun",
+      "body": "A unique version of the KVGA-12 automatic shotgun, hidden inside a building in Ambrosia.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Kozlov KVGA-12"
+        },
+        {
+          "label": "Area",
+          "value": "Ambrosia"
+        }
+      ],
+      "region": "Ambrosia",
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-ride-free-h-l-38",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Ride Free H&L .38",
+      "subtitle": "Biker-themed H&L .38 revolver",
+      "body": "A biker-styled .38 revolver you can loot from the bikers' hideout during its gang operation.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "Hawk & Little .38"
+        },
+        {
+          "label": "Unlock",
+          "value": "Biker Hideout gang operation"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-weapons-franciscos-lmg-6",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Francisco's LMG 6",
+      "subtitle": "Unique LMG from a story heist",
+      "body": "A unique LMG 6 you grab during a late-game heist mission.",
+      "facts": [
+        {
+          "label": "Base weapon",
+          "value": "LMG 6"
+        },
+        {
+          "label": "Unlock",
+          "value": "VCIA Takedown (Chapter 4)"
+        }
+      ],
+      "tags": [],
+      "spoiler": true
+    },
+    {
+      "id": "db-weapons-bae-luxes-bat",
+      "section": "weapons",
+      "category": "Unique weapon",
+      "name": "Bae-Luxe's Bat",
+      "subtitle": "Custom bat from Cooties",
+      "body": "A custom baseball bat you earn by finishing the Cooties mission.",
+      "facts": [
+        {
+          "label": "Unlock",
+          "value": "Reward for Cooties (Chapter 3)"
+        },
+        {
+          "label": "Mission start",
+          "value": "Crosstown, Vice City"
+        }
+      ],
+      "region": "Crosstown",
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-collectibles-vehicle-scanning",
+      "section": "collectibles",
+      "category": "Scans",
+      "name": "Vehicle Scanning",
+      "subtitle": "Scan 200 base-model vehicles for 100%",
+      "body": "Scan base-model vehicles you come across to add them to your log. Standout vehicles don't count toward the total, so scan everyday cars as you drive around during the story.",
+      "facts": [
+        {
+          "label": "Total",
+          "value": "277 base-model vehicles"
+        },
+        {
+          "label": "Needed for 100%",
+          "value": "200"
+        },
+        {
+          "label": "Doesn't count",
+          "value": "Standout vehicles"
+        }
+      ],
+      "tags": [
+        "100%"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-collectibles-standard-issue-weapons",
+      "section": "collectibles",
+      "category": "Collectible",
+      "name": "Standard Issue Weapons",
+      "subtitle": "Collect 50 regular weapons for 100%",
+      "body": "A checklist of the regular (non-unique) weapons in the arsenal. Picking up or buying enough of them counts toward 100% completion.",
+      "facts": [
+        {
+          "label": "Total",
+          "value": "66"
+        },
+        {
+          "label": "Needed for 100%",
+          "value": "50"
+        }
+      ],
+      "tags": [
+        "100%"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-la-cascara-motel",
+      "section": "places",
+      "category": "Gang hideout",
+      "name": "La Cascara Motel",
+      "subtitle": "Kolt & Associates motel hideout",
+      "body": "A Port Gellhorn motel run by Kolt & Associates. You raid it as part of their gang operation, and the unique Scrapper VF5C is in a room on the top floor.",
+      "facts": [
+        {
+          "label": "What's there",
+          "value": "Kolt & Associates hideout, Scrapper VF5C"
+        },
+        {
+          "label": "Activity",
+          "value": "Illegal gang operation"
+        }
+      ],
+      "region": "Port Gellhorn",
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-places-saber-shipping-yard",
+      "section": "places",
+      "category": "Landmark",
+      "name": "Saber Shipping Yard",
+      "subtitle": "Little Cuba shipping yard",
+      "body": "A shipping yard in Little Cuba where you can find the unique Guardian ES18.",
+      "facts": [
+        {
+          "label": "What's there",
+          "value": "The Guardian ES18"
+        }
+      ],
+      "region": "Little Cuba",
+      "tags": [],
       "spoiler": false
     }
   ]
