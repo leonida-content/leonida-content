@@ -1,5 +1,5 @@
 {
-  "version": 77,
+  "version": 78,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -24043,6 +24043,421 @@
       ],
       "region": "Little Cuba",
       "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-bravado-aphid",
+      "section": "vehicles",
+      "category": "Standard",
+      "name": "Bravado Aphid",
+      "subtitle": "Bravado motorcycle",
+      "body": "A Bravado-branded motorbike you'll spot in regular traffic around Leonida.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Bravado"
+        },
+        {
+          "label": "Class",
+          "value": "Motorcycle"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-hauners-brigade",
+      "section": "vehicles",
+      "category": "Emergency",
+      "name": "Hauners Brigade",
+      "subtitle": "Hauners ambulance",
+      "body": "A Hauners ambulance used by Leonida's paramedics. Expect to see one roll up after a crash.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Hauners"
+        },
+        {
+          "label": "Class",
+          "value": "Emergency"
+        }
+      ],
+      "tags": [
+        "Emergency"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-brute-taco-van",
+      "section": "vehicles",
+      "category": "Commercial",
+      "name": "Brute Taco Van",
+      "subtitle": "Food truck",
+      "body": "A Brute food truck with a serving hatch on the side. Slow, but a fun find.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Brute"
+        },
+        {
+          "label": "Class",
+          "value": "Commercial / utility"
+        }
+      ],
+      "tags": [
+        "Work"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-bravado-gauntlet-interceptor",
+      "section": "vehicles",
+      "category": "Emergency",
+      "name": "Bravado Gauntlet Interceptor",
+      "subtitle": "Police muscle car",
+      "body": "A police-spec Gauntlet. Fast enough that it's hard to outrun on straight roads when your Wanted Level is up.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Bravado Gauntlet"
+        },
+        {
+          "label": "Class",
+          "value": "Emergency"
+        }
+      ],
+      "tags": [
+        "Police"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-willard-trotter-95",
+      "section": "vehicles",
+      "category": "Van",
+      "name": "Willard Trotter '95",
+      "subtitle": "90s Willard van",
+      "body": "A mid-90s Willard van. Roomy and slow, made for hauling rather than racing.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Willard"
+        },
+        {
+          "label": "Class",
+          "value": "Van"
+        }
+      ],
+      "tags": [],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-vapid-marshall",
+      "section": "vehicles",
+      "category": "Off-road",
+      "name": "Vapid Marshall",
+      "subtitle": "Monster truck",
+      "body": "A Vapid monster truck on huge tires that climbs over almost anything in its path. Usually has modern security, so plan on a key cloner.",
+      "facts": [
+        {
+          "label": "Manufacturer",
+          "value": "Vapid"
+        },
+        {
+          "label": "Class",
+          "value": "Off-road"
+        }
+      ],
+      "tags": [
+        "Off-road"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-vapid-driveshaft-marshall",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Vapid Driveshaft Marshall",
+      "subtitle": "DriveShaft Marshall monster truck",
+      "body": "A DriveShaft-branded version of the Marshall monster truck.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Vapid Marshall"
+        },
+        {
+          "label": "Standout type",
+          "value": "DriveShaft Famous"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-vapid-beer-monster-marshall",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Vapid Beer Monster Marshall",
+      "subtitle": "Beer Monster Marshall truck",
+      "body": "A one-off Marshall monster truck in a bold Beer Monster look.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Vapid Marshall"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-vapid-venomous-marshall",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Vapid Venomous Marshall",
+      "subtitle": "Venomous Marshall truck",
+      "body": "A one-off Marshall monster truck with a snake-themed Venomous look.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Vapid Marshall"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-albany-verdant-buccaneer",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Albany Verdant Buccaneer",
+      "subtitle": "Green lowrider Buccaneer",
+      "body": "A one-off lowrider built from the '65 Albany Buccaneer, finished in deep green.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Albany Buccaneer '65"
+        },
+        {
+          "label": "Standout type",
+          "value": "Lowriders"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-bermacht-bareback-cypher",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Übermacht Bareback Cypher",
+      "subtitle": "Street-racer Cypher",
+      "body": "A one-off Cypher built for street racing, with its engine left exposed. One of the quicker standouts to drive.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Übermacht Cypher"
+        },
+        {
+          "label": "Standout type",
+          "value": "Street Racer"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-declasse-beach-candy-bobcat",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Declasse Beach Candy Bobcat",
+      "subtitle": "Beach-themed Bobcat pickup",
+      "body": "A one-off Bobcat pickup with a bright beach-candy paint scheme.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Declasse Bobcat"
+        },
+        {
+          "label": "Class",
+          "value": "Pickup"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-declasse-flamingo-bobcat",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Declasse Flamingo Bobcat",
+      "subtitle": "Flamingo-themed Bobcat pickup",
+      "body": "A one-off Bobcat pickup dressed in a flamingo theme, very on-brand for Leonida.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Declasse Bobcat"
+        },
+        {
+          "label": "Class",
+          "value": "Pickup"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-albany-cuban-hermes",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Albany Cuban Hermes",
+      "subtitle": "Standout Hermes cruiser",
+      "body": "A one-off take on the 1950s Albany Hermes with a Cuban-inspired finish.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Albany Hermes '50"
+        },
+        {
+          "label": "Class",
+          "value": "Muscle"
+        },
+        {
+          "label": "Cost to register",
+          "value": "$21,650"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-vapid-driveshaft-hustler",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Vapid DriveShaft Hustler",
+      "subtitle": "DriveShaft hot rod",
+      "body": "A DriveShaft-branded version of the '32 Hustler hot rod.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "'32 Hustler"
+        },
+        {
+          "label": "Standout type",
+          "value": "DriveShaft Famous"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-shitzu-street-art-squalo",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Shitzu Street Art Squalo",
+      "subtitle": "Graffiti-art speedboat",
+      "body": "A Squalo speedboat covered in street-art paintwork.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Shitzu Squalo"
+        },
+        {
+          "label": "Standout type",
+          "value": "Fine Art"
+        },
+        {
+          "label": "Class",
+          "value": "Boat"
+        }
+      ],
+      "tags": [
+        "Standout",
+        "Boat"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-bravado-tropic-dawn-youga",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Bravado Tropic Dawn Youga",
+      "subtitle": "Art-painted Youga van",
+      "body": "A Youga van with a tropical sunrise mural down the sides.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Bravado Youga"
+        },
+        {
+          "label": "Standout type",
+          "value": "Fine Art"
+        },
+        {
+          "label": "Class",
+          "value": "Van"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-vapid-cultivator-sandking",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Vapid Cultivator Sandking",
+      "subtitle": "Farm-themed Sandking",
+      "body": "A one-off Sandking with a farm and cultivation theme.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Vapid Sandking"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-dundreary-sals-chino",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Dundreary Sal's Chino",
+      "subtitle": "Sal's custom Chino",
+      "body": "Sal's personal Chino, kept tucked away in a garage rather than out on the street.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Dundreary Chino"
+        },
+        {
+          "label": "Class",
+          "value": "Muscle"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
       "spoiler": false
     }
   ]
