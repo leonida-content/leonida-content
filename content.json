@@ -1,5 +1,5 @@
 {
-  "version": 78,
+  "version": 79,
   "releaseDay": "2026-11-19",
   "platforms": [
     "PlayStation 5",
@@ -24459,6 +24459,721 @@
         "Standout"
       ],
       "spoiler": false
+    },
+    {
+      "id": "db-vehicles-declasse-caliente-picador",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Declasse Caliente Picador",
+      "subtitle": "Flame-decal Picador hot rod",
+      "body": "A '72 Picador turned hot rod, covered in flame decals and left out in the countryside of North Mariana County.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Declasse Picador '72"
+        },
+        {
+          "label": "Class",
+          "value": "Muscle"
+        },
+        {
+          "label": "Standout type",
+          "value": "Hot rod"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "North Mariana County"
+    },
+    {
+      "id": "db-vehicles-albany-driveshaft-devanity",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Albany DriveShaft Devanity",
+      "subtitle": "Classic Devanity kept on a farm",
+      "body": "A '59 Devanity in DriveShaft colors, stored in a barn on a farm property up in North Leonard County.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Albany Devanity '59"
+        },
+        {
+          "label": "Class",
+          "value": "Muscle"
+        },
+        {
+          "label": "Standout type",
+          "value": "Classic"
+        },
+        {
+          "label": "Where to find",
+          "value": "Barn at a farmhouse in North Leonard County"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Leonard County"
+    },
+    {
+      "id": "db-vehicles-vapid-gradys-slamvan",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Vapid Grady's Slamvan",
+      "subtitle": "Old store delivery Slamvan",
+      "body": "A worn '56 Slamvan that once ran deliveries for Grady's store, now sitting outside the shuttered shop.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Vapid Slamvan '56"
+        },
+        {
+          "label": "Class",
+          "value": "Muscle"
+        },
+        {
+          "label": "Standout type",
+          "value": "Promo vehicle"
+        },
+        {
+          "label": "Where to find",
+          "value": "Outside the abandoned Grady's store in Moreau"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Moreau, Lummox County"
+    },
+    {
+      "id": "db-vehicles-vapid-smush-ganado",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Vapid Smush! Ganado",
+      "subtitle": "Juice bar promo Ganado",
+      "body": "A '70 Ganado painted up to advertise the Smush! juice bar. You'll find it out in South Kelly County.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Vapid Ganado '70"
+        },
+        {
+          "label": "Class",
+          "value": "Muscle"
+        },
+        {
+          "label": "Standout type",
+          "value": "Promo vehicle"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Kelly County"
+    },
+    {
+      "id": "db-vehicles-declasse-marthas-vamos",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Declasse Martha's Vamos",
+      "subtitle": "Rusty outlaw Vamos",
+      "body": "A rusted '74 Vamos tied to a pair of outlaws, hidden away in an abandoned shed in Bonanza.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Declasse Vamos '74"
+        },
+        {
+          "label": "Class",
+          "value": "Muscle"
+        },
+        {
+          "label": "Standout type",
+          "value": "Barn find"
+        },
+        {
+          "label": "Where to find",
+          "value": "Abandoned shed in Bonanza"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Bonanza"
+    },
+    {
+      "id": "db-vehicles-classique-emancipator-stallion",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Classique Emancipator Stallion",
+      "subtitle": "Eye-catching custom Stallion",
+      "body": "A '68 Stallion with a one-off look, kept in a garage on the outskirts of Ambrosia.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Classique Stallion '68"
+        },
+        {
+          "label": "Class",
+          "value": "Muscle"
+        },
+        {
+          "label": "Standout type",
+          "value": "Custom"
+        },
+        {
+          "label": "Where to find",
+          "value": "Garage near Ambrosia"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Frogswater"
+    },
+    {
+      "id": "db-vehicles-ocelot-bloodless-jugular",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Ocelot Bloodless Jugular",
+      "subtitle": "Race-ready Jugular",
+      "body": "A race-prepped Jugular kept in the garage of a wealthy home in Belville.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Ocelot Jugular"
+        },
+        {
+          "label": "Class",
+          "value": "Sedan"
+        },
+        {
+          "label": "Standout type",
+          "value": "Race build"
+        },
+        {
+          "label": "Where to find",
+          "value": "Garage at a villa in Belville"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Belville"
+    },
+    {
+      "id": "db-vehicles-canis-nancys-crawler",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Canis Nancy's Crawler",
+      "subtitle": "Custom Crawler build",
+      "body": "A custom '82 Crawler parked in the garage at a residence in Moreau.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Canis Crawler '82"
+        },
+        {
+          "label": "Class",
+          "value": "Pickup"
+        },
+        {
+          "label": "Standout type",
+          "value": "Custom"
+        },
+        {
+          "label": "Where to find",
+          "value": "Garage at a home in Moreau"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Moreau, Lummox County"
+    },
+    {
+      "id": "db-vehicles-vapid-finns-reclaimer",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Vapid Finns Reclaimer",
+      "subtitle": "Finns Diner promo pickup",
+      "body": "A '70 Reclaimer wearing Finns Diner branding, parked at the roadside near the diner and bait sign.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Vapid Reclaimer '70"
+        },
+        {
+          "label": "Class",
+          "value": "Pickup"
+        },
+        {
+          "label": "Standout type",
+          "value": "Promo vehicle"
+        },
+        {
+          "label": "Where to find",
+          "value": "Roadside by the Finns Diner sign"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Lummox County"
+    },
+    {
+      "id": "db-vehicles-karin-busted-cheater-rebel",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Karin Busted Cheater Rebel",
+      "subtitle": "Vandalized Rebel",
+      "body": "An '84 Rebel that someone has trashed and spray-painted. It's found in Port Gellhorn.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Karin Rebel '84"
+        },
+        {
+          "label": "Class",
+          "value": "Pickup"
+        },
+        {
+          "label": "Standout type",
+          "value": "Vandalized"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Port Gellhorn"
+    },
+    {
+      "id": "db-vehicles-declasse-flower-powered-rancher",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Declasse Flower Powered Rancher",
+      "subtitle": "Psychedelic Rancher",
+      "body": "An '86 Rancher with a trippy flower paint job, parked inside a barn in Mount Kalaga National Park.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Declasse Rancher '86"
+        },
+        {
+          "label": "Class",
+          "value": "Pickup"
+        },
+        {
+          "label": "Standout type",
+          "value": "Custom paint"
+        },
+        {
+          "label": "Where to find",
+          "value": "Inside a barn in Mount Kalaga National Park"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Mount Kalaga National Park, Lummox County"
+    },
+    {
+      "id": "db-vehicles-declasse-red-apple-orchard-rancher",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Declasse Red Apple Orchard Rancher",
+      "subtitle": "Orchard promo Rancher",
+      "body": "An '86 Rancher advertising an apple orchard attraction in Manifest Canyon.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Declasse Rancher '86"
+        },
+        {
+          "label": "Class",
+          "value": "Pickup"
+        },
+        {
+          "label": "Standout type",
+          "value": "Promo vehicle"
+        },
+        {
+          "label": "Where to find",
+          "value": "At the Red Apple Orchard"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Manifest Canyon, Kelly County"
+    },
+    {
+      "id": "db-vehicles-bravado-third-eye-youga",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Bravado Third Eye Youga",
+      "subtitle": "Custom mystic-themed Youga",
+      "body": "A custom '74 Youga parked by a home out in Grayson.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Bravado Youga '74"
+        },
+        {
+          "label": "Class",
+          "value": "Van"
+        },
+        {
+          "label": "Standout type",
+          "value": "Custom"
+        },
+        {
+          "label": "Where to find",
+          "value": "Outside a home in Grayson"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Grayson"
+    },
+    {
+      "id": "db-vehicles-declasse-truther-burrito",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Declasse Truther Burrito",
+      "subtitle": "Conspiracy theorist's Burrito",
+      "body": "A '98 Burrito owned by a conspiracy theorist, parked outside a house in Millport.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Declasse Burrito '98"
+        },
+        {
+          "label": "Class",
+          "value": "Van"
+        },
+        {
+          "label": "Standout type",
+          "value": "Custom"
+        },
+        {
+          "label": "Where to find",
+          "value": "Outside a house in Millport"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Millport"
+    },
+    {
+      "id": "db-vehicles-vapid-shrimp-and-save-shifter",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Vapid Shrimp and Save Shifter",
+      "subtitle": "Shrimp restaurant delivery van",
+      "body": "A Shifter used for catering runs by the Shrimp and Save restaurant in Key Lento.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Vapid Shifter"
+        },
+        {
+          "label": "Class",
+          "value": "Van"
+        },
+        {
+          "label": "Standout type",
+          "value": "Promo vehicle"
+        },
+        {
+          "label": "Where to find",
+          "value": "Outside Shrimp and Save in Key Lento"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Key Lento"
+    },
+    {
+      "id": "db-vehicles-declasse-cousin-carlos-akane",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Declasse Cousin Carlo's Akane",
+      "subtitle": "Pizza delivery Akane",
+      "body": "An Akane used for deliveries by Cousin Carlo's pizzeria in Key Lento.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Declasse Akane"
+        },
+        {
+          "label": "Class",
+          "value": "Sports"
+        },
+        {
+          "label": "Standout type",
+          "value": "Promo vehicle"
+        },
+        {
+          "label": "Where to find",
+          "value": "Outside Cousin Carlo's in Key Lento"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Key Lento"
+    },
+    {
+      "id": "db-vehicles-bf-sludge-wraith-injection",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "BF Sludge Wraith Injection",
+      "subtitle": "Mud-ready Injection buggy",
+      "body": "A '73 Injection set up for mud, found close to the Thrillbilly Mud Club.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "BF Injection '73"
+        },
+        {
+          "label": "Class",
+          "value": "Off-road"
+        },
+        {
+          "label": "Standout type",
+          "value": "Mud build"
+        },
+        {
+          "label": "Where to find",
+          "value": "Near the Thrillbilly Mud Club"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false
+    },
+    {
+      "id": "db-vehicles-airgator-naughty-boy-airboat",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Airgator Naughty Boy Airboat",
+      "subtitle": "Custom swamp airboat",
+      "body": "An Airboat 09 with a custom finish, tied up at a dock in Buckskin Swamp.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Airgator Airboat 09"
+        },
+        {
+          "label": "Class",
+          "value": "Boat"
+        },
+        {
+          "label": "Standout type",
+          "value": "Custom"
+        },
+        {
+          "label": "Where to find",
+          "value": "Dock in Buckskin Swamp"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Buckskin Swamp, Kelly County"
+    },
+    {
+      "id": "db-vehicles-lcc-monarch-avarus",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "LCC Monarch Avarus",
+      "subtitle": "Custom Avarus chopper",
+      "body": "A custom Avarus chopper found in Belville.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "LCC Avarus"
+        },
+        {
+          "label": "Class",
+          "value": "Motorcycle"
+        },
+        {
+          "label": "Standout type",
+          "value": "Custom"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Belville"
+    },
+    {
+      "id": "db-vehicles-lcc-midnight-sun-avarus",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "LCC Midnight Sun Avarus",
+      "subtitle": "Dark custom Avarus",
+      "body": "A custom Avarus kept in a backyard garage in Hamlet.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "LCC Avarus"
+        },
+        {
+          "label": "Class",
+          "value": "Motorcycle"
+        },
+        {
+          "label": "Standout type",
+          "value": "Custom"
+        },
+        {
+          "label": "Where to find",
+          "value": "Backyard garage in Hamlet"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Hamlet"
+    },
+    {
+      "id": "db-vehicles-maibatsu-myways-manchez",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Maibatsu MyWays Manchez",
+      "subtitle": "Branded Manchez dirt bike",
+      "body": "A Manchez dirt bike in MyWays colors, found in Moreau.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Maibatsu Manchez"
+        },
+        {
+          "label": "Class",
+          "value": "Motorcycle"
+        },
+        {
+          "label": "Standout type",
+          "value": "Custom"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Moreau, Lummox County"
+    },
+    {
+      "id": "db-vehicles-del-perro-midsummer-erode",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Del Perro Midsummer Erode",
+      "subtitle": "Erode in a giant's hand",
+      "body": "A one-off Erode with a summery look, found out in Bonanza.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Del Perro Erode"
+        },
+        {
+          "label": "Class",
+          "value": "Motorcycle"
+        },
+        {
+          "label": "Standout type",
+          "value": "Custom"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Bonanza"
+    },
+    {
+      "id": "db-vehicles-walter-ghost-cruiser",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Walter Ghost Cruiser",
+      "subtitle": "Ghostly custom Cruiser bike",
+      "body": "A one-off Cruiser bicycle found in Port Gellhorn.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Walter Cruiser"
+        },
+        {
+          "label": "Class",
+          "value": "Bicycle"
+        },
+        {
+          "label": "Standout type",
+          "value": "Custom"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Port Gellhorn"
+    },
+    {
+      "id": "db-vehicles-tuff-immortal-bmx",
+      "section": "vehicles",
+      "category": "Standout",
+      "name": "Tuff Immortal BMX",
+      "subtitle": "Custom BMX at the dirt course",
+      "body": "A custom BMX found at the BMX course in Hamlet.",
+      "facts": [
+        {
+          "label": "Base model",
+          "value": "Tuff BMX"
+        },
+        {
+          "label": "Class",
+          "value": "Bicycle"
+        },
+        {
+          "label": "Standout type",
+          "value": "Custom"
+        },
+        {
+          "label": "Where to find",
+          "value": "BMX course in Hamlet"
+        }
+      ],
+      "tags": [
+        "Standout"
+      ],
+      "spoiler": false,
+      "region": "Hamlet"
     }
   ]
 }
